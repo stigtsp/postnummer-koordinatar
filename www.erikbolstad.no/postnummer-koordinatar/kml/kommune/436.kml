@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tolga, Hedmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2540">
+ <IconStyle id="icon2540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2540">
+ <name>2540 TOLGA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2540"><strong>Meir info om 2540 TOLGA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2540</styleUrl>
+ <Point>
+ <coordinates>10.9912,62.4106</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2541">
+ <IconStyle id="icon2541">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2541.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2541">
+ <name>2541 TOLGA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2541:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2541"><strong>Meir info om 2541 TOLGA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2541</styleUrl>
+ <Point>
+ <coordinates>10.99119,62.41055</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2542">
+ <IconStyle id="icon2542">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2542.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2542">
+ <name>2542 VINGELEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2542:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2542"><strong>Meir info om 2542 VINGELEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2542</styleUrl>
+ <Point>
+ <coordinates>10.8618,62.4172</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2544">
+ <IconStyle id="icon2544">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2544.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2544">
+ <name>2544 ØVERSJØDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2544:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2544"><strong>Meir info om 2544 ØVERSJØDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2544</styleUrl>
+ <Point>
+ <coordinates>11.4816,62.2088</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Tolga (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.5082177,62.1465835,0 11.4718994,62.1663312,0 11.3558975,62.1617752,0 11.3217475,62.1906184,0 11.2174701,62.202055,0 11.2174701,62.202055,0 11.207713,62.2134286,0 11.1215247,62.1972515,0 11.0998421,62.2129232,0 11.0440094,62.2141867,0 11.0185324,62.2225244,0 11.0076911,62.2777982,0 10.9746251,62.346811,0 10.9426433,62.3503329,0 10.9171663,62.3490751,0 10.8656701,62.3354876,0 10.8656701,62.3465594,0 10.7079293,62.4006013,0 10.6571761,62.4088292,0 10.63983,62.4336741,0 10.4761264,62.5060831,0 10.5325012,62.5418469,0 10.6615126,62.5523428,0 10.7184294,62.6005264,0 10.7184294,62.6005264,0 10.9065259,62.5260961,0 10.9672371,62.4782928,0 10.9807887,62.4863071,0 11.0138547,62.4908142,0 11.0149388,62.4780423,0 11.0534254,62.4595009,0 11.100585,62.4589996,0 11.1098001,62.4314163,0 11.1667169,62.419121,0 11.1905678,62.4314163,0 11.2729616,62.4301619,0 11.3168689,62.413097,0 11.3450562,62.3319055,0 11.5130963,62.286564,0 11.552125,62.2386294,0 11.6936039,62.1807541,0 11.6936039,62.1807541,0 11.6648744,62.1549398,0 11.5082177,62.1465835,0 11.5082177,62.1465835,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

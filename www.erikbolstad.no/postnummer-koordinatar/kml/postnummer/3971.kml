@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3971 LANGESUND (ikkje i bruk)</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3971">
+ <name>3971 LANGESUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3971:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3971"><strong>Meir info om 3971 LANGESUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.74870,59.00070</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

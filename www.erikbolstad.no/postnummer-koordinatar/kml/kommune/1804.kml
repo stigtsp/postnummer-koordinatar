@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bodø, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8000">
+ <IconStyle id="icon8000">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8000.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8000">
+ <name>8000 BODØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8000:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8000"><strong>Meir info om 8000 BODØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8000</styleUrl>
+ <Point>
+ <coordinates>14.40501,67.28000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8001">
+ <IconStyle id="icon8001">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8001.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8001">
+ <name>8001 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8001:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8001"><strong>Meir info om 8001 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8001</styleUrl>
+ <Point>
+ <coordinates>14.38565,67.28319</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8002">
+ <IconStyle id="icon8002">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8002.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8002">
+ <name>8002 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8002:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8002"><strong>Meir info om 8002 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8002</styleUrl>
+ <Point>
+ <coordinates>14.37060,67.28040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8003">
+ <IconStyle id="icon8003">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8003.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8003">
+ <name>8003 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8003:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8003"><strong>Meir info om 8003 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8003</styleUrl>
+ <Point>
+ <coordinates>14.36920,67.27630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8004">
+ <IconStyle id="icon8004">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8004.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8004">
+ <name>8004 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8004:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8004"><strong>Meir info om 8004 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8004</styleUrl>
+ <Point>
+ <coordinates>14.39180,67.27580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8005">
+ <IconStyle id="icon8005">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8005.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8005">
+ <name>8005 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8005:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8005"><strong>Meir info om 8005 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8005</styleUrl>
+ <Point>
+ <coordinates>14.38740,67.28140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8006">
+ <IconStyle id="icon8006">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8006.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8006">
+ <name>8006 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8006:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8006"><strong>Meir info om 8006 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8006</styleUrl>
+ <Point>
+ <coordinates>14.38920,67.28480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8007">
+ <IconStyle id="icon8007">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8007.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8007">
+ <name>8007 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8007:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8007"><strong>Meir info om 8007 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8007</styleUrl>
+ <Point>
+ <coordinates>14.40040,67.28040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8008">
+ <IconStyle id="icon8008">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8008.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8008">
+ <name>8008 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8008:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8008"><strong>Meir info om 8008 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8008</styleUrl>
+ <Point>
+ <coordinates>14.41030,67.27900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8009">
+ <IconStyle id="icon8009">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8009.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8009">
+ <name>8009 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8009:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8009"><strong>Meir info om 8009 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8009</styleUrl>
+ <Point>
+ <coordinates>14.42060,67.28970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8010">
+ <IconStyle id="icon8010">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8010.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8010">
+ <name>8010 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8010:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8010"><strong>Meir info om 8010 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8010</styleUrl>
+ <Point>
+ <coordinates>14.42020,67.28610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8011">
+ <IconStyle id="icon8011">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8011.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8011">
+ <name>8011 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8011:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8011"><strong>Meir info om 8011 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8011</styleUrl>
+ <Point>
+ <coordinates>14.44170,67.29370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8012">
+ <IconStyle id="icon8012">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8012.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8012">
+ <name>8012 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8012:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8012"><strong>Meir info om 8012 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8012</styleUrl>
+ <Point>
+ <coordinates>14.40910,67.29720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8013">
+ <IconStyle id="icon8013">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8013.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8013">
+ <name>8013 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8013:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8013"><strong>Meir info om 8013 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8013</styleUrl>
+ <Point>
+ <coordinates>14.45200,67.27350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8014">
+ <IconStyle id="icon8014">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8014.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8014">
+ <name>8014 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8014:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8014"><strong>Meir info om 8014 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8014</styleUrl>
+ <Point>
+ <coordinates>14.43400,67.30630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8015">
+ <IconStyle id="icon8015">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8015.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8015">
+ <name>8015 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8015:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8015"><strong>Meir info om 8015 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8015</styleUrl>
+ <Point>
+ <coordinates>14.45290,67.31440</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8016">
+ <IconStyle id="icon8016">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8016.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8016">
+ <name>8016 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8016:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8016"><strong>Meir info om 8016 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8016</styleUrl>
+ <Point>
+ <coordinates>14.61630,67.37890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8019">
+ <IconStyle id="icon8019">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8019.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8019">
+ <name>8019 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8019:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8019"><strong>Meir info om 8019 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8019</styleUrl>
+ <Point>
+ <coordinates>14.51090,67.27640</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8020">
+ <IconStyle id="icon8020">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8020.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8020">
+ <name>8020 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8020:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8020"><strong>Meir info om 8020 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8020</styleUrl>
+ <Point>
+ <coordinates>14.56870,67.30170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8021">
+ <IconStyle id="icon8021">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8021.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8021">
+ <name>8021 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8021:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8021"><strong>Meir info om 8021 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8021</styleUrl>
+ <Point>
+ <coordinates>14.51310,67.28000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8022">
+ <IconStyle id="icon8022">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8022.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8022">
+ <name>8022 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8022:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8022"><strong>Meir info om 8022 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8022</styleUrl>
+ <Point>
+ <coordinates>14.53520,67.28250</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8023">
+ <IconStyle id="icon8023">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8023.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8023">
+ <name>8023 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8023:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8023"><strong>Meir info om 8023 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8023</styleUrl>
+ <Point>
+ <coordinates>14.54140,67.28460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8026">
+ <IconStyle id="icon8026">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8026.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8026">
+ <name>8026 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8026:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8026"><strong>Meir info om 8026 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8026</styleUrl>
+ <Point>
+ <coordinates>14.55210,67.28980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8027">
+ <IconStyle id="icon8027">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8027.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8027">
+ <name>8027 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8027:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8027"><strong>Meir info om 8027 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8027</styleUrl>
+ <Point>
+ <coordinates>14.56540,67.29260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8028">
+ <IconStyle id="icon8028">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8028.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8028">
+ <name>8028 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8028:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8028"><strong>Meir info om 8028 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8028</styleUrl>
+ <Point>
+ <coordinates>14.57620,67.29040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8029">
+ <IconStyle id="icon8029">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8029.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8029">
+ <name>8029 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8029:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8029"><strong>Meir info om 8029 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8029</styleUrl>
+ <Point>
+ <coordinates>14.59150,67.29440</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8030">
+ <IconStyle id="icon8030">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8030.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8030">
+ <name>8030 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8030:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8030"><strong>Meir info om 8030 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8030</styleUrl>
+ <Point>
+ <coordinates>14.60920,67.29060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8031">
+ <IconStyle id="icon8031">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8031.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8031">
+ <name>8031 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8031:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8031"><strong>Meir info om 8031 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8031</styleUrl>
+ <Point>
+ <coordinates>14.54606,67.28122</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8032">
+ <IconStyle id="icon8032">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8032.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8032">
+ <name>8032 BODØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8032:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8032"><strong>Meir info om 8032 BODØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8032</styleUrl>
+ <Point>
+ <coordinates>14.54610,67.28120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8037">
+ <IconStyle id="icon8037">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8037.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8037">
+ <name>8037 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8037:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8037"><strong>Meir info om 8037 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8037</styleUrl>
+ <Point>
+ <coordinates>14.40500,67.28000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8038">
+ <IconStyle id="icon8038">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8038.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8038">
+ <name>8038 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8038:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8038"><strong>Meir info om 8038 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8038</styleUrl>
+ <Point>
+ <coordinates>14.40500,67.28000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8039">
+ <IconStyle id="icon8039">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8039.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8039">
+ <name>8039 BODØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8039:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8039"><strong>Meir info om 8039 BODØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8039</styleUrl>
+ <Point>
+ <coordinates>14.40500,67.28000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8040">
+ <IconStyle id="icon8040">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8040.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8040">
+ <name>8040 HELLIGVÆR (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8040:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8040"><strong>Meir info om 8040 HELLIGVÆR (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8040</styleUrl>
+ <Point>
+ <coordinates>13.92940,67.42350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8041">
+ <IconStyle id="icon8041">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8041.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8041">
+ <name>8041 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8041:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8041"><strong>Meir info om 8041 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8041</styleUrl>
+ <Point>
+ <coordinates>14.40500,67.28000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8042">
+ <IconStyle id="icon8042">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8042.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8042">
+ <name>8042 BLIKSVÆR (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8042:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8042"><strong>Meir info om 8042 BLIKSVÆR (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8042</styleUrl>
+ <Point>
+ <coordinates>14.00360,67.27720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8047">
+ <IconStyle id="icon8047">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8047.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8047">
+ <name>8047 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8047:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8047"><strong>Meir info om 8047 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8047</styleUrl>
+ <Point>
+ <coordinates>14.36520,67.26910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8048">
+ <IconStyle id="icon8048">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8048.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8048">
+ <name>8048 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8048:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8048"><strong>Meir info om 8048 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8048</styleUrl>
+ <Point>
+ <coordinates>14.37630,67.28060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8049">
+ <IconStyle id="icon8049">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8049.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8049">
+ <name>8049 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8049:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8049"><strong>Meir info om 8049 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8049</styleUrl>
+ <Point>
+ <coordinates>14.56036,67.28904</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8050">
+ <IconStyle id="icon8050">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8050.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8050">
+ <name>8050 TVERLANDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8050:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8050"><strong>Meir info om 8050 TVERLANDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8050</styleUrl>
+ <Point>
+ <coordinates>14.73320,67.29750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8056">
+ <IconStyle id="icon8056">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8056.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8056">
+ <name>8056 SALTSTRAUMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8056:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8056"><strong>Meir info om 8056 SALTSTRAUMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8056</styleUrl>
+ <Point>
+ <coordinates>14.62520,67.23350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8057">
+ <IconStyle id="icon8057">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8057.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8057">
+ <name>8057 SALTSTRAUMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8057:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8057"><strong>Meir info om 8057 SALTSTRAUMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8057</styleUrl>
+ <Point>
+ <coordinates>14.62520,67.23350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8058">
+ <IconStyle id="icon8058">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8058.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8058">
+ <name>8058 TVERLANDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8058:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8058"><strong>Meir info om 8058 TVERLANDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8058</styleUrl>
+ <Point>
+ <coordinates>14.74097,67.29959</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8060">
+ <IconStyle id="icon8060">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8060.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8060">
+ <name>8060 KJERRINGØY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8060:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8060"><strong>Meir info om 8060 KJERRINGØY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8060</styleUrl>
+ <Point>
+ <coordinates>14.76160,67.51950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8070">
+ <IconStyle id="icon8070">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8070.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8070">
+ <name>8070 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8070:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8070"><strong>Meir info om 8070 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8070</styleUrl>
+ <Point>
+ <coordinates>14.43930,67.27160</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8071">
+ <IconStyle id="icon8071">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8071.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8071">
+ <name>8071 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8071:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8071"><strong>Meir info om 8071 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8071</styleUrl>
+ <Point>
+ <coordinates>14.46740,67.27570</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8072">
+ <IconStyle id="icon8072">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8072.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8072">
+ <name>8072 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8072:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8072"><strong>Meir info om 8072 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8072</styleUrl>
+ <Point>
+ <coordinates>14.48220,67.27730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8073">
+ <IconStyle id="icon8073">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8073.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8073">
+ <name>8073 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8073:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8073"><strong>Meir info om 8073 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8073</styleUrl>
+ <Point>
+ <coordinates>14.47370,67.27990</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8074">
+ <IconStyle id="icon8074">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8074.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8074">
+ <name>8074 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8074:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8074"><strong>Meir info om 8074 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8074</styleUrl>
+ <Point>
+ <coordinates>14.45780,67.27880</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8075">
+ <IconStyle id="icon8075">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8075.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8075">
+ <name>8075 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8075:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8075"><strong>Meir info om 8075 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8075</styleUrl>
+ <Point>
+ <coordinates>14.44810,67.27810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8076">
+ <IconStyle id="icon8076">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8076.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8076">
+ <name>8076 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8076:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8076"><strong>Meir info om 8076 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8076</styleUrl>
+ <Point>
+ <coordinates>14.43650,67.28610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8079">
+ <IconStyle id="icon8079">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8079.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8079">
+ <name>8079 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8079:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8079"><strong>Meir info om 8079 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8079</styleUrl>
+ <Point>
+ <coordinates>14.48990,67.27640</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8084">
+ <IconStyle id="icon8084">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8084.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8084">
+ <name>8084 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8084:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8084"><strong>Meir info om 8084 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8084</styleUrl>
+ <Point>
+ <coordinates>14.37527,67.27720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8086">
+ <IconStyle id="icon8086">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8086.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8086">
+ <name>8086 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8086:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8086"><strong>Meir info om 8086 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8086</styleUrl>
+ <Point>
+ <coordinates>14.39832,67.29787</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8087">
+ <IconStyle id="icon8087">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8087.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8087">
+ <name>8087 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8087:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8087"><strong>Meir info om 8087 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8087</styleUrl>
+ <Point>
+ <coordinates>14.41873,67.29106</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8088">
+ <IconStyle id="icon8088">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8088.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8088">
+ <name>8088 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8088:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8088"><strong>Meir info om 8088 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8088</styleUrl>
+ <Point>
+ <coordinates>14.41783,67.27676</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8089">
+ <IconStyle id="icon8089">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8089.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8089">
+ <name>8089 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8089:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8089"><strong>Meir info om 8089 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8089</styleUrl>
+ <Point>
+ <coordinates>14.41780,67.27680</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8091">
+ <IconStyle id="icon8091">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8091.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8091">
+ <name>8091 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8091:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8091"><strong>Meir info om 8091 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8091</styleUrl>
+ <Point>
+ <coordinates>14.44994,67.31320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8092">
+ <IconStyle id="icon8092">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8092.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8092">
+ <name>8092 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8092:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8092"><strong>Meir info om 8092 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8092</styleUrl>
+ <Point>
+ <coordinates>14.39800,67.28330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8093">
+ <IconStyle id="icon8093">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8093.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8093">
+ <name>8093 KJERRINGØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8093:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8093"><strong>Meir info om 8093 KJERRINGØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8093</styleUrl>
+ <Point>
+ <coordinates>14.76160,67.51950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8095">
+ <IconStyle id="icon8095">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8095.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8095">
+ <name>8095 HELLIGVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8095:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8095"><strong>Meir info om 8095 HELLIGVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8095</styleUrl>
+ <Point>
+ <coordinates>13.92940,67.42350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8096">
+ <IconStyle id="icon8096">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8096.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8096">
+ <name>8096 BLIKSVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8096:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8096"><strong>Meir info om 8096 BLIKSVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8096</styleUrl>
+ <Point>
+ <coordinates>14.00360,67.27720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8097">
+ <IconStyle id="icon8097">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8097.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8097">
+ <name>8097 GIVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8097:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8097"><strong>Meir info om 8097 GIVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8097</styleUrl>
+ <Point>
+ <coordinates>13.72640,67.30490</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8098">
+ <IconStyle id="icon8098">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8098.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8098">
+ <name>8098 LANDEGODE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8098:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8098"><strong>Meir info om 8098 LANDEGODE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8098</styleUrl>
+ <Point>
+ <coordinates>14.31510,67.38990</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8100">
+ <IconStyle id="icon8100">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8100.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8100">
+ <name>8100 MISVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8100:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8100"><strong>Meir info om 8100 MISVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8100</styleUrl>
+ <Point>
+ <coordinates>14.99860,67.11920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8102">
+ <IconStyle id="icon8102">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8102.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8102">
+ <name>8102 SKJERSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8102:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8102"><strong>Meir info om 8102 SKJERSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8102</styleUrl>
+ <Point>
+ <coordinates>15.02140,67.23270</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8103">
+ <IconStyle id="icon8103">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8103.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8103">
+ <name>8103 BREIVIK I SALTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8103:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8103"><strong>Meir info om 8103 BREIVIK I SALTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8103</styleUrl>
+ <Point>
+ <coordinates>15.16430,67.20490</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8108">
+ <IconStyle id="icon8108">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8108.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8108">
+ <name>8108 MISVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8108:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8108"><strong>Meir info om 8108 MISVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8108</styleUrl>
+ <Point>
+ <coordinates>15.00576,67.11599</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Bodø (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>13.5949544,67.7007275,0 13.5045798,67.6749943,0 13.5045798,67.6749943,0 13.2947814,67.5428229,0 12.8364528,67.3764101,0 12.8364528,67.3764101,0 12.73239,67.2778763,0 12.73239,67.2778763,0 13.2973091,67.1706385,0 13.2973091,67.1706385,0 13.5936262,67.2397163,0 13.7316154,67.2451501,0 13.8985244,67.1897961,0 14.0456027,67.1997244,0 14.1769817,67.2304441,0 14.2976189,67.2288451,0 14.3265388,67.1949209,0 14.3025766,67.1590245,0 14.3686792,67.159666,0 14.381082,67.141347,0 14.381082,67.141347,0 14.5476296,67.1042056,0 14.6612435,67.1313144,0 14.7154682,67.0825971,0 14.7399985,67.0896345,0 14.9130014,67.0373077,0 15.0245879,66.9280145,0 15.0245879,66.9280145,0 15.1097983,66.9613845,0 15.1730606,67.0133708,0 15.1795159,67.0833512,0 15.2053372,67.0949113,0 15.2466514,67.1491194,0 15.3615563,67.1831882,0 15.3615563,67.2067076,0 15.3615563,67.2067076,0 14.9698495,67.273222,0 15.077008,67.2991449,0 15.0379277,67.3443375,0 15.0379277,67.3443375,0 15.0432324,67.3451455,0 15.0482258,67.3461336,0 15.0536148,67.3470308,0 15.0588876,67.3479371,0 15.0640332,67.348875,0 15.0697966,67.3492005,0 15.0755968,67.3496064,0 15.0809948,67.3508349,0 15.0856358,67.3521328,0 15.0901873,67.3535744,0 15.094866,67.3549391,0 15.0992405,67.3562642,0 15.103803,67.3576202,0 15.1085288,67.3589305,0 15.1131523,67.3603488,0 15.11774,67.3617088,0 15.1221996,67.3630554,0 15.1268596,67.3644687,0 15.1315911,67.3659131,0 15.135875,67.3671792,0 15.1406409,67.3685514,0 15.1453707,67.3698562,0 15.149789,67.3713145,0 15.1541577,67.3726292,0 15.1589618,67.3740366,0 15.1589618,67.3740366,0 15.1605082,67.374826,0 15.1626756,67.3749851,0 15.1661947,67.3752059,0 15.1681992,67.3753741,0 15.1696229,67.3757494,0 15.1701646,67.3765921,0 15.1701953,67.3776685,0 15.1697338,67.378261,0 15.1678036,67.3787473,0 15.1657347,67.3794492,0 15.1653195,67.3800417,0 15.1650437,67.3805891,0 15.1646325,67.3817555,0 15.1640397,67.3836668,0 15.163679,67.3854163,0 15.1637989,67.3859364,0 15.164365,67.3869225,0 15.1655368,67.3878721,0 15.1694145,67.389115,0 15.1720537,67.3898747,0 15.1754416,67.3910101,0 15.1781319,67.3923169,0 15.1787432,67.3930159,0 15.1791944,67.3941187,0 15.1795003,67.3944951,0 15.1788319,67.3955184,0 15.1773676,67.3961299,0 15.1749768,67.3975676,0 15.1725166,67.3991312,0 15.1719127,67.3994636,0 15.1686335,67.4006691,0 15.1663316,67.4016313,0 15.1659837,67.4019008,0 15.1660833,67.4028156,0 15.166765,67.4035773,0 15.1678933,67.4048499,0 15.1686931,67.4058537,0 15.1687191,67.4061946,0 15.1687262,67.4072351,0 15.1682044,67.4093077,0 15.1679741,67.4096937,0 15.1679741,67.4096937,0 15.1673429,67.4095418,0 15.1636114,67.4096443,0 15.1616523,67.4097269,0 15.1590416,67.4100076,0 15.1556625,67.4105221,0 15.1511408,67.4111633,0 15.1454957,67.4112312,0 15.1411332,67.4112262,0 15.1389416,67.4114612,0 15.1374042,67.4118842,0 15.1360304,67.4123428,0 15.1335407,67.4135199,0 15.1312359,67.4144367,0 15.1291831,67.4145281,0 15.1275028,67.4144397,0 15.1236993,67.4143978,0 15.1207359,67.4143553,0 15.1196859,67.414347,0 15.1188318,67.4161775,0 15.1170872,67.417291,0 15.1129831,67.4178949,0 15.1091818,67.4184357,0 15.1070132,67.418805,0 15.1059873,67.419012,0 15.1005784,67.4202533,0 15.0947489,67.4215036,0 15.0924404,67.4220431,0 15.0900384,67.4226006,0 15.0878465,67.4231401,0 15.0899956,67.4236771,0 15.0908836,67.4239277,0 15.0970533,67.4257182,0 15.0974751,67.4261215,0 15.0974999,67.4265431,0 15.0968285,67.427898,0 15.0966934,67.4291358,0 15.0972107,67.4300326,0 15.0979857,67.4311533,0 15.0976632,67.432221,0 15.0974555,67.432858,0 15.0966665,67.4340335,0 15.0958541,67.4353166,0 15.0951363,67.4368331,0 15.0961728,67.4390569,0 15.0980682,67.439908,0 15.0986322,67.4407418,0 15.0999463,67.4422122,0 15.1009321,67.4433328,0 15.101847,67.4442471,0 15.1024598,67.4454308,0 15.1007322,67.4457638,0 15.0978641,67.4471288,0 15.0952754,67.4483145,0 15.0923127,67.4495451,0 15.0915199,67.4499043,0 15.0887008,67.4522021,0 15.0884457,67.4527405,0 15.0888915,67.4532247,0 15.0902272,67.4542196,0 15.0915173,67.455376,0 15.0914029,67.4560219,0 15.0893252,67.4566868,0 15.0870139,67.4574864,0 15.0858476,67.458088,0 15.0848225,67.4590303,0 15.08375,67.45991,0 15.0832841,67.4603857,0 15.0819831,67.4627364,0 15.0818937,67.4639563,0 15.0817818,67.4653917,0 15.0823462,67.4663152,0 15.0827229,67.4670596,0 15.0826547,67.4676246,0 15.0819805,67.4688359,0 15.0776146,67.4710536,0 15.0807803,67.4735008,0 15.0835212,67.4747194,0 15.0853253,67.4755437,0 15.0870837,67.4766371,0 15.0841165,67.4776164,0 15.0820366,67.4782454,0 15.0769183,67.4798535,0 15.0761704,67.4801139,0 15.0745805,67.4804466,0 15.0712833,67.481076,0 15.0700442,67.4813546,0 15.0667015,67.4825311,0 15.0656969,67.4830966,0 15.0639912,67.4840033,0 15.0636173,67.4842186,0 15.0637135,67.4851693,0 15.0641122,67.4854921,0 15.0643956,67.4864338,0 15.0646543,67.4869001,0 15.0653594,67.4879943,0 15.0661105,67.4888819,0 15.0669313,67.4893571,0 15.0701385,67.4896338,0 15.0710517,67.489732,0 15.0737216,67.490287,0 15.077774,67.4912,0 15.0796012,67.4916027,0 15.0833716,67.4920762,0 15.0863927,67.4924694,0 15.088337,67.4928361,0 15.0899082,67.4935797,0 15.0904713,67.4939023,0 15.0909178,67.4944222,0 15.0921638,67.4957043,0 15.0944637,67.4971382,0 15.0953786,67.4975503,0 15.0971594,67.4979079,0 15.0979323,67.4979165,0 15.1007884,67.4978072,0 15.1045105,67.4976791,0 15.1054001,67.4976785,0 15.1071567,67.4977851,0 15.1090072,67.4979094,0 15.1110223,67.498213,0 15.1134829,67.4986418,0 15.1160135,67.4990617,0 15.1186615,67.4994634,0 15.122762,67.4999627,0 15.1249186,67.5004005,0 15.127921,67.5014297,0 15.1314176,67.5027365,0 15.13271,67.5035247,0 15.1337214,67.5043043,0 15.1345699,67.5052544,0 15.1353725,67.5063391,0 15.1358988,67.5082672,0 15.1363805,67.5106079,0 15.136947,67.5113071,0 15.1383371,67.5126963,0 15.1392555,67.5134937,0 15.1407377,67.514542,0 15.1412087,67.5149363,0 15.1462228,67.5149049,0 15.1539313,67.5148709,0 15.1596255,67.5149282,0 15.1616644,67.5149889,0 15.1607324,67.5157612,0 15.1588452,67.5173687,0 15.1616168,67.5183168,0 15.1652118,67.5196856,0 15.1667864,67.5203208,0 15.1706444,67.5223439,0 15.1719397,67.5232037,0 15.1735914,67.5247089,0 15.1762551,67.5267063,0 15.1770133,67.5277907,0 15.1777515,67.5293148,0 15.1776471,67.5310552,0 15.1769534,67.5323296,0 15.176025,67.5336133,0 15.175766,67.5340593,0 15.175766,67.5340593,0 15.1819576,67.5698841,0 15.074789,67.6179421,0 15.074789,67.6179421,0 14.8730599,67.6143411,0 14.7848034,67.6371379,0 14.4412334,67.5915223,0 14.1323357,67.5867155,0 13.5949544,67.7007275,0 13.5949544,67.7007275,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

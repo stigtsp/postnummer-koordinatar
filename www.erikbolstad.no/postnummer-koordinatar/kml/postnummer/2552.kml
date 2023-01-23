@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2552 DALSBYGDA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2552">
+ <name>2552 DALSBYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2552:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2552"><strong>Meir info om 2552 DALSBYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.10900,62.52760</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2552 DALSBYGDA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.00053,62.49015 11.00419,62.49353 11.01192,62.49829 11.04091,62.50262 11.06747,62.51083 11.08098,62.51582 11.10850,62.51948 11.11516,62.51955 11.11378,62.52069 11.11080,62.52669 11.11197,62.52855 11.11626,62.52932 11.11502,62.53139 11.10313,62.53703 11.09324,62.53602 11.08021,62.53558 11.06446,62.53570 11.03163,62.53741 11.02228,62.53828 11.01478,62.54330 11.00624,62.53914 10.97161,62.53281 10.96698,62.52921 10.95132,62.52230 10.92438,62.51244 10.93375,62.49965 10.93515,62.49695 10.93749,62.49430 10.93905,62.49228 10.94032,62.49047 10.94382,62.48911 10.94687,62.48751 10.95031,62.48570 10.95350,62.48403 10.95609,62.48284 10.95838,62.48138 10.96541,62.47826 10.96669,62.47766 10.96800,62.47913 10.97169,62.48063 10.97162,62.48052 10.97207,62.48049 10.97215,62.48034 10.97234,62.48043 10.97338,62.48102 10.97287,62.48122 10.97498,62.48245 10.97675,62.48331 10.98003,62.48501 10.98042,62.48522 10.98240,62.48669 10.98441,62.48703 10.98600,62.48734 10.98691,62.48764 10.98769,62.48781 10.98867,62.48785 10.99000,62.48792 10.99069,62.48816 10.99018,62.48861 10.99015,62.48900 10.99048,62.48930 10.99099,62.48952 10.99257,62.48993 10.99432,62.49035 10.99492,62.49037 10.99603,62.49010 10.99662,62.49001 10.99725,62.48999 11.00053,62.49015</coordinates></LineString></Placemark>
+ </Document>
+</kml>

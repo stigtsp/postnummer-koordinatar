@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Oppdal, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7340">
+ <IconStyle id="icon7340">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7340.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7340">
+ <name>7340 OPPDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7340:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oppdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7340"><strong>Meir info om 7340 OPPDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7340</styleUrl>
+ <Point>
+ <coordinates>9.69120,62.59430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7341">
+ <IconStyle id="icon7341">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7341.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7341">
+ <name>7341 OPPDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7341:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oppdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7341"><strong>Meir info om 7341 OPPDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7341</styleUrl>
+ <Point>
+ <coordinates>9.68963,62.59447</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7342">
+ <IconStyle id="icon7342">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7342.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7342">
+ <name>7342 LØNSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7342:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oppdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7342"><strong>Meir info om 7342 LØNSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7342</styleUrl>
+ <Point>
+ <coordinates>9.34380,62.58320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7343">
+ <IconStyle id="icon7343">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7343.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7343">
+ <name>7343 VOGNILL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7343:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oppdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7343"><strong>Meir info om 7343 VOGNILL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7343</styleUrl>
+ <Point>
+ <coordinates>9.57040,62.61520</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7344">
+ <IconStyle id="icon7344">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7344.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7344">
+ <name>7344 GJEVILVASSHYTTA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7344:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oppdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7344"><strong>Meir info om 7344 GJEVILVASSHYTTA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7344</styleUrl>
+ <Point>
+ <coordinates>9.42000,62.69850</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7345">
+ <IconStyle id="icon7345">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7345.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7345">
+ <name>7345 DRIVA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7345:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oppdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7345"><strong>Meir info om 7345 DRIVA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7345</styleUrl>
+ <Point>
+ <coordinates>9.63230,62.53330</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

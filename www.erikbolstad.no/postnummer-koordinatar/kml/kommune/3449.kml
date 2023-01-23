@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sør-Aurdal, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2929">
+ <IconStyle id="icon2929">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2929.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2929">
+ <name>2929 BAGN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2929:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Aurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2929"><strong>Meir info om 2929 BAGN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2929</styleUrl>
+ <Point>
+ <coordinates>9.55340,60.82281</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2930">
+ <IconStyle id="icon2930">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2930.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2930">
+ <name>2930 BAGN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2930:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Aurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2930"><strong>Meir info om 2930 BAGN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2930</styleUrl>
+ <Point>
+ <coordinates>9.55370,60.82290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2933">
+ <IconStyle id="icon2933">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2933.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2933">
+ <name>2933 REINLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2933:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Aurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2933"><strong>Meir info om 2933 REINLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2933</styleUrl>
+ <Point>
+ <coordinates>9.49660,60.83150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2936">
+ <IconStyle id="icon2936">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2936.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2936">
+ <name>2936 BEGNADALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2936:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Aurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2936"><strong>Meir info om 2936 BEGNADALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2936</styleUrl>
+ <Point>
+ <coordinates>9.78340,60.64760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2937">
+ <IconStyle id="icon2937">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2937.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2937">
+ <name>2937 BEGNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2937:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Aurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2937"><strong>Meir info om 2937 BEGNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2937</styleUrl>
+ <Point>
+ <coordinates>9.85490,60.64750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3528">
+ <IconStyle id="icon3528">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3528.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3528">
+ <name>3528 HEDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3528:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Aurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3528"><strong>Meir info om 3528 HEDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3528</styleUrl>
+ <Point>
+ <coordinates>9.74490,60.60390</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

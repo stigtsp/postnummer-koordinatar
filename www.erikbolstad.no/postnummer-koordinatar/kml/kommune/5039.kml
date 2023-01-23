@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Verran, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7720">
+ <IconStyle id="icon7720">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7720.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7720">
+ <name>7720 MALM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7720:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Verran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7720"><strong>Meir info om 7720 MALM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7720</styleUrl>
+ <Point>
+ <coordinates>11.2172,64.0721</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7723">
+ <IconStyle id="icon7723">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7723.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7723">
+ <name>7723 FOLLAFOSS (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7723:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Verran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7723"><strong>Meir info om 7723 FOLLAFOSS (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7723</styleUrl>
+ <Point>
+ <coordinates>11.10917,63.98627</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7727">
+ <IconStyle id="icon7727">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7727.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7727">
+ <name>7727 VERRABOTN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7727:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Verran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7727"><strong>Meir info om 7727 VERRABOTN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7727</styleUrl>
+ <Point>
+ <coordinates>10.5828,63.8023</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7790">
+ <IconStyle id="icon7790">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7790.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7790">
+ <name>7790 MALM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7790:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Verran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7790"><strong>Meir info om 7790 MALM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7790</styleUrl>
+ <Point>
+ <coordinates>11.2172,64.0721</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7791">
+ <IconStyle id="icon7791">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7791.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7791">
+ <name>7791 MALM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7791:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Verran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7791"><strong>Meir info om 7791 MALM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7791</styleUrl>
+ <Point>
+ <coordinates>11.22277,64.07522</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7795">
+ <IconStyle id="icon7795">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7795.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7795">
+ <name>7795 FOLLAFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7795:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Verran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7795"><strong>Meir info om 7795 FOLLAFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7795</styleUrl>
+ <Point>
+ <coordinates>11.10917,63.98627</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7796">
+ <IconStyle id="icon7796">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7796.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7796">
+ <name>7796 FOLLAFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7796:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Verran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7796"><strong>Meir info om 7796 FOLLAFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7796</styleUrl>
+ <Point>
+ <coordinates>11.1092,63.9863</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7797">
+ <IconStyle id="icon7797">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7797.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7797">
+ <name>7797 VERRABOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7797:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Verran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7797"><strong>Meir info om 7797 VERRABOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7797</styleUrl>
+ <Point>
+ <coordinates>10.5828,63.8023</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

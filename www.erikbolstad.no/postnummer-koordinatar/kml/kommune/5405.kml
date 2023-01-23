@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vadsø, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9800">
+ <IconStyle id="icon9800">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9800.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9800">
+ <name>9800 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9800:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9800"><strong>Meir info om 9800 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9800</styleUrl>
+ <Point>
+ <coordinates>29.75230,70.07320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9801">
+ <IconStyle id="icon9801">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9801.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9801">
+ <name>9801 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9801:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9801"><strong>Meir info om 9801 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9801</styleUrl>
+ <Point>
+ <coordinates>29.75230,70.07320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9802">
+ <IconStyle id="icon9802">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9802.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9802">
+ <name>9802 VESTRE JAKOBSELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9802:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9802"><strong>Meir info om 9802 VESTRE JAKOBSELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9802</styleUrl>
+ <Point>
+ <coordinates>29.33350,70.11150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9803">
+ <IconStyle id="icon9803">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9803.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9803">
+ <name>9803 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9803:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9803"><strong>Meir info om 9803 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9803</styleUrl>
+ <Point>
+ <coordinates>29.71649,70.08655</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9804">
+ <IconStyle id="icon9804">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9804.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9804">
+ <name>9804 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9804:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9804"><strong>Meir info om 9804 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9804</styleUrl>
+ <Point>
+ <coordinates>30.18930,70.10512</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9810">
+ <IconStyle id="icon9810">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9810.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9810">
+ <name>9810 VESTRE JAKOBSELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9810:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9810"><strong>Meir info om 9810 VESTRE JAKOBSELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9810</styleUrl>
+ <Point>
+ <coordinates>29.33388,70.11074</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9811">
+ <IconStyle id="icon9811">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9811.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9811">
+ <name>9811 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9811:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9811"><strong>Meir info om 9811 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9811</styleUrl>
+ <Point>
+ <coordinates>29.75280,70.07306</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9815">
+ <IconStyle id="icon9815">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9815.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9815">
+ <name>9815 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9815:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9815"><strong>Meir info om 9815 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9815</styleUrl>
+ <Point>
+ <coordinates>29.75210,70.07310</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

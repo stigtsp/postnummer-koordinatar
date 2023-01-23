@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hammerfest, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9600">
+ <IconStyle id="icon9600">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9600.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9600">
+ <name>9600 HAMMERFEST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9600:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9600"><strong>Meir info om 9600 HAMMERFEST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9600</styleUrl>
+ <Point>
+ <coordinates>23.68210,70.66280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9601">
+ <IconStyle id="icon9601">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9601.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9601">
+ <name>9601 HAMMERFEST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9601:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9601"><strong>Meir info om 9601 HAMMERFEST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9601</styleUrl>
+ <Point>
+ <coordinates>23.66860,70.67380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9602">
+ <IconStyle id="icon9602">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9602.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9602">
+ <name>9602 HAMMERFEST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9602:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9602"><strong>Meir info om 9602 HAMMERFEST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9602</styleUrl>
+ <Point>
+ <coordinates>23.69080,70.68280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9603">
+ <IconStyle id="icon9603">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9603.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9603">
+ <name>9603 HAMMERFEST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9603:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9603"><strong>Meir info om 9603 HAMMERFEST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9603</styleUrl>
+ <Point>
+ <coordinates>23.70500,70.66060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9609">
+ <IconStyle id="icon9609">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9609.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9609">
+ <name>9609 NORDRE SEILAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9609:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9609"><strong>Meir info om 9609 NORDRE SEILAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9609</styleUrl>
+ <Point>
+ <coordinates>23.48440,70.54730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9610">
+ <IconStyle id="icon9610">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9610.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9610">
+ <name>9610 RYPEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9610:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9610"><strong>Meir info om 9610 RYPEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9610</styleUrl>
+ <Point>
+ <coordinates>23.67606,70.64471</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9611">
+ <IconStyle id="icon9611">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9611.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9611">
+ <name>9611 RYPEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9611:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9611"><strong>Meir info om 9611 RYPEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9611</styleUrl>
+ <Point>
+ <coordinates>23.67606,70.64471</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9612">
+ <IconStyle id="icon9612">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9612.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9612">
+ <name>9612 FORSØL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9612:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9612"><strong>Meir info om 9612 FORSØL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9612</styleUrl>
+ <Point>
+ <coordinates>23.80910,70.71900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9613">
+ <IconStyle id="icon9613">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9613.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9613">
+ <name>9613 HAMMERFEST (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9613:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9613"><strong>Meir info om 9613 HAMMERFEST (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9613</styleUrl>
+ <Point>
+ <coordinates>23.68210,70.66340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9615">
+ <IconStyle id="icon9615">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9615.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9615">
+ <name>9615 HAMMERFEST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9615:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9615"><strong>Meir info om 9615 HAMMERFEST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9615</styleUrl>
+ <Point>
+ <coordinates>23.68088,70.66379</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9616">
+ <IconStyle id="icon9616">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9616.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9616">
+ <name>9616 HAMMERFEST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9616:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9616"><strong>Meir info om 9616 HAMMERFEST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9616</styleUrl>
+ <Point>
+ <coordinates>23.68000,70.66300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9620">
+ <IconStyle id="icon9620">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9620.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9620">
+ <name>9620 KVALSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9620:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9620"><strong>Meir info om 9620 KVALSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9620</styleUrl>
+ <Point>
+ <coordinates>23.98170,70.50210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9621">
+ <IconStyle id="icon9621">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9621.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9621">
+ <name>9621 KVALSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9621:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9621"><strong>Meir info om 9621 KVALSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9621</styleUrl>
+ <Point>
+ <coordinates>23.98084,70.50189</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9624">
+ <IconStyle id="icon9624">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9624.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9624">
+ <name>9624 REVSNESHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9624:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9624"><strong>Meir info om 9624 REVSNESHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9624</styleUrl>
+ <Point>
+ <coordinates>24.34910,70.68210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9650">
+ <IconStyle id="icon9650">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9650.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9650">
+ <name>9650 AKKARFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9650:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9650"><strong>Meir info om 9650 AKKARFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9650</styleUrl>
+ <Point>
+ <coordinates>23.41008,70.79478</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9651">
+ <IconStyle id="icon9651">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9651.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9651">
+ <name>9651 LANGSTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9651:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9651"><strong>Meir info om 9651 LANGSTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9651</styleUrl>
+ <Point>
+ <coordinates>23.17430,70.69230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9653">
+ <IconStyle id="icon9653">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9653.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9653">
+ <name>9653 HELLEFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9653:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9653"><strong>Meir info om 9653 HELLEFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9653</styleUrl>
+ <Point>
+ <coordinates>23.29900,70.71590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9657">
+ <IconStyle id="icon9657">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9657.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9657">
+ <name>9657 KÅRHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9657:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9657"><strong>Meir info om 9657 KÅRHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9657</styleUrl>
+ <Point>
+ <coordinates>23.14830,70.54450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9663">
+ <IconStyle id="icon9663">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9663.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9663">
+ <name>9663 SKARVFJORDHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9663:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9663"><strong>Meir info om 9663 SKARVFJORDHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9663</styleUrl>
+ <Point>
+ <coordinates>23.11950,70.75910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9664">
+ <IconStyle id="icon9664">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9664.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9664">
+ <name>9664 SANDØYBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9664:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9664"><strong>Meir info om 9664 SANDØYBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9664</styleUrl>
+ <Point>
+ <coordinates>23.00380,70.67250</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9684">
+ <IconStyle id="icon9684">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9684.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9684">
+ <name>9684 REVSNESHAMN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9684:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9684"><strong>Meir info om 9684 REVSNESHAMN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9684</styleUrl>
+ <Point>
+ <coordinates>24.34910,70.68210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9715">
+ <IconStyle id="icon9715">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9715.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9715">
+ <name>9715 KOKELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9715:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hammerfest kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9715"><strong>Meir info om 9715 KOKELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9715</styleUrl>
+ <Point>
+ <coordinates>24.65280,70.61320</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

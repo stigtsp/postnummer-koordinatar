@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vaksdal, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5270">
+ <IconStyle id="icon5270">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5270.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5270">
+ <name>5270 VAKSDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5270:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5270"><strong>Meir info om 5270 VAKSDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5270</styleUrl>
+ <Point>
+ <coordinates>5.7424,60.4776</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5280">
+ <IconStyle id="icon5280">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5280.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5280">
+ <name>5280 DALEKVAM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5280:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5280"><strong>Meir info om 5280 DALEKVAM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5280</styleUrl>
+ <Point>
+ <coordinates>5.81925,60.58986</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5294">
+ <IconStyle id="icon5294">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5294.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5294">
+ <name>5294 EIDSLANDET (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5294:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5294"><strong>Meir info om 5294 EIDSLANDET (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5294</styleUrl>
+ <Point>
+ <coordinates>5.8016,60.7347</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5720">
+ <IconStyle id="icon5720">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5720.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5720">
+ <name>5720 STANGHELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5720:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5720"><strong>Meir info om 5720 STANGHELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5720</styleUrl>
+ <Point>
+ <coordinates>5.73698,60.55143</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5721">
+ <IconStyle id="icon5721">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5721.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5721">
+ <name>5721 DALEKVAM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5721:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5721"><strong>Meir info om 5721 DALEKVAM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5721</styleUrl>
+ <Point>
+ <coordinates>5.81925,60.58986</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5722">
+ <IconStyle id="icon5722">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5722.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5722">
+ <name>5722 DALEKVAM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5722:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5722"><strong>Meir info om 5722 DALEKVAM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5722</styleUrl>
+ <Point>
+ <coordinates>5.8196,60.5888</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5724">
+ <IconStyle id="icon5724">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5724.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5724">
+ <name>5724 STANGHELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5724:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5724"><strong>Meir info om 5724 STANGHELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5724</styleUrl>
+ <Point>
+ <coordinates>5.73698,60.55143</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5725">
+ <IconStyle id="icon5725">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5725.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5725">
+ <name>5725 VAKSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5725:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5725"><strong>Meir info om 5725 VAKSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5725</styleUrl>
+ <Point>
+ <coordinates>5.7424,60.4776</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5726">
+ <IconStyle id="icon5726">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5726.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5726">
+ <name>5726 VAKSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5726:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5726"><strong>Meir info om 5726 VAKSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5726</styleUrl>
+ <Point>
+ <coordinates>5.74352,60.47761</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5727">
+ <IconStyle id="icon5727">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5727.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5727">
+ <name>5727 STAMNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5727:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5727"><strong>Meir info om 5727 STAMNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5727</styleUrl>
+ <Point>
+ <coordinates>5.74867,60.66348</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5728">
+ <IconStyle id="icon5728">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5728.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5728">
+ <name>5728 EIDSLANDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5728:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vaksdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5728"><strong>Meir info om 5728 EIDSLANDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5728</styleUrl>
+ <Point>
+ <coordinates>5.8016,60.7347</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Vaksdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.0775195,60.5265333,0 6.0761994,60.5901237,0 5.9738911,60.5778047,0 5.9059055,60.602762,0 5.9072256,60.6325558,0 5.8432004,60.6393527,0 5.9039253,60.7208038,0 5.9996332,60.7511336,0 6.0511173,60.7191897,0 6.1006214,60.7662877,0 6.1422048,60.7666101,0 6.1851083,60.7875559,0 6.2260316,60.7675771,0 6.2247115,60.8033368,0 6.3111786,60.8158916,0 6.3117111,60.8369205,0 6.3118386,60.8419511,0 6.2821362,60.8564195,0 6.3019378,60.8827672,0 6.3019378,60.8827672,0 6.2103076,60.9144687,0 6.2103076,60.9144687,0 6.0136116,60.8261095,0 5.9799489,60.8267529,0 5.9462861,60.8067986,0 5.8525585,60.8090521,0 5.7317686,60.7278247,0 5.6763241,60.7378281,0 5.6763241,60.7378281,0 5.6499219,60.7171726,0 5.6499219,60.7171726,0 5.6730238,60.6990881,0 5.6287095,60.6369189,0 5.6738303,60.6192143,0 5.6764087,60.6008672,0 5.6299986,60.5850423,0 5.5887453,60.5799767,0 5.632577,60.5381552,0 5.7112162,60.5330822,0 5.7241079,60.4854846,0 5.7215295,60.4657905,0 5.6467578,60.4657905,0 5.6196853,60.4397251,0 5.6196853,60.4397251,0 5.6344974,60.4388233,0 5.6880112,60.437181,0 5.6880112,60.437181,0 5.7911446,60.4524426,0 5.8813863,60.4842144,0 5.917483,60.5280085,0 5.9909656,60.5051668,0 5.9909656,60.5051668,0 6.0775195,60.5265333,0 6.0775195,60.5265333,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

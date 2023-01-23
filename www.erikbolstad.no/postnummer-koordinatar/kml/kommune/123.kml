@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Spydeberg, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1804">
+ <IconStyle id="icon1804">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1804.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1804">
+ <name>1804 SPYDEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1804:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spydeberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1804"><strong>Meir info om 1804 SPYDEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1804</styleUrl>
+ <Point>
+ <coordinates>11.08033,59.61517</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1820">
+ <IconStyle id="icon1820">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1820.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1820">
+ <name>1820 SPYDEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1820:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spydeberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1820"><strong>Meir info om 1820 SPYDEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1820</styleUrl>
+ <Point>
+ <coordinates>11.0856,59.6171</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1821">
+ <IconStyle id="icon1821">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1821.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1821">
+ <name>1821 SPYDEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1821:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spydeberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1821"><strong>Meir info om 1821 SPYDEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1821</styleUrl>
+ <Point>
+ <coordinates>11.0856,59.6233</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Spydeberg (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.230482,59.685161,0 11.243041,59.6654842,0 11.1873502,59.6576078,0 11.1873502,59.6576078,0 11.0874025,59.5960894,0 11.1021639,59.582438,0 11.1374373,59.549817,0 11.1374373,59.549817,0 11.0580343,59.5062408,0 11.0580343,59.5062408,0 10.9753682,59.5078967,0 10.9786313,59.5272085,0 10.987333,59.5426501,0 10.987333,59.5426501,0 10.9862453,59.5630442,0 10.9753682,59.5729611,0 11.0210521,59.5834259,0 11.0275784,59.5922358,0 11.025403,59.620852,0 11.0493326,59.620852,0 11.051508,59.6637306,0 11.0275784,59.6780113,0 11.066183,59.7015424,0 11.066183,59.7015424,0 11.1032828,59.7065555,0 11.1032828,59.6951914,0 11.1317701,59.7058871,0 11.151645,59.6871673,0 11.230482,59.685161,0 11.230482,59.685161,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

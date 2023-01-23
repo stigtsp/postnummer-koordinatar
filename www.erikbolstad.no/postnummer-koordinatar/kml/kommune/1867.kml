@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bø, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8465">
+ <IconStyle id="icon8465">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8465.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8465">
+ <name>8465 STRAUMSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8465:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8465"><strong>Meir info om 8465 STRAUMSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8465</styleUrl>
+ <Point>
+ <coordinates>14.47195,68.68867</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8469">
+ <IconStyle id="icon8469">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8469.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8469">
+ <name>8469 BØ I VESTERÅLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8469:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8469"><strong>Meir info om 8469 BØ I VESTERÅLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8469</styleUrl>
+ <Point>
+ <coordinates>14.45469,68.61887</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8470">
+ <IconStyle id="icon8470">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8470.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8470">
+ <name>8470 BØ I VESTERÅLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8470:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8470"><strong>Meir info om 8470 BØ I VESTERÅLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8470</styleUrl>
+ <Point>
+ <coordinates>14.46250,68.61780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8475">
+ <IconStyle id="icon8475">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8475.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8475">
+ <name>8475 STRAUMSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8475:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8475"><strong>Meir info om 8475 STRAUMSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8475</styleUrl>
+ <Point>
+ <coordinates>14.47200,68.68880</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Bø (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>14.1345637,68.4818458,0 14.695687,68.610003,0 14.7263498,68.642352,0 14.8022,68.6564534,0 14.8022,68.6564534,0 14.8131064,68.7341081,0 14.8610308,68.7281135,0 14.8610308,68.7281135,0 14.8312846,68.7637577,0 14.7040371,68.7751278,0 14.7403935,68.8112942,0 14.7040371,68.850085,0 14.6800749,68.8643907,0 14.5990992,68.8700508,0 14.1900627,69.0036642,0 14.1900627,69.0036642,0 13.8460139,68.8511892,0 13.7271547,68.7521579,0 13.4951691,68.6080373,0 13.4951691,68.6080373,0 13.9557539,68.5050046,0 14.1345637,68.4818458,0 14.1345637,68.4818458,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1673 KRÅKERØY</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1673">
+ <name>1673 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1673:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1673"><strong>Meir info om 1673 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.93810,59.19450</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1673 KRÅKERØY</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.94604,59.19584 10.94336,59.19576 10.94188,59.19582 10.94191,59.19591 10.94139,59.19594 10.94134,59.19573 10.94071,59.19579 10.94032,59.19588 10.94043,59.19600 10.94028,59.19605 10.94013,59.19609 10.93949,59.19587 10.93918,59.19600 10.93905,59.19613 10.93897,59.19624 10.93876,59.19636 10.93840,59.19652 10.93824,59.19649 10.93789,59.19629 10.93753,59.19610 10.93662,59.19650 10.93514,59.19725 10.93265,59.19793 10.93209,59.19722 10.93097,59.19597 10.92939,59.19415 10.92816,59.19252 10.93351,59.19249 10.93867,59.19218 10.93625,59.19027 10.93822,59.18953 10.94016,59.19107 10.94129,59.19089 10.94205,59.19078 10.94455,59.19039 10.94791,59.19032 10.94779,59.19072 10.94716,59.19290 10.94681,59.19409 10.94604,59.19584</coordinates></LineString></Placemark>
+ </Document>
+</kml>

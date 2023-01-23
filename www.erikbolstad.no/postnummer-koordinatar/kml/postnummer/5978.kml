@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5978 MJØMNA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5978">
+ <name>5978 MJØMNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5978:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gulen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5978"><strong>Meir info om 5978 MJØMNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>4.90440,60.91850</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5978 MJØMNA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>4.86366,60.93358 4.86806,60.92953 4.87754,60.92799 4.87995,60.92441 4.89074,60.91724 4.90059,60.91047 4.91011,60.90000 4.92500,60.88267 4.93878,60.86860 4.95072,60.85865 4.94969,60.87086 4.95561,60.87885 4.96519,60.89037 4.95888,60.89930 4.95941,60.90379 4.95837,60.91048 4.95885,60.91580 4.95580,60.91927 4.95445,60.92213 4.95329,60.92517 4.95328,60.92819 4.95198,60.93255 4.94942,60.93785 4.93962,60.94702 4.93948,60.94714 4.93537,60.94978 4.93215,60.95355 4.92762,60.95905 4.92317,60.96300 4.91642,60.96543 4.90753,60.96669 4.89690,60.96643 4.89506,60.96764 4.89422,60.97299 4.89450,60.98001 4.89772,60.98724 4.89792,60.99202 4.89642,60.99931 4.89303,61.00892 4.88598,61.01618 4.88530,61.01701 4.88017,61.02142 4.81660,61.00904 4.78648,61.00316 4.77253,60.99386 4.75124,60.97966 4.81112,60.96357 4.82944,60.95756 4.86366,60.93358</coordinates></LineString></Placemark>
+ </Document>
+</kml>

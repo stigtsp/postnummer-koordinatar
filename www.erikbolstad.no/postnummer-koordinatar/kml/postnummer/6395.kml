@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>6395 REKDAL</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer6395">
+ <name>6395 REKDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6395:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vestnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6395"><strong>Meir info om 6395 REKDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>6.73430,62.64480</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 6395 REKDAL</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.68529,62.63554 6.68621,62.63456 6.68630,62.63448 6.68673,62.63416 6.68682,62.63406 6.68711,62.63370 6.68739,62.63357 6.69159,62.62826 6.70118,62.62916 6.70371,62.63003 6.70588,62.63032 6.70935,62.63033 6.71587,62.63059 6.71679,62.63073 6.71839,62.63116 6.72056,62.62959 6.72372,62.62610 6.72584,62.62369 6.76731,62.61715 6.79542,62.62175 6.78201,62.63465 6.79990,62.64468 6.80706,62.66836 6.76169,62.66656 6.71432,62.65637 6.67657,62.64823 6.68529,62.63554</coordinates></LineString></Placemark>
+ </Document>
+</kml>

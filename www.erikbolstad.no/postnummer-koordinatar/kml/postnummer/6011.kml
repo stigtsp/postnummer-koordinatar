@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>6011 ÅLESUND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer6011">
+ <name>6011 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6011:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6011"><strong>Meir info om 6011 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>6.38020,62.46720</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 6011 ÅLESUND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.36779,62.46212 6.36773,62.46127 6.36955,62.46120 6.37038,62.45995 6.37365,62.45911 6.39850,62.45509 6.39966,62.45370 6.40020,62.45250 6.41028,62.45295 6.41862,62.45397 6.42912,62.45417 6.45361,62.45696 6.48673,62.46237 6.51686,62.46966 6.51345,62.47163 6.51719,62.47298 6.51686,62.47708 6.51657,62.47948 6.49572,62.48004 6.48585,62.47980 6.48496,62.47962 6.48215,62.47917 6.47923,62.47878 6.47641,62.47825 6.47247,62.47760 6.46981,62.47684 6.46577,62.47549 6.46200,62.47475 6.45745,62.47427 6.45062,62.47376 6.44515,62.47295 6.44475,62.47726 6.44454,62.47969 6.44339,62.48061 6.44332,62.48066 6.44122,62.48235 6.43896,62.48462 6.43690,62.48442 6.43567,62.48679 6.43508,62.48813 6.42767,62.48582 6.41425,62.48358 6.40172,62.48067 6.39155,62.47709 6.37769,62.47297 6.37615,62.47114 6.37410,62.47105 6.37056,62.47103 6.36520,62.47087 6.36644,62.46914 6.36514,62.46769 6.35899,62.46689 6.35946,62.46645 6.36031,62.46663 6.36094,62.46619 6.36219,62.46555 6.36454,62.46408 6.36511,62.46370 6.36527,62.46336 6.36584,62.46316 6.36642,62.46356 6.36721,62.46347 6.36707,62.46239 6.36704,62.46219 6.36779,62.46212</coordinates></LineString></Placemark>
+ </Document>
+</kml>

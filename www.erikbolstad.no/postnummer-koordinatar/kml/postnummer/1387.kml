@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1387 ASKER</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1387">
+ <name>1387 ASKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1387:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Asker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1387"><strong>Meir info om 1387 ASKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.45730,59.83350</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1387 ASKER</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.43902,59.83285 10.43883,59.83182 10.43979,59.83178 10.44083,59.83188 10.44091,59.83109 10.43994,59.83090 10.44070,59.82998 10.44016,59.82956 10.43952,59.82797 10.43784,59.82742 10.43875,59.82663 10.43793,59.82631 10.43788,59.82535 10.44119,59.82361 10.44235,59.82402 10.44361,59.82310 10.44774,59.82356 10.44902,59.82430 10.44959,59.82441 10.45040,59.82461 10.45139,59.82519 10.45197,59.82583 10.46019,59.82873 10.46131,59.82916 10.46331,59.82998 10.46494,59.83050 10.46569,59.83088 10.46717,59.83140 10.46757,59.83183 10.46841,59.83225 10.47013,59.83300 10.47116,59.83360 10.47126,59.83418 10.47075,59.83484 10.47016,59.83545 10.46944,59.83552 10.46666,59.83475 10.46253,59.83385 10.46228,59.83406 10.46127,59.83429 10.46079,59.83438 10.46038,59.83453 10.46103,59.83520 10.46268,59.83587 10.46334,59.83544 10.46539,59.83605 10.46785,59.83693 10.47464,59.83819 10.47364,59.83927 10.47369,59.84115 10.47451,59.84133 10.47469,59.84195 10.47372,59.84201 10.47372,59.84230 10.47412,59.84245 10.47428,59.84293 10.47470,59.84314 10.47480,59.84348 10.47465,59.84385 10.47405,59.84477 10.47140,59.84548 10.47019,59.84580 10.45912,59.84147 10.45626,59.84067 10.45359,59.83974 10.45104,59.83839 10.45062,59.83817 10.44614,59.83629 10.44278,59.83438 10.43902,59.83285</coordinates></LineString></Placemark>
+ </Document>
+</kml>

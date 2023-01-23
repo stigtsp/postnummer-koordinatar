@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2235 MATRAND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2235">
+ <name>2235 MATRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2235:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2235"><strong>Meir info om 2235 MATRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>12.12460,60.02910</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2235 MATRAND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.06956,60.06115 12.07826,60.05711 12.09000,60.05150 12.09730,60.05060 12.09715,60.04445 12.09720,60.03807 12.09776,60.02979 12.09726,60.02676 12.09732,60.02408 12.09937,60.02115 12.10223,60.01857 12.11027,60.01628 12.11625,60.01305 12.11571,60.01146 12.11522,60.00927 12.11542,60.00698 12.11517,60.00552 12.11659,60.00415 12.12055,60.00424 12.12141,60.00429 12.12221,60.00479 12.12338,60.00783 12.12400,60.00915 12.13050,60.00959 12.13357,60.00951 12.14046,60.00973 12.14644,60.00929 12.15906,60.00970 12.17250,60.01029 12.18514,60.01083 12.19398,60.01095 12.20087,60.01567 12.21044,60.02215 12.21844,60.02027 12.23335,60.01747 12.26109,60.01920 12.25533,60.02969 12.24125,60.03178 12.23619,60.04055 12.23385,60.04450 12.21797,60.05798 12.20778,60.06151 12.20559,60.06389 12.20372,60.06797 12.19255,60.06566 12.18375,60.06167 12.17472,60.06148 12.16300,60.06130 12.15955,60.06094 12.15487,60.06006 12.13831,60.05853 12.13703,60.05838 12.13550,60.06141 12.13585,60.06452 12.11857,60.06758 12.10534,60.07352 12.08737,60.06869 12.06956,60.06115</coordinates></LineString></Placemark>
+ </Document>
+</kml>

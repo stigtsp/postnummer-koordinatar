@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1963 FOSSER</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1963">
+ <name>1963 FOSSER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1963:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1963"><strong>Meir info om 1963 FOSSER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.48250,59.81890</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1963 FOSSER</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.47002,59.85794 11.45777,59.85169 11.45314,59.84791 11.45175,59.84168 11.45759,59.83430 11.45813,59.82751 11.46086,59.81876 11.46838,59.81132 11.46946,59.81050 11.47233,59.80903 11.47537,59.80815 11.47697,59.80812 11.47856,59.80816 11.48050,59.80841 11.48632,59.80852 11.48694,59.80920 11.48774,59.81014 11.48942,59.81141 11.49067,59.81246 11.49236,59.81404 11.49377,59.81411 11.49709,59.81344 11.50033,59.81494 11.50244,59.81489 11.50488,59.81490 11.50835,59.80422 11.51744,59.80370 11.52023,59.80456 11.52384,59.80478 11.52652,59.80569 11.53349,59.80661 11.53748,59.80761 11.53946,59.80691 11.54206,59.80592 11.54630,59.80459 11.55130,59.80355 11.57421,59.79858 11.57733,59.79775 11.58406,59.79860 11.58885,59.80190 11.59475,59.80407 11.60143,59.80662 11.61418,59.81059 11.61980,59.81384 11.62041,59.81524 11.61997,59.81707 11.61950,59.81986 11.62317,59.82200 11.62646,59.82422 11.62807,59.82566 11.62931,59.82679 11.63161,59.82729 11.57471,59.83663 11.55330,59.83140 11.54455,59.83422 11.54368,59.83961 11.55197,59.84627 11.55624,59.85682 11.55469,59.85730 11.55228,59.85680 11.54855,59.85471 11.54338,59.85172 11.53428,59.84796 11.52479,59.84595 11.51808,59.84493 11.50985,59.84365 11.50474,59.84250 11.49921,59.84060 11.49504,59.83767 11.48841,59.83849 11.48809,59.84048 11.47528,59.85493 11.47002,59.85794</coordinates></LineString></Placemark>
+ </Document>
+</kml>

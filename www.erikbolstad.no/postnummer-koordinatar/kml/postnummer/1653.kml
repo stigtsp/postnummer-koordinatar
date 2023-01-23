@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1653 SELLEBAKK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1653">
+ <name>1653 SELLEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1653:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1653"><strong>Meir info om 1653 SELLEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.99470,59.23010</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1653 SELLEBAKK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.99078,59.23279 10.98979,59.23180 10.98825,59.23069 10.98755,59.22982 10.98632,59.22910 10.98543,59.22874 10.98509,59.22792 10.98534,59.22788 10.98628,59.22741 10.98856,59.22690 10.99033,59.22662 10.99279,59.22610 10.99480,59.22572 10.99514,59.22564 10.99556,59.22554 10.99780,59.22761 10.99912,59.22896 11.00005,59.23011 11.00034,59.23055 11.00189,59.23295 10.99983,59.23327 10.99829,59.23307 10.99688,59.23278 10.99606,59.23260 10.99544,59.23268 10.99465,59.23277 10.99418,59.23322 10.99420,59.23409 10.99240,59.23442 10.99078,59.23279</coordinates></LineString></Placemark>
+ </Document>
+</kml>

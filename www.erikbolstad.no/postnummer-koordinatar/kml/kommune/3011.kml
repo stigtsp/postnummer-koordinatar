@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hvaler, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1674">
+ <IconStyle id="icon1674">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1674.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1674">
+ <name>1674 VESTERØY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1674:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1674"><strong>Meir info om 1674 VESTERØY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1674</styleUrl>
+ <Point>
+ <coordinates>10.90960,59.11023</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1680">
+ <IconStyle id="icon1680">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1680.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1680">
+ <name>1680 SKJÆRHALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1680:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1680"><strong>Meir info om 1680 SKJÆRHALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1680</styleUrl>
+ <Point>
+ <coordinates>11.03680,59.02530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1682">
+ <IconStyle id="icon1682">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1682.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1682">
+ <name>1682 SKJÆRHALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1682:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1682"><strong>Meir info om 1682 SKJÆRHALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1682</styleUrl>
+ <Point>
+ <coordinates>11.03279,59.02777</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1683">
+ <IconStyle id="icon1683">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1683.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1683">
+ <name>1683 VESTERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1683:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1683"><strong>Meir info om 1683 VESTERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1683</styleUrl>
+ <Point>
+ <coordinates>10.90960,59.11023</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1684">
+ <IconStyle id="icon1684">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1684.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1684">
+ <name>1684 VESTERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1684:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1684"><strong>Meir info om 1684 VESTERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1684</styleUrl>
+ <Point>
+ <coordinates>10.87160,59.10250</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1690">
+ <IconStyle id="icon1690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1690">
+ <name>1690 HERFØL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1690:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1690"><strong>Meir info om 1690 HERFØL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1690</styleUrl>
+ <Point>
+ <coordinates>11.05030,58.99370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1692">
+ <IconStyle id="icon1692">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1692.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1692">
+ <name>1692 NEDGÅRDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1692:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1692"><strong>Meir info om 1692 NEDGÅRDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1692</styleUrl>
+ <Point>
+ <coordinates>11.07150,59.01400</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Etnedal, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2890">
+ <IconStyle id="icon2890">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2890.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2890">
+ <name>2890 ETNEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2890:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Etnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2890"><strong>Meir info om 2890 ETNEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2890</styleUrl>
+ <Point>
+ <coordinates>9.64140,60.88780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2893">
+ <IconStyle id="icon2893">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2893.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2893">
+ <name>2893 ETNEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2893:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Etnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2893"><strong>Meir info om 2893 ETNEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2893</styleUrl>
+ <Point>
+ <coordinates>9.64366,60.88736</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

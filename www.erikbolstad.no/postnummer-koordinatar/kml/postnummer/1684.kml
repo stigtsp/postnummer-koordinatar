@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1684 VESTERØY</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1684">
+ <name>1684 VESTERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1684:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1684"><strong>Meir info om 1684 VESTERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.87160,59.10250</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1684 VESTERØY</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.84926,59.13887 10.83813,59.13919 10.79755,59.12880 10.79846,59.11850 10.79996,59.10137 10.78499,59.08002 10.76040,59.04487 10.67500,59.04529 10.66041,59.02481 10.65136,59.00491 10.62852,58.95459 10.62243,58.88803 10.63731,58.88767 10.74645,58.90900 10.75126,58.91250 10.75408,58.91456 10.82524,58.96635 10.86630,58.98471 10.90955,58.99926 10.97094,59.01455 10.97865,59.03362 10.97403,59.04837 10.97049,59.06544 10.97017,59.06876 10.97115,59.07548 10.97814,59.08305 10.98061,59.09293 10.98623,59.10716 10.98664,59.10818 10.97457,59.10749 10.97169,59.12022 10.96647,59.12007 10.95425,59.11971 10.94750,59.11827 10.93472,59.10997 10.93311,59.11070 10.93089,59.11171 10.93206,59.11670 10.92352,59.11930 10.92963,59.12329 10.93173,59.12847 10.92750,59.13160 10.92577,59.13150 10.91394,59.13083 10.89974,59.13739 10.84926,59.13887</coordinates></LineString></Placemark>
+ </Document>
+</kml>

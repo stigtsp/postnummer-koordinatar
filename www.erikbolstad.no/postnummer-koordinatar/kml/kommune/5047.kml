@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Overhalla, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7860">
+ <IconStyle id="icon7860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7860">
+ <name>7860 SKAGE I NAMDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7860:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Overhalla kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7860"><strong>Meir info om 7860 SKAGE I NAMDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7860</styleUrl>
+ <Point>
+ <coordinates>11.75640,64.46740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7863">
+ <IconStyle id="icon7863">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7863.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7863">
+ <name>7863 OVERHALLA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7863:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Overhalla kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7863"><strong>Meir info om 7863 OVERHALLA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7863</styleUrl>
+ <Point>
+ <coordinates>11.94810,64.49360</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7864">
+ <IconStyle id="icon7864">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7864.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7864">
+ <name>7864 OVERHALLA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7864:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Overhalla kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7864"><strong>Meir info om 7864 OVERHALLA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7864</styleUrl>
+ <Point>
+ <coordinates>11.94912,64.49446</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7869">
+ <IconStyle id="icon7869">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7869.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7869">
+ <name>7869 SKAGE I NAMDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7869:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Overhalla kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7869"><strong>Meir info om 7869 SKAGE I NAMDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7869</styleUrl>
+ <Point>
+ <coordinates>11.76142,64.46380</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

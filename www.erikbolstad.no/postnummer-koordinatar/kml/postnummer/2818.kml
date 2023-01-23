@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2818 GJØVIK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2818">
+ <name>2818 GJØVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2818:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjøvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2818"><strong>Meir info om 2818 GJØVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.67370,60.77580</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2818 GJØVIK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.66427,60.78437 10.66442,60.78319 10.66430,60.78113 10.66420,60.77903 10.66586,60.77715 10.66567,60.77625 10.66523,60.77634 10.66162,60.77559 10.66145,60.77520 10.66066,60.77520 10.66110,60.77481 10.66098,60.77395 10.65719,60.77324 10.65769,60.77271 10.66277,60.77183 10.66376,60.77166 10.66365,60.77013 10.66363,60.76941 10.66327,60.76891 10.66325,60.76861 10.66453,60.76854 10.66421,60.76791 10.66589,60.76767 10.66605,60.76805 10.66663,60.76798 10.66663,60.76759 10.66810,60.76733 10.66966,60.76705 10.67163,60.76693 10.67215,60.76692 10.67201,60.77069 10.67448,60.77050 10.67465,60.77074 10.67755,60.76957 10.67962,60.77130 10.67998,60.77208 10.67868,60.77289 10.68007,60.77361 10.68114,60.77484 10.68278,60.77589 10.68092,60.77793 10.68067,60.77805 10.68019,60.77834 10.67984,60.77859 10.67934,60.77844 10.67840,60.77954 10.67795,60.78014 10.67780,60.78035 10.67777,60.78063 10.67778,60.78077 10.67783,60.78085 10.67793,60.78100 10.67746,60.78134 10.67834,60.78153 10.67892,60.78138 10.67997,60.78134 10.68103,60.78127 10.68208,60.78133 10.68235,60.78141 10.68079,60.78259 10.67874,60.78399 10.67789,60.78469 10.67693,60.78509 10.67617,60.78523 10.67464,60.78437 10.67555,60.78394 10.67476,60.78351 10.67379,60.78393 10.67226,60.78307 10.66864,60.78456 10.66720,60.78435 10.66603,60.78433 10.66427,60.78437</coordinates></LineString></Placemark>
+ </Document>
+</kml>

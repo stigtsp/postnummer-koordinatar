@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lødingen, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8410">
+ <IconStyle id="icon8410">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8410.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8410">
+ <name>8410 LØDINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8410:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lødingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8410"><strong>Meir info om 8410 LØDINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8410</styleUrl>
+ <Point>
+ <coordinates>15.99190,68.41080</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8411">
+ <IconStyle id="icon8411">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8411.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8411">
+ <name>8411 LØDINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8411:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lødingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8411"><strong>Meir info om 8411 LØDINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8411</styleUrl>
+ <Point>
+ <coordinates>15.99194,68.41080</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8412">
+ <IconStyle id="icon8412">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8412.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8412">
+ <name>8412 VESTBYGD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8412:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lødingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8412"><strong>Meir info om 8412 VESTBYGD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8412</styleUrl>
+ <Point>
+ <coordinates>15.50690,68.34710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8550">
+ <IconStyle id="icon8550">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8550.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8550">
+ <name>8550 LØDINGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8550:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lødingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8550"><strong>Meir info om 8550 LØDINGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8550</styleUrl>
+ <Point>
+ <coordinates>15.99630,68.41370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8551">
+ <IconStyle id="icon8551">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8551.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8551">
+ <name>8551 LØDINGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8551:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lødingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8551"><strong>Meir info om 8551 LØDINGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8551</styleUrl>
+ <Point>
+ <coordinates>15.99630,68.41370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8581">
+ <IconStyle id="icon8581">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8581.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8581">
+ <name>8581 VESTBYGD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8581:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lødingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8581"><strong>Meir info om 8581 VESTBYGD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8581</styleUrl>
+ <Point>
+ <coordinates>15.50690,68.34710</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Lødingen (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>15.9035907,68.3159379,0 16.0291788,68.3783995,0 16.0291788,68.3783995,0 16.0399854,68.4240992,0 16.1600546,68.5249994,0 16.1320843,68.5265671,0 16.1239047,68.5420085,0 16.0580603,68.5330331,0 16.0077087,68.5443699,0 16.0232562,68.5793694,0 16.0232562,68.5793694,0 15.9592904,68.6154438,0 15.8871836,68.5372801,0 15.8267068,68.5368545,0 15.6476026,68.4464571,0 15.6173642,68.4562818,0 15.6731889,68.4891425,0 15.6150382,68.5462147,0 15.6150382,68.5462147,0 15.4170049,68.5372767,0 15.4170049,68.5372767,0 15.4264609,68.4494544,0 15.3161403,68.4494544,0 15.265708,68.407735,0 15.1616914,68.3833632,0 15.1459313,68.3531523,0 15.1459313,68.3531523,0 15.2751641,68.3473379,0 15.1238672,68.2937756,0 15.1869076,68.2832813,0 15.1585394,68.2622782,0 15.2158201,68.1772898,0 15.2158201,68.1772898,0 15.3521567,68.2064513,0 15.7950442,68.2499711,0 15.7950442,68.2499711,0 15.8116022,68.289089,0 15.9035907,68.3159379,0 15.9035907,68.3159379,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

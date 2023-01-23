@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nordreisa, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9077">
+ <IconStyle id="icon9077">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9077.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9077">
+ <name>9077 ROTSUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9077:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9077"><strong>Meir info om 9077 ROTSUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9077</styleUrl>
+ <Point>
+ <coordinates>20.58960,69.77760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9080">
+ <IconStyle id="icon9080">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9080.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9080">
+ <name>9080 STORSLETT (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9080:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9080"><strong>Meir info om 9080 STORSLETT (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9080</styleUrl>
+ <Point>
+ <coordinates>21.02530,69.76960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9086">
+ <IconStyle id="icon9086">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9086.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9086">
+ <name>9086 SØRKJOSEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9086:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9086"><strong>Meir info om 9086 SØRKJOSEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9086</styleUrl>
+ <Point>
+ <coordinates>20.93912,69.79265</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9087">
+ <IconStyle id="icon9087">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9087.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9087">
+ <name>9087 HAMNEIDET (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9087:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9087"><strong>Meir info om 9087 HAMNEIDET (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9087</styleUrl>
+ <Point>
+ <coordinates>20.95910,69.92890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9151">
+ <IconStyle id="icon9151">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9151.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9151">
+ <name>9151 STORSLETT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9151:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9151"><strong>Meir info om 9151 STORSLETT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9151</styleUrl>
+ <Point>
+ <coordinates>21.02530,69.76960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9152">
+ <IconStyle id="icon9152">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9152.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9152">
+ <name>9152 SØRKJOSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9152:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9152"><strong>Meir info om 9152 SØRKJOSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9152</styleUrl>
+ <Point>
+ <coordinates>20.93912,69.79265</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9153">
+ <IconStyle id="icon9153">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9153.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9153">
+ <name>9153 ROTSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9153:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9153"><strong>Meir info om 9153 ROTSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9153</styleUrl>
+ <Point>
+ <coordinates>20.58960,69.77760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9154">
+ <IconStyle id="icon9154">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9154.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9154">
+ <name>9154 STORSLETT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9154:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9154"><strong>Meir info om 9154 STORSLETT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9154</styleUrl>
+ <Point>
+ <coordinates>21.02530,69.76960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9155">
+ <IconStyle id="icon9155">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9155.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9155">
+ <name>9155 SØRKJOSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9155:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9155"><strong>Meir info om 9155 SØRKJOSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9155</styleUrl>
+ <Point>
+ <coordinates>20.93912,69.79265</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9156">
+ <IconStyle id="icon9156">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9156.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9156">
+ <name>9156 STORSLETT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9156:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9156"><strong>Meir info om 9156 STORSLETT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9156</styleUrl>
+ <Point>
+ <coordinates>21.00352,69.76861</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9157">
+ <IconStyle id="icon9157">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9157.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9157">
+ <name>9157 STORSLETT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9157:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9157"><strong>Meir info om 9157 STORSLETT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9157</styleUrl>
+ <Point>
+ <coordinates>21.02530,69.76960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9158">
+ <IconStyle id="icon9158">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9158.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9158">
+ <name>9158 STORSLETT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9158:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9158"><strong>Meir info om 9158 STORSLETT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9158</styleUrl>
+ <Point>
+ <coordinates>21.02530,69.76960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9159">
+ <IconStyle id="icon9159">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9159.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9159">
+ <name>9159 HAVNNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9159:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9159"><strong>Meir info om 9159 HAVNNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9159</styleUrl>
+ <Point>
+ <coordinates>20.56785,69.78758</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9181">
+ <IconStyle id="icon9181">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9181.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9181">
+ <name>9181 HAMNEIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9181:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9181"><strong>Meir info om 9181 HAMNEIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9181</styleUrl>
+ <Point>
+ <coordinates>20.95910,69.92890</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

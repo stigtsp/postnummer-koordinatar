@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Frosta, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7633">
+ <IconStyle id="icon7633">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7633.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7633">
+ <name>7633 FROSTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7633:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Frosta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7633"><strong>Meir info om 7633 FROSTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7633</styleUrl>
+ <Point>
+ <coordinates>10.74060,63.58710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7634">
+ <IconStyle id="icon7634">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7634.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7634">
+ <name>7634 FROSTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7634:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Frosta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7634"><strong>Meir info om 7634 FROSTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7634</styleUrl>
+ <Point>
+ <coordinates>10.74095,63.58769</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

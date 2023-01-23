@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1783 HALDEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1783">
+ <name>1783 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1783:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1783"><strong>Meir info om 1783 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.35070,59.13510</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1783 HALDEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.33515,59.13057 11.34255,59.12788 11.34959,59.12463 11.35025,59.12180 11.35110,59.11762 11.35467,59.11777 11.35632,59.11982 11.35884,59.11985 11.35951,59.12064 11.35950,59.12169 11.36013,59.12232 11.35952,59.12282 11.35952,59.12363 11.35882,59.12413 11.35898,59.12508 11.35743,59.12620 11.35697,59.12694 11.35645,59.12787 11.35704,59.12865 11.35656,59.13160 11.35486,59.13189 11.35442,59.13209 11.35430,59.13239 11.35445,59.13264 11.35702,59.13619 11.35750,59.13694 11.35800,59.13719 11.35890,59.13754 11.35983,59.13793 11.36042,59.13826 11.35993,59.13849 11.35951,59.13894 11.36008,59.13945 11.36736,59.14527 11.36513,59.14899 11.36309,59.15007 11.35553,59.14596 11.34715,59.13929 11.34492,59.13674 11.34197,59.13513 11.33754,59.13329 11.33515,59.13057</coordinates></LineString></Placemark>
+ </Document>
+</kml>

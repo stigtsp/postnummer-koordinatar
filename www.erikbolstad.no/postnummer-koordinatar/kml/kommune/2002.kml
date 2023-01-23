@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vardø, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9860">
+ <IconStyle id="icon9860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9860">
+ <name>9860 KIBERG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9860:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vardø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9860"><strong>Meir info om 9860 KIBERG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9860</styleUrl>
+ <Point>
+ <coordinates>30.9984,70.2854</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9950">
+ <IconStyle id="icon9950">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9950.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9950">
+ <name>9950 VARDØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9950:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vardø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9950"><strong>Meir info om 9950 VARDØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9950</styleUrl>
+ <Point>
+ <coordinates>31.1058,70.3703</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9951">
+ <IconStyle id="icon9951">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9951.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9951">
+ <name>9951 VARDØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9951:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vardø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9951"><strong>Meir info om 9951 VARDØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9951</styleUrl>
+ <Point>
+ <coordinates>31.10092,70.37417</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9952">
+ <IconStyle id="icon9952">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9952.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9952">
+ <name>9952 VARDØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9952:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vardø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9952"><strong>Meir info om 9952 VARDØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9952</styleUrl>
+ <Point>
+ <coordinates>31.1058,70.3703</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9960">
+ <IconStyle id="icon9960">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9960.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9960">
+ <name>9960 KIBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9960:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vardø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9960"><strong>Meir info om 9960 KIBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9960</styleUrl>
+ <Point>
+ <coordinates>30.9984,70.2854</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Vardø (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>31.2145608,70.0183479,0 31.2029295,70.0142306,0 31.2029295,70.0142306,0 30.9232373,70.0308163,0 30.9232373,70.0308163,0 30.4529364,70.1955211,0 30.460263,70.2097897,0 30.0719504,70.2976644,0 30.0719504,70.2976644,0 30.8214215,70.4987236,0 31.2185889,70.6482585,0 31.2185889,70.6482585,0 31.5571057,70.5421103,0 31.6529886,70.5103486,0 31.7149404,70.4702884,0 31.7645684,70.4119187,0 31.7602155,70.3562717,0 31.6351267,70.2412811,0 31.6059955,70.1871927,0 31.5795729,70.1419539,0 31.5795729,70.1419539,0 31.5560003,70.1352595,0 31.5054051,70.1208748,0 31.4447997,70.099678,0 31.3935577,70.0816048,0 31.3884969,70.079819,0 31.3806557,70.0770517,0 31.3806557,70.0770517,0 31.3255929,70.0576091,0 31.3191005,70.0553154,0 31.308999,70.0517462,0 31.2449805,70.029112,0 31.2145608,70.0183479,0 31.2145608,70.0183479,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

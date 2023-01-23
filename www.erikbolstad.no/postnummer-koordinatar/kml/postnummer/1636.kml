@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1636 GAMLE FREDRIKSTAD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1636">
+ <name>1636 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1636:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1636"><strong>Meir info om 1636 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.97350,59.21450</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1636 GAMLE FREDRIKSTAD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.97288,59.22102 10.97112,59.21995 10.96739,59.21766 10.96714,59.21751 10.96463,59.21538 10.96261,59.21299 10.96005,59.21050 10.96242,59.20975 10.96261,59.20970 10.96374,59.20939 10.96418,59.21038 10.96632,59.21090 10.96708,59.21153 10.96854,59.21244 10.97020,59.21338 10.97279,59.21268 10.97592,59.21199 10.97735,59.21167 10.98073,59.21082 10.98155,59.21169 10.97810,59.21247 10.97864,59.21299 10.98204,59.21223 10.98216,59.21233 10.98341,59.21340 10.98363,59.21369 10.98378,59.21385 10.98389,59.21407 10.98418,59.21451 10.98438,59.21476 10.98525,59.21570 10.98665,59.21659 10.98865,59.21793 10.98720,59.21821 10.98682,59.21792 10.98574,59.21819 10.97883,59.22043 10.97498,59.22230 10.97288,59.22102</coordinates></LineString></Placemark>
+ </Document>
+</kml>

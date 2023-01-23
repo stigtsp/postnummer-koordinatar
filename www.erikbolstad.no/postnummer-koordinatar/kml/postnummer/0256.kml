@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0256 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0256">
+ <name>0256 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0256:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0256"><strong>Meir info om 0256 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.72010,59.91720</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0256 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.72008,59.91869 10.71991,59.91857 10.71964,59.91831 10.71987,59.91821 10.71973,59.91802 10.71993,59.91794 10.72019,59.91814 10.72167,59.91769 10.72130,59.91746 10.72082,59.91761 10.72047,59.91733 10.72014,59.91741 10.72039,59.91768 10.72025,59.91773 10.71916,59.91803 10.71808,59.91716 10.71666,59.91609 10.71643,59.91602 10.71669,59.91578 10.71703,59.91581 10.71743,59.91572 10.71775,59.91553 10.71815,59.91557 10.71873,59.91551 10.72007,59.91609 10.72031,59.91586 10.72025,59.91558 10.72021,59.91533 10.72135,59.91531 10.72141,59.91572 10.72270,59.91566 10.72283,59.91605 10.72290,59.91632 10.72299,59.91677 10.72303,59.91702 10.72339,59.91727 10.72440,59.91806 10.72354,59.91829 10.72248,59.91856 10.72208,59.91827 10.72112,59.91862 10.72090,59.91854 10.72008,59.91869</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0256 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.71483,59.91772 10.71599,59.91748 10.71580,59.91728 10.71632,59.91711 10.71652,59.91733 10.71690,59.91745 10.71708,59.91770 10.71654,59.91786 10.71629,59.91774 10.71600,59.91790 10.71544,59.91776 10.71518,59.91777 10.71471,59.91787 10.71484,59.91802 10.71480,59.91803 10.71477,59.91801 10.71457,59.91806 10.71448,59.91801 10.71426,59.91796 10.71444,59.91778 10.71457,59.91766 10.71474,59.91762 10.71483,59.91772</coordinates></LineString></Placemark>
+ </Document>
+</kml>

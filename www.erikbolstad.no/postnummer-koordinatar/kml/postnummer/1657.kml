@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1657 TORP</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1657">
+ <name>1657 TORP</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1657:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1657"><strong>Meir info om 1657 TORP</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.02220,59.24070</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1657 TORP</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.02020,59.24141 11.02046,59.24127 11.02086,59.24119 11.02079,59.24103 11.02050,59.24022 11.02025,59.23995 11.01878,59.23978 11.01767,59.23995 11.01792,59.24032 11.01697,59.24065 11.01636,59.24038 11.01511,59.24010 11.01412,59.23942 11.01343,59.23887 11.01298,59.23806 11.01356,59.23612 11.02214,59.23557 11.02368,59.23673 11.02620,59.23868 11.02881,59.24051 11.03127,59.23976 11.03211,59.23750 11.03377,59.23587 11.03644,59.23465 11.03765,59.23499 11.03920,59.23539 11.04014,59.23592 11.04075,59.23669 11.04193,59.23769 11.04313,59.23779 11.04610,59.23964 11.05120,59.24298 11.04936,59.24354 11.04868,59.24381 11.04878,59.24458 11.04945,59.24562 11.04928,59.24588 11.04941,59.24631 11.05011,59.24694 11.05019,59.24763 11.04569,59.24812 11.04528,59.24846 11.04537,59.24906 11.04634,59.24962 11.04609,59.25022 11.04603,59.25033 11.04621,59.25047 11.04610,59.25066 11.04595,59.25087 11.04606,59.25113 11.04349,59.25241 11.04087,59.25015 11.03732,59.24838 11.03447,59.24542 11.03214,59.24406 11.02987,59.24470 11.02689,59.24626 11.02638,59.24639 11.02615,59.24633 11.02597,59.24574 11.02526,59.24504 11.02470,59.24461 11.02436,59.24462 11.02422,59.24453 11.02424,59.24436 11.02328,59.24372 11.02231,59.24239 11.02133,59.24188 11.02088,59.24188 11.02026,59.24172 11.01996,59.24165 11.02020,59.24141</coordinates></LineString></Placemark>
+ </Document>
+</kml>

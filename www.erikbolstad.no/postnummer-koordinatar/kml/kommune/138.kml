@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hobøl, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1805">
+ <IconStyle id="icon1805">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1805.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1805">
+ <name>1805 TOMTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1805:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hobøl kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1805"><strong>Meir info om 1805 TOMTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1805</styleUrl>
+ <Point>
+ <coordinates>10.99948,59.66140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1823">
+ <IconStyle id="icon1823">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1823.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1823">
+ <name>1823 KNAPSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1823:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hobøl kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1823"><strong>Meir info om 1823 KNAPSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1823</styleUrl>
+ <Point>
+ <coordinates>11.0282,59.6255</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1825">
+ <IconStyle id="icon1825">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1825.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1825">
+ <name>1825 TOMTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1825:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hobøl kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1825"><strong>Meir info om 1825 TOMTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1825</styleUrl>
+ <Point>
+ <coordinates>10.9949,59.6591</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1827">
+ <IconStyle id="icon1827">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1827.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1827">
+ <name>1827 HOBØL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1827:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hobøl kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1827"><strong>Meir info om 1827 HOBØL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1827</styleUrl>
+ <Point>
+ <coordinates>10.8456,59.5587</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1828">
+ <IconStyle id="icon1828">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1828.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1828">
+ <name>1828 HOBØL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1828:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hobøl kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1828"><strong>Meir info om 1828 HOBØL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1828</styleUrl>
+ <Point>
+ <coordinates>10.8456,59.5587</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hobøl (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.066183,59.7015424,0 11.0350457,59.6931855,0 10.9915296,59.7054767,0 10.9915296,59.7054767,0 10.9548837,59.681148,0 10.9780711,59.6634182,0 10.9621712,59.6389826,0 10.9489213,59.6523742,0 10.9382084,59.6392564,0 10.9360627,59.6392564,0 10.9322432,59.639148,0 10.933359,59.6356989,0 10.9343693,59.6347516,0 10.9316964,59.631615,0 10.8806842,59.6212305,0 10.8806842,59.6212305,0 10.8853217,59.6125185,0 10.8667718,59.6074914,0 10.8680968,59.5947525,0 10.8548468,59.5947525,0 10.8548468,59.5947525,0 10.8376219,59.5833504,0 10.8515344,59.5779834,0 10.836297,59.5662401,0 10.7885972,59.5595278,0 10.7779973,59.5239302,0 10.7779973,59.5239302,0 10.7969835,59.5161745,0 10.8230885,59.5376875,0 10.8535445,59.5338272,0 10.8785619,59.5338272,0 10.987333,59.5426501,0 10.987333,59.5426501,0 10.9862453,59.5630442,0 10.9753682,59.5729611,0 11.0210521,59.5834259,0 11.0275784,59.5922358,0 11.025403,59.620852,0 11.0493326,59.620852,0 11.051508,59.6637306,0 11.0275784,59.6780113,0 11.066183,59.7015424,0 11.066183,59.7015424,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

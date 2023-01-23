@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Osen, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7740">
+ <IconStyle id="icon7740">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7740.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7740">
+ <name>7740 STEINSDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7740:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Osen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7740"><strong>Meir info om 7740 STEINSDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7740</styleUrl>
+ <Point>
+ <coordinates>10.51040,64.29744</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7741">
+ <IconStyle id="icon7741">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7741.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7741">
+ <name>7741 STEINSDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7741:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Osen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7741"><strong>Meir info om 7741 STEINSDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7741</styleUrl>
+ <Point>
+ <coordinates>10.51040,64.29744</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7742">
+ <IconStyle id="icon7742">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7742.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7742">
+ <name>7742 YTTERVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7742:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Osen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7742"><strong>Meir info om 7742 YTTERVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7742</styleUrl>
+ <Point>
+ <coordinates>10.29550,64.29620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7744">
+ <IconStyle id="icon7744">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7744.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7744">
+ <name>7744 HEPSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7744:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Osen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7744"><strong>Meir info om 7744 HEPSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7744</styleUrl>
+ <Point>
+ <coordinates>10.37330,64.32050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7748">
+ <IconStyle id="icon7748">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7748.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7748">
+ <name>7748 SETER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7748:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Osen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7748"><strong>Meir info om 7748 SETER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7748</styleUrl>
+ <Point>
+ <coordinates>10.48840,64.39586</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

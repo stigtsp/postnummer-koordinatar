@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Skien, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3700">
+ <IconStyle id="icon3700">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3700.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3700">
+ <name>3700 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3700:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3700"><strong>Meir info om 3700 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3700</styleUrl>
+ <Point>
+ <coordinates>9.60897,59.20962</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3701">
+ <IconStyle id="icon3701">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3701.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3701">
+ <name>3701 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3701:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3701"><strong>Meir info om 3701 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3701</styleUrl>
+ <Point>
+ <coordinates>9.60497,59.21037</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3702">
+ <IconStyle id="icon3702">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3702.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3702">
+ <name>3702 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3702:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3702"><strong>Meir info om 3702 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3702</styleUrl>
+ <Point>
+ <coordinates>9.61022,59.18070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3703">
+ <IconStyle id="icon3703">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3703.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3703">
+ <name>3703 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3703:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3703"><strong>Meir info om 3703 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3703</styleUrl>
+ <Point>
+ <coordinates>9.56624,59.21642</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3704">
+ <IconStyle id="icon3704">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3704.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3704">
+ <name>3704 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3704:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3704"><strong>Meir info om 3704 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3704</styleUrl>
+ <Point>
+ <coordinates>9.60349,59.19659</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3705">
+ <IconStyle id="icon3705">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3705.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3705">
+ <name>3705 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3705:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3705"><strong>Meir info om 3705 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3705</styleUrl>
+ <Point>
+ <coordinates>9.58975,59.21066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3706">
+ <IconStyle id="icon3706">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3706.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3706">
+ <name>3706 SKIEN (Ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3706:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3706"><strong>Meir info om 3706 SKIEN (Ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3706</styleUrl>
+ <Point>
+ <coordinates>9.61150,59.21650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3707">
+ <IconStyle id="icon3707">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3707.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3707">
+ <name>3707 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3707:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3707"><strong>Meir info om 3707 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3707</styleUrl>
+ <Point>
+ <coordinates>9.60821,59.20713</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3708">
+ <IconStyle id="icon3708">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3708.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3708">
+ <name>3708 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3708:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3708"><strong>Meir info om 3708 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3708</styleUrl>
+ <Point>
+ <coordinates>9.59870,59.21830</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3709">
+ <IconStyle id="icon3709">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3709.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3709">
+ <name>3709 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3709:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3709"><strong>Meir info om 3709 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3709</styleUrl>
+ <Point>
+ <coordinates>9.60000,59.21850</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3710">
+ <IconStyle id="icon3710">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3710.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3710">
+ <name>3710 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3710:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3710"><strong>Meir info om 3710 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3710</styleUrl>
+ <Point>
+ <coordinates>9.59420,59.19310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3711">
+ <IconStyle id="icon3711">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3711.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3711">
+ <name>3711 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3711:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3711"><strong>Meir info om 3711 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3711</styleUrl>
+ <Point>
+ <coordinates>9.67590,59.16780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3712">
+ <IconStyle id="icon3712">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3712.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3712">
+ <name>3712 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3712:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3712"><strong>Meir info om 3712 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3712</styleUrl>
+ <Point>
+ <coordinates>9.65010,59.16780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3713">
+ <IconStyle id="icon3713">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3713.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3713">
+ <name>3713 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3713:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3713"><strong>Meir info om 3713 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3713</styleUrl>
+ <Point>
+ <coordinates>9.64130,59.17780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3714">
+ <IconStyle id="icon3714">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3714.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3714">
+ <name>3714 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3714:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3714"><strong>Meir info om 3714 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3714</styleUrl>
+ <Point>
+ <coordinates>9.62450,59.20230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3715">
+ <IconStyle id="icon3715">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3715.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3715">
+ <name>3715 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3715:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3715"><strong>Meir info om 3715 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3715</styleUrl>
+ <Point>
+ <coordinates>9.61640,59.21150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3716">
+ <IconStyle id="icon3716">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3716.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3716">
+ <name>3716 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3716:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3716"><strong>Meir info om 3716 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3716</styleUrl>
+ <Point>
+ <coordinates>9.59680,59.22390</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3717">
+ <IconStyle id="icon3717">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3717.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3717">
+ <name>3717 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3717:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3717"><strong>Meir info om 3717 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3717</styleUrl>
+ <Point>
+ <coordinates>9.60350,59.21350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3718">
+ <IconStyle id="icon3718">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3718.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3718">
+ <name>3718 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3718:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3718"><strong>Meir info om 3718 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3718</styleUrl>
+ <Point>
+ <coordinates>9.58180,59.20680</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3719">
+ <IconStyle id="icon3719">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3719.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3719">
+ <name>3719 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3719:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3719"><strong>Meir info om 3719 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3719</styleUrl>
+ <Point>
+ <coordinates>9.64770,59.22530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3720">
+ <IconStyle id="icon3720">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3720.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3720">
+ <name>3720 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3720:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3720"><strong>Meir info om 3720 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3720</styleUrl>
+ <Point>
+ <coordinates>9.51620,59.21620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3721">
+ <IconStyle id="icon3721">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3721.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3721">
+ <name>3721 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3721:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3721"><strong>Meir info om 3721 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3721</styleUrl>
+ <Point>
+ <coordinates>9.55050,59.26980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3722">
+ <IconStyle id="icon3722">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3722.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3722">
+ <name>3722 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3722:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3722"><strong>Meir info om 3722 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3722</styleUrl>
+ <Point>
+ <coordinates>9.59330,59.21000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3723">
+ <IconStyle id="icon3723">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3723.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3723">
+ <name>3723 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3723:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3723"><strong>Meir info om 3723 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3723</styleUrl>
+ <Point>
+ <coordinates>9.58370,59.21570</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3724">
+ <IconStyle id="icon3724">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3724.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3724">
+ <name>3724 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3724:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3724"><strong>Meir info om 3724 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3724</styleUrl>
+ <Point>
+ <coordinates>9.61570,59.20190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3725">
+ <IconStyle id="icon3725">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3725.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3725">
+ <name>3725 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3725:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3725"><strong>Meir info om 3725 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3725</styleUrl>
+ <Point>
+ <coordinates>9.59720,59.20290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3726">
+ <IconStyle id="icon3726">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3726.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3726">
+ <name>3726 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3726:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3726"><strong>Meir info om 3726 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3726</styleUrl>
+ <Point>
+ <coordinates>9.57000,59.21680</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3727">
+ <IconStyle id="icon3727">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3727.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3727">
+ <name>3727 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3727:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3727"><strong>Meir info om 3727 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3727</styleUrl>
+ <Point>
+ <coordinates>9.56500,59.21000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3728">
+ <IconStyle id="icon3728">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3728.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3728">
+ <name>3728 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3728:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3728"><strong>Meir info om 3728 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3728</styleUrl>
+ <Point>
+ <coordinates>9.57940,59.19310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3729">
+ <IconStyle id="icon3729">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3729.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3729">
+ <name>3729 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3729:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3729"><strong>Meir info om 3729 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3729</styleUrl>
+ <Point>
+ <coordinates>9.44980,59.19240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3730">
+ <IconStyle id="icon3730">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3730.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3730">
+ <name>3730 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3730:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3730"><strong>Meir info om 3730 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3730</styleUrl>
+ <Point>
+ <coordinates>9.60520,59.19500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3731">
+ <IconStyle id="icon3731">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3731.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3731">
+ <name>3731 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3731:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3731"><strong>Meir info om 3731 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3731</styleUrl>
+ <Point>
+ <coordinates>9.53590,59.19740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3732">
+ <IconStyle id="icon3732">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3732.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3732">
+ <name>3732 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3732:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3732"><strong>Meir info om 3732 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3732</styleUrl>
+ <Point>
+ <coordinates>9.61570,59.19200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3733">
+ <IconStyle id="icon3733">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3733.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3733">
+ <name>3733 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3733:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3733"><strong>Meir info om 3733 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3733</styleUrl>
+ <Point>
+ <coordinates>9.60780,59.18890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3734">
+ <IconStyle id="icon3734">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3734.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3734">
+ <name>3734 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3734:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3734"><strong>Meir info om 3734 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3734</styleUrl>
+ <Point>
+ <coordinates>9.60890,59.18270</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3735">
+ <IconStyle id="icon3735">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3735.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3735">
+ <name>3735 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3735:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3735"><strong>Meir info om 3735 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3735</styleUrl>
+ <Point>
+ <coordinates>9.61650,59.17690</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3736">
+ <IconStyle id="icon3736">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3736.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3736">
+ <name>3736 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3736:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3736"><strong>Meir info om 3736 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3736</styleUrl>
+ <Point>
+ <coordinates>9.63150,59.16470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3737">
+ <IconStyle id="icon3737">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3737.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3737">
+ <name>3737 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3737:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3737"><strong>Meir info om 3737 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3737</styleUrl>
+ <Point>
+ <coordinates>9.62280,59.14950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3738">
+ <IconStyle id="icon3738">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3738.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3738">
+ <name>3738 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3738:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3738"><strong>Meir info om 3738 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3738</styleUrl>
+ <Point>
+ <coordinates>9.61370,59.14840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3739">
+ <IconStyle id="icon3739">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3739.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3739">
+ <name>3739 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3739:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3739"><strong>Meir info om 3739 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3739</styleUrl>
+ <Point>
+ <coordinates>9.48080,59.12310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3740">
+ <IconStyle id="icon3740">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3740.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3740">
+ <name>3740 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3740:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3740"><strong>Meir info om 3740 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3740</styleUrl>
+ <Point>
+ <coordinates>9.63290,59.15440</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3741">
+ <IconStyle id="icon3741">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3741.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3741">
+ <name>3741 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3741:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3741"><strong>Meir info om 3741 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3741</styleUrl>
+ <Point>
+ <coordinates>9.55990,59.22510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3742">
+ <IconStyle id="icon3742">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3742.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3742">
+ <name>3742 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3742:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3742"><strong>Meir info om 3742 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3742</styleUrl>
+ <Point>
+ <coordinates>9.55170,59.22330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3743">
+ <IconStyle id="icon3743">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3743.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3743">
+ <name>3743 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3743:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3743"><strong>Meir info om 3743 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3743</styleUrl>
+ <Point>
+ <coordinates>9.55540,59.21810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3744">
+ <IconStyle id="icon3744">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3744.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3744">
+ <name>3744 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3744:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3744"><strong>Meir info om 3744 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3744</styleUrl>
+ <Point>
+ <coordinates>9.55480,59.20880</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3746">
+ <IconStyle id="icon3746">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3746.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3746">
+ <name>3746 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3746:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3746"><strong>Meir info om 3746 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3746</styleUrl>
+ <Point>
+ <coordinates>9.63030,59.18850</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3747">
+ <IconStyle id="icon3747">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3747.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3747">
+ <name>3747 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3747:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3747"><strong>Meir info om 3747 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3747</styleUrl>
+ <Point>
+ <coordinates>9.58890,59.21730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3785">
+ <IconStyle id="icon3785">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3785.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3785">
+ <name>3785 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3785:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3785"><strong>Meir info om 3785 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3785</styleUrl>
+ <Point>
+ <coordinates>9.52553,59.21478</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3786">
+ <IconStyle id="icon3786">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3786.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3786">
+ <name>3786 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3786:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3786"><strong>Meir info om 3786 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3786</styleUrl>
+ <Point>
+ <coordinates>9.53809,59.19502</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3787">
+ <IconStyle id="icon3787">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3787.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3787">
+ <name>3787 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3787:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3787"><strong>Meir info om 3787 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3787</styleUrl>
+ <Point>
+ <coordinates>9.62082,59.14719</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3792">
+ <IconStyle id="icon3792">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3792.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3792">
+ <name>3792 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3792:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3792"><strong>Meir info om 3792 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3792</styleUrl>
+ <Point>
+ <coordinates>9.62620,59.19381</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3796">
+ <IconStyle id="icon3796">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3796.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3796">
+ <name>3796 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3796:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3796"><strong>Meir info om 3796 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3796</styleUrl>
+ <Point>
+ <coordinates>9.66414,59.16400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3797">
+ <IconStyle id="icon3797">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3797.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3797">
+ <name>3797 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3797:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3797"><strong>Meir info om 3797 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3797</styleUrl>
+ <Point>
+ <coordinates>9.60497,59.21037</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3798">
+ <IconStyle id="icon3798">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3798.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3798">
+ <name>3798 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3798:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3798"><strong>Meir info om 3798 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3798</styleUrl>
+ <Point>
+ <coordinates>9.65123,59.17033</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3799">
+ <IconStyle id="icon3799">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3799.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3799">
+ <name>3799 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3799:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3799"><strong>Meir info om 3799 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3799</styleUrl>
+ <Point>
+ <coordinates>9.65120,59.17030</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

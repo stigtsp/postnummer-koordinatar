@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Austrheim, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5941">
+ <IconStyle id="icon5941">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5941.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5941">
+ <name>5941 AUSTRHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5941:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Austrheim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5941"><strong>Meir info om 5941 AUSTRHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5941</styleUrl>
+ <Point>
+ <coordinates>4.92950,60.78890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5943">
+ <IconStyle id="icon5943">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5943.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5943">
+ <name>5943 AUSTRHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5943:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Austrheim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5943"><strong>Meir info om 5943 AUSTRHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5943</styleUrl>
+ <Point>
+ <coordinates>4.93290,60.77730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5952">
+ <IconStyle id="icon5952">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5952.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5952">
+ <name>5952 FONNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5952:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Austrheim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5952"><strong>Meir info om 5952 FONNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5952</styleUrl>
+ <Point>
+ <coordinates>4.99400,60.80310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5953">
+ <IconStyle id="icon5953">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5953.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5953">
+ <name>5953 FONNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5953:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Austrheim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5953"><strong>Meir info om 5953 FONNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5953</styleUrl>
+ <Point>
+ <coordinates>4.99369,60.80309</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

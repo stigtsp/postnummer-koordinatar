@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Salangen, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9350">
+ <IconStyle id="icon9350">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9350.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9350">
+ <name>9350 SJØVEGAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9350:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Salangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9350"><strong>Meir info om 9350 SJØVEGAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9350</styleUrl>
+ <Point>
+ <coordinates>17.8474,68.8726</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9355">
+ <IconStyle id="icon9355">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9355.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9355">
+ <name>9355 SJØVEGAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9355:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Salangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9355"><strong>Meir info om 9355 SJØVEGAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9355</styleUrl>
+ <Point>
+ <coordinates>17.83228,68.87684</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Salangen (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>17.4646628,68.8274473,0 17.5915355,68.8005205,0 17.6322672,68.8229775,0 17.7517008,68.8349452,0 17.7931228,68.8197351,0 17.810382,68.8324525,0 17.8421389,68.8237257,0 17.849733,68.8194857,0 17.971928,68.7867856,0 17.9408615,68.7515356,0 18.0098983,68.7400235,0 18.0098983,68.7400235,0 17.9844544,68.7581893,0 18.0923244,68.769442,0 18.1320205,68.8221913,0 18.07938,68.8657942,0 18.1018169,68.8664165,0 18.1837981,68.8909825,0 18.143239,68.9139689,0 18.2269461,68.9982546,0 18.2269461,68.9982546,0 18.0500394,68.983404,0 18.0500394,68.983404,0 17.9689212,68.9648268,0 17.8075478,69.0109314,0 17.7280984,69.0121095,0 17.6824186,69.012786,0 17.631504,68.9908305,0 17.6358188,68.9750462,0 17.6608446,68.9573915,0 17.4305759,68.9046487,0 17.4305759,68.9046487,0 17.534131,68.8884918,0 17.4357536,68.8330958,0 17.4357536,68.8330958,0 17.4646628,68.8274473,0 17.4646628,68.8274473,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

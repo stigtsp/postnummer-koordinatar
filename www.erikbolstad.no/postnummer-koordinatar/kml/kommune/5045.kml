@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Grong, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7870">
+ <IconStyle id="icon7870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7870">
+ <name>7870 GRONG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grong kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7870"><strong>Meir info om 7870 GRONG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7870</styleUrl>
+ <Point>
+ <coordinates>12.31490,64.46540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7871">
+ <IconStyle id="icon7871">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7871.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7871">
+ <name>7871 GRONG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7871:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grong kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7871"><strong>Meir info om 7871 GRONG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7871</styleUrl>
+ <Point>
+ <coordinates>12.31271,64.46512</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7873">
+ <IconStyle id="icon7873">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7873.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7873">
+ <name>7873 HARRAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7873:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grong kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7873"><strong>Meir info om 7873 HARRAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7873</styleUrl>
+ <Point>
+ <coordinates>12.49337,64.56132</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7874">
+ <IconStyle id="icon7874">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7874.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7874">
+ <name>7874 HARRAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7874:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grong kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7874"><strong>Meir info om 7874 HARRAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7874</styleUrl>
+ <Point>
+ <coordinates>12.49337,64.56132</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

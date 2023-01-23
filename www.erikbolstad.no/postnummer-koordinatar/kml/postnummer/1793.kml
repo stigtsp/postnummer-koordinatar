@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1793 TISTEDAL</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1793">
+ <name>1793 TISTEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1793:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1793"><strong>Meir info om 1793 TISTEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.43270,59.11330</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1793 TISTEDAL</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.42118,59.10796 11.42557,59.10575 11.42765,59.10441 11.43071,59.10312 11.43185,59.10250 11.43224,59.10052 11.43301,59.09878 11.43418,59.09874 11.43619,59.09951 11.43761,59.09913 11.43955,59.09792 11.44077,59.09764 11.44259,59.09763 11.44358,59.09785 11.44434,59.09794 11.44900,59.09709 11.44998,59.09620 11.45045,59.09412 11.45161,59.09278 11.45455,59.09260 11.46158,59.09462 11.46506,59.09792 11.46849,59.09912 11.47327,59.09840 11.47582,59.09834 11.47704,59.09831 11.48696,59.09871 11.49403,59.09916 11.50553,59.09856 11.51331,59.09955 11.51934,59.10024 11.52471,59.10496 11.52175,59.10906 11.51603,59.11035 11.51143,59.11310 11.50110,59.11714 11.48543,59.12116 11.47658,59.12133 11.47525,59.11956 11.47188,59.11722 11.46862,59.11372 11.46713,59.11191 11.46535,59.11045 11.46041,59.10961 11.46031,59.10860 11.45811,59.10669 11.45162,59.11123 11.44771,59.11397 11.44597,59.11551 11.44216,59.11527 11.44092,59.11498 11.43989,59.11440 11.43841,59.11406 11.43728,59.11360 11.43641,59.11374 11.43542,59.11404 11.43459,59.11471 11.43352,59.11886 11.43156,59.12123 11.43343,59.12242 11.43230,59.12309 11.43170,59.12614 11.42503,59.12606 11.42364,59.12595 11.42170,59.12564 11.41857,59.12528 11.41732,59.12510 11.41549,59.12409 11.41613,59.12280 11.41704,59.12186 11.41885,59.12017 11.41968,59.11920 11.42014,59.11824 11.41987,59.11639 11.41976,59.11551 11.41949,59.11435 11.41983,59.11355 11.42133,59.11264 11.42219,59.11230 11.42319,59.11125 11.42163,59.10904 11.42122,59.10852 11.42118,59.10796</coordinates></LineString></Placemark>
+ </Document>
+</kml>

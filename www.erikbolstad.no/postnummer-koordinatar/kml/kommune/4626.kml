@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Øygarden, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5077">
+ <IconStyle id="icon5077">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5077.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5077">
+ <name>5077 BJØRØYHAMN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5077:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5077"><strong>Meir info om 5077 BJØRØYHAMN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5077</styleUrl>
+ <Point>
+ <coordinates>5.18570,60.32260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5177">
+ <IconStyle id="icon5177">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5177.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5177">
+ <name>5177 BJØRØYHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5177:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5177"><strong>Meir info om 5177 BJØRØYHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5177</styleUrl>
+ <Point>
+ <coordinates>5.18570,60.32260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5331">
+ <IconStyle id="icon5331">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5331.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5331">
+ <name>5331 RONG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5331:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5331"><strong>Meir info om 5331 RONG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5331</styleUrl>
+ <Point>
+ <coordinates>4.90957,60.51346</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5333">
+ <IconStyle id="icon5333">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5333.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5333">
+ <name>5333 TJELDSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5333:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5333"><strong>Meir info om 5333 TJELDSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5333</styleUrl>
+ <Point>
+ <coordinates>4.84076,60.58988</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5334">
+ <IconStyle id="icon5334">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5334.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5334">
+ <name>5334 HELLESØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5334:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5334"><strong>Meir info om 5334 HELLESØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5334</styleUrl>
+ <Point>
+ <coordinates>4.79120,60.66050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5335">
+ <IconStyle id="icon5335">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5335.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5335">
+ <name>5335 HERNAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5335:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5335"><strong>Meir info om 5335 HERNAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5335</styleUrl>
+ <Point>
+ <coordinates>4.72214,60.68797</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5336">
+ <IconStyle id="icon5336">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5336.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5336">
+ <name>5336 TJELDSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5336:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5336"><strong>Meir info om 5336 TJELDSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5336</styleUrl>
+ <Point>
+ <coordinates>4.84030,60.58940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5337">
+ <IconStyle id="icon5337">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5337.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5337">
+ <name>5337 RONG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5337:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5337"><strong>Meir info om 5337 RONG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5337</styleUrl>
+ <Point>
+ <coordinates>4.90270,60.51223</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5341">
+ <IconStyle id="icon5341">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5341.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5341">
+ <name>5341 STRAUME</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5341:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5341"><strong>Meir info om 5341 STRAUME</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5341</styleUrl>
+ <Point>
+ <coordinates>5.12671,60.35849</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5342">
+ <IconStyle id="icon5342">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5342.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5342">
+ <name>5342 STRAUME</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5342:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5342"><strong>Meir info om 5342 STRAUME</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5342</styleUrl>
+ <Point>
+ <coordinates>5.12670,60.35850</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5343">
+ <IconStyle id="icon5343">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5343.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5343">
+ <name>5343 STRAUME</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5343:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5343"><strong>Meir info om 5343 STRAUME</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5343</styleUrl>
+ <Point>
+ <coordinates>5.12670,60.35850</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5344">
+ <IconStyle id="icon5344">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5344.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5344">
+ <name>5344 MISJE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5344:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5344"><strong>Meir info om 5344 MISJE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5344</styleUrl>
+ <Point>
+ <coordinates>4.96470,60.45150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5345">
+ <IconStyle id="icon5345">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5345.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5345">
+ <name>5345 KNARREVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5345:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5345"><strong>Meir info om 5345 KNARREVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5345</styleUrl>
+ <Point>
+ <coordinates>5.15287,60.38270</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5346">
+ <IconStyle id="icon5346">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5346.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5346">
+ <name>5346 ÅGOTNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5346:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5346"><strong>Meir info om 5346 ÅGOTNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5346</styleUrl>
+ <Point>
+ <coordinates>5.00240,60.40800</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5347">
+ <IconStyle id="icon5347">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5347.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5347">
+ <name>5347 ÅGOTNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5347:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5347"><strong>Meir info om 5347 ÅGOTNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5347</styleUrl>
+ <Point>
+ <coordinates>5.00240,60.40800</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5348">
+ <IconStyle id="icon5348">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5348.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5348">
+ <name>5348 RONG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5348:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5348"><strong>Meir info om 5348 RONG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5348</styleUrl>
+ <Point>
+ <coordinates>4.90957,60.51346</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5350">
+ <IconStyle id="icon5350">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5350.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5350">
+ <name>5350 BRATTHOLMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5350:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5350"><strong>Meir info om 5350 BRATTHOLMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5350</styleUrl>
+ <Point>
+ <coordinates>5.16000,60.34950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5353">
+ <IconStyle id="icon5353">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5353.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5353">
+ <name>5353 STRAUME</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5353:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5353"><strong>Meir info om 5353 STRAUME</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5353</styleUrl>
+ <Point>
+ <coordinates>5.12040,60.35470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5354">
+ <IconStyle id="icon5354">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5354.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5354">
+ <name>5354 STRAUME</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5354:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5354"><strong>Meir info om 5354 STRAUME</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5354</styleUrl>
+ <Point>
+ <coordinates>5.12200,60.36130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5355">
+ <IconStyle id="icon5355">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5355.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5355">
+ <name>5355 KNARREVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5355:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5355"><strong>Meir info om 5355 KNARREVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5355</styleUrl>
+ <Point>
+ <coordinates>5.15780,60.37380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5357">
+ <IconStyle id="icon5357">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5357.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5357">
+ <name>5357 FJELL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5357:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5357"><strong>Meir info om 5357 FJELL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5357</styleUrl>
+ <Point>
+ <coordinates>5.07610,60.33040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5358">
+ <IconStyle id="icon5358">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5358.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5358">
+ <name>5358 FJELL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5358:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5358"><strong>Meir info om 5358 FJELL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5358</styleUrl>
+ <Point>
+ <coordinates>5.07680,60.33069</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5360">
+ <IconStyle id="icon5360">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5360.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5360">
+ <name>5360 KOLLTVEIT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5360:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5360"><strong>Meir info om 5360 KOLLTVEIT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5360</styleUrl>
+ <Point>
+ <coordinates>5.08250,60.35730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5363">
+ <IconStyle id="icon5363">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5363.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5363">
+ <name>5363 ÅGOTNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5363:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5363"><strong>Meir info om 5363 ÅGOTNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5363</styleUrl>
+ <Point>
+ <coordinates>5.01920,60.40310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5365">
+ <IconStyle id="icon5365">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5365.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5365">
+ <name>5365 TURØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5365:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5365"><strong>Meir info om 5365 TURØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5365</styleUrl>
+ <Point>
+ <coordinates>4.91530,60.44760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5366">
+ <IconStyle id="icon5366">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5366.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5366">
+ <name>5366 MISJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5366:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5366"><strong>Meir info om 5366 MISJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5366</styleUrl>
+ <Point>
+ <coordinates>4.96470,60.45150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5370">
+ <IconStyle id="icon5370">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5370.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5370">
+ <name>5370 FJELL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5370:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5370"><strong>Meir info om 5370 FJELL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5370</styleUrl>
+ <Point>
+ <coordinates>5.07610,60.33040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5371">
+ <IconStyle id="icon5371">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5371.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5371">
+ <name>5371 SKOGSVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5371:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5371"><strong>Meir info om 5371 SKOGSVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5371</styleUrl>
+ <Point>
+ <coordinates>5.07298,60.27020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5373">
+ <IconStyle id="icon5373">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5373.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5373">
+ <name>5373 KLOKKARVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5373:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5373"><strong>Meir info om 5373 KLOKKARVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5373</styleUrl>
+ <Point>
+ <coordinates>5.15090,60.22470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5374">
+ <IconStyle id="icon5374">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5374.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5374">
+ <name>5374 STEINSLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5374:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5374"><strong>Meir info om 5374 STEINSLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5374</styleUrl>
+ <Point>
+ <coordinates>5.10510,60.19302</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5378">
+ <IconStyle id="icon5378">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5378.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5378">
+ <name>5378 KLOKKARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5378:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5378"><strong>Meir info om 5378 KLOKKARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5378</styleUrl>
+ <Point>
+ <coordinates>5.15090,60.22470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5379">
+ <IconStyle id="icon5379">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5379.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5379">
+ <name>5379 STEINSLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5379:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5379"><strong>Meir info om 5379 STEINSLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5379</styleUrl>
+ <Point>
+ <coordinates>5.08620,60.20300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5380">
+ <IconStyle id="icon5380">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5380.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5380">
+ <name>5380 TELAVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5380:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5380"><strong>Meir info om 5380 TELAVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5380</styleUrl>
+ <Point>
+ <coordinates>4.98640,60.26290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5381">
+ <IconStyle id="icon5381">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5381.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5381">
+ <name>5381 GLESVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5381:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5381"><strong>Meir info om 5381 GLESVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5381</styleUrl>
+ <Point>
+ <coordinates>5.04030,60.20440</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5382">
+ <IconStyle id="icon5382">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5382.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5382">
+ <name>5382 SKOGSVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5382:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5382"><strong>Meir info om 5382 SKOGSVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5382</styleUrl>
+ <Point>
+ <coordinates>5.10160,60.25510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5386">
+ <IconStyle id="icon5386">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5386.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5386">
+ <name>5386 GLESVÆR (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5386:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5386"><strong>Meir info om 5386 GLESVÆR (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5386</styleUrl>
+ <Point>
+ <coordinates>5.04030,60.20440</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5390">
+ <IconStyle id="icon5390">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5390.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5390">
+ <name>5390 KLOKKARVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5390:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5390"><strong>Meir info om 5390 KLOKKARVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5390</styleUrl>
+ <Point>
+ <coordinates>5.15090,60.22470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5395">
+ <IconStyle id="icon5395">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5395.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5395">
+ <name>5395 STEINSLAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5395:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5395"><strong>Meir info om 5395 STEINSLAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5395</styleUrl>
+ <Point>
+ <coordinates>5.08620,60.20300</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

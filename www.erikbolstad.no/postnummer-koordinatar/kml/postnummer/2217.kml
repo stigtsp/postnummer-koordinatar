@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2217 HOKKÅSEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2217">
+ <name>2217 HOKKÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2217:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2217"><strong>Meir info om 2217 HOKKÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>12.11310,60.27920</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2217 HOKKÅSEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.16474,60.31992 12.09919,60.32133 12.09848,60.31706 12.09885,60.30801 12.08760,60.30297 12.08642,60.29619 12.08913,60.28484 12.07336,60.28290 12.07178,60.27959 12.07758,60.27686 12.08801,60.27670 12.08996,60.27280 12.08726,60.26826 12.08424,60.26206 12.09640,60.25601 12.10712,60.25216 12.11703,60.24563 12.14790,60.24398 12.15727,60.22010 12.17781,60.22642 12.20612,60.22347 12.19909,60.24716 12.19821,60.25012 12.22113,60.26177 12.21566,60.26789 12.22268,60.29484 12.21006,60.30464 12.20627,60.31302 12.19413,60.31748 12.18875,60.31945 12.16474,60.31992</coordinates></LineString></Placemark>
+ </Document>
+</kml>

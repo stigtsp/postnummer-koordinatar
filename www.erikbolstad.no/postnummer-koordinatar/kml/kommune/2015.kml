@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hasvik, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9590">
+ <IconStyle id="icon9590">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9590.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9590">
+ <name>9590 HASVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9590:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hasvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9590"><strong>Meir info om 9590 HASVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9590</styleUrl>
+ <Point>
+ <coordinates>22.16064,70.48625</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9591">
+ <IconStyle id="icon9591">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9591.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9591">
+ <name>9591 HASVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9591:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hasvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9591"><strong>Meir info om 9591 HASVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9591</styleUrl>
+ <Point>
+ <coordinates>22.16064,70.48625</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9593">
+ <IconStyle id="icon9593">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9593.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9593">
+ <name>9593 BREIVIKBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9593:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hasvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9593"><strong>Meir info om 9593 BREIVIKBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9593</styleUrl>
+ <Point>
+ <coordinates>22.28297,70.58932</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9595">
+ <IconStyle id="icon9595">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9595.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9595">
+ <name>9595 SØRVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9595:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hasvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9595"><strong>Meir info om 9595 SØRVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9595</styleUrl>
+ <Point>
+ <coordinates>21.9816,70.62994</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hasvik (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>22.3006096,70.9904856,0 22.7618093,70.7653445,0 22.7542716,70.7449717,0 22.8718603,70.7066546,0 22.8221112,70.689712,0 22.8688452,70.6592792,0 22.8371867,70.6412971,0 22.8703527,70.6377988,0 22.9005037,70.6082883,0 22.8356791,70.5882567,0 22.7964829,70.5937674,0 22.7045225,70.5491377,0 22.6905745,70.4498123,0 22.6905745,70.4498123,0 22.6595428,70.2963115,0 22.573914,70.280854,0 22.5002233,70.2926319,0 22.5002233,70.2926319,0 22.4228622,70.3057562,0 22.3987414,70.3394626,0 22.1683881,70.3613623,0 21.3820511,70.6067255,0 21.1726684,70.791273,0 21.1726684,70.791273,0 21.7155286,70.8552837,0 22.3006096,70.9904856,0 22.3006096,70.9904856,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1388 BORGEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1388">
+ <name>1388 BORGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1388:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Asker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1388"><strong>Meir info om 1388 BORGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.42520,59.82080</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1388 BORGEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.40786,59.82321 10.40756,59.82302 10.41447,59.81353 10.42708,59.81015 10.43652,59.80768 10.43639,59.80940 10.43647,59.81236 10.43566,59.81552 10.43461,59.81887 10.43326,59.82275 10.43208,59.82599 10.42968,59.82853 10.42786,59.82950 10.42374,59.83132 10.42271,59.83097 10.42279,59.83048 10.42207,59.82976 10.42200,59.82913 10.42065,59.82814 10.41996,59.82786 10.41966,59.82785 10.41928,59.82818 10.41595,59.82826 10.40786,59.82321</coordinates></LineString></Placemark>
+ </Document>
+</kml>

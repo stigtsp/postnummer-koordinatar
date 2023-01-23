@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ulstein, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6064">
+ <IconStyle id="icon6064">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6064.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6064">
+ <name>6064 HADDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6064:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulstein kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6064"><strong>Meir info om 6064 HADDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6064</styleUrl>
+ <Point>
+ <coordinates>5.86920,62.28240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6065">
+ <IconStyle id="icon6065">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6065.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6065">
+ <name>6065 ULSTEINVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6065:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulstein kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6065"><strong>Meir info om 6065 ULSTEINVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6065</styleUrl>
+ <Point>
+ <coordinates>5.85190,62.34080</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6067">
+ <IconStyle id="icon6067">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6067.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6067">
+ <name>6067 ULSTEINVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6067:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulstein kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6067"><strong>Meir info om 6067 ULSTEINVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6067</styleUrl>
+ <Point>
+ <coordinates>5.84850,62.34220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6068">
+ <IconStyle id="icon6068">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6068.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6068">
+ <name>6068 EIKSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6068:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulstein kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6068"><strong>Meir info om 6068 EIKSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6068</styleUrl>
+ <Point>
+ <coordinates>5.89340,62.25220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6072">
+ <IconStyle id="icon6072">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6072.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6072">
+ <name>6072 HADDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6072:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulstein kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6072"><strong>Meir info om 6072 HADDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6072</styleUrl>
+ <Point>
+ <coordinates>5.86920,62.28240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6074">
+ <IconStyle id="icon6074">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6074.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6074">
+ <name>6074 EIKSUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6074:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulstein kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6074"><strong>Meir info om 6074 EIKSUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6074</styleUrl>
+ <Point>
+ <coordinates>5.89340,62.25220</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Ulstein (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.8476899,62.2179186,0 5.9170992,62.2381837,0 5.9170992,62.2381837,0 5.9661796,62.2761712,0 5.9661796,62.2761712,0 5.9414179,62.2837633,0 5.9566334,62.2992735,0 5.9051347,62.3302698,0 5.9027939,62.3851147,0 5.9572186,62.3935226,0 5.9544911,62.4465185,0 5.9544911,62.4465185,0 5.8849972,62.448887,0 5.8052621,62.489462,0 5.6838306,62.5158062,0 5.6838306,62.5158062,0 5.681636,62.4515937,0 5.7613712,62.3611246,0 5.7657602,62.3013399,0 5.8513475,62.2836535,0 5.803799,62.2530178,0 5.8564681,62.2424583,0 5.8476899,62.2179186,0 5.8476899,62.2179186,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

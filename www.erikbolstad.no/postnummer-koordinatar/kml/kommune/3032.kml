@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Gjerdrum, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2022">
+ <IconStyle id="icon2022">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2022.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2022">
+ <name>2022 GJERDRUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2022:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerdrum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2022"><strong>Meir info om 2022 GJERDRUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2022</styleUrl>
+ <Point>
+ <coordinates>11.03450,60.07170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2024">
+ <IconStyle id="icon2024">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2024.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2024">
+ <name>2024 GJERDRUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2024:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerdrum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2024"><strong>Meir info om 2024 GJERDRUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2024</styleUrl>
+ <Point>
+ <coordinates>11.03247,60.07276</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

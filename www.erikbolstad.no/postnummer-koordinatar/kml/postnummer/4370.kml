@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>4370 EGERSUND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer4370">
+ <name>4370 EGERSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4370:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eigersund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4370"><strong>Meir info om 4370 EGERSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>6.00680,58.45350</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 4370 EGERSUND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.02964,58.45578 6.02170,58.45976 6.01619,58.46017 6.01284,58.46027 6.00805,58.46106 6.00286,58.46068 6.00218,58.46022 6.00261,58.46007 6.00262,58.45930 6.00262,58.45804 6.00042,58.45397 5.99768,58.45204 5.99296,58.44977 5.99065,58.44913 5.99077,58.44839 5.99086,58.44787 5.99467,58.44901 5.99572,58.44930 5.99681,58.44920 5.99792,58.44965 5.99836,58.44940 5.99884,58.44935 6.00050,58.44988 6.00130,58.44985 6.00173,58.44951 6.00250,58.44958 6.00307,58.44949 6.00371,58.44937 6.00409,58.44904 6.00483,58.44911 6.00552,58.44910 6.00549,58.44892 6.00625,58.44890 6.00652,58.44892 6.00664,58.44924 6.00721,58.44942 6.00862,58.44933 6.02031,58.44842 6.02727,58.44987 6.02964,58.45578</coordinates></LineString></Placemark>
+ </Document>
+</kml>

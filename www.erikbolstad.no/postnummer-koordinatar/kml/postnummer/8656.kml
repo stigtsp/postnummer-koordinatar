@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>8656 MOSJØEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer8656">
+ <name>8656 MOSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8656:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vefsn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8656"><strong>Meir info om 8656 MOSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>13.19460,65.83580</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 8656 MOSJØEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>13.18346,65.84099 13.18509,65.83751 13.18735,65.83525 13.18768,65.83483 13.19011,65.83372 13.19188,65.83324 13.19164,65.83270 13.19158,65.83250 13.18840,65.82812 13.19336,65.82474 13.19866,65.82373 13.20141,65.82541 13.20650,65.82688 13.20840,65.82723 13.20743,65.82842 13.20781,65.82854 13.20855,65.82879 13.20892,65.82901 13.20884,65.82951 13.20840,65.82986 13.20751,65.83051 13.20686,65.83103 13.20623,65.83181 13.20598,65.83250 13.20581,65.83321 13.20415,65.83307 13.20400,65.83290 13.20343,65.83318 13.20314,65.83337 13.20151,65.83314 13.20093,65.83375 13.20125,65.83378 13.20102,65.83405 13.20119,65.83408 13.20094,65.83436 13.20137,65.83447 13.20119,65.83470 13.20075,65.83464 13.20026,65.83527 13.20068,65.83532 13.20027,65.83582 13.20021,65.83589 13.19973,65.83582 13.19948,65.83601 13.19924,65.83628 13.20055,65.83649 13.19985,65.83732 13.19974,65.83730 13.19942,65.83768 13.19881,65.83758 13.19852,65.83793 13.19913,65.83802 13.19835,65.83893 13.19792,65.83943 13.19779,65.83941 13.19736,65.83990 13.19818,65.84003 13.19764,65.84072 13.19685,65.84098 13.19514,65.84081 13.18780,65.84092 13.18346,65.84099</coordinates></LineString></Placemark>
+ </Document>
+</kml>

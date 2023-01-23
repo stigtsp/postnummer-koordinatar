@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1352 KOLSÅS</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1352">
+ <name>1352 KOLSÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1352:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bærum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1352"><strong>Meir info om 1352 KOLSÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.50050,59.91670</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1352 KOLSÅS</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.49648,59.92933 10.49639,59.92826 10.49651,59.92767 10.49619,59.92688 10.49617,59.92644 10.49632,59.92603 10.49643,59.92507 10.49671,59.92409 10.49708,59.92344 10.49723,59.92289 10.49727,59.92153 10.49721,59.92050 10.49688,59.92007 10.49521,59.91927 10.49434,59.91809 10.49410,59.91755 10.49440,59.91744 10.49450,59.91647 10.49416,59.91606 10.49276,59.91542 10.49232,59.91484 10.49167,59.91339 10.49642,59.91308 10.49852,59.91134 10.49949,59.91059 10.50223,59.91193 10.50368,59.91113 10.50501,59.91221 10.50801,59.91087 10.50658,59.91042 10.50821,59.90894 10.50883,59.90844 10.50912,59.90822 10.50936,59.90806 10.50956,59.90799 10.50991,59.90771 10.51129,59.90778 10.51166,59.90777 10.51274,59.90773 10.51306,59.90779 10.51326,59.90791 10.51368,59.90810 10.51408,59.90789 10.51464,59.90817 10.51494,59.90831 10.51586,59.90793 10.51664,59.90829 10.51669,59.90882 10.51654,59.90898 10.51689,59.90915 10.51698,59.90857 10.51710,59.90852 10.51776,59.90873 10.51985,59.90917 10.52062,59.91005 10.52067,59.91051 10.52063,59.91079 10.52094,59.91191 10.52061,59.91267 10.51991,59.91322 10.51930,59.91345 10.51776,59.91371 10.51590,59.91424 10.51421,59.91505 10.51246,59.91614 10.51031,59.91786 10.51226,59.91835 10.51436,59.91887 10.51735,59.92641 10.51256,59.92734 10.50951,59.92795 10.50747,59.92872 10.50642,59.92916 10.50570,59.92932 10.50464,59.92964 10.50241,59.92974 10.50171,59.93014 10.50021,59.93030 10.49917,59.93034 10.49765,59.93024 10.49718,59.92961 10.49648,59.92933</coordinates></LineString></Placemark>
+ </Document>
+</kml>

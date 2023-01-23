@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Smøla, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6570">
+ <IconStyle id="icon6570">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6570.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6570">
+ <name>6570 SMØLA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6570:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Smøla kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6570"><strong>Meir info om 6570 SMØLA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6570</styleUrl>
+ <Point>
+ <coordinates>8.01150,63.45960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6571">
+ <IconStyle id="icon6571">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6571.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6571">
+ <name>6571 SMØLA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6571:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Smøla kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6571"><strong>Meir info om 6571 SMØLA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6571</styleUrl>
+ <Point>
+ <coordinates>8.01606,63.45965</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Smøla (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.1118434,63.4312607,0 7.6466178,63.7701257,0 7.6466178,63.7701257,0 8.0090132,63.6512735,0 8.1080762,63.6011397,0 8.1080762,63.6011397,0 8.2404103,63.4245295,0 8.3419813,63.3605049,0 8.3419813,63.3605049,0 8.1940136,63.2822464,0 7.7764439,63.2032096,0 7.7764439,63.2032096,0 7.5833336,63.2833739,0 7.4817625,63.3064786,0 7.1118434,63.4312607,0 7.1118434,63.4312607,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

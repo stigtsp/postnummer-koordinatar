@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1607 FREDRIKSTAD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1607">
+ <name>1607 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1607:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1607"><strong>Meir info om 1607 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.94040,59.21290</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1607 FREDRIKSTAD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.93076,59.21423 10.93197,59.21383 10.93280,59.21331 10.93361,59.21282 10.93545,59.21166 10.93642,59.21107 10.93740,59.21046 10.93792,59.20981 10.93859,59.20898 10.93966,59.20907 10.94044,59.20920 10.94012,59.20947 10.93942,59.20939 10.93870,59.21050 10.93875,59.21069 10.93858,59.21180 10.93878,59.21185 10.93911,59.21188 10.93978,59.21158 10.93896,59.21138 10.93911,59.21117 10.93940,59.21121 10.93946,59.21111 10.93979,59.21113 10.94092,59.21108 10.94135,59.21105 10.94262,59.21053 10.94317,59.21058 10.94370,59.21038 10.94394,59.21047 10.94365,59.21079 10.94401,59.21108 10.94472,59.21115 10.94472,59.21051 10.94465,59.21004 10.94515,59.21005 10.94547,59.21086 10.94516,59.21136 10.94517,59.21144 10.94547,59.21156 10.94472,59.21221 10.94443,59.21329 10.94424,59.21353 10.94446,59.21358 10.94466,59.21362 10.94467,59.21362 10.94457,59.21388 10.94407,59.21443 10.94377,59.21464 10.94320,59.21528 10.94223,59.21605 10.94155,59.21648 10.94071,59.21691 10.94060,59.21658 10.94046,59.21636 10.93973,59.21590 10.93956,59.21547 10.93959,59.21509 10.93876,59.21498 10.93757,59.21503 10.93766,59.21424 10.93745,59.21420 10.93756,59.21402 10.93709,59.21393 10.93700,59.21414 10.93635,59.21406 10.93644,59.21387 10.93593,59.21391 10.93593,59.21413 10.93554,59.21428 10.93316,59.21509 10.93245,59.21480 10.93212,59.21461 10.93251,59.21436 10.93206,59.21419 10.93150,59.21440 10.93076,59.21423</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2544 ØVERSJØDALEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2544">
+ <name>2544 ØVERSJØDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2544:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2544"><strong>Meir info om 2544 ØVERSJØDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.48160,62.20880</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2544 ØVERSJØDALEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.44036,62.30671 11.43969,62.30428 11.43507,62.28758 11.43108,62.25266 11.43228,62.23513 11.45171,62.21298 11.46015,62.20965 11.46405,62.20572 11.47319,62.20122 11.47392,62.19499 11.47193,62.16413 11.59863,62.16475 11.61393,62.16642 11.62826,62.16645 11.67809,62.16542 11.69341,62.17660 11.69580,62.17823 11.65189,62.20595 11.60774,62.22454 11.55216,62.23751 11.54839,62.24511 11.54268,62.24960 11.54059,62.25121 11.51387,62.28481 11.44780,62.30423 11.44036,62.30671</coordinates></LineString></Placemark>
+ </Document>
+</kml>

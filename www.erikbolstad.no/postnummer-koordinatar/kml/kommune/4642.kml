@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lærdal, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5890">
+ <IconStyle id="icon5890">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5890.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5890">
+ <name>5890 LÆRDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5890:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lærdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5890"><strong>Meir info om 5890 LÆRDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5890</styleUrl>
+ <Point>
+ <coordinates>7.48213,61.09770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5891">
+ <IconStyle id="icon5891">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5891.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5891">
+ <name>5891 LÆRDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5891:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lærdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5891"><strong>Meir info om 5891 LÆRDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5891</styleUrl>
+ <Point>
+ <coordinates>7.48213,61.09770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6855">
+ <IconStyle id="icon6855">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6855.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6855">
+ <name>6855 FRØNNINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6855:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lærdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6855"><strong>Meir info om 6855 FRØNNINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6855</styleUrl>
+ <Point>
+ <coordinates>7.07650,61.09620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6886">
+ <IconStyle id="icon6886">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6886.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6886">
+ <name>6886 LÆRDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6886:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lærdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6886"><strong>Meir info om 6886 LÆRDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6886</styleUrl>
+ <Point>
+ <coordinates>7.48213,61.09770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6887">
+ <IconStyle id="icon6887">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6887.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6887">
+ <name>6887 LÆRDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6887:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lærdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6887"><strong>Meir info om 6887 LÆRDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6887</styleUrl>
+ <Point>
+ <coordinates>7.48120,61.09840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6888">
+ <IconStyle id="icon6888">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6888.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6888">
+ <name>6888 BORGUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6888:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lærdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6888"><strong>Meir info om 6888 BORGUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6888</styleUrl>
+ <Point>
+ <coordinates>7.81350,61.04860</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

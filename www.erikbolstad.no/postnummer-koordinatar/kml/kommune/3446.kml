@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Gran, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2710">
+ <IconStyle id="icon2710">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2710.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2710">
+ <name>2710 BJONEROA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2710:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2710"><strong>Meir info om 2710 BJONEROA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2710</styleUrl>
+ <Point>
+ <coordinates>10.28590,60.52398</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2711">
+ <IconStyle id="icon2711">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2711.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2711">
+ <name>2711 GRAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2711:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2711"><strong>Meir info om 2711 GRAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2711</styleUrl>
+ <Point>
+ <coordinates>10.57113,60.35650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2712">
+ <IconStyle id="icon2712">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2712.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2712">
+ <name>2712 BRANDBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2712:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2712"><strong>Meir info om 2712 BRANDBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2712</styleUrl>
+ <Point>
+ <coordinates>10.50150,60.42210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2714">
+ <IconStyle id="icon2714">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2714.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2714">
+ <name>2714 JAREN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2714:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2714"><strong>Meir info om 2714 JAREN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2714</styleUrl>
+ <Point>
+ <coordinates>10.55938,60.39361</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2718">
+ <IconStyle id="icon2718">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2718.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2718">
+ <name>2718 BRANDBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2718:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2718"><strong>Meir info om 2718 BRANDBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2718</styleUrl>
+ <Point>
+ <coordinates>10.50552,60.42082</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2750">
+ <IconStyle id="icon2750">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2750.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2750">
+ <name>2750 GRAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2750:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2750"><strong>Meir info om 2750 GRAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2750</styleUrl>
+ <Point>
+ <coordinates>10.57090,60.35880</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2760">
+ <IconStyle id="icon2760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2760">
+ <name>2760 BRANDBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2760"><strong>Meir info om 2760 BRANDBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2760</styleUrl>
+ <Point>
+ <coordinates>10.50340,60.42250</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2770">
+ <IconStyle id="icon2770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2770">
+ <name>2770 JAREN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2770:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2770"><strong>Meir info om 2770 JAREN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2770</styleUrl>
+ <Point>
+ <coordinates>10.56180,60.39260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3522">
+ <IconStyle id="icon3522">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3522.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3522">
+ <name>3522 BJONEROA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3522:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3522"><strong>Meir info om 3522 BJONEROA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3522</styleUrl>
+ <Point>
+ <coordinates>10.28590,60.52400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3527">
+ <IconStyle id="icon3527">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3527.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3527">
+ <name>3527 BJONEROA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3527:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gran kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3527"><strong>Meir info om 3527 BJONEROA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3527</styleUrl>
+ <Point>
+ <coordinates>10.28590,60.52398</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

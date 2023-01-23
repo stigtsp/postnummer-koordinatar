@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Kvæfjord, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8409">
+ <IconStyle id="icon8409">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8409.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8409">
+ <name>8409 GULLESFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8409:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvæfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8409"><strong>Meir info om 8409 GULLESFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8409</styleUrl>
+ <Point>
+ <coordinates>15.7515,68.5356</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9410">
+ <IconStyle id="icon9410">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9410.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9410">
+ <name>9410 BORKENES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9410:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvæfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9410"><strong>Meir info om 9410 BORKENES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9410</styleUrl>
+ <Point>
+ <coordinates>16.1779,68.7717</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9475">
+ <IconStyle id="icon9475">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9475.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9475">
+ <name>9475 BORKENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9475:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvæfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9475"><strong>Meir info om 9475 BORKENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9475</styleUrl>
+ <Point>
+ <coordinates>16.1779,68.7717</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9476">
+ <IconStyle id="icon9476">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9476.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9476">
+ <name>9476 BORKENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9476:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvæfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9476"><strong>Meir info om 9476 BORKENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9476</styleUrl>
+ <Point>
+ <coordinates>16.17122,68.77306</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Kvæfjord (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>16.2674892,68.6328238,0 16.422435,68.6742644,0 16.3872263,68.6923338,0 16.4113892,68.7021153,0 16.3685864,68.7103886,0 16.3644442,68.7577132,0 16.3244029,68.7602143,0 16.3637538,68.7737157,0 16.3317825,68.7925315,0 16.2411886,68.8153839,0 16.2355923,68.8760428,0 16.1128083,68.9325016,0 16.1128083,68.9325016,0 16.0244192,68.9099145,0 15.9313781,68.8273173,0 15.9371932,68.8126104,0 16.0255823,68.8130307,0 16.0453535,68.7566353,0 15.8871836,68.7283839,0 15.8790425,68.7115004,0 15.7860013,68.7115004,0 15.8011205,68.6785406,0 15.7650671,68.6493434,0 15.6452766,68.6349424,0 15.675515,68.5993236,0 15.5917779,68.5717226,0 15.6150382,68.5462147,0 15.6150382,68.5462147,0 15.6731889,68.4891425,0 15.6173642,68.4562818,0 15.6476026,68.4464571,0 15.8267068,68.5368545,0 15.8871836,68.5372801,0 15.9592904,68.6154438,0 16.0232562,68.5793694,0 16.0232562,68.5793694,0 16.0732658,68.6048397,0 16.2674892,68.6328238,0 16.2674892,68.6328238,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

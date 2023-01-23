@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3019 DRAMMEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3019">
+ <name>3019 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3019:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3019"><strong>Meir info om 3019 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.19580,59.74740</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3019 DRAMMEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.19070,59.74787 10.19192,59.74781 10.19283,59.74780 10.19210,59.74666 10.19262,59.74652 10.19233,59.74632 10.19227,59.74627 10.19304,59.74601 10.19326,59.74594 10.19421,59.74561 10.19438,59.74574 10.19647,59.74536 10.19753,59.74513 10.19868,59.74484 10.19835,59.74451 10.19904,59.74434 10.19883,59.74415 10.19997,59.74389 10.20014,59.74412 10.20000,59.74416 10.20025,59.74447 10.19939,59.74469 10.19962,59.74493 10.19976,59.74512 10.20013,59.74545 10.20155,59.74512 10.20167,59.74522 10.20288,59.74497 10.20345,59.74483 10.20338,59.74461 10.20378,59.74453 10.20387,59.74467 10.20405,59.74464 10.20441,59.74511 10.20311,59.74538 10.20287,59.74545 10.20289,59.74548 10.20261,59.74554 10.20153,59.74580 10.20198,59.74626 10.20251,59.74610 10.20397,59.74762 10.20376,59.74780 10.20332,59.74804 10.20179,59.74889 10.20162,59.74867 10.20042,59.74903 10.20051,59.74912 10.19998,59.74926 10.19973,59.74899 10.20028,59.74885 10.19967,59.74819 10.19840,59.74848 10.19813,59.74818 10.19769,59.74827 10.19800,59.74861 10.19680,59.74893 10.19630,59.74846 10.19515,59.74877 10.19575,59.74930 10.19607,59.74942 10.19691,59.74948 10.19708,59.74954 10.19725,59.74976 10.19598,59.74989 10.19391,59.75012 10.19042,59.75027 10.18956,59.75040 10.18891,59.75035 10.18886,59.75026 10.18832,59.74942 10.18841,59.74901 10.18856,59.74794 10.19070,59.74787</coordinates></LineString></Placemark>
+ </Document>
+</kml>

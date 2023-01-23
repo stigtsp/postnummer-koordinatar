@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Båtsfjord, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9990">
+ <IconStyle id="icon9990">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9990.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9990">
+ <name>9990 BÅTSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9990:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Båtsfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9990"><strong>Meir info om 9990 BÅTSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9990</styleUrl>
+ <Point>
+ <coordinates>29.7185,70.6344</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9991">
+ <IconStyle id="icon9991">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9991.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9991">
+ <name>9991 BÅTSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9991:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Båtsfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9991"><strong>Meir info om 9991 BÅTSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9991</styleUrl>
+ <Point>
+ <coordinates>29.72712,70.63792</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Båtsfjord (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>30.0573153,70.9420181,0 30.4358372,70.872206,0 31.2185889,70.6482585,0 31.2185889,70.6482585,0 30.8214215,70.4987236,0 30.0719504,70.2976644,0 30.0719504,70.2976644,0 29.8631409,70.3266671,0 29.5938864,70.3402288,0 29.6671529,70.3648633,0 29.5774014,70.3771694,0 29.4528483,70.4281608,0 29.2272093,70.4789073,0 29.2272093,70.4789073,0 29.2147321,70.499824,0 29.5114615,70.6059338,0 29.5224515,70.6375369,0 29.7642311,70.7362798,0 29.7788844,70.7640581,0 30.0573153,70.9420181,0 30.0573153,70.9420181,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

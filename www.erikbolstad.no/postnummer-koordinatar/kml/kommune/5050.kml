@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vikna, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7900">
+ <IconStyle id="icon7900">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7900.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7900">
+ <name>7900 RØRVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7900:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vikna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7900"><strong>Meir info om 7900 RØRVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7900</styleUrl>
+ <Point>
+ <coordinates>11.237,64.8608</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7901">
+ <IconStyle id="icon7901">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7901.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7901">
+ <name>7901 RØRVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7901:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vikna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7901"><strong>Meir info om 7901 RØRVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7901</styleUrl>
+ <Point>
+ <coordinates>11.23832,64.86112</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7902">
+ <IconStyle id="icon7902">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7902.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7902">
+ <name>7902 RØRVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7902:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vikna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7902"><strong>Meir info om 7902 RØRVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7902</styleUrl>
+ <Point>
+ <coordinates>11.23832,64.86112</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

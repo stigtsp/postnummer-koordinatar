@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Modalen, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5729">
+ <IconStyle id="icon5729">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5729.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5729">
+ <name>5729 MODALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5729:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Modalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5729"><strong>Meir info om 5729 MODALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5729</styleUrl>
+ <Point>
+ <coordinates>5.8024,60.8147</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5732">
+ <IconStyle id="icon5732">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5732.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5732">
+ <name>5732 MODALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5732:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Modalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5732"><strong>Meir info om 5732 MODALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5732</styleUrl>
+ <Point>
+ <coordinates>5.80236,60.81465</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Modalen (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.7038705,60.8518987,0 5.8154196,60.8888488,0 5.8622834,60.9533286,0 5.8622834,60.9533286,0 5.8867054,60.9533286,0 5.9276287,61.0132002,0 6.016076,61.036542,0 6.0715205,61.0020029,0 6.1467666,60.9859998,0 6.1467666,60.9859998,0 6.1348856,60.9401866,0 6.2103076,60.9144687,0 6.2103076,60.9144687,0 6.0136116,60.8261095,0 5.9799489,60.8267529,0 5.9462861,60.8067986,0 5.8525585,60.8090521,0 5.7317686,60.7278247,0 5.6763241,60.7378281,0 5.6763241,60.7378281,0 5.6504061,60.7611093,0 5.6787884,60.7814144,0 5.6820887,60.7897905,0 5.7091509,60.8062142,0 5.7038705,60.8518987,0 5.7038705,60.8518987,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

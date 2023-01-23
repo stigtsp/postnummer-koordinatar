@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>8187 JEKTVIK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer8187">
+ <name>8187 JEKTVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8187:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rødøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8187"><strong>Meir info om 8187 JEKTVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>13.29219,66.62614</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 8187 JEKTVIK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>13.06935,66.64366 13.07175,66.63322 13.06377,66.61671 13.05420,66.59139 13.07787,66.58462 13.11308,66.56960 13.12834,66.55973 13.15144,66.55271 13.17881,66.54604 13.21778,66.53675 13.23510,66.53696 13.24076,66.54869 13.24836,66.56078 13.24339,66.57110 13.27603,66.57119 13.29191,66.57407 13.31197,66.57572 13.34602,66.58283 13.35634,66.58476 13.34805,66.58053 13.35220,66.57398 13.36125,66.57118 13.37486,66.57266 13.40000,66.58484 13.45296,66.58499 13.47103,66.58827 13.48972,66.59729 13.52273,66.60716 13.54302,66.61353 13.55285,66.61844 13.54323,66.62146 13.51238,66.62324 13.49532,66.62287 13.49456,66.62422 13.50607,66.62925 13.50058,66.63526 13.48323,66.63853 13.46163,66.63754 13.44331,66.63314 13.43089,66.63077 13.40697,66.63301 13.37314,66.64234 13.35193,66.64845 13.32759,66.65018 13.31260,66.65145 13.30453,66.65470 13.29284,66.65498 13.28590,66.65719 13.24598,66.63819 13.23126,66.62950 13.18877,66.63044 13.13140,66.65324 13.06935,66.64366</coordinates></LineString></Placemark>
+ </Document>
+</kml>

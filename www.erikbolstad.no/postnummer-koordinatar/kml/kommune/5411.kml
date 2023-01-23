@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Kvæfjord, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8409">
+ <IconStyle id="icon8409">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8409.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8409">
+ <name>8409 GULLESFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8409:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvæfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8409"><strong>Meir info om 8409 GULLESFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8409</styleUrl>
+ <Point>
+ <coordinates>15.75150,68.53560</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9410">
+ <IconStyle id="icon9410">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9410.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9410">
+ <name>9410 BORKENES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9410:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvæfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9410"><strong>Meir info om 9410 BORKENES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9410</styleUrl>
+ <Point>
+ <coordinates>16.17790,68.77170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9475">
+ <IconStyle id="icon9475">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9475.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9475">
+ <name>9475 BORKENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9475:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvæfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9475"><strong>Meir info om 9475 BORKENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9475</styleUrl>
+ <Point>
+ <coordinates>16.17790,68.77170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9476">
+ <IconStyle id="icon9476">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9476.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9476">
+ <name>9476 BORKENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9476:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvæfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9476"><strong>Meir info om 9476 BORKENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9476</styleUrl>
+ <Point>
+ <coordinates>16.17122,68.77306</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

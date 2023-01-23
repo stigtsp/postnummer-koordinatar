@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nesbyen, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3540">
+ <IconStyle id="icon3540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3540">
+ <name>3540 NESBYEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesbyen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3540"><strong>Meir info om 3540 NESBYEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3540</styleUrl>
+ <Point>
+ <coordinates>9.11160,60.57050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3541">
+ <IconStyle id="icon3541">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3541.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3541">
+ <name>3541 NESBYEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3541:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesbyen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3541"><strong>Meir info om 3541 NESBYEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3541</styleUrl>
+ <Point>
+ <coordinates>9.10400,60.56960</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

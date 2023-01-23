@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Meråker, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7530">
+ <IconStyle id="icon7530">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7530.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7530">
+ <name>7530 MERÅKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7530:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meråker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7530"><strong>Meir info om 7530 MERÅKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7530</styleUrl>
+ <Point>
+ <coordinates>11.76010,63.42110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7531">
+ <IconStyle id="icon7531">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7531.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7531">
+ <name>7531 MERÅKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7531:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meråker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7531"><strong>Meir info om 7531 MERÅKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7531</styleUrl>
+ <Point>
+ <coordinates>11.73869,63.41334</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7533">
+ <IconStyle id="icon7533">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7533.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7533">
+ <name>7533 KOPPERÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7533:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meråker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7533"><strong>Meir info om 7533 KOPPERÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7533</styleUrl>
+ <Point>
+ <coordinates>11.85030,63.39580</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

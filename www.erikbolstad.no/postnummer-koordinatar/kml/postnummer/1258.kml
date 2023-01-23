@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1258 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1258">
+ <name>1258 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1258:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1258"><strong>Meir info om 1258 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.80010,59.83830</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1258 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.79698,59.83878 10.79716,59.83608 10.79728,59.83487 10.79841,59.83530 10.79954,59.83494 10.80022,59.83537 10.80342,59.83494 10.80362,59.83704 10.80321,59.84120 10.80270,59.84121 10.80254,59.84117 10.80165,59.84098 10.80107,59.84089 10.80070,59.84134 10.80036,59.84171 10.80039,59.84200 10.80034,59.84235 10.80083,59.84254 10.80057,59.84292 10.79975,59.84272 10.79913,59.84263 10.79815,59.84247 10.79667,59.84235 10.79698,59.83878</coordinates></LineString></Placemark>
+ </Document>
+</kml>

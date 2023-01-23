@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Røst, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8024">
+ <IconStyle id="icon8024">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8024.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8024">
+ <name>8024 RØST (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8024:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Røst kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8024"><strong>Meir info om 8024 RØST (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8024</styleUrl>
+ <Point>
+ <coordinates>12.06738,67.50580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8064">
+ <IconStyle id="icon8064">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8064.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8064">
+ <name>8064 RØST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8064:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Røst kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8064"><strong>Meir info om 8064 RØST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8064</styleUrl>
+ <Point>
+ <coordinates>12.06738,67.50580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8065">
+ <IconStyle id="icon8065">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8065.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8065">
+ <name>8065 RØST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8065:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Røst kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8065"><strong>Meir info om 8065 RØST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8065</styleUrl>
+ <Point>
+ <coordinates>12.06738,67.50580</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Røst (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.988227,67.7852025,0 11.7247726,67.7094346,0 11.4784415,67.6233236,0 11.4196919,67.5921596,0 11.3557981,67.5436137,0 11.3036414,67.4566688,0 11.3065017,67.4059197,0 11.3742491,67.3151092,0 11.665694,67.0178982,0 11.665694,67.0178982,0 12.1535857,67.0899828,0 12.3463611,67.1273002,0 12.3463611,67.1273002,0 12.5890816,67.2389469,0 12.73239,67.2778763,0 12.73239,67.2778763,0 12.8364528,67.3764101,0 12.8364528,67.3764101,0 12.3941789,67.582799,0 11.988227,67.7852025,0 11.988227,67.7852025,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

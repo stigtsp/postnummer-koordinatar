@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Audnedal, Vest-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4525">
+ <IconStyle id="icon4525">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4525.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4525">
+ <name>4525 KONSMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4525:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Audnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4525"><strong>Meir info om 4525 KONSMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4525</styleUrl>
+ <Point>
+ <coordinates>7.3544,58.2846</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4526">
+ <IconStyle id="icon4526">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4526.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4526">
+ <name>4526 KONSMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4526:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Audnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4526"><strong>Meir info om 4526 KONSMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4526</styleUrl>
+ <Point>
+ <coordinates>7.35439,58.28456</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4528">
+ <IconStyle id="icon4528">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4528.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4528">
+ <name>4528 KOLLUNGTVEIT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4528:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Audnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4528"><strong>Meir info om 4528 KOLLUNGTVEIT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4528</styleUrl>
+ <Point>
+ <coordinates>7.4665,58.4885</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4529">
+ <IconStyle id="icon4529">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4529.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4529">
+ <name>4529 BYREMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4529:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Audnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4529"><strong>Meir info om 4529 BYREMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4529</styleUrl>
+ <Point>
+ <coordinates>7.40283,58.42123</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4545">
+ <IconStyle id="icon4545">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4545.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4545">
+ <name>4545 KOLLUNGTVEIT (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4545:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Audnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4545"><strong>Meir info om 4545 KOLLUNGTVEIT (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4545</styleUrl>
+ <Point>
+ <coordinates>7.4665,58.4885</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Audnedal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.519099,58.5161791,0 7.5341684,58.4740254,0 7.5341684,58.4740254,0 7.4703103,58.4552263,0 7.4971554,58.4185697,0 7.4177873,58.3824867,0 7.4364622,58.3506542,0 7.4282919,58.3077573,0 7.3874407,58.2911975,0 7.4271247,58.2819942,0 7.4037812,58.2322553,0 7.4037812,58.2322553,0 7.3349177,58.2347131,0 7.3360849,58.2543701,0 7.2617276,58.2373059,0 7.2617276,58.2373059,0 7.2833904,58.269928,0 7.2441082,58.3021196,0 7.2441082,58.3021196,0 7.2547416,58.3033302,0 7.3043062,58.3084071,0 7.2848844,58.3295921,0 7.3125231,58.3397877,0 7.3028122,58.3715321,0 7.32821,58.3856315,0 7.3058002,58.4380634,0 7.3707886,58.4536995,0 7.3468848,58.4806556,0 7.3797525,58.513834,0 7.3797525,58.513834,0 7.4276798,58.4898194,0 7.519099,58.5161791,0 7.519099,58.5161791,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

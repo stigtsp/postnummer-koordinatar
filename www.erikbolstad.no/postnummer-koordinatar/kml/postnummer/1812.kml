@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1812 ASKIM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1812">
+ <name>1812 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1812:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1812"><strong>Meir info om 1812 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.19230,59.59360</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1812 ASKIM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.18645,59.59891 11.18625,59.59845 11.18617,59.59840 11.18624,59.59808 11.18623,59.59780 11.18631,59.59748 11.18660,59.59742 11.18630,59.59705 11.18565,59.59690 11.18530,59.59645 11.18499,59.59612 11.18459,59.59583 11.18435,59.59577 11.18402,59.59545 11.18373,59.59502 11.18387,59.59497 11.18453,59.59478 11.18481,59.59468 11.18504,59.59482 11.18513,59.59505 11.18544,59.59527 11.18578,59.59526 11.18612,59.59534 11.18706,59.59520 11.18746,59.59512 11.18783,59.59452 11.18831,59.59411 11.18919,59.59256 11.18946,59.59135 11.18995,59.59042 11.19040,59.59033 11.19027,59.59015 11.19131,59.58977 11.19330,59.58904 11.19547,59.58820 11.19596,59.58809 11.19770,59.58828 11.19910,59.58856 11.19939,59.58853 11.19952,59.58958 11.20087,59.59080 11.20103,59.59106 11.20077,59.59140 11.20323,59.59132 11.20234,59.59207 11.20007,59.59239 11.19716,59.59309 11.19424,59.59481 11.19368,59.59464 11.19334,59.59496 11.19302,59.59525 11.19262,59.59580 11.19244,59.59606 11.19209,59.59628 11.19103,59.59682 11.19035,59.59715 11.18964,59.59773 11.18910,59.59820 11.18846,59.59851 11.18709,59.59921 11.18645,59.59891</coordinates></LineString></Placemark>
+ </Document>
+</kml>

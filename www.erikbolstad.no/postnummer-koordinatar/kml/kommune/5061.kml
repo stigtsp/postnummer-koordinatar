@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Rindal, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6657">
+ <IconStyle id="icon6657">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6657.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6657">
+ <name>6657 RINDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6657:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rindal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6657"><strong>Meir info om 6657 RINDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6657</styleUrl>
+ <Point>
+ <coordinates>9.21240,63.05650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6658">
+ <IconStyle id="icon6658">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6658.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6658">
+ <name>6658 RINDALSSKOGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6658:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rindal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6658"><strong>Meir info om 6658 RINDALSSKOGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6658</styleUrl>
+ <Point>
+ <coordinates>9.32330,63.09930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6659">
+ <IconStyle id="icon6659">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6659.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6659">
+ <name>6659 RINDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6659:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rindal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6659"><strong>Meir info om 6659 RINDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6659</styleUrl>
+ <Point>
+ <coordinates>9.21268,63.05462</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

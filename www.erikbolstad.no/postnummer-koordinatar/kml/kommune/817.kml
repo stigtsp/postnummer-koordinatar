@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Drangedal, Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3750">
+ <IconStyle id="icon3750">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3750.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3750">
+ <name>3750 DRANGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3750:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3750"><strong>Meir info om 3750 DRANGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3750</styleUrl>
+ <Point>
+ <coordinates>9.0626,59.0956</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3753">
+ <IconStyle id="icon3753">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3753.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3753">
+ <name>3753 TØRDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3753:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3753"><strong>Meir info om 3753 TØRDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3753</styleUrl>
+ <Point>
+ <coordinates>8.8099,59.1562</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3760">
+ <IconStyle id="icon3760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3760">
+ <name>3760 NESLANDSVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3760"><strong>Meir info om 3760 NESLANDSVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3760</styleUrl>
+ <Point>
+ <coordinates>9.158,58.9679</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3795">
+ <IconStyle id="icon3795">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3795.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3795">
+ <name>3795 DRANGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3795:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3795"><strong>Meir info om 3795 DRANGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3795</styleUrl>
+ <Point>
+ <coordinates>9.06184,59.09677</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Drangedal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.8343274,58.9904043,0 8.6698038,59.0596657,0 8.6617465,59.1002394,0 8.7358736,59.1184406,0 8.6971986,59.1473771,0 8.6923642,59.181243,0 8.5924537,59.2439302,0 8.5924537,59.2439302,0 8.6069569,59.2645259,0 8.5860079,59.2834629,0 8.6134027,59.2958074,0 8.6794726,59.2669965,0 8.8206685,59.2766973,0 8.8206685,59.2766973,0 8.8647904,59.2546415,0 8.9727582,59.2645259,0 9.0452739,59.2084766,0 9.0791145,59.2060017,0 9.1258468,59.2249712,0 9.1854708,59.1853707,0 9.1661333,59.1448977,0 9.2273688,59.1465506,0 9.2273688,59.1465506,0 9.2579865,59.102722,0 9.396572,59.0530369,0 9.396572,59.0530369,0 9.3014959,59.00162,0 9.3014959,59.00162,0 9.1596875,58.8885652,0 9.1596875,58.8885652,0 9.0323822,58.9351621,0 8.9953186,58.9974702,0 8.8343274,58.9904043,0 8.8343274,58.9904043,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1311 HØVIKODDEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1311">
+ <name>1311 HØVIKODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1311:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bærum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1311"><strong>Meir info om 1311 HØVIKODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.55340,59.88860</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1311 HØVIKODDEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.55633,59.89205 10.55457,59.89141 10.55456,59.89064 10.55417,59.88993 10.55316,59.88929 10.55185,59.88869 10.55171,59.88853 10.55187,59.88828 10.55256,59.88805 10.55316,59.88805 10.55353,59.88821 10.55373,59.88808 10.55395,59.88815 10.55416,59.88818 10.55537,59.88853 10.55542,59.88885 10.55570,59.88899 10.55616,59.88918 10.55774,59.88974 10.55787,59.88989 10.55761,59.89011 10.55764,59.89026 10.55816,59.89046 10.55633,59.89205</coordinates></LineString></Placemark>
+ </Document>
+</kml>

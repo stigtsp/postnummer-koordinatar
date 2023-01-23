@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1831 ASKIM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1831">
+ <name>1831 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1831:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1831"><strong>Meir info om 1831 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.15250,59.58230</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1831 ASKIM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.14291,59.57849 11.14789,59.57548 11.14987,59.57156 11.15792,59.57732 11.15912,59.57831 11.15924,59.57911 11.16049,59.57933 11.16047,59.57953 11.16111,59.57974 11.16120,59.58017 11.16141,59.58095 11.16010,59.58153 11.15860,59.58226 11.15802,59.58243 11.15905,59.58260 11.15939,59.58291 11.15960,59.58335 11.15916,59.58341 11.15921,59.58365 11.15933,59.58382 11.15966,59.58380 11.16000,59.58490 11.15964,59.58481 11.15927,59.58472 11.15836,59.58500 11.15819,59.58510 11.15756,59.58531 11.15697,59.58513 11.15649,59.58512 11.15602,59.58527 11.15582,59.58547 11.15593,59.58609 11.15524,59.58685 11.15421,59.58887 11.15325,59.58887 11.14746,59.58800 11.14454,59.58736 11.14544,59.58578 11.14612,59.58484 11.14660,59.58464 11.14758,59.58407 11.14828,59.58373 11.14981,59.58326 11.15045,59.58313 11.15072,59.58292 11.15114,59.58233 11.15098,59.58230 11.14972,59.58208 11.14887,59.58187 11.14743,59.58169 11.14643,59.58163 11.14567,59.58165 11.14420,59.58169 11.14374,59.58172 11.14296,59.58181 11.14288,59.58174 11.14298,59.58121 11.14392,59.58038 11.14394,59.57945 11.14377,59.57937 11.14403,59.57913 11.14291,59.57849</coordinates></LineString></Placemark>
+ </Document>
+</kml>

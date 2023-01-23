@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nordre Land, Oppland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2870">
+ <IconStyle id="icon2870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2870">
+ <name>2870 DOKKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Land kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2870"><strong>Meir info om 2870 DOKKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2870</styleUrl>
+ <Point>
+ <coordinates>10.0699,60.836</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2880">
+ <IconStyle id="icon2880">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2880.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2880">
+ <name>2880 NORD-TORPA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2880:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Land kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2880"><strong>Meir info om 2880 NORD-TORPA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2880</styleUrl>
+ <Point>
+ <coordinates>9.9222,61.0089</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2881">
+ <IconStyle id="icon2881">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2881.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2881">
+ <name>2881 AUST-TORPA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2881:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Land kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2881"><strong>Meir info om 2881 AUST-TORPA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2881</styleUrl>
+ <Point>
+ <coordinates>10.1389,60.9505</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2882">
+ <IconStyle id="icon2882">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2882.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2882">
+ <name>2882 DOKKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2882:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Land kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2882"><strong>Meir info om 2882 DOKKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2882</styleUrl>
+ <Point>
+ <coordinates>10.07009,60.83615</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2884">
+ <IconStyle id="icon2884">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2884.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2884">
+ <name>2884 AUST-TORPA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2884:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Land kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2884"><strong>Meir info om 2884 AUST-TORPA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2884</styleUrl>
+ <Point>
+ <coordinates>10.1389,60.9505</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nordre Land (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.8154473,60.8031881,0 9.8038878,60.8309364,0 9.7736555,60.8309364,0 9.7923284,60.9390979,0 9.7469799,61.0430188,0 9.7843257,61.0443103,0 9.79055,61.0791604,0 9.7229718,61.0757201,0 9.6891827,61.1272851,0 9.6891827,61.1272851,0 9.6331639,61.1568969,0 9.6331639,61.1568969,0 9.7131908,61.1611861,0 9.794996,61.1431673,0 9.8305634,61.1483166,0 9.8154473,61.1676189,0 9.9541604,61.1470294,0 9.971055,61.139734,0 10.0003982,61.1105357,0 10.0436557,61.1188333,0 10.0436557,61.1188333,0 10.0396721,61.0932608,0 10.2092579,61.0390226,0 10.2337283,61.0252418,0 10.2337283,61.0252418,0 10.1660078,60.9446423,0 10.2360046,60.8812892,0 10.2536461,60.8740883,0 10.2536461,60.8740883,0 10.2387003,60.8612586,0 10.2431462,60.8491332,0 10.2298084,60.8248686,0 10.1222168,60.8157646,0 10.1426681,60.7953796,0 10.2120247,60.7962473,0 10.0955412,60.7662977,0 10.0306305,60.733712,0 9.9755009,60.741101,0 9.9755009,60.741101,0 9.9194821,60.7636921,0 9.8625742,60.7280605,0 9.8305634,60.7363201,0 9.804777,60.7567427,0 9.8154473,60.8031881,0 9.8154473,60.8031881,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

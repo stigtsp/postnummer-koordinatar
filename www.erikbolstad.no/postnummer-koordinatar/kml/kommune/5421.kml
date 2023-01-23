@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Senja, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9300">
+ <IconStyle id="icon9300">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9300.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9300">
+ <name>9300 FINNSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9300:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9300"><strong>Meir info om 9300 FINNSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9300</styleUrl>
+ <Point>
+ <coordinates>18.01230,69.23390</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9301">
+ <IconStyle id="icon9301">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9301.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9301">
+ <name>9301 FINNSNES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9301:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9301"><strong>Meir info om 9301 FINNSNES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9301</styleUrl>
+ <Point>
+ <coordinates>17.98860,69.22960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9302">
+ <IconStyle id="icon9302">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9302.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9302">
+ <name>9302 ROSSFJORDSTRAUMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9302:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9302"><strong>Meir info om 9302 ROSSFJORDSTRAUMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9302</styleUrl>
+ <Point>
+ <coordinates>18.31750,69.36280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9303">
+ <IconStyle id="icon9303">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9303.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9303">
+ <name>9303 SILSAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9303:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9303"><strong>Meir info om 9303 SILSAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9303</styleUrl>
+ <Point>
+ <coordinates>17.93910,69.23860</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9304">
+ <IconStyle id="icon9304">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9304.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9304">
+ <name>9304 VANGSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9304:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9304"><strong>Meir info om 9304 VANGSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9304</styleUrl>
+ <Point>
+ <coordinates>17.73600,69.17000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9305">
+ <IconStyle id="icon9305">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9305.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9305">
+ <name>9305 FINNSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9305:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9305"><strong>Meir info om 9305 FINNSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9305</styleUrl>
+ <Point>
+ <coordinates>17.98169,69.22993</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9306">
+ <IconStyle id="icon9306">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9306.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9306">
+ <name>9306 FINNSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9306:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9306"><strong>Meir info om 9306 FINNSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9306</styleUrl>
+ <Point>
+ <coordinates>17.98110,69.22960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9307">
+ <IconStyle id="icon9307">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9307.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9307">
+ <name>9307 FINNSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9307:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9307"><strong>Meir info om 9307 FINNSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9307</styleUrl>
+ <Point>
+ <coordinates>18.07430,69.33040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9308">
+ <IconStyle id="icon9308">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9308.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9308">
+ <name>9308 FINNSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9308:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9308"><strong>Meir info om 9308 FINNSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9308</styleUrl>
+ <Point>
+ <coordinates>18.09500,69.23040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9309">
+ <IconStyle id="icon9309">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9309.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9309">
+ <name>9309 FINNSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9309:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9309"><strong>Meir info om 9309 FINNSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9309</styleUrl>
+ <Point>
+ <coordinates>18.17770,69.24580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9330">
+ <IconStyle id="icon9330">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9330.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9330">
+ <name>9330 ROSSFJORDSTRAUMEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9330:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9330"><strong>Meir info om 9330 ROSSFJORDSTRAUMEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9330</styleUrl>
+ <Point>
+ <coordinates>18.31750,69.36280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9370">
+ <IconStyle id="icon9370">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9370.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9370">
+ <name>9370 SILSAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9370:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9370"><strong>Meir info om 9370 SILSAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9370</styleUrl>
+ <Point>
+ <coordinates>17.94912,69.24263</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9372">
+ <IconStyle id="icon9372">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9372.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9372">
+ <name>9372 GIBOSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9372:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9372"><strong>Meir info om 9372 GIBOSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9372</styleUrl>
+ <Point>
+ <coordinates>18.07540,69.35510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9373">
+ <IconStyle id="icon9373">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9373.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9373">
+ <name>9373 BOTNHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9373:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9373"><strong>Meir info om 9373 BOTNHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9373</styleUrl>
+ <Point>
+ <coordinates>17.90300,69.50750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9375">
+ <IconStyle id="icon9375">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9375.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9375">
+ <name>9375 VANGSVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9375:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9375"><strong>Meir info om 9375 VANGSVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9375</styleUrl>
+ <Point>
+ <coordinates>17.73600,69.17000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9376">
+ <IconStyle id="icon9376">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9376.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9376">
+ <name>9376 SKATVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9376:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9376"><strong>Meir info om 9376 SKATVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9376</styleUrl>
+ <Point>
+ <coordinates>17.60200,69.16180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9379">
+ <IconStyle id="icon9379">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9379.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9379">
+ <name>9379 GRYLLEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9379:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9379"><strong>Meir info om 9379 GRYLLEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9379</styleUrl>
+ <Point>
+ <coordinates>17.04975,69.36343</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9380">
+ <IconStyle id="icon9380">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9380.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9380">
+ <name>9380 GRYLLEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9380:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9380"><strong>Meir info om 9380 GRYLLEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9380</styleUrl>
+ <Point>
+ <coordinates>17.05650,69.36220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9381">
+ <IconStyle id="icon9381">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9381.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9381">
+ <name>9381 TORSKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9381:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9381"><strong>Meir info om 9381 TORSKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9381</styleUrl>
+ <Point>
+ <coordinates>17.10540,69.33920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9382">
+ <IconStyle id="icon9382">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9382.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9382">
+ <name>9382 GIBOSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9382:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9382"><strong>Meir info om 9382 GIBOSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9382</styleUrl>
+ <Point>
+ <coordinates>18.07782,69.35334</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9384">
+ <IconStyle id="icon9384">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9384.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9384">
+ <name>9384 SKALAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9384:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9384"><strong>Meir info om 9384 SKALAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9384</styleUrl>
+ <Point>
+ <coordinates>17.29790,69.44450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9385">
+ <IconStyle id="icon9385">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9385.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9385">
+ <name>9385 SKALAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9385:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9385"><strong>Meir info om 9385 SKALAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9385</styleUrl>
+ <Point>
+ <coordinates>17.29830,69.44460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9386">
+ <IconStyle id="icon9386">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9386.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9386">
+ <name>9386 SENJAHOPEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9386:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9386"><strong>Meir info om 9386 SENJAHOPEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9386</styleUrl>
+ <Point>
+ <coordinates>17.49160,69.49810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9387">
+ <IconStyle id="icon9387">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9387.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9387">
+ <name>9387 SENJAHOPEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9387:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9387"><strong>Meir info om 9387 SENJAHOPEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9387</styleUrl>
+ <Point>
+ <coordinates>17.49006,69.49674</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9388">
+ <IconStyle id="icon9388">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9388.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9388">
+ <name>9388 FJORDGARD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9388:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9388"><strong>Meir info om 9388 FJORDGARD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9388</styleUrl>
+ <Point>
+ <coordinates>17.62910,69.50560</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9389">
+ <IconStyle id="icon9389">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9389.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9389">
+ <name>9389 HUSØY I SENJA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9389:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9389"><strong>Meir info om 9389 HUSØY I SENJA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9389</styleUrl>
+ <Point>
+ <coordinates>17.66053,69.54428</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9391">
+ <IconStyle id="icon9391">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9391.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9391">
+ <name>9391 STONGLANDSEIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9391:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9391"><strong>Meir info om 9391 STONGLANDSEIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9391</styleUrl>
+ <Point>
+ <coordinates>17.17707,69.08511</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9392">
+ <IconStyle id="icon9392">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9392.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9392">
+ <name>9392 STONGLANDSEIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9392:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9392"><strong>Meir info om 9392 STONGLANDSEIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9392</styleUrl>
+ <Point>
+ <coordinates>17.17240,69.08540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9393">
+ <IconStyle id="icon9393">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9393.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9393">
+ <name>9393 FLAKSTADVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9393:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9393"><strong>Meir info om 9393 FLAKSTADVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9393</styleUrl>
+ <Point>
+ <coordinates>17.03300,69.19020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9395">
+ <IconStyle id="icon9395">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9395.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9395">
+ <name>9395 KALDFARNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9395:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Senja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9395"><strong>Meir info om 9395 KALDFARNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9395</styleUrl>
+ <Point>
+ <coordinates>17.05680,69.28180</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sør-Odal, Hedmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2100">
+ <IconStyle id="icon2100">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2100.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2100">
+ <name>2100 SKARNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2100:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2100"><strong>Meir info om 2100 SKARNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2100</styleUrl>
+ <Point>
+ <coordinates>11.6813,60.2522</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2101">
+ <IconStyle id="icon2101">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2101.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2101">
+ <name>2101 SKARNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2101:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2101"><strong>Meir info om 2101 SKARNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2101</styleUrl>
+ <Point>
+ <coordinates>11.68028,60.25500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2110">
+ <IconStyle id="icon2110">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2110.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2110">
+ <name>2110 SLÅSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2110:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2110"><strong>Meir info om 2110 SLÅSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2110</styleUrl>
+ <Point>
+ <coordinates>11.7709,60.2807</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2114">
+ <IconStyle id="icon2114">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2114.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2114">
+ <name>2114 DISENÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2114:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2114"><strong>Meir info om 2114 DISENÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2114</styleUrl>
+ <Point>
+ <coordinates>11.6416,60.2066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2116">
+ <IconStyle id="icon2116">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2116.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2116">
+ <name>2116 SANDER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2116:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2116"><strong>Meir info om 2116 SANDER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2116</styleUrl>
+ <Point>
+ <coordinates>11.8088,60.2275</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2140">
+ <IconStyle id="icon2140">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2140.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2140">
+ <name>2140 SANDER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2140:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2140"><strong>Meir info om 2140 SANDER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2140</styleUrl>
+ <Point>
+ <coordinates>11.8088,60.2275</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2145">
+ <IconStyle id="icon2145">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2145.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2145">
+ <name>2145 GALTERUD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2145:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2145"><strong>Meir info om 2145 GALTERUD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2145</styleUrl>
+ <Point>
+ <coordinates>11.8837,60.1948</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2190">
+ <IconStyle id="icon2190">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2190.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2190">
+ <name>2190 DISENÅ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2190:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2190"><strong>Meir info om 2190 DISENÅ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2190</styleUrl>
+ <Point>
+ <coordinates>11.6416,60.2066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2223">
+ <IconStyle id="icon2223">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2223.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2223">
+ <name>2223 GALTERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2223:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2223"><strong>Meir info om 2223 GALTERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2223</styleUrl>
+ <Point>
+ <coordinates>11.8837,60.1948</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sør-Odal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.830931,60.3545684,0 11.9181354,60.2978329,0 11.9230344,60.282051,0 11.9320158,60.2747645,0 11.9336488,60.2626167,0 11.8969065,60.241955,0 11.9116034,60.2131691,0 11.9143324,60.2078338,0 11.908453,60.2062559,0 11.8955355,60.2037396,0 11.8833046,60.202652,0 11.889558,60.1928821,0 11.8952735,60.1859817,0 11.905888,60.1802979,0 11.905888,60.1762374,0 11.9199343,60.1729107,0 11.9172721,60.1619394,0 11.9196266,60.1525664,0 11.8977946,60.133173,0 11.9031455,60.1178207,0 11.9097808,60.1111018,0 11.9029315,60.1070485,0 11.9099948,60.0934982,0 11.9157739,60.0908104,0 11.9157739,60.0908104,0 11.9137675,60.073707,0 11.8370169,60.0704481,0 11.819698,60.0537935,0 11.819698,60.0537935,0 11.7903216,60.0512723,0 11.7583226,60.0975093,0 11.7119616,60.105868,0 11.5965523,60.1579388,0 11.5896474,60.1741327,0 11.5728785,60.1780573,0 11.5990867,60.2713834,0 11.5238733,60.2958318,0 11.5238733,60.2958318,0 11.543364,60.3067322,0 11.5752073,60.3144159,0 11.5899043,60.3144159,0 11.6103166,60.3059233,0 11.6241971,60.3127985,0 11.6217476,60.3398808,0 11.6095001,60.3717848,0 11.7058466,60.3612882,0 11.7287085,60.3540193,0 11.7646343,60.3766282,0 11.7866796,60.3665369,0 11.7981106,60.3669406,0 11.8155897,60.3585151,0 11.8155897,60.3585151,0 11.830931,60.3545684,0 11.830931,60.3545684,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

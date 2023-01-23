@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nordre Follo, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1400">
+ <IconStyle id="icon1400">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1400.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1400">
+ <name>1400 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1400:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1400"><strong>Meir info om 1400 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1400</styleUrl>
+ <Point>
+ <coordinates>10.83560,59.71970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1401">
+ <IconStyle id="icon1401">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1401.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1401">
+ <name>1401 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1401:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1401"><strong>Meir info om 1401 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1401</styleUrl>
+ <Point>
+ <coordinates>10.83798,59.71808</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1402">
+ <IconStyle id="icon1402">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1402.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1402">
+ <name>1402 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1402:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1402"><strong>Meir info om 1402 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1402</styleUrl>
+ <Point>
+ <coordinates>10.83800,59.71810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1403">
+ <IconStyle id="icon1403">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1403.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1403">
+ <name>1403 LANGHUS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1403:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1403"><strong>Meir info om 1403 LANGHUS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1403</styleUrl>
+ <Point>
+ <coordinates>10.84485,59.75431</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1404">
+ <IconStyle id="icon1404">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1404.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1404">
+ <name>1404 SIGGERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1404:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1404"><strong>Meir info om 1404 SIGGERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1404</styleUrl>
+ <Point>
+ <coordinates>10.88130,59.79120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1405">
+ <IconStyle id="icon1405">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1405.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1405">
+ <name>1405 LANGHUS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1405:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1405"><strong>Meir info om 1405 LANGHUS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1405</styleUrl>
+ <Point>
+ <coordinates>10.84620,59.75520</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1406">
+ <IconStyle id="icon1406">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1406.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1406">
+ <name>1406 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1406:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1406"><strong>Meir info om 1406 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1406</styleUrl>
+ <Point>
+ <coordinates>10.81410,59.71980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1408">
+ <IconStyle id="icon1408">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1408.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1408">
+ <name>1408 KRÅKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1408:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1408"><strong>Meir info om 1408 KRÅKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1408</styleUrl>
+ <Point>
+ <coordinates>10.88360,59.68130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1409">
+ <IconStyle id="icon1409">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1409.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1409">
+ <name>1409 SKOTBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1409:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1409"><strong>Meir info om 1409 SKOTBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1409</styleUrl>
+ <Point>
+ <coordinates>10.94890,59.66500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1410">
+ <IconStyle id="icon1410">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1410.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1410">
+ <name>1410 KOLBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1410:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1410"><strong>Meir info om 1410 KOLBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1410</styleUrl>
+ <Point>
+ <coordinates>10.79585,59.81135</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1411">
+ <IconStyle id="icon1411">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1411.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1411">
+ <name>1411 KOLBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1411:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1411"><strong>Meir info om 1411 KOLBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1411</styleUrl>
+ <Point>
+ <coordinates>10.79580,59.81130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1412">
+ <IconStyle id="icon1412">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1412.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1412">
+ <name>1412 SOFIEMYR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1412:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1412"><strong>Meir info om 1412 SOFIEMYR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1412</styleUrl>
+ <Point>
+ <coordinates>10.81710,59.79720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1413">
+ <IconStyle id="icon1413">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1413.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1413">
+ <name>1413 TÅRNÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1413:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1413"><strong>Meir info om 1413 TÅRNÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1413</styleUrl>
+ <Point>
+ <coordinates>10.81520,59.81904</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1414">
+ <IconStyle id="icon1414">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1414.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1414">
+ <name>1414 TROLLÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1414:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1414"><strong>Meir info om 1414 TROLLÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1414</styleUrl>
+ <Point>
+ <coordinates>10.78020,59.81910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1415">
+ <IconStyle id="icon1415">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1415.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1415">
+ <name>1415 OPPEGÅRD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1415:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1415"><strong>Meir info om 1415 OPPEGÅRD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1415</styleUrl>
+ <Point>
+ <coordinates>10.81110,59.76710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1416">
+ <IconStyle id="icon1416">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1416.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1416">
+ <name>1416 OPPEGÅRD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1416:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1416"><strong>Meir info om 1416 OPPEGÅRD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1416</styleUrl>
+ <Point>
+ <coordinates>10.80323,59.77398</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1417">
+ <IconStyle id="icon1417">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1417.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1417">
+ <name>1417 SOFIEMYR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1417:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1417"><strong>Meir info om 1417 SOFIEMYR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1417</styleUrl>
+ <Point>
+ <coordinates>10.81332,59.80340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1418">
+ <IconStyle id="icon1418">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1418.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1418">
+ <name>1418 KOLBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1418:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1418"><strong>Meir info om 1418 KOLBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1418</styleUrl>
+ <Point>
+ <coordinates>10.79580,59.81130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1419">
+ <IconStyle id="icon1419">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1419.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1419">
+ <name>1419 OPPEGÅRD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1419:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1419"><strong>Meir info om 1419 OPPEGÅRD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1419</styleUrl>
+ <Point>
+ <coordinates>10.80320,59.77400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1420">
+ <IconStyle id="icon1420">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1420.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1420">
+ <name>1420 SVARTSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1420:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1420"><strong>Meir info om 1420 SVARTSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1420</styleUrl>
+ <Point>
+ <coordinates>10.73840,59.78180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1421">
+ <IconStyle id="icon1421">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1421.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1421">
+ <name>1421 TROLLÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1421:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1421"><strong>Meir info om 1421 TROLLÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1421</styleUrl>
+ <Point>
+ <coordinates>10.77753,59.81730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1422">
+ <IconStyle id="icon1422">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1422.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1422">
+ <name>1422 SIGGERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1422:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1422"><strong>Meir info om 1422 SIGGERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1422</styleUrl>
+ <Point>
+ <coordinates>10.88130,59.79123</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1423">
+ <IconStyle id="icon1423">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1423.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1423">
+ <name>1423 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1423:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1423"><strong>Meir info om 1423 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1423</styleUrl>
+ <Point>
+ <coordinates>10.83560,59.71970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1424">
+ <IconStyle id="icon1424">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1424.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1424">
+ <name>1424 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1424:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1424"><strong>Meir info om 1424 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1424</styleUrl>
+ <Point>
+ <coordinates>10.83560,59.71970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1425">
+ <IconStyle id="icon1425">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1425.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1425">
+ <name>1425 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1425:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1425"><strong>Meir info om 1425 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1425</styleUrl>
+ <Point>
+ <coordinates>10.83560,59.71970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1840">
+ <IconStyle id="icon1840">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1840.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1840">
+ <name>1840 KRÅKSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1840:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1840"><strong>Meir info om 1840 KRÅKSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1840</styleUrl>
+ <Point>
+ <coordinates>10.88360,59.68130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1845">
+ <IconStyle id="icon1845">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1845.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1845">
+ <name>1845 SKOTBU (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1845:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1845"><strong>Meir info om 1845 SKOTBU (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1845</styleUrl>
+ <Point>
+ <coordinates>10.94890,59.66500</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nome, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3825">
+ <IconStyle id="icon3825">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3825.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3825">
+ <name>3825 LUNDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3825:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3825"><strong>Meir info om 3825 LUNDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3825</styleUrl>
+ <Point>
+ <coordinates>9.10330,59.29860</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3830">
+ <IconStyle id="icon3830">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3830.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3830">
+ <name>3830 ULEFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3830:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3830"><strong>Meir info om 3830 ULEFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3830</styleUrl>
+ <Point>
+ <coordinates>9.26320,59.28410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3831">
+ <IconStyle id="icon3831">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3831.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3831">
+ <name>3831 ULEFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3831:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3831"><strong>Meir info om 3831 ULEFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3831</styleUrl>
+ <Point>
+ <coordinates>9.26854,59.28244</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3832">
+ <IconStyle id="icon3832">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3832.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3832">
+ <name>3832 LUNDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3832:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3832"><strong>Meir info om 3832 LUNDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3832</styleUrl>
+ <Point>
+ <coordinates>9.10272,59.29989</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

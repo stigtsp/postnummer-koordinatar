@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Rennesøy, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4150">
+ <IconStyle id="icon4150">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4150.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4150">
+ <name>4150 RENNESØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4150:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rennesøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4150"><strong>Meir info om 4150 RENNESØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4150</styleUrl>
+ <Point>
+ <coordinates>5.6979,59.0975</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4152">
+ <IconStyle id="icon4152">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4152.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4152">
+ <name>4152 VESTRE ÅMØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4152:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rennesøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4152"><strong>Meir info om 4152 VESTRE ÅMØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4152</styleUrl>
+ <Point>
+ <coordinates>5.6915,59.041</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4153">
+ <IconStyle id="icon4153">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4153.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4153">
+ <name>4153 BRIMSE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4153:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rennesøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4153"><strong>Meir info om 4153 BRIMSE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4153</styleUrl>
+ <Point>
+ <coordinates>5.8053,59.0845</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4156">
+ <IconStyle id="icon4156">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4156.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4156">
+ <name>4156 MOSTERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4156:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rennesøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4156"><strong>Meir info om 4156 MOSTERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4156</styleUrl>
+ <Point>
+ <coordinates>5.6549,59.0771</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4157">
+ <IconStyle id="icon4157">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4157.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4157">
+ <name>4157 UTSTEIN KLOSTER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4157:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rennesøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4157"><strong>Meir info om 4157 UTSTEIN KLOSTER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4157</styleUrl>
+ <Point>
+ <coordinates>5.5934,59.0977</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4158">
+ <IconStyle id="icon4158">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4158.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4158">
+ <name>4158 BRU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4158:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rennesøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4158"><strong>Meir info om 4158 BRU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4158</styleUrl>
+ <Point>
+ <coordinates>5.6582,59.0387</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4159">
+ <IconStyle id="icon4159">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4159.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4159">
+ <name>4159 RENNESØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4159:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rennesøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4159"><strong>Meir info om 4159 RENNESØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4159</styleUrl>
+ <Point>
+ <coordinates>5.69694,59.09758</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Rennesøy (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.7850612,59.0623984,0 5.7366247,59.0601811,0 5.7168133,59.0512908,0 5.71441,59.0435212,0 5.7295647,59.0246559,0 5.6836739,59.0147821,0 5.6836739,59.0147821,0 5.5456253,59.0725999,0 5.5456253,59.0725999,0 5.5009302,59.1288225,0 5.5009302,59.1288225,0 5.5998191,59.1924958,0 5.5998191,59.1924958,0 5.781009,59.1277576,0 5.7965657,59.101452,0 5.8627421,59.0843673,0 5.8627421,59.0843673,0 5.7850612,59.0623984,0 5.7850612,59.0623984,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

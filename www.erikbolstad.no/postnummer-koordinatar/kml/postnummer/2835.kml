@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2835 RAUFOSS</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2835">
+ <name>2835 RAUFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2835:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vestre Toten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2835"><strong>Meir info om 2835 RAUFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.62130,60.71690</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2835 RAUFOSS</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.62102,60.72601 10.61993,60.72461 10.61901,60.72486 10.61835,60.72501 10.61769,60.72510 10.61771,60.72500 10.61775,60.72473 10.61742,60.72475 10.61673,60.72410 10.61748,60.72391 10.61741,60.72354 10.61754,60.72351 10.61799,60.72248 10.61797,60.72179 10.61829,60.72176 10.61818,60.72114 10.61788,60.72116 10.61772,60.72063 10.61741,60.72064 10.61740,60.72058 10.61676,60.72060 10.61656,60.72060 10.61662,60.72083 10.61607,60.72081 10.61597,60.72060 10.61579,60.72060 10.61573,60.72039 10.61542,60.72044 10.61549,60.72091 10.61431,60.72096 10.61347,60.72068 10.61341,60.71943 10.61323,60.71845 10.61239,60.71729 10.61110,60.71608 10.61030,60.71519 10.60890,60.71311 10.60873,60.71209 10.60885,60.71127 10.60887,60.70999 10.60865,60.70874 10.60854,60.70787 10.61150,60.70583 10.61547,60.70489 10.63271,60.70830 10.63104,60.70939 10.63311,60.71714 10.63297,60.71830 10.63455,60.72133 10.63519,60.72342 10.63506,60.72549 10.63485,60.72706 10.62628,60.72633 10.62102,60.72601</coordinates></LineString></Placemark>
+ </Document>
+</kml>

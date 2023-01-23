@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Utsira, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5547">
+ <IconStyle id="icon5547">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5547.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5547">
+ <name>5547 UTSIRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5547:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Utsira kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5547"><strong>Meir info om 5547 UTSIRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5547</styleUrl>
+ <Point>
+ <coordinates>4.89195,59.29861</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Utsira (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>4.7158148,59.0695869,0 4.5661281,59.1400537,0 4.49895,59.176357,0 4.4645251,59.2368733,0 4.4485599,59.3052271,0 4.4775445,59.358819,0 4.5301266,59.4458244,0 4.5301266,59.4458244,0 4.9021196,59.3853115,0 5.0297163,59.29938,0 4.9574918,59.2366357,0 4.7158148,59.0695869,0 4.7158148,59.0695869,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

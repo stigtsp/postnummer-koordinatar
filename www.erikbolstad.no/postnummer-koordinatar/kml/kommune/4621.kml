@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Voss, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5274">
+ <IconStyle id="icon5274">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5274.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5274">
+ <name>5274 BOLSTADØYRI (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5274:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5274"><strong>Meir info om 5274 BOLSTADØYRI (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5274</styleUrl>
+ <Point>
+ <coordinates>5.95340,60.64030</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5275">
+ <IconStyle id="icon5275">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5275.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5275">
+ <name>5275 EVANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5275:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5275"><strong>Meir info om 5275 EVANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5275</styleUrl>
+ <Point>
+ <coordinates>6.11220,60.64720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5700">
+ <IconStyle id="icon5700">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5700.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5700">
+ <name>5700 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5700:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5700"><strong>Meir info om 5700 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5700</styleUrl>
+ <Point>
+ <coordinates>6.41960,60.62790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5701">
+ <IconStyle id="icon5701">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5701.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5701">
+ <name>5701 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5701:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5701"><strong>Meir info om 5701 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5701</styleUrl>
+ <Point>
+ <coordinates>6.41955,60.62795</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5702">
+ <IconStyle id="icon5702">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5702.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5702">
+ <name>5702 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5702:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5702"><strong>Meir info om 5702 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5702</styleUrl>
+ <Point>
+ <coordinates>6.41955,60.62795</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5703">
+ <IconStyle id="icon5703">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5703.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5703">
+ <name>5703 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5703:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5703"><strong>Meir info om 5703 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5703</styleUrl>
+ <Point>
+ <coordinates>6.41955,60.62795</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5704">
+ <IconStyle id="icon5704">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5704.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5704">
+ <name>5704 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5704:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5704"><strong>Meir info om 5704 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5704</styleUrl>
+ <Point>
+ <coordinates>6.40510,60.62960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5705">
+ <IconStyle id="icon5705">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5705.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5705">
+ <name>5705 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5705:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5705"><strong>Meir info om 5705 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5705</styleUrl>
+ <Point>
+ <coordinates>6.44100,60.63460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5706">
+ <IconStyle id="icon5706">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5706.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5706">
+ <name>5706 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5706:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5706"><strong>Meir info om 5706 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5706</styleUrl>
+ <Point>
+ <coordinates>6.71940,60.68400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5707">
+ <IconStyle id="icon5707">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5707.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5707">
+ <name>5707 EVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5707:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5707"><strong>Meir info om 5707 EVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5707</styleUrl>
+ <Point>
+ <coordinates>6.11220,60.64720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5708">
+ <IconStyle id="icon5708">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5708.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5708">
+ <name>5708 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5708:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5708"><strong>Meir info om 5708 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5708</styleUrl>
+ <Point>
+ <coordinates>6.29900,60.61500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5709">
+ <IconStyle id="icon5709">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5709.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5709">
+ <name>5709 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5709:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5709"><strong>Meir info om 5709 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5709</styleUrl>
+ <Point>
+ <coordinates>6.53890,60.61380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5710">
+ <IconStyle id="icon5710">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5710.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5710">
+ <name>5710 SKULESTADMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5710:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5710"><strong>Meir info om 5710 SKULESTADMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5710</styleUrl>
+ <Point>
+ <coordinates>6.43510,60.66011</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5711">
+ <IconStyle id="icon5711">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5711.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5711">
+ <name>5711 SKULESTADMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5711:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5711"><strong>Meir info om 5711 SKULESTADMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5711</styleUrl>
+ <Point>
+ <coordinates>6.43510,60.66000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5712">
+ <IconStyle id="icon5712">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5712.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5712">
+ <name>5712 VOSSESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5712:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5712"><strong>Meir info om 5712 VOSSESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5712</styleUrl>
+ <Point>
+ <coordinates>6.50925,60.79234</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5713">
+ <IconStyle id="icon5713">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5713.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5713">
+ <name>5713 VOSSESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5713:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5713"><strong>Meir info om 5713 VOSSESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5713</styleUrl>
+ <Point>
+ <coordinates>6.50840,60.79190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5714">
+ <IconStyle id="icon5714">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5714.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5714">
+ <name>5714 VOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5714:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5714"><strong>Meir info om 5714 VOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5714</styleUrl>
+ <Point>
+ <coordinates>6.41940,60.62790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5715">
+ <IconStyle id="icon5715">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5715.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5715">
+ <name>5715 STALHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5715:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5715"><strong>Meir info om 5715 STALHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5715</styleUrl>
+ <Point>
+ <coordinates>6.68070,60.83520</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5723">
+ <IconStyle id="icon5723">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5723.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5723">
+ <name>5723 BOLSTADØYRI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5723:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5723"><strong>Meir info om 5723 BOLSTADØYRI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5723</styleUrl>
+ <Point>
+ <coordinates>5.95340,60.64030</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5733">
+ <IconStyle id="icon5733">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5733.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5733">
+ <name>5733 GRANVIN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5733:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5733"><strong>Meir info om 5733 GRANVIN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5733</styleUrl>
+ <Point>
+ <coordinates>6.71970,60.52418</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5734">
+ <IconStyle id="icon5734">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5734.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5734">
+ <name>5734 VALLAVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5734:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5734"><strong>Meir info om 5734 VALLAVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5734</styleUrl>
+ <Point>
+ <coordinates>6.82430,60.48490</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5736">
+ <IconStyle id="icon5736">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5736.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5736">
+ <name>5736 GRANVIN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5736:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Voss herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5736"><strong>Meir info om 5736 GRANVIN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5736</styleUrl>
+ <Point>
+ <coordinates>6.71930,60.52400</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

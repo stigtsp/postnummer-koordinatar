@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Rælingen, Akershus</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2005">
+ <IconStyle id="icon2005">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2005.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2005">
+ <name>2005 RÆLINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2005:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2005"><strong>Meir info om 2005 RÆLINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2005</styleUrl>
+ <Point>
+ <coordinates>11.0294,59.94649</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2006">
+ <IconStyle id="icon2006">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2006.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2006">
+ <name>2006 LØVENSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2006:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2006"><strong>Meir info om 2006 LØVENSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2006</styleUrl>
+ <Point>
+ <coordinates>11.0265,59.9372</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2008">
+ <IconStyle id="icon2008">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2008.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2008">
+ <name>2008 FJERDINGBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2008:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2008"><strong>Meir info om 2008 FJERDINGBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2008</styleUrl>
+ <Point>
+ <coordinates>11.0738,59.9218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2009">
+ <IconStyle id="icon2009">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2009.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2009">
+ <name>2009 NORDBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2009:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2009"><strong>Meir info om 2009 NORDBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2009</styleUrl>
+ <Point>
+ <coordinates>11.094,59.8654</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2014">
+ <IconStyle id="icon2014">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2014.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2014">
+ <name>2014 BLYSTADLIA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2014:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2014"><strong>Meir info om 2014 BLYSTADLIA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2014</styleUrl>
+ <Point>
+ <coordinates>11.0386,59.9312</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2018">
+ <IconStyle id="icon2018">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2018.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2018">
+ <name>2018 LØVENSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2018:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2018"><strong>Meir info om 2018 LØVENSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2018</styleUrl>
+ <Point>
+ <coordinates>11.02156,59.93745</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2025">
+ <IconStyle id="icon2025">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2025.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2025">
+ <name>2025 FJERDINGBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2025:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2025"><strong>Meir info om 2025 FJERDINGBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2025</styleUrl>
+ <Point>
+ <coordinates>11.06735,59.93236</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2029">
+ <IconStyle id="icon2029">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2029.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2029">
+ <name>2029 RÆLINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2029:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2029"><strong>Meir info om 2029 RÆLINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2029</styleUrl>
+ <Point>
+ <coordinates>11.0294,59.94649</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Rælingen (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.0251122,59.840541,0 11.1021163,59.8340087,0 11.1001162,59.8445603,0 11.1421185,59.8430531,0 11.1731202,59.8601302,0 11.1731202,59.8601302,0 11.0703999,59.9389997,0 11.0703999,59.9389997,0 11.0636193,59.9411279,0 11.0567958,59.9459211,0 11.0512597,59.9484572,0 11.0401661,59.9511435,0 11.0293299,59.9553551,0 11.0241121,59.9584041,0 11.0121115,59.9423793,0 11.0121115,59.9423793,0 11.0261123,59.9298545,0 11.0201119,59.8872347,0 11.0131116,59.863645,0 11.0251122,59.840541,0 11.0251122,59.840541,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Evje og Hornnes, Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4660">
+ <IconStyle id="icon4660">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4660.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4660">
+ <name>4660 EVJE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4660:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4660"><strong>Meir info om 4660 EVJE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4660</styleUrl>
+ <Point>
+ <coordinates>7.80609,58.58612</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4733">
+ <IconStyle id="icon4733">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4733.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4733">
+ <name>4733 EVJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4733:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4733"><strong>Meir info om 4733 EVJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4733</styleUrl>
+ <Point>
+ <coordinates>7.80609,58.58612</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4734">
+ <IconStyle id="icon4734">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4734.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4734">
+ <name>4734 EVJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4734:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4734"><strong>Meir info om 4734 EVJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4734</styleUrl>
+ <Point>
+ <coordinates>7.80610,58.58610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4735">
+ <IconStyle id="icon4735">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4735.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4735">
+ <name>4735 EVJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4735:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4735"><strong>Meir info om 4735 EVJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4735</styleUrl>
+ <Point>
+ <coordinates>7.80610,58.58610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4737">
+ <IconStyle id="icon4737">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4737.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4737">
+ <name>4737 HORNNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4737:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4737"><strong>Meir info om 4737 HORNNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4737</styleUrl>
+ <Point>
+ <coordinates>7.77160,58.55310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4738">
+ <IconStyle id="icon4738">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4738.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4738">
+ <name>4738 EVJEMOEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4738:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4738"><strong>Meir info om 4738 EVJEMOEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4738</styleUrl>
+ <Point>
+ <coordinates>7.78370,58.56370</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

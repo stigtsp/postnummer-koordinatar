@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>6789 LOEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer6789">
+ <name>6789 LOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6789:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stryn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6789"><strong>Meir info om 6789 LOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>6.84820,61.87190</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 6789 LOEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.72822,61.87440 6.75573,61.87032 6.77403,61.86623 6.78492,61.86273 6.79320,61.86080 6.79826,61.86179 6.80341,61.86327 6.81960,61.87088 6.84076,61.86098 6.84657,61.85778 6.85723,61.85251 6.86968,61.84056 6.87521,61.83306 6.88194,61.82707 6.89402,61.82021 6.89749,61.80595 6.90057,61.79362 6.90316,61.78794 6.89429,61.77661 6.90957,61.76571 6.92728,61.75463 6.91799,61.74958 6.90606,61.74341 6.90945,61.73369 6.91350,61.72064 6.94209,61.70314 6.94815,61.69947 6.96779,61.68759 6.98662,61.67582 7.00337,61.66581 7.01955,61.67129 7.02682,61.67366 7.03205,61.67551 7.03516,61.67669 7.03656,61.67715 7.03807,61.67822 7.04760,61.68470 7.05394,61.68908 7.05828,61.69206 7.06202,61.69472 7.07244,61.70160 7.08122,61.70750 7.08794,61.71203 7.09763,61.71856 7.10506,61.72377 7.11247,61.72870 7.12086,61.73426 7.12581,61.73758 7.12984,61.74024 7.13419,61.74310 7.14096,61.74773 7.14398,61.74968 7.20458,61.79056 7.20888,61.79253 7.21799,61.79690 7.22003,61.79788 7.22442,61.80001 7.18522,61.81580 7.14274,61.83752 7.11396,61.83645 7.07069,61.84075 7.06798,61.85719 7.05093,61.86514 7.04826,61.86565 7.00035,61.87102 6.97868,61.87318 6.98684,61.87550 6.98546,61.87973 6.99008,61.88609 6.98670,61.88919 6.97726,61.89713 6.96750,61.89656 6.95077,61.89508 6.94790,61.89256 6.94036,61.89522 6.91889,61.89265 6.90022,61.89917 6.89498,61.90326 6.88096,61.90358 6.87111,61.89526 6.84822,61.89126 6.84088,61.88982 6.81336,61.89339 6.79096,61.89649 6.77799,61.89477 6.76142,61.89265 6.74690,61.89254 6.72527,61.88808 6.72807,61.87967 6.72822,61.87440</coordinates></LineString></Placemark>
+ </Document>
+</kml>

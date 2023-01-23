@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>8021 BODØ</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer8021">
+ <name>8021 BODØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8021:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bodø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8021"><strong>Meir info om 8021 BODØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>14.51310,67.28000</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 8021 BODØ</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>14.49726,67.27996 14.49654,67.27791 14.49680,67.27766 14.49856,67.27761 14.49804,67.27706 14.50001,67.27695 14.50113,67.27691 14.50247,67.27690 14.50555,67.27720 14.50977,67.27760 14.51363,67.27807 14.51893,67.27853 14.52711,67.27918 14.52940,67.27942 14.52930,67.27996 14.52870,67.28003 14.52825,67.28030 14.52850,67.28065 14.52927,67.28143 14.52908,67.28179 14.52726,67.28210 14.52678,67.28210 14.52656,67.28234 14.52750,67.28289 14.52583,67.28280 14.52201,67.28271 14.51677,67.28224 14.51240,67.28179 14.49726,67.27996</coordinates></LineString></Placemark>
+ </Document>
+</kml>

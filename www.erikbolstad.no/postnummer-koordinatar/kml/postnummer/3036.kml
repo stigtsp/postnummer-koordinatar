@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3036 DRAMMEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3036">
+ <name>3036 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3036:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3036"><strong>Meir info om 3036 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.25840,59.70050</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3036 DRAMMEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.23235,59.71731 10.23288,59.71655 10.23337,59.71472 10.23252,59.71330 10.23234,59.71249 10.23265,59.71152 10.23420,59.70957 10.23692,59.70703 10.23886,59.70428 10.24020,59.70134 10.24139,59.69970 10.24153,59.69907 10.24165,59.69849 10.24180,59.69790 10.24211,59.69730 10.24232,59.69623 10.24242,59.69517 10.24211,59.69390 10.24268,59.69244 10.24250,59.69094 10.24225,59.69010 10.24193,59.68958 10.24180,59.68914 10.24176,59.68846 10.24185,59.68793 10.24476,59.68548 10.24981,59.68559 10.24986,59.68572 10.25204,59.68564 10.25204,59.68550 10.25207,59.68533 10.25283,59.68545 10.25285,59.68556 10.25339,59.68561 10.25339,59.68510 10.25283,59.68512 10.25240,59.68411 10.25566,59.68397 10.25899,59.68231 10.25929,59.68217 10.25984,59.68206 10.26129,59.68206 10.26290,59.68204 10.26424,59.68202 10.26490,59.68196 10.26881,59.68206 10.27341,59.68239 10.29161,59.68360 10.29511,59.68702 10.30044,59.69116 10.28235,59.69860 10.27932,59.70094 10.27705,59.70215 10.27268,59.70272 10.26670,59.70325 10.26536,59.70342 10.26257,59.70456 10.25996,59.70446 10.25963,59.70278 10.25073,59.70253 10.24811,59.70454 10.24528,59.70981 10.24512,59.71025 10.24494,59.71113 10.24456,59.71312 10.24490,59.71590 10.24538,59.72112 10.24001,59.72159 10.23754,59.72290 10.23658,59.72068 10.23565,59.72042 10.23339,59.72098 10.23105,59.72479 10.22959,59.72456 10.22880,59.72553 10.22841,59.72540 10.22827,59.72512 10.22825,59.72485 10.22727,59.72448 10.22805,59.72351 10.22911,59.72095 10.22981,59.71976 10.23235,59.71731</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Halden, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1750">
+ <IconStyle id="icon1750">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1750.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1750">
+ <name>1750 HALDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1750:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1750"><strong>Meir info om 1750 HALDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1750</styleUrl>
+ <Point>
+ <coordinates>11.38900,59.12550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1751">
+ <IconStyle id="icon1751">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1751.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1751">
+ <name>1751 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1751:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1751"><strong>Meir info om 1751 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1751</styleUrl>
+ <Point>
+ <coordinates>11.38900,59.12550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1752">
+ <IconStyle id="icon1752">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1752.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1752">
+ <name>1752 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1752:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1752"><strong>Meir info om 1752 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1752</styleUrl>
+ <Point>
+ <coordinates>11.38898,59.12554</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1753">
+ <IconStyle id="icon1753">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1753.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1753">
+ <name>1753 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1753:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1753"><strong>Meir info om 1753 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1753</styleUrl>
+ <Point>
+ <coordinates>11.38900,59.12550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1754">
+ <IconStyle id="icon1754">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1754.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1754">
+ <name>1754 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1754:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1754"><strong>Meir info om 1754 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1754</styleUrl>
+ <Point>
+ <coordinates>11.38900,59.12550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1755">
+ <IconStyle id="icon1755">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1755.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1755">
+ <name>1755 HALDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1755:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1755"><strong>Meir info om 1755 HALDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1755</styleUrl>
+ <Point>
+ <coordinates>11.38900,59.12550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1756">
+ <IconStyle id="icon1756">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1756.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1756">
+ <name>1756 HALDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1756:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1756"><strong>Meir info om 1756 HALDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1756</styleUrl>
+ <Point>
+ <coordinates>11.39010,59.12900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1757">
+ <IconStyle id="icon1757">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1757.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1757">
+ <name>1757 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1757:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1757"><strong>Meir info om 1757 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1757</styleUrl>
+ <Point>
+ <coordinates>11.35270,59.12800</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1758">
+ <IconStyle id="icon1758">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1758.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1758">
+ <name>1758 HALDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1758:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1758"><strong>Meir info om 1758 HALDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1758</styleUrl>
+ <Point>
+ <coordinates>11.37600,59.12890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1759">
+ <IconStyle id="icon1759">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1759.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1759">
+ <name>1759 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1759:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1759"><strong>Meir info om 1759 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1759</styleUrl>
+ <Point>
+ <coordinates>11.38051,59.14047</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1760">
+ <IconStyle id="icon1760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1760">
+ <name>1760 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1760:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1760"><strong>Meir info om 1760 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1760</styleUrl>
+ <Point>
+ <coordinates>11.38051,59.14047</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1761">
+ <IconStyle id="icon1761">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1761.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1761">
+ <name>1761 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1761:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1761"><strong>Meir info om 1761 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1761</styleUrl>
+ <Point>
+ <coordinates>11.41124,59.11756</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1762">
+ <IconStyle id="icon1762">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1762.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1762">
+ <name>1762 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1762:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1762"><strong>Meir info om 1762 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1762</styleUrl>
+ <Point>
+ <coordinates>11.33870,59.19000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1763">
+ <IconStyle id="icon1763">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1763.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1763">
+ <name>1763 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1763:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1763"><strong>Meir info om 1763 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1763</styleUrl>
+ <Point>
+ <coordinates>11.34140,59.18220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1764">
+ <IconStyle id="icon1764">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1764.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1764">
+ <name>1764 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1764:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1764"><strong>Meir info om 1764 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1764</styleUrl>
+ <Point>
+ <coordinates>11.48980,59.17230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1765">
+ <IconStyle id="icon1765">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1765.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1765">
+ <name>1765 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1765:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1765"><strong>Meir info om 1765 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1765</styleUrl>
+ <Point>
+ <coordinates>11.45380,59.01360</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1766">
+ <IconStyle id="icon1766">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1766.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1766">
+ <name>1766 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1766:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1766"><strong>Meir info om 1766 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1766</styleUrl>
+ <Point>
+ <coordinates>11.50190,59.03500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1767">
+ <IconStyle id="icon1767">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1767.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1767">
+ <name>1767 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1767:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1767"><strong>Meir info om 1767 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1767</styleUrl>
+ <Point>
+ <coordinates>11.38960,59.11920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1768">
+ <IconStyle id="icon1768">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1768.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1768">
+ <name>1768 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1768:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1768"><strong>Meir info om 1768 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1768</styleUrl>
+ <Point>
+ <coordinates>11.38950,59.11240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1769">
+ <IconStyle id="icon1769">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1769.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1769">
+ <name>1769 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1769:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1769"><strong>Meir info om 1769 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1769</styleUrl>
+ <Point>
+ <coordinates>11.40380,59.10690</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1771">
+ <IconStyle id="icon1771">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1771.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1771">
+ <name>1771 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1771:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1771"><strong>Meir info om 1771 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1771</styleUrl>
+ <Point>
+ <coordinates>11.37620,59.12230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1772">
+ <IconStyle id="icon1772">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1772.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1772">
+ <name>1772 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1772:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1772"><strong>Meir info om 1772 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1772</styleUrl>
+ <Point>
+ <coordinates>11.39580,59.12630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1776">
+ <IconStyle id="icon1776">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1776.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1776">
+ <name>1776 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1776:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1776"><strong>Meir info om 1776 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1776</styleUrl>
+ <Point>
+ <coordinates>11.38300,59.12500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1777">
+ <IconStyle id="icon1777">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1777.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1777">
+ <name>1777 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1777:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1777"><strong>Meir info om 1777 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1777</styleUrl>
+ <Point>
+ <coordinates>11.39260,59.13070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1778">
+ <IconStyle id="icon1778">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1778.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1778">
+ <name>1778 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1778:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1778"><strong>Meir info om 1778 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1778</styleUrl>
+ <Point>
+ <coordinates>11.38050,59.12960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1779">
+ <IconStyle id="icon1779">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1779.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1779">
+ <name>1779 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1779:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1779"><strong>Meir info om 1779 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1779</styleUrl>
+ <Point>
+ <coordinates>11.38170,59.14060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1780">
+ <IconStyle id="icon1780">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1780.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1780">
+ <name>1780 KORNSJØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1780:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1780"><strong>Meir info om 1780 KORNSJØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1780</styleUrl>
+ <Point>
+ <coordinates>11.65990,58.94140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1781">
+ <IconStyle id="icon1781">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1781.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1781">
+ <name>1781 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1781:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1781"><strong>Meir info om 1781 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1781</styleUrl>
+ <Point>
+ <coordinates>11.36760,59.12920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1782">
+ <IconStyle id="icon1782">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1782.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1782">
+ <name>1782 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1782:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1782"><strong>Meir info om 1782 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1782</styleUrl>
+ <Point>
+ <coordinates>11.37190,59.14120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1783">
+ <IconStyle id="icon1783">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1783.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1783">
+ <name>1783 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1783:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1783"><strong>Meir info om 1783 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1783</styleUrl>
+ <Point>
+ <coordinates>11.35070,59.13510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1784">
+ <IconStyle id="icon1784">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1784.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1784">
+ <name>1784 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1784:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1784"><strong>Meir info om 1784 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1784</styleUrl>
+ <Point>
+ <coordinates>11.39030,59.14260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1785">
+ <IconStyle id="icon1785">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1785.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1785">
+ <name>1785 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1785:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1785"><strong>Meir info om 1785 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1785</styleUrl>
+ <Point>
+ <coordinates>11.40600,59.14140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1786">
+ <IconStyle id="icon1786">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1786.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1786">
+ <name>1786 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1786:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1786"><strong>Meir info om 1786 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1786</styleUrl>
+ <Point>
+ <coordinates>11.40620,59.13260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1787">
+ <IconStyle id="icon1787">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1787.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1787">
+ <name>1787 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1787:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1787"><strong>Meir info om 1787 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1787</styleUrl>
+ <Point>
+ <coordinates>11.30748,59.12052</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1788">
+ <IconStyle id="icon1788">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1788.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1788">
+ <name>1788 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1788:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1788"><strong>Meir info om 1788 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1788</styleUrl>
+ <Point>
+ <coordinates>11.30440,59.12040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1789">
+ <IconStyle id="icon1789">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1789.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1789">
+ <name>1789 BERG I ØSTFOLD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1789:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1789"><strong>Meir info om 1789 BERG I ØSTFOLD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1789</styleUrl>
+ <Point>
+ <coordinates>11.24880,59.13260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1790">
+ <IconStyle id="icon1790">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1790.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1790">
+ <name>1790 TISTEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1790:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1790"><strong>Meir info om 1790 TISTEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1790</styleUrl>
+ <Point>
+ <coordinates>11.44738,59.12288</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1791">
+ <IconStyle id="icon1791">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1791.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1791">
+ <name>1791 TISTEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1791:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1791"><strong>Meir info om 1791 TISTEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1791</styleUrl>
+ <Point>
+ <coordinates>11.44060,59.13640</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1792">
+ <IconStyle id="icon1792">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1792.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1792">
+ <name>1792 TISTEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1792:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1792"><strong>Meir info om 1792 TISTEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1792</styleUrl>
+ <Point>
+ <coordinates>11.44380,59.12640</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1793">
+ <IconStyle id="icon1793">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1793.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1793">
+ <name>1793 TISTEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1793:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1793"><strong>Meir info om 1793 TISTEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1793</styleUrl>
+ <Point>
+ <coordinates>11.43270,59.11330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1794">
+ <IconStyle id="icon1794">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1794.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1794">
+ <name>1794 SPONVIKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1794:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1794"><strong>Meir info om 1794 SPONVIKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1794</styleUrl>
+ <Point>
+ <coordinates>11.22980,59.09260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1796">
+ <IconStyle id="icon1796">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1796.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1796">
+ <name>1796 KORNSJØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1796:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1796"><strong>Meir info om 1796 KORNSJØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1796</styleUrl>
+ <Point>
+ <coordinates>11.65990,58.94140</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Råde, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1640">
+ <IconStyle id="icon1640">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1640.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1640">
+ <name>1640 RÅDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1640:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Råde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1640"><strong>Meir info om 1640 RÅDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1640</styleUrl>
+ <Point>
+ <coordinates>10.87220,59.35200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1641">
+ <IconStyle id="icon1641">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1641.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1641">
+ <name>1641 RÅDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1641:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Råde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1641"><strong>Meir info om 1641 RÅDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1641</styleUrl>
+ <Point>
+ <coordinates>10.86377,59.35317</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1642">
+ <IconStyle id="icon1642">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1642.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1642">
+ <name>1642 SALTNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1642:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Råde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1642"><strong>Meir info om 1642 SALTNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1642</styleUrl>
+ <Point>
+ <coordinates>10.76120,59.29462</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1643">
+ <IconStyle id="icon1643">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1643.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1643">
+ <name>1643 RÅDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1643:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Råde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1643"><strong>Meir info om 1643 RÅDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1643</styleUrl>
+ <Point>
+ <coordinates>10.87220,59.35200</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

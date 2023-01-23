@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Kvalsund, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9620">
+ <IconStyle id="icon9620">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9620.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9620">
+ <name>9620 KVALSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9620:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvalsund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9620"><strong>Meir info om 9620 KVALSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9620</styleUrl>
+ <Point>
+ <coordinates>23.9817,70.5021</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9621">
+ <IconStyle id="icon9621">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9621.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9621">
+ <name>9621 KVALSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9621:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvalsund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9621"><strong>Meir info om 9621 KVALSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9621</styleUrl>
+ <Point>
+ <coordinates>23.98084,70.50189</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9624">
+ <IconStyle id="icon9624">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9624.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9624">
+ <name>9624 REVSNESHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9624:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvalsund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9624"><strong>Meir info om 9624 REVSNESHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9624</styleUrl>
+ <Point>
+ <coordinates>24.3491,70.6821</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9684">
+ <IconStyle id="icon9684">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9684.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9684">
+ <name>9684 REVSNESHAMN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9684:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvalsund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9684"><strong>Meir info om 9684 REVSNESHAMN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9684</styleUrl>
+ <Point>
+ <coordinates>24.3491,70.6821</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9715">
+ <IconStyle id="icon9715">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9715.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9715">
+ <name>9715 KOKELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9715:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvalsund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9715"><strong>Meir info om 9715 KOKELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9715</styleUrl>
+ <Point>
+ <coordinates>24.6528,70.6132</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Kvalsund (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>24.1685803,70.7288604,0 24.1743043,70.6711591,0 24.0397915,70.6484115,0 23.8675812,70.5859604,0 23.6383997,70.5766683,0 23.548963,70.4872458,0 23.2668087,70.4268485,0 23.2668087,70.4268485,0 23.7364242,70.3288708,0 23.7679059,70.2255273,0 23.9597971,70.0979566,0 23.9597971,70.0979566,0 24.1733439,70.1146299,0 24.4920532,70.3377076,0 24.6367546,70.3623451,0 24.7338328,70.4182851,0 24.6733879,70.4428257,0 24.6840344,70.4631164,0 24.9738092,70.6204232,0 24.9738092,70.6204232,0 24.7635961,70.6543283,0 24.6038751,70.6548137,0 24.3860903,70.7250818,0 24.1685803,70.7288604,0 24.1685803,70.7288604,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

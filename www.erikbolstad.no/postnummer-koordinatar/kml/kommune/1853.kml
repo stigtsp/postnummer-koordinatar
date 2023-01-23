@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Evenes, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8533">
+ <IconStyle id="icon8533">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8533.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8533">
+ <name>8533 BOGEN I OFOTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8533:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8533"><strong>Meir info om 8533 BOGEN I OFOTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8533</styleUrl>
+ <Point>
+ <coordinates>16.99280,68.52650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8534">
+ <IconStyle id="icon8534">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8534.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8534">
+ <name>8534 LILAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8534:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8534"><strong>Meir info om 8534 LILAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8534</styleUrl>
+ <Point>
+ <coordinates>16.88880,68.48110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8535">
+ <IconStyle id="icon8535">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8535.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8535">
+ <name>8535 TÅRSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8535:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8535"><strong>Meir info om 8535 TÅRSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8535</styleUrl>
+ <Point>
+ <coordinates>16.62230,68.46040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8536">
+ <IconStyle id="icon8536">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8536.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8536">
+ <name>8536 EVENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8536:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8536"><strong>Meir info om 8536 EVENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8536</styleUrl>
+ <Point>
+ <coordinates>16.69270,68.49230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8539">
+ <IconStyle id="icon8539">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8539.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8539">
+ <name>8539 BOGEN I OFOTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8539:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8539"><strong>Meir info om 8539 BOGEN I OFOTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8539</styleUrl>
+ <Point>
+ <coordinates>17.00877,68.52384</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Evenes (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>17.3374624,68.5649233,0 17.2690807,68.5374032,0 17.2481009,68.488339,0 17.2916744,68.4966224,0 17.3614727,68.4693942,0 17.2101758,68.427897,0 16.9736198,68.419465,0 16.9736198,68.419465,0 16.8108421,68.4422471,0 16.5662625,68.4367815,0 16.5662625,68.4367815,0 16.573362,68.5061941,0 16.573362,68.5061941,0 16.7164127,68.5142891,0 16.8676046,68.5746967,0 17.2211609,68.5593974,0 17.3374624,68.5649233,0 17.3374624,68.5649233,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

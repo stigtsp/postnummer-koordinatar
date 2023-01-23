@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2673 HØVRINGEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2673">
+ <name>2673 HØVRINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2673:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sel kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2673"><strong>Meir info om 2673 HØVRINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.48260,61.89470</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2673 HØVRINGEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.42329,61.90430 9.43187,61.86075 9.45725,61.85138 9.51516,61.83603 9.54927,61.82966 9.57698,61.85021 9.59047,61.88174 9.61813,61.89925 9.61834,61.90016 9.61766,61.90088 9.61605,61.90123 9.61451,61.90174 9.61405,61.90264 9.61299,61.90340 9.61062,61.90422 9.60843,61.90516 9.60661,61.90584 9.60594,61.90770 9.60681,61.91031 9.60831,61.92572 9.60860,61.92698 9.60862,61.92852 9.60872,61.93010 9.60939,61.93109 9.61054,61.93221 9.61092,61.93342 9.61133,61.93447 9.61267,61.93478 9.61437,61.93464 9.61650,61.93577 9.61938,61.93725 9.62301,61.93950 9.62302,61.94103 9.62458,61.94436 9.62562,61.94518 9.62717,61.94654 9.62448,61.94826 9.59296,61.95434 9.57739,61.95740 9.55302,61.94907 9.50713,61.93334 9.46026,61.91754 9.45972,61.91735 9.45241,61.91472 9.43855,61.90976 9.42571,61.90517 9.42329,61.90430</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>6224 HUNDEIDVIK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer6224">
+ <name>6224 HUNDEIDVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6224:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sykkylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6224"><strong>Meir info om 6224 HUNDEIDVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>6.42520,62.37130</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 6224 HUNDEIDVIK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.36339,62.39435 6.38050,62.37581 6.37955,62.37058 6.37724,62.35779 6.41745,62.32846 6.43922,62.33305 6.44068,62.33334 6.44255,62.33361 6.44434,62.33406 6.44674,62.33463 6.44923,62.33489 6.45204,62.33486 6.45349,62.33535 6.45441,62.33573 6.45522,62.33611 6.45649,62.33663 6.45743,62.33714 6.45840,62.33734 6.45927,62.33730 6.46898,62.33642 6.47008,62.33626 6.47173,62.33596 6.47292,62.33582 6.47207,62.33525 6.47126,62.33463 6.47084,62.33387 6.47087,62.33286 6.47098,62.33229 6.47141,62.33160 6.47215,62.33064 6.47400,62.32863 6.47527,62.32821 6.48330,62.33138 6.49172,62.33382 6.49753,62.33429 6.50178,62.33626 6.52312,62.34638 6.49888,62.35534 6.48896,62.35434 6.48375,62.35847 6.46919,62.36814 6.45436,62.37978 6.45015,62.38306 6.43976,62.38515 6.43043,62.38577 6.38946,62.40117 6.36339,62.39435</coordinates></LineString></Placemark>
+ </Document>
+</kml>

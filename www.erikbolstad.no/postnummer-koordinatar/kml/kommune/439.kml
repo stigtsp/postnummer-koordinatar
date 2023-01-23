@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Folldal, Hedmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2580">
+ <IconStyle id="icon2580">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2580.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2580">
+ <name>2580 FOLLDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2580:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2580"><strong>Meir info om 2580 FOLLDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2580</styleUrl>
+ <Point>
+ <coordinates>9.9968,62.1325</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2581">
+ <IconStyle id="icon2581">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2581.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2581">
+ <name>2581 FOLLDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2581:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2581"><strong>Meir info om 2581 FOLLDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2581</styleUrl>
+ <Point>
+ <coordinates>9.99344,62.13324</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2582">
+ <IconStyle id="icon2582">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2582.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2582">
+ <name>2582 GRIMSBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2582:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2582"><strong>Meir info om 2582 GRIMSBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2582</styleUrl>
+ <Point>
+ <coordinates>10.1731,62.1561</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2584">
+ <IconStyle id="icon2584">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2584.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2584">
+ <name>2584 DALHOLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2584:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2584"><strong>Meir info om 2584 DALHOLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2584</styleUrl>
+ <Point>
+ <coordinates>9.8162,62.175</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Folldal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.0862471,61.9083825,0 10.1297115,61.9510836,0 10.1534269,61.9506853,0 10.1534269,61.9506853,0 10.1229357,61.9745724,0 10.1635906,62.0437395,0 10.3821104,62.2033342,0 10.3346798,62.2502997,0 10.3423026,62.282226,0 10.3423026,62.282226,0 10.3428433,62.2863265,0 10.3272318,62.2968115,0 10.2252369,62.3242168,0 10.2384091,62.378123,0 10.1645528,62.3916284,0 10.1652303,62.4035584,0 10.1028929,62.401675,0 10.0968194,62.4278008,0 10.0968194,62.4278008,0 9.9517822,62.3972704,0 9.936839,62.3577381,0 9.8999205,62.3455011,0 9.8401476,62.3622238,0 9.8216883,62.3438691,0 9.8542118,62.3310142,0 9.7856488,62.2875114,0 9.7856488,62.2875114,0 9.7185118,62.2600958,0 9.6474261,62.2004246,0 9.5845652,62.186722,0 9.6503635,62.1406354,0 9.7637482,62.1241589,0 9.913557,62.066971,0 9.9278293,62.0476605,0 9.8776529,62.0417801,0 9.8425294,62.0141267,0 9.8726352,61.9504875,0 9.851285,61.9149402,0 9.8489843,61.9037347,0 9.8489843,61.9037347,0 10.0138667,61.8869186,0 10.0138667,61.8869186,0 10.0113578,61.9123251,0 10.0862471,61.9083825,0 10.0862471,61.9083825,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

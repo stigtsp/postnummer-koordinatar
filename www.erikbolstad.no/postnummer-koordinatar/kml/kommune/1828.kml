@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nesna, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8700">
+ <IconStyle id="icon8700">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8700.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8700">
+ <name>8700 NESNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8700:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8700"><strong>Meir info om 8700 NESNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8700</styleUrl>
+ <Point>
+ <coordinates>13.01850,66.19810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8701">
+ <IconStyle id="icon8701">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8701.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8701">
+ <name>8701 NESNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8701:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8701"><strong>Meir info om 8701 NESNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8701</styleUrl>
+ <Point>
+ <coordinates>13.02311,66.19972</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8720">
+ <IconStyle id="icon8720">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8720.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8720">
+ <name>8720 VIKHOLMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8720:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8720"><strong>Meir info om 8720 VIKHOLMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8720</styleUrl>
+ <Point>
+ <coordinates>12.95320,66.18910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8723">
+ <IconStyle id="icon8723">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8723.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8723">
+ <name>8723 HUSBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8723:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8723"><strong>Meir info om 8723 HUSBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8723</styleUrl>
+ <Point>
+ <coordinates>12.76960,66.22550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8724">
+ <IconStyle id="icon8724">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8724.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8724">
+ <name>8724 SAURA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8724:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8724"><strong>Meir info om 8724 SAURA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8724</styleUrl>
+ <Point>
+ <coordinates>12.98860,66.23260</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nesna (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>13.1952526,66.2973071,0 13.2828385,66.3049456,0 13.3239226,66.2421466,0 13.3239226,66.2421466,0 13.1862501,66.1921632,0 12.8351829,66.1501398,0 12.8351829,66.1501398,0 12.8254034,66.1874004,0 12.6673769,66.2090756,0 12.6260627,66.2648455,0 12.6260627,66.2648455,0 12.807726,66.3344813,0 12.8787863,66.3331546,0 12.9473678,66.3085979,0 13.1952526,66.2973071,0 13.1952526,66.2973071,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

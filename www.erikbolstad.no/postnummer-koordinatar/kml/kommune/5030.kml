@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Klæbu, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7060">
+ <IconStyle id="icon7060">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7060.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7060">
+ <name>7060 KLÆBU (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7060:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klæbu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7060"><strong>Meir info om 7060 KLÆBU (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7060</styleUrl>
+ <Point>
+ <coordinates>10.4826,63.2976</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7540">
+ <IconStyle id="icon7540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7540">
+ <name>7540 KLÆBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klæbu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7540"><strong>Meir info om 7540 KLÆBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7540</styleUrl>
+ <Point>
+ <coordinates>10.4826,63.2976</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7541">
+ <IconStyle id="icon7541">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7541.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7541">
+ <name>7541 KLÆBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7541:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klæbu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7541"><strong>Meir info om 7541 KLÆBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7541</styleUrl>
+ <Point>
+ <coordinates>10.48331,63.29934</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7548">
+ <IconStyle id="icon7548">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7548.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7548">
+ <name>7548 TANEM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7548:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klæbu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7548"><strong>Meir info om 7548 TANEM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7548</styleUrl>
+ <Point>
+ <coordinates>10.4356,63.3082</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7549">
+ <IconStyle id="icon7549">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7549.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7549">
+ <name>7549 TANEM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7549:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klæbu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7549"><strong>Meir info om 7549 TANEM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7549</styleUrl>
+ <Point>
+ <coordinates>10.4356,63.3082</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Odda, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5750">
+ <IconStyle id="icon5750">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5750.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5750">
+ <name>5750 ODDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5750:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Odda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5750"><strong>Meir info om 5750 ODDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5750</styleUrl>
+ <Point>
+ <coordinates>6.5457,60.0691</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5751">
+ <IconStyle id="icon5751">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5751.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5751">
+ <name>5751 ODDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5751:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Odda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5751"><strong>Meir info om 5751 ODDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5751</styleUrl>
+ <Point>
+ <coordinates>6.54214,60.07029</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5752">
+ <IconStyle id="icon5752">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5752.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5752">
+ <name>5752 ODDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5752:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Odda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5752"><strong>Meir info om 5752 ODDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5752</styleUrl>
+ <Point>
+ <coordinates>6.54214,60.07029</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5760">
+ <IconStyle id="icon5760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5760">
+ <name>5760 RØLDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Odda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5760"><strong>Meir info om 5760 RØLDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5760</styleUrl>
+ <Point>
+ <coordinates>6.82267,59.83078</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5763">
+ <IconStyle id="icon5763">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5763.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5763">
+ <name>5763 SKARE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5763:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Odda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5763"><strong>Meir info om 5763 SKARE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5763</styleUrl>
+ <Point>
+ <coordinates>6.5942,59.932</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5770">
+ <IconStyle id="icon5770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5770">
+ <name>5770 TYSSEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5770:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Odda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5770"><strong>Meir info om 5770 TYSSEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5770</styleUrl>
+ <Point>
+ <coordinates>6.5569,60.1161</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Odda (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.4654073,60.2003756,0 6.578854,60.1639651,0 6.7376795,60.1808933,0 6.9140376,60.1043905,0 7.0615184,60.0961649,0 7.1007091,60.0477977,0 7.0811137,60.040073,0 7.1110224,60.0246181,0 7.2275632,60.0009065,0 7.3729813,59.9993595,0 7.3729813,59.9993595,0 7.2673925,59.9843819,0 7.2312958,59.9611578,0 7.1456951,59.8810389,0 7.1570398,59.8276916,0 7.0961911,59.7851597,0 7.0961911,59.7851597,0 6.975525,59.7747778,0 6.7671955,59.7025346,0 6.6877828,59.6968108,0 6.6877828,59.6968108,0 6.6547801,59.713459,0 6.6877828,59.7669893,0 6.6857201,59.8323564,0 6.6568427,59.846347,0 6.5238007,59.8390933,0 6.5238007,59.8390933,0 6.4928606,59.9379174,0 6.3340352,60.0184145,0 6.3340352,60.0184145,0 6.4660459,60.1120807,0 6.4654073,60.2003756,0 6.4654073,60.2003756,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

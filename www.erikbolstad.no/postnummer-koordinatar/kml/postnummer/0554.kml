@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0554 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0554">
+ <name>0554 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0554:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0554"><strong>Meir info om 0554 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.75710,59.92450</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0554 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.75585,59.92432 10.75598,59.92374 10.75601,59.92362 10.75793,59.92363 10.75791,59.92376 10.75826,59.92377 10.75825,59.92393 10.75823,59.92393 10.75822,59.92402 10.75820,59.92422 10.75789,59.92422 10.75789,59.92432 10.75776,59.92432 10.75776,59.92438 10.75761,59.92438 10.75761,59.92458 10.75731,59.92458 10.75729,59.92484 10.75776,59.92484 10.75774,59.92512 10.75784,59.92512 10.75783,59.92526 10.75749,59.92526 10.75745,59.92553 10.75713,59.92555 10.75718,59.92529 10.75572,59.92525 10.75575,59.92462 10.75627,59.92463 10.75623,59.92483 10.75671,59.92484 10.75678,59.92434 10.75585,59.92432</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0554 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.75532,59.92833 10.75487,59.92739 10.75447,59.92717 10.75274,59.92666 10.75262,59.92648 10.75279,59.92624 10.75303,59.92610 10.75317,59.92597 10.75329,59.92580 10.75477,59.92586 10.75608,59.92589 10.75610,59.92575 10.75868,59.92575 10.75863,59.92618 10.75770,59.92613 10.75764,59.92654 10.75864,59.92660 10.75866,59.92698 10.75753,59.92699 10.75750,59.92742 10.75719,59.92747 10.75701,59.92742 10.75648,59.92710 10.75651,59.92688 10.75596,59.92689 10.75581,59.92739 10.75633,59.92747 10.75631,59.92760 10.75584,59.92759 10.75532,59.92833</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense for del 3 0554 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.75693,59.92209 10.75699,59.92146 10.75731,59.92146 10.75733,59.92109 10.75676,59.92110 10.75679,59.92080 10.75705,59.92079 10.75707,59.92060 10.75732,59.92060 10.75731,59.92044 10.75713,59.92045 10.75714,59.92037 10.75778,59.92036 10.75780,59.92068 10.75825,59.92067 10.75826,59.92081 10.75777,59.92083 10.75775,59.92111 10.75751,59.92112 10.75750,59.92131 10.75808,59.92130 10.75807,59.92166 10.75832,59.92166 10.75832,59.92182 10.75838,59.92182 10.75838,59.92209 10.75738,59.92209 10.75735,59.92236 10.75687,59.92235 10.75693,59.92209</coordinates></LineString></Placemark>
+ </Document>
+</kml>

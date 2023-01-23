@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2069 JESSHEIM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2069">
+ <name>2069 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2069:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2069"><strong>Meir info om 2069 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.18510,60.15700</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2069 JESSHEIM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.17299,60.15353 11.17274,60.15293 11.17227,60.15294 11.17214,60.15214 11.17211,60.15199 11.17250,60.15197 11.17298,60.15220 11.17337,60.15219 11.17431,60.15177 11.17468,60.15176 11.17480,60.15149 11.17482,60.15129 11.17468,60.15110 11.17438,60.15077 11.17615,60.15069 11.17631,60.15130 11.17646,60.15141 11.17701,60.15131 11.17699,60.15145 11.17732,60.15141 11.17841,60.15087 11.17896,60.15122 11.17925,60.15124 11.17952,60.15143 11.18063,60.15122 11.18003,60.14924 11.17905,60.14678 11.17817,60.14445 11.18325,60.14391 11.18854,60.14346 11.18850,60.14454 11.18842,60.14638 11.19181,60.14857 11.20193,60.15121 11.20566,60.15167 11.20843,60.16425 11.19684,60.16429 11.18579,60.16485 11.18445,60.16498 11.18357,60.16364 11.18272,60.16107 11.18220,60.15878 11.18183,60.15608 11.18173,60.15538 11.18054,60.15517 11.18007,60.15484 11.17940,60.15478 11.17934,60.15459 11.17827,60.15448 11.17839,60.15401 11.17706,60.15369 11.17680,60.15415 11.17544,60.15419 11.17547,60.15382 11.17408,60.15372 11.17299,60.15353</coordinates></LineString></Placemark>
+ </Document>
+</kml>

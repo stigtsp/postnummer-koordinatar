@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3076 SANDE I VESTFOLD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3076">
+ <name>3076 SANDE I VESTFOLD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3076:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Holmestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3076"><strong>Meir info om 3076 SANDE I VESTFOLD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.24980,59.57940</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3076 SANDE I VESTFOLD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.23488,59.58727 10.23643,59.58395 10.23699,59.58321 10.24352,59.58191 10.24399,59.58043 10.24409,59.58001 10.24557,59.57822 10.24605,59.57783 10.24621,59.57750 10.24611,59.57740 10.24848,59.57645 10.25014,59.57561 10.25285,59.57381 10.25520,59.57216 10.25636,59.57141 10.25691,59.57106 10.25719,59.57107 10.25751,59.57114 10.25763,59.57111 10.25795,59.57138 10.25823,59.57157 10.25821,59.57290 10.25901,59.57326 10.25917,59.57419 10.25903,59.57544 10.25800,59.57711 10.25777,59.58300 10.26025,59.58674 10.23724,59.59076 10.23488,59.58727</coordinates></LineString></Placemark>
+ </Document>
+</kml>

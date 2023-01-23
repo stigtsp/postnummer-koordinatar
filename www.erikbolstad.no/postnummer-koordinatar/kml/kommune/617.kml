@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Gol, Buskerud</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3550">
+ <IconStyle id="icon3550">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3550.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3550">
+ <name>3550 GOL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3550:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3550"><strong>Meir info om 3550 GOL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3550</styleUrl>
+ <Point>
+ <coordinates>8.9457,60.7014</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3551">
+ <IconStyle id="icon3551">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3551.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3551">
+ <name>3551 GOL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3551:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3551"><strong>Meir info om 3551 GOL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3551</styleUrl>
+ <Point>
+ <coordinates>8.94545,60.70057</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Gol (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.9154932,60.8675549,0 9.2574431,60.7704484,0 9.2574431,60.7704484,0 9.3303679,60.7336204,0 9.3199501,60.7015486,0 9.3199501,60.7015486,0 9.1600757,60.6588581,0 9.1361378,60.66393,0 9.0837334,60.6382452,0 9.0617364,60.6369762,0 9.0313289,60.6709026,0 8.9504578,60.6718533,0 8.8618231,60.6541024,0 8.8450019,60.6347555,0 8.8450019,60.6347555,0 8.7176394,60.7697343,0 8.7176394,60.7697343,0 8.8268154,60.8742148,0 8.9154932,60.8675549,0 8.9154932,60.8675549,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

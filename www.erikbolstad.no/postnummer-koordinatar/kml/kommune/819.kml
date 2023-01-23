@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nome, Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3825">
+ <IconStyle id="icon3825">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3825.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3825">
+ <name>3825 LUNDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3825:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3825"><strong>Meir info om 3825 LUNDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3825</styleUrl>
+ <Point>
+ <coordinates>9.1033,59.2986</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3830">
+ <IconStyle id="icon3830">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3830.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3830">
+ <name>3830 ULEFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3830:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3830"><strong>Meir info om 3830 ULEFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3830</styleUrl>
+ <Point>
+ <coordinates>9.2632,59.2841</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3831">
+ <IconStyle id="icon3831">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3831.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3831">
+ <name>3831 ULEFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3831:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3831"><strong>Meir info om 3831 ULEFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3831</styleUrl>
+ <Point>
+ <coordinates>9.26854,59.28244</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3832">
+ <IconStyle id="icon3832">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3832.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3832">
+ <name>3832 LUNDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3832:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3832"><strong>Meir info om 3832 LUNDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3832</styleUrl>
+ <Point>
+ <coordinates>9.10272,59.29989</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nome (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.8810618,59.3531252,0 8.8823819,59.3032927,0 8.8269374,59.3032927,0 8.8206685,59.2766973,0 8.8206685,59.2766973,0 8.8647904,59.2546415,0 8.9727582,59.2645259,0 9.0452739,59.2084766,0 9.0791145,59.2060017,0 9.1258468,59.2249712,0 9.1854708,59.1853707,0 9.1661333,59.1448977,0 9.2273688,59.1465506,0 9.2273688,59.1465506,0 9.2467063,59.1539877,0 9.2499292,59.1787661,0 9.3014959,59.1977508,0 9.2628209,59.2183743,0 9.3256678,59.2175496,0 9.399795,59.2282692,0 9.4336356,59.2406338,0 9.3611199,59.2867552,0 9.3127762,59.2884012,0 9.2628209,59.3361018,0 9.2628209,59.3361018,0 9.211766,59.324066,0 9.1376389,59.3429699,0 9.1035842,59.3847709,0 9.1035842,59.3847709,0 9.0570659,59.386491,0 9.0103335,59.3577569,0 8.9829387,59.3676113,0 8.9039772,59.3446132,0 8.8810618,59.3531252,0 8.8810618,59.3531252,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

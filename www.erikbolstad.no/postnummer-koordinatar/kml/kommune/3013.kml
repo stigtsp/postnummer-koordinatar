@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Marker, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1775">
+ <IconStyle id="icon1775">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1775.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1775">
+ <name>1775 OTTEID (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1775:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Marker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1775"><strong>Meir info om 1775 OTTEID (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1775</styleUrl>
+ <Point>
+ <coordinates>11.71450,59.35180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1870">
+ <IconStyle id="icon1870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1870">
+ <name>1870 ØRJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Marker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1870"><strong>Meir info om 1870 ØRJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1870</styleUrl>
+ <Point>
+ <coordinates>11.66020,59.48020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1871">
+ <IconStyle id="icon1871">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1871.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1871">
+ <name>1871 ØRJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1871:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Marker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1871"><strong>Meir info om 1871 ØRJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1871</styleUrl>
+ <Point>
+ <coordinates>11.66160,59.48066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1875">
+ <IconStyle id="icon1875">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1875.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1875">
+ <name>1875 OTTEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1875:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Marker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1875"><strong>Meir info om 1875 OTTEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1875</styleUrl>
+ <Point>
+ <coordinates>11.71450,59.35180</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

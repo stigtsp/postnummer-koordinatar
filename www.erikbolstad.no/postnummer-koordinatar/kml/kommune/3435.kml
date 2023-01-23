@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vågå, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2680">
+ <IconStyle id="icon2680">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2680.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2680">
+ <name>2680 VÅGÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2680:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vågå kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2680"><strong>Meir info om 2680 VÅGÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2680</styleUrl>
+ <Point>
+ <coordinates>9.09670,61.87500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2681">
+ <IconStyle id="icon2681">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2681.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2681">
+ <name>2681 LALM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2681:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vågå kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2681"><strong>Meir info om 2681 LALM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2681</styleUrl>
+ <Point>
+ <coordinates>9.27611,61.81673</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2682">
+ <IconStyle id="icon2682">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2682.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2682">
+ <name>2682 LALM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2682:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vågå kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2682"><strong>Meir info om 2682 LALM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2682</styleUrl>
+ <Point>
+ <coordinates>9.27610,61.81670</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2683">
+ <IconStyle id="icon2683">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2683.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2683">
+ <name>2683 TESSANDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2683:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vågå kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2683"><strong>Meir info om 2683 TESSANDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2683</styleUrl>
+ <Point>
+ <coordinates>8.96290,61.84750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2684">
+ <IconStyle id="icon2684">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2684.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2684">
+ <name>2684 VÅGÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2684:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vågå kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2684"><strong>Meir info om 2684 VÅGÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2684</styleUrl>
+ <Point>
+ <coordinates>9.08642,61.86801</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

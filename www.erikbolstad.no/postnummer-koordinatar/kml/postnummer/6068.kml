@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>6068 EIKSUND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer6068">
+ <name>6068 EIKSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6068:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulstein kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6068"><strong>Meir info om 6068 EIKSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.89340,62.25220</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 6068 EIKSUND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.85515,62.27554 5.83381,62.26760 5.82265,62.26173 5.80186,62.25078 5.80290,62.24939 5.80522,62.24628 5.85728,62.24028 5.84825,62.23271 5.84690,62.21615 5.85353,62.21925 5.88163,62.23239 5.92229,62.23752 5.93355,62.24701 5.95451,62.26465 5.89290,62.27080 5.85776,62.26953 5.85515,62.27554</coordinates></LineString></Placemark>
+ </Document>
+</kml>

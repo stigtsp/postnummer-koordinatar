@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vik, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6891">
+ <IconStyle id="icon6891">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6891.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6891">
+ <name>6891 VIK I SOGN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6891:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6891"><strong>Meir info om 6891 VIK I SOGN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6891</styleUrl>
+ <Point>
+ <coordinates>6.59088,61.08908</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6893">
+ <IconStyle id="icon6893">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6893.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6893">
+ <name>6893 VIK I SOGN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6893:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6893"><strong>Meir info om 6893 VIK I SOGN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6893</styleUrl>
+ <Point>
+ <coordinates>6.57970,61.08790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6894">
+ <IconStyle id="icon6894">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6894.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6894">
+ <name>6894 VANGSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6894:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6894"><strong>Meir info om 6894 VANGSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6894</styleUrl>
+ <Point>
+ <coordinates>6.63990,61.17340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6895">
+ <IconStyle id="icon6895">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6895.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6895">
+ <name>6895 FEIOS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6895:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6895"><strong>Meir info om 6895 FEIOS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6895</styleUrl>
+ <Point>
+ <coordinates>6.75110,61.14860</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6896">
+ <IconStyle id="icon6896">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6896.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6896">
+ <name>6896 FRESVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6896:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6896"><strong>Meir info om 6896 FRESVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6896</styleUrl>
+ <Point>
+ <coordinates>6.93460,61.07260</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

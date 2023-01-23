@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Åseral, Vest-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4540">
+ <IconStyle id="icon4540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4540">
+ <name>4540 ÅSERAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åseral kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4540"><strong>Meir info om 4540 ÅSERAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4540</styleUrl>
+ <Point>
+ <coordinates>7.4141,58.6154</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4541">
+ <IconStyle id="icon4541">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4541.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4541">
+ <name>4541 ÅSERAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4541:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åseral kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4541"><strong>Meir info om 4541 ÅSERAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4541</styleUrl>
+ <Point>
+ <coordinates>7.42027,58.61658</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4544">
+ <IconStyle id="icon4544">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4544.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4544">
+ <name>4544 FOSSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4544:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åseral kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4544"><strong>Meir info om 4544 FOSSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4544</styleUrl>
+ <Point>
+ <coordinates>7.4161,58.5391</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Åseral (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.3797525,58.513834,0 7.4276798,58.4898194,0 7.519099,58.5161791,0 7.519099,58.5161791,0 7.5261905,58.5393189,0 7.5598751,58.5467204,0 7.6130613,58.5924825,0 7.5403735,58.6224958,0 7.547465,58.6847489,0 7.6299036,58.6810629,0 7.646746,58.7307907,0 7.646746,58.7307907,0 7.6662476,58.7694188,0 7.5793767,58.8593843,0 7.5146668,58.8667181,0 7.4685721,58.8658015,0 7.4428654,58.8804649,0 7.356881,58.8547999,0 7.1636377,58.839667,0 7.1618648,58.8231508,0 7.1618648,58.8231508,0 7.1416876,58.7734816,0 7.1824384,58.7377835,0 7.1597991,58.6719278,0 7.1597991,58.6719278,0 7.214667,58.6252394,0 7.2475347,58.621739,0 7.2527637,58.5504888,0 7.3080412,58.5192956,0 7.3797525,58.513834,0 7.3797525,58.513834,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

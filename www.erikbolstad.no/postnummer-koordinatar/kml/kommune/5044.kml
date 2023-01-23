@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Namsskogan, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7890">
+ <IconStyle id="icon7890">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7890.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7890">
+ <name>7890 NAMSSKOGAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7890:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Namsskogan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7890"><strong>Meir info om 7890 NAMSSKOGAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7890</styleUrl>
+ <Point>
+ <coordinates>13.15940,64.92930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7891">
+ <IconStyle id="icon7891">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7891.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7891">
+ <name>7891 NAMSSKOGAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7891:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Namsskogan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7891"><strong>Meir info om 7891 NAMSSKOGAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7891</styleUrl>
+ <Point>
+ <coordinates>13.15941,64.92926</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7892">
+ <IconStyle id="icon7892">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7892.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7892">
+ <name>7892 TRONES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7892:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Namsskogan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7892"><strong>Meir info om 7892 TRONES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7892</styleUrl>
+ <Point>
+ <coordinates>12.84434,64.74191</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7893">
+ <IconStyle id="icon7893">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7893.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7893">
+ <name>7893 SKOROVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7893:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Namsskogan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7893"><strong>Meir info om 7893 SKOROVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7893</styleUrl>
+ <Point>
+ <coordinates>13.11400,64.64240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7896">
+ <IconStyle id="icon7896">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7896.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7896">
+ <name>7896 BREKKVASSELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7896:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Namsskogan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7896"><strong>Meir info om 7896 BREKKVASSELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7896</styleUrl>
+ <Point>
+ <coordinates>13.01480,64.84550</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Stad, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6708">
+ <IconStyle id="icon6708">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6708.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6708">
+ <name>6708 BRYGGJA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6708:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6708"><strong>Meir info om 6708 BRYGGJA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6708</styleUrl>
+ <Point>
+ <coordinates>5.42874,61.93776</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6711">
+ <IconStyle id="icon6711">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6711.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6711">
+ <name>6711 BRYGGJA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6711:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6711"><strong>Meir info om 6711 BRYGGJA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6711</styleUrl>
+ <Point>
+ <coordinates>5.42960,61.93860</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6715">
+ <IconStyle id="icon6715">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6715.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6715">
+ <name>6715 BARMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6715:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6715"><strong>Meir info om 6715 BARMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6715</styleUrl>
+ <Point>
+ <coordinates>5.28790,61.99910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6717">
+ <IconStyle id="icon6717">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6717.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6717">
+ <name>6717 FLATRAKET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6717:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6717"><strong>Meir info om 6717 FLATRAKET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6717</styleUrl>
+ <Point>
+ <coordinates>5.22840,61.97430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6740">
+ <IconStyle id="icon6740">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6740.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6740">
+ <name>6740 SELJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6740:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6740"><strong>Meir info om 6740 SELJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6740</styleUrl>
+ <Point>
+ <coordinates>5.35100,62.04590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6741">
+ <IconStyle id="icon6741">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6741.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6741">
+ <name>6741 SELJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6741:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6741"><strong>Meir info om 6741 SELJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6741</styleUrl>
+ <Point>
+ <coordinates>5.34461,62.04502</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6744">
+ <IconStyle id="icon6744">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6744.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6744">
+ <name>6744 BARMEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6744:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6744"><strong>Meir info om 6744 BARMEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6744</styleUrl>
+ <Point>
+ <coordinates>5.28790,61.99910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6748">
+ <IconStyle id="icon6748">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6748.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6748">
+ <name>6748 FLATRAKET (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6748:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6748"><strong>Meir info om 6748 FLATRAKET (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6748</styleUrl>
+ <Point>
+ <coordinates>5.22840,61.97430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6750">
+ <IconStyle id="icon6750">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6750.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6750">
+ <name>6750 STADLANDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6750:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6750"><strong>Meir info om 6750 STADLANDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6750</styleUrl>
+ <Point>
+ <coordinates>5.31560,62.11970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6751">
+ <IconStyle id="icon6751">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6751.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6751">
+ <name>6751 STADLANDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6751:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6751"><strong>Meir info om 6751 STADLANDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6751</styleUrl>
+ <Point>
+ <coordinates>5.31686,62.11833</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6766">
+ <IconStyle id="icon6766">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6766.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6766">
+ <name>6766 KJØLSDALEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6766:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6766"><strong>Meir info om 6766 KJØLSDALEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6766</styleUrl>
+ <Point>
+ <coordinates>5.63180,61.91710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6767">
+ <IconStyle id="icon6767">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6767.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6767">
+ <name>6767 STÅRHEIM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6767:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6767"><strong>Meir info om 6767 STÅRHEIM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6767</styleUrl>
+ <Point>
+ <coordinates>5.76010,61.91930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6770">
+ <IconStyle id="icon6770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6770">
+ <name>6770 NORDFJORDEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6770:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6770"><strong>Meir info om 6770 NORDFJORDEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6770</styleUrl>
+ <Point>
+ <coordinates>5.98560,61.91210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6771">
+ <IconStyle id="icon6771">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6771.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6771">
+ <name>6771 NORDFJORDEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6771:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6771"><strong>Meir info om 6771 NORDFJORDEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6771</styleUrl>
+ <Point>
+ <coordinates>5.99095,61.90870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6772">
+ <IconStyle id="icon6772">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6772.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6772">
+ <name>6772 NORDFJORDEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6772:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6772"><strong>Meir info om 6772 NORDFJORDEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6772</styleUrl>
+ <Point>
+ <coordinates>5.99100,61.90870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6773">
+ <IconStyle id="icon6773">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6773.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6773">
+ <name>6773 NORDFJORDEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6773:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6773"><strong>Meir info om 6773 NORDFJORDEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6773</styleUrl>
+ <Point>
+ <coordinates>5.89540,61.93280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6774">
+ <IconStyle id="icon6774">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6774.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6774">
+ <name>6774 NORDFJORDEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6774:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6774"><strong>Meir info om 6774 NORDFJORDEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6774</styleUrl>
+ <Point>
+ <coordinates>6.08100,61.92000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6775">
+ <IconStyle id="icon6775">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6775.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6775">
+ <name>6775 NORDFJORDEID (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6775:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6775"><strong>Meir info om 6775 NORDFJORDEID (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6775</styleUrl>
+ <Point>
+ <coordinates>5.98560,61.91210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6776">
+ <IconStyle id="icon6776">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6776.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6776">
+ <name>6776 KJØLSDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6776:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6776"><strong>Meir info om 6776 KJØLSDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6776</styleUrl>
+ <Point>
+ <coordinates>5.63180,61.91710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6777">
+ <IconStyle id="icon6777">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6777.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6777">
+ <name>6777 STÅRHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6777:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6777"><strong>Meir info om 6777 STÅRHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6777</styleUrl>
+ <Point>
+ <coordinates>5.76010,61.91930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6778">
+ <IconStyle id="icon6778">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6778.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6778">
+ <name>6778 LOTE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6778:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6778"><strong>Meir info om 6778 LOTE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6778</styleUrl>
+ <Point>
+ <coordinates>6.07540,61.86820</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6779">
+ <IconStyle id="icon6779">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6779.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6779">
+ <name>6779 HOLMØYANE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6779:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6779"><strong>Meir info om 6779 HOLMØYANE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6779</styleUrl>
+ <Point>
+ <coordinates>6.41360,61.93540</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

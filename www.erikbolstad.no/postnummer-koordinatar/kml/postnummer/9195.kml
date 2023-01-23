@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>9195 ÅRVIKSAND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer9195">
+ <name>9195 ÅRVIKSAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9195:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjervøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9195"><strong>Meir info om 9195 ÅRVIKSAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>20.51960,70.19400</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 9195 ÅRVIKSAND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>20.38718,70.21071 20.38981,70.21019 20.41795,70.20461 20.44522,70.19167 20.48226,70.16736 20.48749,70.15565 20.47490,70.14571 20.47659,70.13914 20.49716,70.13674 20.54004,70.14131 20.58498,70.14254 20.61456,70.14024 20.62192,70.13839 20.65430,70.14131 20.67615,70.14528 20.70806,70.15383 20.73283,70.16456 20.74525,70.17975 20.73644,70.19461 20.73830,70.20813 20.77085,70.22130 20.85352,70.23715 20.97318,70.25999 20.98014,70.26132 20.89444,70.33860 20.69344,70.51748 20.62273,70.57959 20.59710,70.57602 20.42529,70.55407 20.42360,70.48308 20.41792,70.23862 20.38718,70.21071</coordinates></LineString></Placemark>
+ </Document>
+</kml>

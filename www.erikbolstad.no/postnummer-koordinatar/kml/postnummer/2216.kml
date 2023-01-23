@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2216 ROVERUD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2216">
+ <name>2216 ROVERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2216:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2216"><strong>Meir info om 2216 ROVERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>12.05850,60.25266</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2216 ROVERUD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.03878,60.24541 12.04062,60.24508 12.04073,60.24489 12.04149,60.24473 12.04181,60.24523 12.04589,60.24468 12.04639,60.24381 12.04658,60.24350 12.04702,60.24170 12.05522,60.23904 12.06239,60.23704 12.06326,60.23545 12.06669,60.23470 12.07041,60.22958 12.07092,60.22208 12.07634,60.21822 12.08029,60.21566 12.09438,60.20607 12.11180,60.20731 12.11509,60.20717 12.12665,60.20223 12.13558,60.20417 12.15512,60.19865 12.16365,60.19487 12.16456,60.19273 12.18053,60.19644 12.18245,60.20434 12.15727,60.22010 12.14790,60.24398 12.11703,60.24563 12.10712,60.25216 12.09640,60.25601 12.08424,60.26206 12.08726,60.26826 12.08996,60.27280 12.08801,60.27670 12.07758,60.27686 12.07178,60.27959 12.07336,60.28290 12.07068,60.28670 12.06839,60.28881 12.06213,60.29241 12.05706,60.29424 12.04809,60.28847 12.03680,60.29018 12.00136,60.29739 12.00176,60.29282 12.00477,60.28843 12.00883,60.28131 12.01328,60.27815 12.01842,60.27598 12.02245,60.27574 12.03069,60.27406 12.03616,60.27081 12.03769,60.26312 12.03861,60.25939 12.04104,60.25347 12.04123,60.24953 12.03711,60.24589 12.03878,60.24541</coordinates></LineString></Placemark>
+ </Document>
+</kml>

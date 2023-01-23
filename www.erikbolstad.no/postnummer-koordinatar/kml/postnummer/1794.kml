@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1794 SPONVIKA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1794">
+ <name>1794 SPONVIKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1794:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1794"><strong>Meir info om 1794 SPONVIKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.22980,59.09260</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1794 SPONVIKA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.21418,59.12115 11.21035,59.11763 11.20654,59.11584 11.19907,59.10833 11.18198,59.10332 11.16733,59.09261 11.15350,59.07925 11.19914,59.08460 11.22485,59.08760 11.23909,59.09115 11.24536,59.09271 11.24739,59.09874 11.25106,59.10228 11.25381,59.10527 11.25415,59.10629 11.25753,59.10616 11.27347,59.10892 11.27284,59.10996 11.27269,59.11001 11.27248,59.10999 11.27252,59.11056 11.27124,59.11037 11.27026,59.11036 11.27003,59.11039 11.26997,59.11144 11.27002,59.11168 11.27030,59.11198 11.27155,59.11294 11.25642,59.11829 11.22778,59.11851 11.21418,59.12115</coordinates></LineString></Placemark>
+ </Document>
+</kml>

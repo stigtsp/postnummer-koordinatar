@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>8470 BØ I VESTERÅLEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer8470">
+ <name>8470 BØ I VESTERÅLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8470:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8470"><strong>Meir info om 8470 BØ I VESTERÅLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>14.46250,68.61780</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 8470 BØ I VESTERÅLEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>14.05829,68.68783 14.05706,68.68676 14.04425,68.67897 13.91830,68.60198 13.89171,68.58564 13.93809,68.57665 14.04573,68.55569 14.23985,68.51763 14.24500,68.51884 14.25437,68.52040 14.26206,68.52166 14.27452,68.52389 14.27635,68.52420 14.28313,68.52547 14.29138,68.52705 14.29934,68.52859 14.30998,68.53061 14.32706,68.53396 14.33887,68.53628 14.35572,68.53968 14.38463,68.54561 14.39562,68.54789 14.40201,68.54920 14.41039,68.55102 14.41817,68.55258 14.42899,68.55477 14.42984,68.55497 14.43830,68.55680 14.44669,68.55866 14.45522,68.56050 14.46079,68.56160 14.47170,68.56376 14.49759,68.56913 14.51385,68.57259 14.51485,68.57283 14.53211,68.57670 14.54911,68.58061 14.56682,68.58476 14.59192,68.59037 14.60745,68.59390 14.61696,68.59632 14.63111,68.59992 14.63833,68.60173 14.64210,68.60270 14.65438,68.60581 14.67038,68.60991 14.67954,68.61221 14.68360,68.61338 14.69315,68.61576 14.69812,68.61715 14.70123,68.61801 14.70483,68.61914 14.71136,68.62142 14.71315,68.62235 14.71605,68.62379 14.71778,68.62515 14.71382,68.62534 14.68825,68.63070 14.66163,68.64189 14.65985,68.64470 14.65102,68.64950 14.64285,68.65055 14.62615,68.65219 14.61007,68.65565 14.59637,68.65523 14.58902,68.65453 14.57788,68.65266 14.56039,68.65307 14.53631,68.65597 14.53792,68.65909 14.52954,68.66036 14.50139,68.66194 14.47943,68.66769 14.47577,68.66776 14.46765,68.66599 14.45476,68.66537 14.44173,68.66738 14.43059,68.66085 14.41730,68.65558 14.38257,68.64127 14.34194,68.65071 14.32429,68.65311 14.23628,68.66466 14.05829,68.68783</coordinates></LineString></Placemark>
+ </Document>
+</kml>

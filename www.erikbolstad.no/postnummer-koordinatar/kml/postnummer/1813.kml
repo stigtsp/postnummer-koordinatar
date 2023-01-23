@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1813 ASKIM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1813">
+ <name>1813 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1813:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1813"><strong>Meir info om 1813 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.16530,59.57700</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1813 ASKIM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.16141,59.58095 11.16120,59.58017 11.16111,59.57974 11.16047,59.57953 11.16049,59.57933 11.15924,59.57911 11.15912,59.57831 11.15792,59.57732 11.14987,59.57156 11.15269,59.57051 11.16463,59.57070 11.17038,59.56964 11.17336,59.57666 11.17788,59.57569 11.17838,59.57645 11.17786,59.57724 11.17850,59.57805 11.17832,59.57809 11.17737,59.57832 11.17241,59.58001 11.17220,59.58008 11.17104,59.58029 11.17077,59.58035 11.17010,59.58049 11.16956,59.58060 11.16798,59.58030 11.16702,59.58028 11.16526,59.58049 11.16417,59.58083 11.16344,59.58089 11.16141,59.58095</coordinates></LineString></Placemark>
+ </Document>
+</kml>

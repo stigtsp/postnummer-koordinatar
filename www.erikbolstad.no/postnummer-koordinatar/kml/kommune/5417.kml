@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Salangen, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9350">
+ <IconStyle id="icon9350">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9350.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9350">
+ <name>9350 SJØVEGAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9350:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Salangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9350"><strong>Meir info om 9350 SJØVEGAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9350</styleUrl>
+ <Point>
+ <coordinates>17.84740,68.87260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9355">
+ <IconStyle id="icon9355">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9355.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9355">
+ <name>9355 SJØVEGAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9355:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Salangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9355"><strong>Meir info om 9355 SJØVEGAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9355</styleUrl>
+ <Point>
+ <coordinates>17.83228,68.87684</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

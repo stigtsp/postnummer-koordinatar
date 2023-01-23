@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0688 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0688">
+ <name>0688 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0688:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0688"><strong>Meir info om 0688 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.85510,59.88710</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0688 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.85166,59.88830 10.85066,59.88699 10.84943,59.88569 10.84850,59.88495 10.84935,59.88462 10.84984,59.88432 10.85075,59.88413 10.85195,59.88427 10.85317,59.88437 10.85444,59.88423 10.85551,59.88400 10.85924,59.88345 10.85875,59.88589 10.85924,59.88595 10.85905,59.88719 10.85841,59.88731 10.85786,59.88803 10.85744,59.88865 10.85755,59.88903 10.85641,59.88918 10.85581,59.88958 10.85294,59.88971 10.85166,59.88830</coordinates></LineString></Placemark>
+ </Document>
+</kml>

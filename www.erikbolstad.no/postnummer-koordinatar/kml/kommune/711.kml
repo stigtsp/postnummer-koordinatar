@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Svelvik, Vestfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3060">
+ <IconStyle id="icon3060">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3060.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3060">
+ <name>3060 SVELVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3060:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Svelvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3060"><strong>Meir info om 3060 SVELVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3060</styleUrl>
+ <Point>
+ <coordinates>10.4087,59.6137</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3061">
+ <IconStyle id="icon3061">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3061.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3061">
+ <name>3061 SVELVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3061:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Svelvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3061"><strong>Meir info om 3061 SVELVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3061</styleUrl>
+ <Point>
+ <coordinates>10.40947,59.61395</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3075">
+ <IconStyle id="icon3075">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3075.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3075">
+ <name>3075 BERGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3075:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Svelvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3075"><strong>Meir info om 3075 BERGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3075</styleUrl>
+ <Point>
+ <coordinates>10.3848,59.5502</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Svelvik (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.3211709,59.7040855,0 10.4036777,59.6741043,0 10.4036777,59.6741043,0 10.4174171,59.620587,0 10.4115339,59.614631,0 10.4133363,59.6068156,0 10.4213932,59.6050834,0 10.4234793,59.5969463,0 10.3987273,59.5334188,0 10.3987273,59.5334188,0 10.358299,59.5543293,0 10.3327219,59.6048788,0 10.3368472,59.6324193,0 10.3038445,59.6699382,0 10.3038445,59.6699382,0 10.3211709,59.7040855,0 10.3211709,59.7040855,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

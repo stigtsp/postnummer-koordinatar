@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lom, Oppland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2685">
+ <IconStyle id="icon2685">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2685.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2685">
+ <name>2685 GARMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2685:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2685"><strong>Meir info om 2685 GARMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2685</styleUrl>
+ <Point>
+ <coordinates>8.8052,61.8487</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2686">
+ <IconStyle id="icon2686">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2686.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2686">
+ <name>2686 LOM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2686:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2686"><strong>Meir info om 2686 LOM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2686</styleUrl>
+ <Point>
+ <coordinates>8.5684,61.8377</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2687">
+ <IconStyle id="icon2687">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2687.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2687">
+ <name>2687 BØVERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2687:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2687"><strong>Meir info om 2687 BØVERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2687</styleUrl>
+ <Point>
+ <coordinates>8.3464,61.7205</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2688">
+ <IconStyle id="icon2688">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2688.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2688">
+ <name>2688 LOM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2688:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2688"><strong>Meir info om 2688 LOM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2688</styleUrl>
+ <Point>
+ <coordinates>8.56848,61.83787</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Lom (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.9054095,61.6841928,0 8.0111141,61.7358892,0 8.131988,61.7444409,0 8.2695341,61.8114561,0 8.3723463,61.8232671,0 8.4682118,61.8553964,0 8.5279541,61.897965,0 8.437646,61.9391673,0 8.5941057,62.0090084,0 8.5941057,62.0090084,0 8.6812461,62.0106776,0 8.7657188,62.0327866,0 8.8733105,62.0106776,0 8.8733105,62.0106776,0 8.8721917,61.9696239,0 8.8970889,61.962603,0 8.8613792,61.8952539,0 8.86707,61.8276219,0 8.942473,61.8091448,0 8.9823086,61.7667734,0 8.9908448,61.7415247,0 8.968793,61.7489331,0 8.8704267,61.7146541,0 8.8611896,61.6548934,0 8.7589331,61.6057773,0 8.5344134,61.5883302,0 8.5321904,61.574048,0 8.6344469,61.4940523,0 8.4877311,61.4553049,0 8.5066263,61.40534,0 8.5066263,61.40534,0 8.4610555,61.3994878,0 8.3034642,61.4488671,0 8.3034642,61.4488671,0 8.3234274,61.4607192,0 8.2641426,61.5363504,0 8.2519594,61.5389073,0 8.1982035,61.5501866,0 8.1219803,61.5268345,0 7.9453359,61.5605597,0 7.8951254,61.6448563,0 7.9054095,61.6841928,0 7.9054095,61.6841928,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1672 KRÅKERØY</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1672">
+ <name>1672 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1672:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1672"><strong>Meir info om 1672 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.93700,59.19980</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1672 KRÅKERØY</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.94124,59.20457 10.94044,59.20429 10.93939,59.20396 10.93825,59.20368 10.93824,59.20393 10.93708,59.20392 10.93705,59.20365 10.93622,59.20368 10.93575,59.20361 10.93550,59.20355 10.93515,59.20335 10.93451,59.20346 10.93429,59.20330 10.93407,59.20314 10.93376,59.20323 10.93335,59.20298 10.93363,59.20285 10.93319,59.20256 10.93001,59.20051 10.93066,59.19995 10.92946,59.19916 10.92837,59.19840 10.92644,59.19696 10.92489,59.19556 10.92370,59.19483 10.92247,59.19376 10.92210,59.19318 10.92190,59.19239 10.92243,59.19234 10.92816,59.19252 10.92939,59.19415 10.93097,59.19597 10.93209,59.19722 10.93265,59.19793 10.93514,59.19725 10.93662,59.19650 10.93753,59.19610 10.93789,59.19629 10.93824,59.19649 10.93840,59.19652 10.93876,59.19636 10.93897,59.19624 10.93905,59.19613 10.93918,59.19600 10.93949,59.19587 10.94013,59.19609 10.94028,59.19605 10.94043,59.19600 10.94032,59.19588 10.94071,59.19579 10.94134,59.19573 10.94139,59.19594 10.94191,59.19591 10.94188,59.19582 10.94336,59.19576 10.94604,59.19584 10.94537,59.19739 10.94527,59.19908 10.94494,59.19969 10.94465,59.20022 10.94802,59.20208 10.94963,59.20356 10.95062,59.20426 10.95060,59.20426 10.94877,59.20452 10.94614,59.20453 10.94173,59.20471 10.94124,59.20457</coordinates></LineString></Placemark>
+ </Document>
+</kml>

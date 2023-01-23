@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3085 HOLMESTRAND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3085">
+ <name>3085 HOLMESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3085:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Holmestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3085"><strong>Meir info om 3085 HOLMESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.30020,59.49220</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3085 HOLMESTRAND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.28251,59.49076 10.28475,59.48565 10.28080,59.48411 10.28121,59.48359 10.27664,59.48292 10.27072,59.48291 10.26672,59.48333 10.26272,59.48228 10.26515,59.48075 10.26673,59.47912 10.26992,59.46597 10.28183,59.46501 10.28252,59.46569 10.28080,59.47129 10.29673,59.47649 10.29782,59.47809 10.29936,59.47956 10.30426,59.48049 10.30565,59.48090 10.30565,59.48139 10.30656,59.48157 10.30634,59.48183 10.30583,59.48217 10.30578,59.48225 10.30605,59.48243 10.30601,59.48262 10.30528,59.48341 10.30491,59.48376 10.30474,59.48405 10.30478,59.48482 10.30464,59.48537 10.30457,59.48558 10.30409,59.48622 10.30378,59.48645 10.30356,59.48665 10.30360,59.48678 10.30407,59.48680 10.30308,59.48811 10.30370,59.48806 10.30508,59.48828 10.30478,59.48859 10.30531,59.48869 10.30590,59.48825 10.30642,59.48845 10.30675,59.48822 10.30713,59.48830 10.30697,59.48862 10.30765,59.48870 10.30769,59.48846 10.30805,59.48856 10.30890,59.48859 10.30929,59.48862 10.30988,59.48862 10.31028,59.48848 10.31052,59.48810 10.31167,59.48791 10.31217,59.48768 10.31221,59.48852 10.31139,59.48842 10.31123,59.48877 10.31136,59.48884 10.31173,59.48884 10.31170,59.48921 10.31173,59.48945 10.31157,59.48998 10.31136,59.49109 10.31101,59.49243 10.31049,59.49309 10.30613,59.49654 10.30210,59.49935 10.29890,59.50253 10.29608,59.50577 10.29134,59.50488 10.28999,59.50256 10.28722,59.49853 10.29240,59.49282 10.29411,59.49163 10.29543,59.49162 10.29604,59.49172 10.29660,59.49142 10.29661,59.49088 10.29573,59.49082 10.29497,59.49072 10.29428,59.49116 10.29383,59.49117 10.28251,59.49076</coordinates></LineString></Placemark>
+ </Document>
+</kml>

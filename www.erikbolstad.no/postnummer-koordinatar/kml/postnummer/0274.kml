@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0274 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0274">
+ <name>0274 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0274:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0274"><strong>Meir info om 0274 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.69200,59.92480</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0274 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.69149,59.92792 10.68909,59.92699 10.68852,59.92422 10.68801,59.92421 10.68779,59.92397 10.68766,59.92377 10.68752,59.92353 10.68698,59.92278 10.68706,59.92273 10.68759,59.92255 10.68830,59.92228 10.68826,59.92218 10.68896,59.92196 10.68878,59.92175 10.68931,59.92154 10.68907,59.92129 10.68933,59.92117 10.68989,59.92095 10.69092,59.92104 10.69181,59.92151 10.69265,59.92164 10.69393,59.92174 10.69458,59.92184 10.69478,59.92213 10.69514,59.92239 10.69611,59.92284 10.69785,59.92364 10.69910,59.92438 10.69783,59.92491 10.69908,59.92582 10.69775,59.92572 10.69763,59.92730 10.69547,59.92788 10.69523,59.92937 10.69149,59.92792</coordinates></LineString></Placemark>
+ </Document>
+</kml>

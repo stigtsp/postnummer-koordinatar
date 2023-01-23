@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1779 HALDEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1779">
+ <name>1779 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1779:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1779"><strong>Meir info om 1779 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.38170,59.14060</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1779 HALDEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.37798,59.14697 11.37862,59.14598 11.37954,59.14527 11.38069,59.14458 11.38080,59.14357 11.37988,59.14342 11.38036,59.14293 11.37971,59.14246 11.37970,59.14194 11.37935,59.14167 11.37988,59.14149 11.38015,59.14124 11.38111,59.14110 11.38084,59.14068 11.38001,59.14078 11.37957,59.14019 11.37949,59.13977 11.37976,59.13958 11.37928,59.13879 11.37992,59.13871 11.38009,59.13830 11.38070,59.13731 11.38027,59.13717 11.37998,59.13690 11.37973,59.13638 11.37994,59.13616 11.38030,59.13630 11.38053,59.13647 11.38078,59.13647 11.38106,59.13629 11.38162,59.13575 11.38227,59.13555 11.38331,59.13522 11.38353,59.13489 11.38568,59.13415 11.38680,59.13485 11.38635,59.13566 11.38634,59.13568 11.38566,59.13771 11.38473,59.13896 11.38417,59.13947 11.38328,59.13969 11.38121,59.13970 11.38118,59.13998 11.38165,59.13999 11.38181,59.14034 11.38206,59.14135 11.38141,59.14139 11.38154,59.14186 11.38154,59.14218 11.38158,59.14247 11.38164,59.14253 11.38148,59.14278 11.38134,59.14276 11.38122,59.14296 11.38175,59.14304 11.38173,59.14313 11.38176,59.14352 11.38296,59.14444 11.38148,59.14691 11.38176,59.14747 11.38207,59.14783 11.38277,59.14830 11.38352,59.14792 11.38392,59.14808 11.38358,59.14835 11.38426,59.14874 11.38368,59.14907 11.38425,59.14960 11.38479,59.14975 11.38526,59.15001 11.38636,59.15016 11.38767,59.14897 11.40079,59.15259 11.41834,59.15765 11.41463,59.16149 11.41338,59.16118 11.41071,59.16051 11.38816,59.15457 11.38563,59.15286 11.38294,59.14990 11.38107,59.14940 11.38145,59.14887 11.38144,59.14873 11.38128,59.14870 11.38083,59.14832 11.37900,59.14756 11.37798,59.14697</coordinates></LineString></Placemark>
+ </Document>
+</kml>

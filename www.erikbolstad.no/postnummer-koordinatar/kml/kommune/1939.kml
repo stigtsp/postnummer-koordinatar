@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Storfjord, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9046">
+ <IconStyle id="icon9046">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9046.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9046">
+ <name>9046 OTEREN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9046:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Storfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9046"><strong>Meir info om 9046 OTEREN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9046</styleUrl>
+ <Point>
+ <coordinates>19.8849,69.2553</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9048">
+ <IconStyle id="icon9048">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9048.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9048">
+ <name>9048 SKIBOTN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9048:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Storfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9048"><strong>Meir info om 9048 SKIBOTN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9048</styleUrl>
+ <Point>
+ <coordinates>20.27465,69.38853</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9142">
+ <IconStyle id="icon9142">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9142.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9142">
+ <name>9142 SKIBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9142:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Storfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9142"><strong>Meir info om 9142 SKIBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9142</styleUrl>
+ <Point>
+ <coordinates>20.27465,69.38853</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9143">
+ <IconStyle id="icon9143">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9143.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9143">
+ <name>9143 SKIBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9143:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Storfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9143"><strong>Meir info om 9143 SKIBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9143</styleUrl>
+ <Point>
+ <coordinates>20.2673,69.3908</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Storfjord (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>20.1449568,69.0478947,0 20.1432201,69.04816,0 20.0600502,69.04576,0 20.0600502,69.04576,0 19.9655252,69.077196,0 19.9655252,69.077196,0 19.9933712,69.0950383,0 19.951302,69.1035045,0 19.9200197,69.2094385,0 19.7096733,69.2454001,0 19.6406365,69.2862629,0 19.6406365,69.2862629,0 19.746373,69.3050062,0 19.7301925,69.3411904,0 19.8919974,69.4029442,0 19.8919974,69.4029442,0 20.1959459,69.4158611,0 20.2746478,69.4650771,0 20.2746478,69.4650771,0 20.3298772,69.4619287,0 20.4727833,69.4461798,0 20.4810677,69.3779633,0 20.5514852,69.340973,0 20.6978432,69.3146519,0 20.8462722,69.3114814,0 20.8414396,69.2763316,0 20.9380911,69.2506655,0 20.9677769,69.2636245,0 21.0320492,69.2343085,0 21.0320492,69.2343085,0 21.0263091,69.2319234,0 21.0033124,69.2223381,0 21.0020305,69.2198671,0 20.9956555,69.2075627,0 20.9875741,69.1919274,0 21.0092338,69.1727684,0 21.0317994,69.1527745,0 21.0467326,69.1395211,0 21.0556244,69.1220853,0 21.1086742,69.1039291,0 21.0801684,69.066335,0 21.057543,69.0362897,0 20.988566,69.0529833,0 20.888465,69.0771159,0 20.8811985,69.0788608,0 20.8345589,69.0905487,0 20.7619469,69.1086762,0 20.7498241,69.1116983,0 20.7430394,69.1134123,0 20.7173208,69.1197912,0 20.7061843,69.115781,0 20.699245,69.1132814,0 20.6674879,69.101829,0 20.6535556,69.0967907,0 20.6415424,69.0924469,0 20.6319279,69.0889646,0 20.6189817,69.084271,0 20.5936634,69.0750904,0 20.5523258,69.0600767,0 20.5488259,69.0599573,0 20.5488259,69.0599573,0 20.46891,69.05764,0 20.4402098,69.05679,0 20.3030799,69.0526599,0 20.19424,69.0496099,0 20.1449568,69.0478947,0 20.1449568,69.0478947,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

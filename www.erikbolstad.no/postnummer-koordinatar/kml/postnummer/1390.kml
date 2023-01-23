@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1390 VOLLEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1390">
+ <name>1390 VOLLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1390:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Asker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1390"><strong>Meir info om 1390 VOLLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.48520,59.80900</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1390 VOLLEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.47901,59.81604 10.47758,59.81562 10.47832,59.81432 10.47671,59.81388 10.47545,59.81337 10.47451,59.81309 10.47275,59.81286 10.47080,59.81249 10.46963,59.81230 10.46873,59.81206 10.46809,59.81061 10.46358,59.80847 10.45081,59.80513 10.45695,59.80093 10.46274,59.80262 10.46448,59.80119 10.46843,59.79976 10.47097,59.79668 10.46969,59.79493 10.47127,59.79427 10.47957,59.79686 10.47999,59.79679 10.48088,59.79665 10.48152,59.79642 10.48303,59.79592 10.48496,59.79666 10.48561,59.79692 10.48614,59.79679 10.48794,59.79693 10.48868,59.79698 10.48982,59.79718 10.49051,59.79732 10.49092,59.79693 10.49206,59.79718 10.49294,59.79698 10.49532,59.79673 10.49748,59.79762 10.49801,59.79908 10.49606,59.79938 10.49574,59.79980 10.49796,59.80017 10.50139,59.80172 10.50340,59.80191 10.50450,59.80239 10.50598,59.80321 10.50697,59.80364 10.50782,59.80435 10.50835,59.80484 10.52945,59.80844 10.53876,59.80860 10.54382,59.80817 10.55160,59.80686 10.55172,59.80690 10.55450,59.80783 10.55691,59.81286 10.56099,59.82135 10.55965,59.82129 10.55736,59.82120 10.55292,59.82160 10.54610,59.82166 10.53493,59.82200 10.52229,59.82186 10.51087,59.82096 10.50459,59.81989 10.49873,59.81872 10.49372,59.81719 10.48833,59.81561 10.48351,59.81609 10.48238,59.81677 10.47956,59.81626 10.47901,59.81604</coordinates></LineString></Placemark>
+ </Document>
+</kml>

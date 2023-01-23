@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Skjåk, Oppland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2690">
+ <IconStyle id="icon2690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2690">
+ <name>2690 SKJÅK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2690:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjåk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2690"><strong>Meir info om 2690 SKJÅK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2690</styleUrl>
+ <Point>
+ <coordinates>8.2691,61.8839</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2693">
+ <IconStyle id="icon2693">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2693.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2693">
+ <name>2693 NORDBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2693:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjåk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2693"><strong>Meir info om 2693 NORDBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2693</styleUrl>
+ <Point>
+ <coordinates>8.0929,61.9147</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2694">
+ <IconStyle id="icon2694">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2694.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2694">
+ <name>2694 SKJÅK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2694:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjåk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2694"><strong>Meir info om 2694 SKJÅK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2694</styleUrl>
+ <Point>
+ <coordinates>8.26361,61.88493</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2695">
+ <IconStyle id="icon2695">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2695.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2695">
+ <name>2695 GROTLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2695:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjåk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2695"><strong>Meir info om 2695 GROTLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2695</styleUrl>
+ <Point>
+ <coordinates>7.6303,62.0135</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Skjåk (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.5941057,62.0090084,0 8.437646,61.9391673,0 8.5279541,61.897965,0 8.4682118,61.8553964,0 8.3723463,61.8232671,0 8.2695341,61.8114561,0 8.131988,61.7444409,0 8.0111141,61.7358892,0 7.9054095,61.6841928,0 7.9054095,61.6841928,0 7.9072243,61.7249121,0 7.752806,61.7557201,0 7.5137589,61.7277055,0 7.5145386,61.7620328,0 7.412429,61.8574118,0 7.412429,61.8574118,0 7.4141247,61.8915644,0 7.4093059,61.8997152,0 7.4093059,61.8997152,0 7.3892471,61.9323341,0 7.3892471,61.9323341,0 7.3939371,61.9557026,0 7.3939371,61.9557026,0 7.3946803,61.9589688,0 7.3946803,61.9589688,0 7.3965666,61.9672666,0 7.3965666,61.9672666,0 7.3978004,61.9727146,0 7.3984199,61.9754101,0 7.3989932,61.9779048,0 7.399099,61.9783948,0 7.3990997,61.9783978,0 7.3984309,61.9799789,0 7.3984198,61.9800051,0 7.3932082,61.9923492,0 7.3932067,61.9923518,0 7.3931055,61.9925009,0 7.3908616,61.9958122,0 7.3901161,61.9968888,0 7.3900497,61.9969853,0 7.3883702,61.9979847,0 7.3872078,61.9986769,0 7.3867765,61.9989414,0 7.3858792,61.999466,0 7.3858326,61.9994935,0 7.3858297,61.9994954,0 7.3857246,61.9995684,0 7.3843675,62.0005128,0 7.3808595,62.0029433,0 7.3805651,62.0029361,0 7.3747374,62.0027926,0 7.3689773,62.0026528,0 7.3598352,62.0049679,0 7.3542583,62.0063795,0 7.349114,62.0076814,0 7.349114,62.0076814,0 7.3448655,62.0352197,0 7.4028015,62.0599077,0 7.4174318,62.0936156,0 7.4174318,62.0936156,0 7.5128214,62.0977237,0 7.5848025,62.0662136,0 7.6316194,62.0859455,0 7.580706,62.1231819,0 7.7340315,62.1863243,0 7.7340315,62.1863243,0 7.826495,62.1909659,0 7.8633634,62.1734878,0 7.9839171,62.1784046,0 7.9839171,62.1784046,0 8.081934,62.0490452,0 8.2162013,62.0035827,0 8.5941057,62.0090084,0 8.5941057,62.0090084,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

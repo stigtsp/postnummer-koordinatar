@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1726 SARPSBORG</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1726">
+ <name>1726 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1726:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1726"><strong>Meir info om 1726 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.13160,59.29180</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1726 SARPSBORG</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.11385,59.28921 11.11527,59.28828 11.11696,59.28703 11.11807,59.28668 11.11946,59.28616 11.12047,59.28535 11.12135,59.28451 11.12189,59.28401 11.12245,59.28355 11.12255,59.28331 11.12237,59.28316 11.12476,59.28157 11.13147,59.28195 11.13142,59.28204 11.13147,59.28288 11.13305,59.28535 11.13568,59.28845 11.13600,59.28920 11.13642,59.29015 11.13673,59.29086 11.13799,59.29294 11.13935,59.29548 11.14044,59.29748 11.14098,59.29894 11.14102,59.30076 11.14053,59.30446 11.13991,59.30649 11.13975,59.30716 11.13962,59.30762 11.13687,59.30521 11.13447,59.30243 11.13173,59.30018 11.12719,59.29733 11.12570,59.29633 11.12394,59.29495 11.12144,59.29252 11.11628,59.29026 11.11600,59.28979 11.11410,59.28948 11.11385,59.28921</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ål, Buskerud</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3570">
+ <IconStyle id="icon3570">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3570.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3570">
+ <name>3570 ÅL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3570:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ål kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3570"><strong>Meir info om 3570 ÅL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3570</styleUrl>
+ <Point>
+ <coordinates>8.5607,60.6302</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3571">
+ <IconStyle id="icon3571">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3571.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3571">
+ <name>3571 ÅL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3571:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ål kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3571"><strong>Meir info om 3571 ÅL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3571</styleUrl>
+ <Point>
+ <coordinates>8.56376,60.63052</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3579">
+ <IconStyle id="icon3579">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3579.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3579">
+ <name>3579 TORPO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3579:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ål kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3579"><strong>Meir info om 3579 TORPO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3579</styleUrl>
+ <Point>
+ <coordinates>8.7199,60.6644</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Ål (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.4757919,60.4873315,0 8.3857597,60.4725443,0 8.3462718,60.5005564,0 8.3555457,60.5397602,0 8.3995396,60.5453599,0 8.3855651,60.5646968,0 8.423348,60.5952053,0 8.4145493,60.6200992,0 8.3420888,60.6513164,0 8.2608295,60.6688152,0 8.2566889,60.6982122,0 8.1655957,60.7045442,0 8.1661133,60.7199891,0 8.1184964,60.7187234,0 8.0667389,60.7609708,0 8.0010069,60.7700707,0 8.0144638,60.7907887,0 7.9357924,60.810736,0 7.9114664,60.842525,0 7.8928337,60.832689,0 7.7769215,60.8671953,0 7.7769215,60.8671953,0 7.803289,60.8973621,0 7.8797396,60.9246717,0 7.9352653,60.8976146,0 8.041634,60.8953369,0 8.041634,60.8953369,0 8.3351192,60.8696485,0 8.3370601,60.8381386,0 8.4121085,60.8378234,0 8.4651599,60.817956,0 8.4671008,60.7867109,0 8.546031,60.8078599,0 8.6417824,60.770919,0 8.7176394,60.7697343,0 8.7176394,60.7697343,0 8.8450019,60.6347555,0 8.8450019,60.6347555,0 8.7919505,60.595074,0 8.7032716,60.5700456,0 8.7337233,60.5601138,0 8.6793779,60.5142906,0 8.6793779,60.5142906,0 8.4757919,60.4873315,0 8.4757919,60.4873315,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

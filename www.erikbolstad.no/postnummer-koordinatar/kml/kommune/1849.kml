@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hamarøy, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8260">
+ <IconStyle id="icon8260">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8260.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8260">
+ <name>8260 INNHAVET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8260:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamarøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8260"><strong>Meir info om 8260 INNHAVET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8260</styleUrl>
+ <Point>
+ <coordinates>15.9282,67.9629</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8261">
+ <IconStyle id="icon8261">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8261.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8261">
+ <name>8261 INNHAVET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8261:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamarøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8261"><strong>Meir info om 8261 INNHAVET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8261</styleUrl>
+ <Point>
+ <coordinates>15.92837,67.96302</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8276">
+ <IconStyle id="icon8276">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8276.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8276">
+ <name>8276 ULVSVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8276:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamarøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8276"><strong>Meir info om 8276 ULVSVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8276</styleUrl>
+ <Point>
+ <coordinates>15.8667,68.1156</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8290">
+ <IconStyle id="icon8290">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8290.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8290">
+ <name>8290 SKUTVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8290:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamarøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8290"><strong>Meir info om 8290 SKUTVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8290</styleUrl>
+ <Point>
+ <coordinates>15.3276,68.0168</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8291">
+ <IconStyle id="icon8291">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8291.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8291">
+ <name>8291 SKUTVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8291:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamarøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8291"><strong>Meir info om 8291 SKUTVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8291</styleUrl>
+ <Point>
+ <coordinates>15.33434,68.01472</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8294">
+ <IconStyle id="icon8294">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8294.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8294">
+ <name>8294 HAMARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8294:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamarøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8294"><strong>Meir info om 8294 HAMARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8294</styleUrl>
+ <Point>
+ <coordinates>15.6031,68.0852</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8297">
+ <IconStyle id="icon8297">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8297.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8297">
+ <name>8297 TRANØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8297:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamarøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8297"><strong>Meir info om 8297 TRANØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8297</styleUrl>
+ <Point>
+ <coordinates>15.6637,68.1819</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8298">
+ <IconStyle id="icon8298">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8298.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8298">
+ <name>8298 HAMARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8298:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamarøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8298"><strong>Meir info om 8298 HAMARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8298</styleUrl>
+ <Point>
+ <coordinates>15.6108,68.0853</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hamarøy (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>16.555886,67.647286,0 16.4853215,67.7010203,0 16.4497913,67.6900444,0 16.3936041,67.6997662,0 16.4010406,67.7182578,0 16.3398957,67.743308,0 16.3663368,67.7523821,0 16.3002342,67.7758333,0 16.2019065,67.7620781,0 16.1432405,67.847604,0 16.0515231,67.8774953,0 16.0944898,67.9076591,0 16.074659,67.9669395,0 16.1060578,67.9715887,0 16.0399551,68.0106045,0 15.9578219,68.0497731,0 15.8983295,68.0790967,0 15.9693898,68.088349,0 16.0280559,68.1145438,0 16.0181405,68.1342472,0 16.0247508,68.1646928,0 15.9718687,68.182818,0 16.0082251,68.2131993,0 15.7950442,68.2499711,0 15.7950442,68.2499711,0 15.3521567,68.2064513,0 15.2158201,68.1772898,0 15.2158201,68.1772898,0 14.9975091,68.1378373,0 14.9975091,68.1378373,0 15.1291979,68.0969099,0 15.2595956,68.0124184,0 15.2983276,67.9586662,0 15.6662816,68.0012908,0 15.6507888,67.9678759,0 15.6882297,67.9494529,0 15.6198032,67.9402359,0 15.6920222,67.8836717,0 15.6718493,67.8661859,0 15.752541,67.8601008,0 15.8429156,67.8211184,0 15.7982249,67.7942563,0 15.7982249,67.7942563,0 15.981262,67.7634934,0 15.9895249,67.7143495,0 16.0564538,67.7403429,0 16.0729794,67.7203023,0 16.1085096,67.730951,0 16.068848,67.7093354,0 16.1630442,67.6876999,0 16.146667,67.6455195,0 16.407232,67.53384,0 16.407232,67.53384,0 16.458055,67.5684744,0 16.493469,67.592578,0 16.49592,67.594433,0 16.518088,67.614126,0 16.555886,67.647286,0 16.555886,67.647286,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

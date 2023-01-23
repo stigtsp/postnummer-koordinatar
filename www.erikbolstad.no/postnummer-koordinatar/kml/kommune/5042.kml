@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lierne, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7881">
+ <IconStyle id="icon7881">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7881.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7881">
+ <name>7881 NORDLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7881:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lierne kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7881"><strong>Meir info om 7881 NORDLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7881</styleUrl>
+ <Point>
+ <coordinates>13.59560,64.46138</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7882">
+ <IconStyle id="icon7882">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7882.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7882">
+ <name>7882 NORDLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7882:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lierne kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7882"><strong>Meir info om 7882 NORDLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7882</styleUrl>
+ <Point>
+ <coordinates>13.59560,64.46138</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7884">
+ <IconStyle id="icon7884">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7884.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7884">
+ <name>7884 SØRLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7884:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lierne kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7884"><strong>Meir info om 7884 SØRLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7884</styleUrl>
+ <Point>
+ <coordinates>13.83429,64.22363</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7885">
+ <IconStyle id="icon7885">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7885.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7885">
+ <name>7885 SØRLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7885:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lierne kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7885"><strong>Meir info om 7885 SØRLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7885</styleUrl>
+ <Point>
+ <coordinates>13.83429,64.22363</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

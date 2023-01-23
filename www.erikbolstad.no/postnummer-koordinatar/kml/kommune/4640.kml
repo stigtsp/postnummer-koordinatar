@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sogndal, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5800">
+ <IconStyle id="icon5800">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5800.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5800">
+ <name>5800 SOGNDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5800:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5800"><strong>Meir info om 5800 SOGNDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5800</styleUrl>
+ <Point>
+ <coordinates>7.10178,61.22575</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5801">
+ <IconStyle id="icon5801">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5801.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5801">
+ <name>5801 SOGNDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5801:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5801"><strong>Meir info om 5801 SOGNDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5801</styleUrl>
+ <Point>
+ <coordinates>7.10494,61.23225</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5842">
+ <IconStyle id="icon5842">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5842.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5842">
+ <name>5842 LEIKANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5842:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5842"><strong>Meir info om 5842 LEIKANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5842</styleUrl>
+ <Point>
+ <coordinates>6.85063,61.18350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5850">
+ <IconStyle id="icon5850">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5850.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5850">
+ <name>5850 BALESTRAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5850:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5850"><strong>Meir info om 5850 BALESTRAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5850</styleUrl>
+ <Point>
+ <coordinates>6.53726,61.20999</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5880">
+ <IconStyle id="icon5880">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5880.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5880">
+ <name>5880 KAUPANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5880:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5880"><strong>Meir info om 5880 KAUPANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5880</styleUrl>
+ <Point>
+ <coordinates>7.22032,61.19165</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6845">
+ <IconStyle id="icon6845">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6845.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6845">
+ <name>6845 FJÆRLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6845:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6845"><strong>Meir info om 6845 FJÆRLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6845</styleUrl>
+ <Point>
+ <coordinates>6.74159,61.40591</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6848">
+ <IconStyle id="icon6848">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6848.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6848">
+ <name>6848 FJÆRLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6848:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6848"><strong>Meir info om 6848 FJÆRLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6848</styleUrl>
+ <Point>
+ <coordinates>6.74159,61.40591</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6849">
+ <IconStyle id="icon6849">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6849.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6849">
+ <name>6849 KAUPANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6849:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6849"><strong>Meir info om 6849 KAUPANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6849</styleUrl>
+ <Point>
+ <coordinates>7.22032,61.19165</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6851">
+ <IconStyle id="icon6851">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6851.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6851">
+ <name>6851 SOGNDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6851:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6851"><strong>Meir info om 6851 SOGNDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6851</styleUrl>
+ <Point>
+ <coordinates>7.10494,61.23225</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6852">
+ <IconStyle id="icon6852">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6852.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6852">
+ <name>6852 SOGNDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6852:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6852"><strong>Meir info om 6852 SOGNDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6852</styleUrl>
+ <Point>
+ <coordinates>7.10490,61.23230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6853">
+ <IconStyle id="icon6853">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6853.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6853">
+ <name>6853 SOGNDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6853:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6853"><strong>Meir info om 6853 SOGNDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6853</styleUrl>
+ <Point>
+ <coordinates>7.10490,61.23230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6854">
+ <IconStyle id="icon6854">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6854.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6854">
+ <name>6854 KAUPANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6854:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6854"><strong>Meir info om 6854 KAUPANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6854</styleUrl>
+ <Point>
+ <coordinates>7.22032,61.19165</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6856">
+ <IconStyle id="icon6856">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6856.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6856">
+ <name>6856 SOGNDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6856:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6856"><strong>Meir info om 6856 SOGNDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6856</styleUrl>
+ <Point>
+ <coordinates>7.10050,61.22990</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6857">
+ <IconStyle id="icon6857">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6857.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6857">
+ <name>6857 SOGNDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6857:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6857"><strong>Meir info om 6857 SOGNDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6857</styleUrl>
+ <Point>
+ <coordinates>7.10490,61.23220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6858">
+ <IconStyle id="icon6858">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6858.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6858">
+ <name>6858 FARDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6858:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6858"><strong>Meir info om 6858 FARDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6858</styleUrl>
+ <Point>
+ <coordinates>7.02280,61.19150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6859">
+ <IconStyle id="icon6859">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6859.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6859">
+ <name>6859 SLINDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6859:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6859"><strong>Meir info om 6859 SLINDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6859</styleUrl>
+ <Point>
+ <coordinates>6.93550,61.16000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6861">
+ <IconStyle id="icon6861">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6861.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6861">
+ <name>6861 LEIKANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6861:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6861"><strong>Meir info om 6861 LEIKANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6861</styleUrl>
+ <Point>
+ <coordinates>6.85063,61.18350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6863">
+ <IconStyle id="icon6863">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6863.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6863">
+ <name>6863 LEIKANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6863:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6863"><strong>Meir info om 6863 LEIKANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6863</styleUrl>
+ <Point>
+ <coordinates>6.80800,61.18560</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6898">
+ <IconStyle id="icon6898">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6898.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6898">
+ <name>6898 BALESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6898:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6898"><strong>Meir info om 6898 BALESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6898</styleUrl>
+ <Point>
+ <coordinates>6.53726,61.20999</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6899">
+ <IconStyle id="icon6899">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6899.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6899">
+ <name>6899 BALESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6899:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sogndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6899"><strong>Meir info om 6899 BALESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6899</styleUrl>
+ <Point>
+ <coordinates>6.53630,61.21030</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

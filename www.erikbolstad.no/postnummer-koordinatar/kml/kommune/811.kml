@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Siljan, Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3748">
+ <IconStyle id="icon3748">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3748.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3748">
+ <name>3748 SILJAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3748:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Siljan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3748"><strong>Meir info om 3748 SILJAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3748</styleUrl>
+ <Point>
+ <coordinates>9.7100,59.2884</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3749">
+ <IconStyle id="icon3749">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3749.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3749">
+ <name>3749 SILJAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3749:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Siljan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3749"><strong>Meir info om 3749 SILJAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3749</styleUrl>
+ <Point>
+ <coordinates>9.71068,59.26946</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Siljan (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.6241883,59.4271078,0 9.6068619,59.4132562,0 9.6439899,59.3817544,0 9.6349142,59.3540086,0 9.5796347,59.3510645,0 9.5796347,59.330028,0 9.6373894,59.2794872,0 9.6547158,59.2702133,0 9.7116454,59.2550322,0 9.7768765,59.2010514,0 9.7768765,59.2010514,0 9.8754817,59.2005703,0 9.8754817,59.2005703,0 9.8609039,59.2562341,0 9.8609039,59.2562341,0 9.7536452,59.3247035,0 9.7835539,59.3510012,0 9.7763345,59.4129831,0 9.7763345,59.4129831,0 9.6588411,59.4098974,0 9.6241883,59.4271078,0 9.6241883,59.4271078,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

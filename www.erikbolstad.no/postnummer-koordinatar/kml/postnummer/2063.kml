@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2063 JESSHEIM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2063">
+ <name>2063 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2063:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2063"><strong>Meir info om 2063 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.15980,60.14140</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2063 JESSHEIM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.15954,60.14378 11.15911,60.14395 11.15696,60.14210 11.15640,60.14146 11.15697,60.14141 11.15675,60.14125 11.15671,60.14100 11.15652,60.14049 11.15652,60.14022 11.15687,60.13932 11.15769,60.13940 11.15763,60.13964 11.16086,60.13999 11.16115,60.13986 11.16337,60.14050 11.16309,60.14238 11.16468,60.14237 11.16576,60.14246 11.16618,60.14263 11.16724,60.14334 11.16681,60.14353 11.16665,60.14357 11.16602,60.14367 11.16548,60.14372 11.16471,60.14377 11.16389,60.14379 11.16323,60.14377 11.16292,60.14379 11.16288,60.14314 11.16209,60.14317 11.16067,60.14343 11.16045,60.14333 11.15954,60.14378</coordinates></LineString></Placemark>
+ </Document>
+</kml>

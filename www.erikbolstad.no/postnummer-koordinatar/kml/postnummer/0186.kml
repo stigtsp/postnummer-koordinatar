@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0186 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0186">
+ <name>0186 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0186:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0186"><strong>Meir info om 0186 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.75870,59.91570</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0186 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.75990,59.91766 10.75989,59.91708 10.75937,59.91656 10.75874,59.91605 10.75694,59.91512 10.75634,59.91484 10.75599,59.91464 10.75558,59.91444 10.75414,59.91454 10.75398,59.91458 10.75360,59.91457 10.75325,59.91441 10.75402,59.91404 10.75592,59.91359 10.75597,59.91341 10.75681,59.91318 10.75791,59.91306 10.75814,59.91343 10.75849,59.91390 10.75934,59.91471 10.76067,59.91505 10.76151,59.91542 10.76244,59.91579 10.76270,59.91593 10.76210,59.91638 10.76219,59.91673 10.76208,59.91701 10.76168,59.91736 10.76113,59.91754 10.76069,59.91768 10.76049,59.91773 10.76047,59.91773 10.76023,59.91775 10.75990,59.91766</coordinates></LineString></Placemark>
+ </Document>
+</kml>

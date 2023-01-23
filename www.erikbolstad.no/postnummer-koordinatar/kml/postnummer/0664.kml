@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0664 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0664">
+ <name>0664 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0664:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0664"><strong>Meir info om 0664 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.81920,59.91740</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0664 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.81123,59.91747 10.81080,59.91727 10.81004,59.91692 10.80896,59.91645 10.81019,59.91570 10.81178,59.91491 10.81218,59.91431 10.81308,59.91284 10.81442,59.91263 10.81476,59.91302 10.81516,59.91303 10.81512,59.91260 10.81683,59.91260 10.81536,59.91398 10.81424,59.91526 10.81560,59.91571 10.81601,59.91560 10.81745,59.91552 10.81799,59.91563 10.81808,59.91585 10.81839,59.91588 10.81985,59.91638 10.81990,59.91638 10.82023,59.91609 10.82116,59.91646 10.82103,59.91654 10.82126,59.91662 10.82316,59.91748 10.82347,59.91725 10.82418,59.91758 10.82388,59.91786 10.82479,59.91836 10.82559,59.91900 10.82588,59.91966 10.82936,59.91939 10.83011,59.92033 10.82941,59.92152 10.82866,59.92140 10.82754,59.92073 10.82623,59.92071 10.82560,59.92111 10.82522,59.92096 10.82431,59.92079 10.82325,59.92048 10.82245,59.92028 10.82193,59.92019 10.82130,59.92016 10.81936,59.91955 10.81745,59.91894 10.81664,59.91856 10.81560,59.91858 10.81341,59.91803 10.81123,59.91747</coordinates></LineString></Placemark>
+ </Document>
+</kml>

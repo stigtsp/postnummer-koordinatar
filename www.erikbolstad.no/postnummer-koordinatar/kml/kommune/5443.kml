@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Båtsfjord, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9990">
+ <IconStyle id="icon9990">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9990.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9990">
+ <name>9990 BÅTSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9990:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Båtsfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9990"><strong>Meir info om 9990 BÅTSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9990</styleUrl>
+ <Point>
+ <coordinates>29.71850,70.63440</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9991">
+ <IconStyle id="icon9991">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9991.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9991">
+ <name>9991 BÅTSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9991:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Båtsfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9991"><strong>Meir info om 9991 BÅTSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9991</styleUrl>
+ <Point>
+ <coordinates>29.72712,70.63792</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

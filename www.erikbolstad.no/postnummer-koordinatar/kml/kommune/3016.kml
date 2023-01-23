@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Rakkestad, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1890">
+ <IconStyle id="icon1890">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1890.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1890">
+ <name>1890 RAKKESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1890:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rakkestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1890"><strong>Meir info om 1890 RAKKESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1890</styleUrl>
+ <Point>
+ <coordinates>11.34540,59.42510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1891">
+ <IconStyle id="icon1891">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1891.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1891">
+ <name>1891 RAKKESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1891:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rakkestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1891"><strong>Meir info om 1891 RAKKESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1891</styleUrl>
+ <Point>
+ <coordinates>11.35032,59.41687</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1892">
+ <IconStyle id="icon1892">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1892.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1892">
+ <name>1892 DEGERNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1892:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rakkestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1892"><strong>Meir info om 1892 DEGERNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1892</styleUrl>
+ <Point>
+ <coordinates>11.42260,59.35330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1893">
+ <IconStyle id="icon1893">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1893.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1893">
+ <name>1893 DEGERNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1893:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rakkestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1893"><strong>Meir info om 1893 DEGERNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1893</styleUrl>
+ <Point>
+ <coordinates>11.42202,59.35632</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1894">
+ <IconStyle id="icon1894">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1894.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1894">
+ <name>1894 RAKKESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1894:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rakkestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1894"><strong>Meir info om 1894 RAKKESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1894</styleUrl>
+ <Point>
+ <coordinates>11.35730,59.40420</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

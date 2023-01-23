@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Gamvik, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9770">
+ <IconStyle id="icon9770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9770">
+ <name>9770 MEHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9770:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9770"><strong>Meir info om 9770 MEHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9770</styleUrl>
+ <Point>
+ <coordinates>27.85206,71.03883</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9771">
+ <IconStyle id="icon9771">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9771.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9771">
+ <name>9771 SKJÅNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9771:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9771"><strong>Meir info om 9771 SKJÅNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9771</styleUrl>
+ <Point>
+ <coordinates>28.0985,70.8004</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9772">
+ <IconStyle id="icon9772">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9772.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9772">
+ <name>9772 LANGFJORDNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9772:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9772"><strong>Meir info om 9772 LANGFJORDNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9772</styleUrl>
+ <Point>
+ <coordinates>28.0829,70.7197</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9773">
+ <IconStyle id="icon9773">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9773.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9773">
+ <name>9773 NERVEI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9773:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9773"><strong>Meir info om 9773 NERVEI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9773</styleUrl>
+ <Point>
+ <coordinates>27.8545,70.6653</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9775">
+ <IconStyle id="icon9775">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9775.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9775">
+ <name>9775 GAMVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9775:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9775"><strong>Meir info om 9775 GAMVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9775</styleUrl>
+ <Point>
+ <coordinates>28.24833,71.06163</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9964">
+ <IconStyle id="icon9964">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9964.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9964">
+ <name>9964 SKJÅNES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9964:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9964"><strong>Meir info om 9964 SKJÅNES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9964</styleUrl>
+ <Point>
+ <coordinates>28.0985,70.8004</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9966">
+ <IconStyle id="icon9966">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9966.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9966">
+ <name>9966 LANGFJORDNES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9966:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9966"><strong>Meir info om 9966 LANGFJORDNES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9966</styleUrl>
+ <Point>
+ <coordinates>28.0829,70.7197</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9967">
+ <IconStyle id="icon9967">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9967.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9967">
+ <name>9967 NERVEI (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9967:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9967"><strong>Meir info om 9967 NERVEI (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9967</styleUrl>
+ <Point>
+ <coordinates>27.8545,70.6653</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9970">
+ <IconStyle id="icon9970">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9970.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9970">
+ <name>9970 MEHAMN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9970:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9970"><strong>Meir info om 9970 MEHAMN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9970</styleUrl>
+ <Point>
+ <coordinates>27.85206,71.03883</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9975">
+ <IconStyle id="icon9975">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9975.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9975">
+ <name>9975 GAMVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9975:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gamvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9975"><strong>Meir info om 9975 GAMVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9975</styleUrl>
+ <Point>
+ <coordinates>28.24833,71.06163</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Gamvik (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>28.386476,70.7639422,0 28.3132094,70.7579067,0 28.2344479,70.6653357,0 27.9285602,70.5650243,0 27.673959,70.5235384,0 27.4926244,70.4145395,0 27.4266845,70.4022559,0 27.4266845,70.4022559,0 27.3519811,70.5604679,0 27.3944757,70.6320298,0 27.7285711,70.7912753,0 27.6772845,70.9884416,0 27.6230673,71.0451639,0 27.6919378,71.0874799,0 27.6582352,71.13776,0 27.7744099,71.3305878,0 27.7744099,71.3305878,0 28.3420647,71.2955158,0 28.4696165,71.280154,0 29.1612281,71.122232,0 29.1612281,71.122232,0 28.386476,70.7639422,0 28.386476,70.7639422,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

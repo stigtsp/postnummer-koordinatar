@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Skjåk, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2690">
+ <IconStyle id="icon2690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2690">
+ <name>2690 SKJÅK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2690:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjåk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2690"><strong>Meir info om 2690 SKJÅK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2690</styleUrl>
+ <Point>
+ <coordinates>8.26910,61.88390</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2693">
+ <IconStyle id="icon2693">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2693.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2693">
+ <name>2693 NORDBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2693:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjåk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2693"><strong>Meir info om 2693 NORDBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2693</styleUrl>
+ <Point>
+ <coordinates>8.09290,61.91470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2694">
+ <IconStyle id="icon2694">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2694.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2694">
+ <name>2694 SKJÅK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2694:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjåk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2694"><strong>Meir info om 2694 SKJÅK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2694</styleUrl>
+ <Point>
+ <coordinates>8.26361,61.88493</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2695">
+ <IconStyle id="icon2695">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2695.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2695">
+ <name>2695 GROTLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2695:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skjåk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2695"><strong>Meir info om 2695 GROTLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2695</styleUrl>
+ <Point>
+ <coordinates>7.63030,62.01350</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

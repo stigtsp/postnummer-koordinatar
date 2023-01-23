@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Radøy, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5120">
+ <IconStyle id="icon5120">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5120.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5120">
+ <name>5120 MANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5120:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5120"><strong>Meir info om 5120 MANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5120</styleUrl>
+ <Point>
+ <coordinates>5.04200,60.64063</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5123">
+ <IconStyle id="icon5123">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5123.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5123">
+ <name>5123 SÆBØVÅGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5123:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5123"><strong>Meir info om 5123 SÆBØVÅGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5123</styleUrl>
+ <Point>
+ <coordinates>5.1448,60.6111</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5125">
+ <IconStyle id="icon5125">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5125.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5125">
+ <name>5125 BØVÅGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5125:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5125"><strong>Meir info om 5125 BØVÅGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5125</styleUrl>
+ <Point>
+ <coordinates>4.92673,60.69832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5127">
+ <IconStyle id="icon5127">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5127.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5127">
+ <name>5127 VALLERSVÅG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5127:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5127"><strong>Meir info om 5127 VALLERSVÅG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5127</styleUrl>
+ <Point>
+ <coordinates>5.051,60.6836</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5931">
+ <IconStyle id="icon5931">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5931.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5931">
+ <name>5931 MANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5931:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5931"><strong>Meir info om 5931 MANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5931</styleUrl>
+ <Point>
+ <coordinates>5.04200,60.64063</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5935">
+ <IconStyle id="icon5935">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5935.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5935">
+ <name>5935 BØVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5935:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5935"><strong>Meir info om 5935 BØVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5935</styleUrl>
+ <Point>
+ <coordinates>4.92673,60.69832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5936">
+ <IconStyle id="icon5936">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5936.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5936">
+ <name>5936 MANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5936:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5936"><strong>Meir info om 5936 MANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5936</styleUrl>
+ <Point>
+ <coordinates>5.042,60.6406</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5937">
+ <IconStyle id="icon5937">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5937.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5937">
+ <name>5937 BØVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5937:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5937"><strong>Meir info om 5937 BØVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5937</styleUrl>
+ <Point>
+ <coordinates>4.92673,60.69832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5938">
+ <IconStyle id="icon5938">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5938.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5938">
+ <name>5938 SÆBØVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5938:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5938"><strong>Meir info om 5938 SÆBØVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5938</styleUrl>
+ <Point>
+ <coordinates>5.1448,60.6111</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5939">
+ <IconStyle id="icon5939">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5939.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5939">
+ <name>5939 SLETTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5939:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Radøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5939"><strong>Meir info om 5939 SLETTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5939</styleUrl>
+ <Point>
+ <coordinates>5.051,60.6836</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Radøy (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>4.929947,60.6284932,0 5.0547384,60.6214106,0 5.0702084,60.6057224,0 5.1764036,60.5855461,0 5.1764036,60.5855461,0 5.2080861,60.6003248,0 5.1927729,60.6233868,0 5.0681547,60.6836844,0 5.0581219,60.698935,0 5.0866362,60.6953169,0 5.0375282,60.7330289,0 5.0375282,60.7330289,0 4.9618472,60.7308472,0 4.7889131,60.7643914,0 4.7889131,60.7643914,0 4.7760507,60.7342906,0 4.7760507,60.7342906,0 4.8959129,60.6335512,0 4.8959129,60.6335512,0 4.929947,60.6284932,0 4.929947,60.6284932,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bjørnøya, Svalbard</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9176">
+ <IconStyle id="icon9176">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9176.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9176">
+ <name>9176 BJØRNØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9176:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnøya</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9176"><strong>Meir info om 9176 BJØRNØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9176</styleUrl>
+ <Point>
+ <coordinates>19.0015,74.5067</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Bjørnøya (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>18.595,74.461,0 18.865,74.322,0 19.197,74.300,0 19.442,74.491,0 19.143,74.573,0 18.719,74.542,0 18.595,74.461,0 </coordinates></LineString></Placemark>
+ </Document>
+</kml>

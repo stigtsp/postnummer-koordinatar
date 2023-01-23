@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lavangen, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9357">
+ <IconStyle id="icon9357">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9357.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9357">
+ <name>9357 TENNEVOLL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9357:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lavangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9357"><strong>Meir info om 9357 TENNEVOLL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9357</styleUrl>
+ <Point>
+ <coordinates>17.80530,68.74740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9358">
+ <IconStyle id="icon9358">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9358.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9358">
+ <name>9358 TENNEVOLL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9358:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lavangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9358"><strong>Meir info om 9358 TENNEVOLL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9358</styleUrl>
+ <Point>
+ <coordinates>17.80467,68.74723</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9465">
+ <IconStyle id="icon9465">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9465.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9465">
+ <name>9465 TENNEVOLL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9465:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lavangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9465"><strong>Meir info om 9465 TENNEVOLL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9465</styleUrl>
+ <Point>
+ <coordinates>17.80620,68.74710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9466">
+ <IconStyle id="icon9466">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9466.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9466">
+ <name>9466 TENNEVOLL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9466:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lavangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9466"><strong>Meir info om 9466 TENNEVOLL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9466</styleUrl>
+ <Point>
+ <coordinates>17.80620,68.74710</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

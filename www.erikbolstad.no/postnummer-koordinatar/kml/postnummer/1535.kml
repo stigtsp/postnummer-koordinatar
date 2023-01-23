@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1535 MOSS</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1535">
+ <name>1535 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1535:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1535"><strong>Meir info om 1535 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.69260,59.45200</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1535 MOSS</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.68776,59.45245 10.68773,59.45236 10.68770,59.45212 10.68767,59.45171 10.68766,59.45030 10.68977,59.45030 10.68992,59.45029 10.69018,59.45030 10.69033,59.45027 10.69086,59.45003 10.69103,59.44975 10.69102,59.44929 10.69151,59.44920 10.69172,59.44879 10.69012,59.44684 10.68934,59.44623 10.68532,59.44626 10.68550,59.44617 10.68537,59.44588 10.68506,59.44565 10.68545,59.44510 10.68653,59.44536 10.68757,59.44555 10.68896,59.44478 10.69271,59.44453 10.69364,59.44450 10.69372,59.44490 10.69439,59.44555 10.69624,59.44549 10.69750,59.44547 10.69878,59.44592 10.70125,59.44601 10.70026,59.44707 10.69969,59.44814 10.69952,59.44918 10.69962,59.45035 10.69996,59.45111 10.70028,59.45181 10.69950,59.45235 10.69914,59.45270 10.69878,59.45301 10.69648,59.45423 10.69564,59.45367 10.69439,59.45397 10.69334,59.45450 10.69293,59.45577 10.69291,59.45644 10.69287,59.45668 10.69283,59.45686 10.69270,59.45704 10.69229,59.45692 10.69089,59.45666 10.68725,59.45653 10.68761,59.45521 10.68778,59.45508 10.68784,59.45483 10.68789,59.45413 10.68791,59.45369 10.68776,59.45245</coordinates></LineString></Placemark>
+ </Document>
+</kml>

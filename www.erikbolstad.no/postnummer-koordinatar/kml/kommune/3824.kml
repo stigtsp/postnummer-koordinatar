@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tokke, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3860">
+ <IconStyle id="icon3860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3860">
+ <name>3860 HØYDALSMO (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3860:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3860"><strong>Meir info om 3860 HØYDALSMO (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3860</styleUrl>
+ <Point>
+ <coordinates>8.19788,59.49843</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3880">
+ <IconStyle id="icon3880">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3880.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3880">
+ <name>3880 DALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3880:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3880"><strong>Meir info om 3880 DALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3880</styleUrl>
+ <Point>
+ <coordinates>8.01170,59.44470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3882">
+ <IconStyle id="icon3882">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3882.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3882">
+ <name>3882 ÅMDALS VERK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3882:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3882"><strong>Meir info om 3882 ÅMDALS VERK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3882</styleUrl>
+ <Point>
+ <coordinates>8.03840,59.37700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3886">
+ <IconStyle id="icon3886">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3886.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3886">
+ <name>3886 DALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3886:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3886"><strong>Meir info om 3886 DALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3886</styleUrl>
+ <Point>
+ <coordinates>8.00984,59.44459</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3891">
+ <IconStyle id="icon3891">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3891.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3891">
+ <name>3891 HØYDALSMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3891:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3891"><strong>Meir info om 3891 HØYDALSMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3891</styleUrl>
+ <Point>
+ <coordinates>8.19790,59.49840</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

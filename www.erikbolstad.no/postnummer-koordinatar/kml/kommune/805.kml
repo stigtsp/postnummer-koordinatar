@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Porsgrunn, Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3900">
+ <IconStyle id="icon3900">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3900.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3900">
+ <name>3900 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3900:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3900"><strong>Meir info om 3900 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3900</styleUrl>
+ <Point>
+ <coordinates>9.65610,59.14054</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3901">
+ <IconStyle id="icon3901">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3901.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3901">
+ <name>3901 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3901:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3901"><strong>Meir info om 3901 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3901</styleUrl>
+ <Point>
+ <coordinates>9.65117,59.13815</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3902">
+ <IconStyle id="icon3902">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3902.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3902">
+ <name>3902 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3902:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3902"><strong>Meir info om 3902 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3902</styleUrl>
+ <Point>
+ <coordinates>9.64126,59.13778</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3903">
+ <IconStyle id="icon3903">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3903.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3903">
+ <name>3903 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3903:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3903"><strong>Meir info om 3903 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3903</styleUrl>
+ <Point>
+ <coordinates>9.65346,59.11541</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3904">
+ <IconStyle id="icon3904">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3904.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3904">
+ <name>3904 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3904:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3904"><strong>Meir info om 3904 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3904</styleUrl>
+ <Point>
+ <coordinates>9.66718,59.11039</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3905">
+ <IconStyle id="icon3905">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3905.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3905">
+ <name>3905 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3905:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3905"><strong>Meir info om 3905 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3905</styleUrl>
+ <Point>
+ <coordinates>9.6552,59.1395</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3906">
+ <IconStyle id="icon3906">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3906.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3906">
+ <name>3906 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3906:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3906"><strong>Meir info om 3906 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3906</styleUrl>
+ <Point>
+ <coordinates>9.68492,59.09592</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3907">
+ <IconStyle id="icon3907">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3907.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3907">
+ <name>3907 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3907:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3907"><strong>Meir info om 3907 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3907</styleUrl>
+ <Point>
+ <coordinates>9.65117,59.13815</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3908">
+ <IconStyle id="icon3908">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3908.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3908">
+ <name>3908 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3908:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3908"><strong>Meir info om 3908 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3908</styleUrl>
+ <Point>
+ <coordinates>9.6315,59.1229</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3909">
+ <IconStyle id="icon3909">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3909.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3909">
+ <name>3909 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3909:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3909"><strong>Meir info om 3909 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3909</styleUrl>
+ <Point>
+ <coordinates>9.65117,59.13815</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3910">
+ <IconStyle id="icon3910">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3910.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3910">
+ <name>3910 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3910:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3910"><strong>Meir info om 3910 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3910</styleUrl>
+ <Point>
+ <coordinates>9.6628,59.157</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3911">
+ <IconStyle id="icon3911">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3911.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3911">
+ <name>3911 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3911:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3911"><strong>Meir info om 3911 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3911</styleUrl>
+ <Point>
+ <coordinates>9.6631,59.1523</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3912">
+ <IconStyle id="icon3912">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3912.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3912">
+ <name>3912 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3912:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3912"><strong>Meir info om 3912 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3912</styleUrl>
+ <Point>
+ <coordinates>9.6586,59.1493</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3913">
+ <IconStyle id="icon3913">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3913.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3913">
+ <name>3913 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3913:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3913"><strong>Meir info om 3913 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3913</styleUrl>
+ <Point>
+ <coordinates>9.6713,59.1487</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3914">
+ <IconStyle id="icon3914">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3914.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3914">
+ <name>3914 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3914:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3914"><strong>Meir info om 3914 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3914</styleUrl>
+ <Point>
+ <coordinates>9.6823,59.1514</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3915">
+ <IconStyle id="icon3915">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3915.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3915">
+ <name>3915 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3915:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3915"><strong>Meir info om 3915 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3915</styleUrl>
+ <Point>
+ <coordinates>9.6597,59.1424</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3916">
+ <IconStyle id="icon3916">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3916.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3916">
+ <name>3916 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3916:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3916"><strong>Meir info om 3916 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3916</styleUrl>
+ <Point>
+ <coordinates>9.6572,59.1368</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3917">
+ <IconStyle id="icon3917">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3917.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3917">
+ <name>3917 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3917:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3917"><strong>Meir info om 3917 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3917</styleUrl>
+ <Point>
+ <coordinates>9.6681,59.1327</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3918">
+ <IconStyle id="icon3918">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3918.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3918">
+ <name>3918 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3918:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3918"><strong>Meir info om 3918 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3918</styleUrl>
+ <Point>
+ <coordinates>9.6766,59.1381</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3919">
+ <IconStyle id="icon3919">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3919.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3919">
+ <name>3919 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3919:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3919"><strong>Meir info om 3919 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3919</styleUrl>
+ <Point>
+ <coordinates>9.6437,59.1464</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3920">
+ <IconStyle id="icon3920">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3920.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3920">
+ <name>3920 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3920:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3920"><strong>Meir info om 3920 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3920</styleUrl>
+ <Point>
+ <coordinates>9.6297,59.1381</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3921">
+ <IconStyle id="icon3921">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3921.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3921">
+ <name>3921 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3921:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3921"><strong>Meir info om 3921 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3921</styleUrl>
+ <Point>
+ <coordinates>9.6457,59.1377</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3922">
+ <IconStyle id="icon3922">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3922.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3922">
+ <name>3922 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3922:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3922"><strong>Meir info om 3922 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3922</styleUrl>
+ <Point>
+ <coordinates>9.6511,59.1345</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3924">
+ <IconStyle id="icon3924">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3924.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3924">
+ <name>3924 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3924:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3924"><strong>Meir info om 3924 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3924</styleUrl>
+ <Point>
+ <coordinates>9.6555,59.1267</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3925">
+ <IconStyle id="icon3925">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3925.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3925">
+ <name>3925 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3925:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3925"><strong>Meir info om 3925 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3925</styleUrl>
+ <Point>
+ <coordinates>9.6486,59.1262</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3928">
+ <IconStyle id="icon3928">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3928.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3928">
+ <name>3928 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3928:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3928"><strong>Meir info om 3928 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3928</styleUrl>
+ <Point>
+ <coordinates>9.6599,59.1134</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3929">
+ <IconStyle id="icon3929">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3929.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3929">
+ <name>3929 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3929:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3929"><strong>Meir info om 3929 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3929</styleUrl>
+ <Point>
+ <coordinates>9.662,59.1155</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3930">
+ <IconStyle id="icon3930">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3930.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3930">
+ <name>3930 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3930:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3930"><strong>Meir info om 3930 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3930</styleUrl>
+ <Point>
+ <coordinates>9.6741,59.1081</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3931">
+ <IconStyle id="icon3931">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3931.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3931">
+ <name>3931 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3931:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3931"><strong>Meir info om 3931 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3931</styleUrl>
+ <Point>
+ <coordinates>9.6857,59.1054</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3932">
+ <IconStyle id="icon3932">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3932.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3932">
+ <name>3932 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3932:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3932"><strong>Meir info om 3932 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3932</styleUrl>
+ <Point>
+ <coordinates>9.6759,59.1048</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3933">
+ <IconStyle id="icon3933">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3933.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3933">
+ <name>3933 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3933:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3933"><strong>Meir info om 3933 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3933</styleUrl>
+ <Point>
+ <coordinates>9.6374,59.132</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3936">
+ <IconStyle id="icon3936">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3936.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3936">
+ <name>3936 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3936:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3936"><strong>Meir info om 3936 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3936</styleUrl>
+ <Point>
+ <coordinates>9.6478,59.1132</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3937">
+ <IconStyle id="icon3937">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3937.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3937">
+ <name>3937 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3937:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3937"><strong>Meir info om 3937 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3937</styleUrl>
+ <Point>
+ <coordinates>9.6592,59.1056</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3939">
+ <IconStyle id="icon3939">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3939.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3939">
+ <name>3939 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3939:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3939"><strong>Meir info om 3939 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3939</styleUrl>
+ <Point>
+ <coordinates>9.66371,59.14989</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3940">
+ <IconStyle id="icon3940">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3940.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3940">
+ <name>3940 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3940:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3940"><strong>Meir info om 3940 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3940</styleUrl>
+ <Point>
+ <coordinates>9.6743,59.0818</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3941">
+ <IconStyle id="icon3941">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3941.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3941">
+ <name>3941 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3941:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3941"><strong>Meir info om 3941 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3941</styleUrl>
+ <Point>
+ <coordinates>9.6889,59.0797</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3942">
+ <IconStyle id="icon3942">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3942.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3942">
+ <name>3942 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3942:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3942"><strong>Meir info om 3942 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3942</styleUrl>
+ <Point>
+ <coordinates>9.6782,59.0945</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3943">
+ <IconStyle id="icon3943">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3943.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3943">
+ <name>3943 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3943:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3943"><strong>Meir info om 3943 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3943</styleUrl>
+ <Point>
+ <coordinates>9.6926,59.0917</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3944">
+ <IconStyle id="icon3944">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3944.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3944">
+ <name>3944 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3944:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3944"><strong>Meir info om 3944 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3944</styleUrl>
+ <Point>
+ <coordinates>9.6991,59.1095</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3945">
+ <IconStyle id="icon3945">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3945.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3945">
+ <name>3945 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3945:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3945"><strong>Meir info om 3945 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3945</styleUrl>
+ <Point>
+ <coordinates>9.7047,59.1219</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3946">
+ <IconStyle id="icon3946">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3946.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3946">
+ <name>3946 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3946:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3946"><strong>Meir info om 3946 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3946</styleUrl>
+ <Point>
+ <coordinates>9.6922,59.1211</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3947">
+ <IconStyle id="icon3947">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3947.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3947">
+ <name>3947 LANGANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3947:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3947"><strong>Meir info om 3947 LANGANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3947</styleUrl>
+ <Point>
+ <coordinates>9.8026,59.0884</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3948">
+ <IconStyle id="icon3948">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3948.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3948">
+ <name>3948 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3948:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3948"><strong>Meir info om 3948 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3948</styleUrl>
+ <Point>
+ <coordinates>9.7514,59.1609</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3949">
+ <IconStyle id="icon3949">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3949.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3949">
+ <name>3949 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3949:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3949"><strong>Meir info om 3949 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3949</styleUrl>
+ <Point>
+ <coordinates>9.7378,59.0744</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3950">
+ <IconStyle id="icon3950">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3950.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3950">
+ <name>3950 BREVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3950:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3950"><strong>Meir info om 3950 BREVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3950</styleUrl>
+ <Point>
+ <coordinates>9.6981,59.0555</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3951">
+ <IconStyle id="icon3951">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3951.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3951">
+ <name>3951 BREVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3951:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3951"><strong>Meir info om 3951 BREVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3951</styleUrl>
+ <Point>
+ <coordinates>9.6981,59.0555</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3991">
+ <IconStyle id="icon3991">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3991.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3991">
+ <name>3991 BREVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3991:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3991"><strong>Meir info om 3991 BREVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3991</styleUrl>
+ <Point>
+ <coordinates>9.69967,59.05280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3996">
+ <IconStyle id="icon3996">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3996.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3996">
+ <name>3996 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3996:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3996"><strong>Meir info om 3996 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3996</styleUrl>
+ <Point>
+ <coordinates>9.70957,59.12116</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3997">
+ <IconStyle id="icon3997">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3997.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3997">
+ <name>3997 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3997:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3997"><strong>Meir info om 3997 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3997</styleUrl>
+ <Point>
+ <coordinates>9.65896,59.12145</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3998">
+ <IconStyle id="icon3998">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3998.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3998">
+ <name>3998 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3998:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3998"><strong>Meir info om 3998 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3998</styleUrl>
+ <Point>
+ <coordinates>9.64119,59.14144</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Porsgrunn (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.7640976,59.0120564,0 9.7140296,59.0488932,0 9.6511827,59.0588372,0 9.6060618,59.1109958,0 9.6060618,59.1109958,0 9.6157305,59.1407652,0 9.6624629,59.160597,0 9.6718599,59.1586701,0 9.6749583,59.1580347,0 9.7108067,59.1506825,0 9.7768765,59.2010514,0 9.7768765,59.2010514,0 9.8754817,59.2005703,0 9.8754817,59.2005703,0 9.8969335,59.1773269,0 9.8218524,59.1578749,0 9.8218524,59.1299461,0 9.8573302,59.1002998,0 9.8350534,59.0392323,0 9.8127766,59.0379589,0 9.8367036,58.9988853,0 9.7814241,59.0303176,0 9.7640976,59.0120564,0 9.7640976,59.0120564,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

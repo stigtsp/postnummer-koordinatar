@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1054 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1054">
+ <name>1054 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1054:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1054"><strong>Meir info om 1054 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.89790,59.94830</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1054 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.89317,59.94932 10.89341,59.94913 10.89417,59.94915 10.89458,59.94903 10.89489,59.94920 10.89523,59.94900 10.89561,59.94837 10.89553,59.94766 10.89635,59.94759 10.89841,59.94719 10.89836,59.94652 10.89820,59.94518 10.89831,59.94498 10.89952,59.94504 10.89979,59.94485 10.90035,59.94485 10.90091,59.94484 10.90154,59.94505 10.90173,59.94578 10.90212,59.94603 10.90209,59.94623 10.90190,59.94666 10.90172,59.94678 10.90097,59.94676 10.90052,59.94662 10.89997,59.94646 10.90001,59.94764 10.90016,59.94829 10.90205,59.94834 10.90254,59.94859 10.90137,59.94892 10.89987,59.94998 10.89923,59.95153 10.89774,59.95113 10.89637,59.95058 10.89467,59.95026 10.89371,59.95009 10.89262,59.94990 10.89171,59.94963 10.89215,59.94925 10.89317,59.94932</coordinates></LineString></Placemark>
+ </Document>
+</kml>

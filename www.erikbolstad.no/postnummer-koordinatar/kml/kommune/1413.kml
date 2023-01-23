@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hyllestad, Sogn og Fjordane</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5942">
+ <IconStyle id="icon5942">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5942.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5942">
+ <name>5942 HYLLESTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5942:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hyllestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5942"><strong>Meir info om 5942 HYLLESTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5942</styleUrl>
+ <Point>
+ <coordinates>5.2960,61.1711</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5944">
+ <IconStyle id="icon5944">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5944.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5944">
+ <name>5944 SØRBØVÅG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5944:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hyllestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5944"><strong>Meir info om 5944 SØRBØVÅG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5944</styleUrl>
+ <Point>
+ <coordinates>5.17430,61.22606</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6951">
+ <IconStyle id="icon6951">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6951.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6951">
+ <name>6951 LEIRVIK I SOGN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6951:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hyllestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6951"><strong>Meir info om 6951 LEIRVIK I SOGN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6951</styleUrl>
+ <Point>
+ <coordinates>5.34813,61.13718</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6953">
+ <IconStyle id="icon6953">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6953.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6953">
+ <name>6953 LEIRVIK I SOGN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6953:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hyllestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6953"><strong>Meir info om 6953 LEIRVIK I SOGN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6953</styleUrl>
+ <Point>
+ <coordinates>5.3475,61.1368</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6957">
+ <IconStyle id="icon6957">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6957.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6957">
+ <name>6957 HYLLESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6957:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hyllestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6957"><strong>Meir info om 6957 HYLLESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6957</styleUrl>
+ <Point>
+ <coordinates>5.296,61.1711</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6958">
+ <IconStyle id="icon6958">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6958.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6958">
+ <name>6958 SØRBØVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6958:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hyllestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6958"><strong>Meir info om 6958 SØRBØVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6958</styleUrl>
+ <Point>
+ <coordinates>5.17430,61.22606</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6959">
+ <IconStyle id="icon6959">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6959.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6959">
+ <name>6959 SØRBØVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6959:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hyllestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6959"><strong>Meir info om 6959 SØRBØVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6959</styleUrl>
+ <Point>
+ <coordinates>5.17430,61.22606</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hyllestad (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.4454411,61.2082717,0 5.4487562,61.1126672,0 5.3738864,61.052745,0 5.3738864,61.052745,0 5.3127858,61.0860491,0 5.22888,61.0868813,0 5.1540102,61.1184869,0 5.1540102,61.1184869,0 5.0133067,61.1791145,0 5.0102947,61.2110424,0 4.9315524,61.2197444,0 4.9183801,61.2377369,0 4.9183801,61.2377369,0 5.083785,61.2551458,0 5.0857281,61.2782649,0 5.1683091,61.2619198,0 5.2632772,61.2832834,0 5.2572051,61.263905,0 5.3157404,61.238555,0 5.371604,61.2455662,0 5.4046364,61.2159914,0 5.4454411,61.2082717,0 5.4454411,61.2082717,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

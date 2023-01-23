@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Fosnes, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7817">
+ <IconStyle id="icon7817">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7817.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7817">
+ <name>7817 SALSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7817:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fosnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7817"><strong>Meir info om 7817 SALSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7817</styleUrl>
+ <Point>
+ <coordinates>11.4436,64.6917</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7855">
+ <IconStyle id="icon7855">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7855.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7855">
+ <name>7855 JØA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7855:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fosnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7855"><strong>Meir info om 7855 JØA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7855</styleUrl>
+ <Point>
+ <coordinates>11.34482,64.63728</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7856">
+ <IconStyle id="icon7856">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7856.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7856">
+ <name>7856 JØA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7856:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fosnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7856"><strong>Meir info om 7856 JØA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7856</styleUrl>
+ <Point>
+ <coordinates>11.34482,64.63728</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

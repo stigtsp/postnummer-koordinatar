@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2950 SKAMMESTEIN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2950">
+ <name>2950 SKAMMESTEIN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2950:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øystre Slidre kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2950"><strong>Meir info om 2950 SKAMMESTEIN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>8.98070,61.19750</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2950 SKAMMESTEIN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.87005,61.22460 8.87270,61.22255 8.87445,61.22114 8.87802,61.21835 8.88071,61.21594 8.88134,61.21543 8.88639,61.21171 8.88700,61.21125 8.88813,61.21043 8.88886,61.20987 8.88915,61.20963 8.89174,61.20844 8.89729,61.20672 8.90471,61.20213 8.91698,61.19241 8.95401,61.18536 8.95802,61.18382 8.97257,61.17748 8.97518,61.17714 8.97868,61.17211 8.98238,61.16901 8.98752,61.16719 8.99604,61.16774 9.00349,61.17174 9.00519,61.17658 9.01083,61.17933 9.01615,61.18182 9.02299,61.18439 9.02720,61.18757 9.02738,61.19155 9.02768,61.19802 9.02826,61.20498 9.03342,61.21141 9.04570,61.21977 9.05368,61.22519 9.06563,61.22868 9.06877,61.25532 9.05283,61.25869 9.08114,61.26448 9.09044,61.26919 9.10011,61.27277 9.11135,61.27678 9.08411,61.29965 9.03777,61.32317 9.00131,61.32427 8.95951,61.30468 8.93272,61.29628 8.92584,61.27598 8.93663,61.27044 8.93753,61.26875 8.94125,61.26577 8.94721,61.26371 8.95106,61.26132 8.95179,61.25879 8.94986,61.25626 8.94606,61.25341 8.94243,61.25092 8.93500,61.24930 8.93089,61.24807 8.93937,61.24325 8.94039,61.24087 8.94226,61.23893 8.94513,61.23732 8.94637,61.23679 8.94528,61.23415 8.94439,61.23304 8.94178,61.23093 8.93972,61.23044 8.93230,61.22933 8.92757,61.22883 8.92042,61.22866 8.91132,61.22927 8.90588,61.23050 8.90159,61.23253 8.89877,61.23329 8.89387,61.23385 8.89098,61.23238 8.88255,61.22928 8.87005,61.22460</coordinates></LineString></Placemark>
+ </Document>
+</kml>

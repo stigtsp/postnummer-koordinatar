@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Fitjar, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5418">
+ <IconStyle id="icon5418">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5418.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5418">
+ <name>5418 FITJAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5418:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fitjar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5418"><strong>Meir info om 5418 FITJAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5418</styleUrl>
+ <Point>
+ <coordinates>5.31605,59.91813</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5419">
+ <IconStyle id="icon5419">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5419.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5419">
+ <name>5419 FITJAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5419:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fitjar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5419"><strong>Meir info om 5419 FITJAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5419</styleUrl>
+ <Point>
+ <coordinates>5.3164,59.9178</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Fitjar (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.3268624,59.9984611,0 5.4979112,59.9257246,0 5.4979112,59.9257246,0 5.4344259,59.8843931,0 5.4055485,59.8417264,0 5.3222167,59.8093792,0 5.3222167,59.8093792,0 5.2875639,59.8487722,0 5.1918561,59.8752844,0 5.0783109,59.9385869,0 5.0783109,59.9385869,0 5.2660137,59.9716343,0 5.3268624,59.9984611,0 5.3268624,59.9984611,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

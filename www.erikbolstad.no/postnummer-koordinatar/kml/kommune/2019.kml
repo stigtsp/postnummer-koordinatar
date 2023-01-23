@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nordkapp, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9750">
+ <IconStyle id="icon9750">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9750.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9750">
+ <name>9750 HONNINGSVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9750:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9750"><strong>Meir info om 9750 HONNINGSVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9750</styleUrl>
+ <Point>
+ <coordinates>25.9704,70.9822</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9751">
+ <IconStyle id="icon9751">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9751.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9751">
+ <name>9751 HONNINGSVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9751:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9751"><strong>Meir info om 9751 HONNINGSVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9751</styleUrl>
+ <Point>
+ <coordinates>25.97783,70.98057</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9755">
+ <IconStyle id="icon9755">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9755.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9755">
+ <name>9755 HONNINGSVÅG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9755:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9755"><strong>Meir info om 9755 HONNINGSVÅG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9755</styleUrl>
+ <Point>
+ <coordinates>25.9704,70.9821</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9760">
+ <IconStyle id="icon9760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9760">
+ <name>9760 NORDVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9760"><strong>Meir info om 9760 NORDVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9760</styleUrl>
+ <Point>
+ <coordinates>26.0321,70.9805</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9763">
+ <IconStyle id="icon9763">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9763.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9763">
+ <name>9763 SKARSVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9763:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9763"><strong>Meir info om 9763 SKARSVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9763</styleUrl>
+ <Point>
+ <coordinates>25.8271,71.1132</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9764">
+ <IconStyle id="icon9764">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9764.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9764">
+ <name>9764 NORDKAPP</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9764:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9764"><strong>Meir info om 9764 NORDKAPP</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9764</styleUrl>
+ <Point>
+ <coordinates>25.7828,71.1693</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9765">
+ <IconStyle id="icon9765">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9765.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9765">
+ <name>9765 GJESVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9765:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9765"><strong>Meir info om 9765 GJESVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9765</styleUrl>
+ <Point>
+ <coordinates>25.3761,71.0983</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9768">
+ <IconStyle id="icon9768">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9768.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9768">
+ <name>9768 REPVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9768:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9768"><strong>Meir info om 9768 REPVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9768</styleUrl>
+ <Point>
+ <coordinates>25.672,70.7468</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9778">
+ <IconStyle id="icon9778">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9778.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9778">
+ <name>9778 REPVÅG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9778:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordkapp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9778"><strong>Meir info om 9778 REPVÅG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9778</styleUrl>
+ <Point>
+ <coordinates>25.6720,70.7468</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nordkapp (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>27.0617184,71.353187,0 26.5897197,70.8695514,0 26.4351732,70.8207194,0 26.2262491,70.7066263,0 26.2262491,70.6782379,0 26.1089082,70.6583421,0 26.1089082,70.6583421,0 25.9371898,70.6697135,0 25.9400517,70.7415834,0 25.7826432,70.7293081,0 25.6338206,70.685812,0 25.5107557,70.7274189,0 25.3104176,70.7557378,0 25.3104176,70.7557378,0 25.3991387,70.8207194,0 25.367657,70.8573547,0 25.4477923,70.8770534,0 25.4981405,70.9434621,0 25.3158299,71.0016762,0 25.1657801,70.98555,0 24.9204478,71.337121,0 24.9204478,71.337121,0 25.5944218,71.3835515,0 26.2601789,71.3747375,0 27.0617184,71.353187,0 27.0617184,71.353187,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

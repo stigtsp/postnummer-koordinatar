@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Flesberg, Buskerud</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3620">
+ <IconStyle id="icon3620">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3620.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3620">
+ <name>3620 FLESBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3620:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flesberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3620"><strong>Meir info om 3620 FLESBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3620</styleUrl>
+ <Point>
+ <coordinates>9.4278,59.8635</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3621">
+ <IconStyle id="icon3621">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3621.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3621">
+ <name>3621 LAMPELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3621:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flesberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3621"><strong>Meir info om 3621 LAMPELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3621</styleUrl>
+ <Point>
+ <coordinates>9.57872,59.83532</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3622">
+ <IconStyle id="icon3622">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3622.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3622">
+ <name>3622 SVENE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3622:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flesberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3622"><strong>Meir info om 3622 SVENE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3622</styleUrl>
+ <Point>
+ <coordinates>9.5796,59.7929</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3623">
+ <IconStyle id="icon3623">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3623.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3623">
+ <name>3623 LAMPELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3623:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flesberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3623"><strong>Meir info om 3623 LAMPELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3623</styleUrl>
+ <Point>
+ <coordinates>9.5794,59.8346</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3624">
+ <IconStyle id="icon3624">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3624.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3624">
+ <name>3624 LYNGDAL I NUMEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3624:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flesberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3624"><strong>Meir info om 3624 LYNGDAL I NUMEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3624</styleUrl>
+ <Point>
+ <coordinates>9.5239,59.911</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Flesberg (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.4660259,59.9892115,0 9.4556379,59.9946188,0 9.4556379,59.9946188,0 9.552214,59.9713027,0 9.5935538,59.971621,0 9.6590371,59.9257191,0 9.7006194,59.9089552,0 9.7006194,59.9089552,0 9.699739,59.9016535,0 9.6690939,59.9031744,0 9.7096977,59.8581259,0 9.7084037,59.8301753,0 9.7174613,59.804479,0 9.722637,59.7455306,0 9.6461477,59.7338765,0 9.6461477,59.7338765,0 9.6100417,59.7206845,0 9.5775794,59.7373824,0 9.4616426,59.7375493,0 9.438124,59.7575757,0 9.3678736,59.7832999,0 9.3678736,59.7832999,0 9.1850567,59.828963,0 9.1850567,59.828963,0 9.1850567,59.8833433,0 9.1850567,59.8833433,0 9.3809374,59.922427,0 9.4660259,59.9892115,0 9.4660259,59.9892115,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

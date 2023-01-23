@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>8218 FAUSKE</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer8218">
+ <name>8218 FAUSKE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8218:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fauske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8218"><strong>Meir info om 8218 FAUSKE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>15.44620,67.32360</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 8218 FAUSKE</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>15.47005,67.36375 15.45835,67.35787 15.44602,67.34863 15.43160,67.34222 15.42116,67.33351 15.41342,67.33184 15.39815,67.32897 15.38875,67.32568 15.37544,67.32263 15.36483,67.31858 15.35771,67.31621 15.34454,67.31165 15.33224,67.30348 15.32655,67.30006 15.33073,67.29951 15.34076,67.29820 15.35158,67.27543 15.39381,67.27918 15.40269,67.28885 15.41701,67.29759 15.42947,67.29482 15.43263,67.29404 15.43312,67.29430 15.43450,67.29435 15.43687,67.29573 15.43522,67.29619 15.43593,67.29713 15.43690,67.29736 15.43752,67.29750 15.43878,67.29800 15.43581,67.30218 15.42902,67.30447 15.43252,67.30658 15.45432,67.31737 15.48306,67.31985 15.48716,67.32206 15.50015,67.32967 15.52059,67.33801 15.53571,67.34293 15.53605,67.34320 15.53624,67.34390 15.53666,67.34393 15.53699,67.34388 15.53705,67.34393 15.53871,67.34512 15.53857,67.34523 15.53756,67.34600 15.53720,67.34629 15.53608,67.35521 15.52774,67.35564 15.50987,67.35806 15.47005,67.36375</coordinates></LineString></Placemark>
+ </Document>
+</kml>

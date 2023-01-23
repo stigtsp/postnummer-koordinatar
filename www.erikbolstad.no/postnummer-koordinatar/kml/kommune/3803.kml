@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tønsberg, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3100">
+ <IconStyle id="icon3100">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3100.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3100">
+ <name>3100 TØNSBERG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3100:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3100"><strong>Meir info om 3100 TØNSBERG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3100</styleUrl>
+ <Point>
+ <coordinates>10.40762,59.26754</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3101">
+ <IconStyle id="icon3101">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3101.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3101">
+ <name>3101 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3101:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3101"><strong>Meir info om 3101 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3101</styleUrl>
+ <Point>
+ <coordinates>10.41015,59.26926</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3102">
+ <IconStyle id="icon3102">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3102.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3102">
+ <name>3102 TØNSBERG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3102:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3102"><strong>Meir info om 3102 TØNSBERG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3102</styleUrl>
+ <Point>
+ <coordinates>10.41015,59.26926</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3103">
+ <IconStyle id="icon3103">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3103.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3103">
+ <name>3103 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3103:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3103"><strong>Meir info om 3103 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3103</styleUrl>
+ <Point>
+ <coordinates>10.40170,59.27830</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3104">
+ <IconStyle id="icon3104">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3104.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3104">
+ <name>3104 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3104:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3104"><strong>Meir info om 3104 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3104</styleUrl>
+ <Point>
+ <coordinates>10.40170,59.27830</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3105">
+ <IconStyle id="icon3105">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3105.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3105">
+ <name>3105 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3105:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3105"><strong>Meir info om 3105 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3105</styleUrl>
+ <Point>
+ <coordinates>10.42529,59.27438</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3107">
+ <IconStyle id="icon3107">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3107.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3107">
+ <name>3107 SEM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3107:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3107"><strong>Meir info om 3107 SEM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3107</styleUrl>
+ <Point>
+ <coordinates>10.33154,59.28271</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3108">
+ <IconStyle id="icon3108">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3108.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3108">
+ <name>3108 VEAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3108:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3108"><strong>Meir info om 3108 VEAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3108</styleUrl>
+ <Point>
+ <coordinates>10.36263,59.26358</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3109">
+ <IconStyle id="icon3109">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3109.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3109">
+ <name>3109 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3109:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3109"><strong>Meir info om 3109 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3109</styleUrl>
+ <Point>
+ <coordinates>10.41958,59.29213</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3110">
+ <IconStyle id="icon3110">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3110.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3110">
+ <name>3110 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3110:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3110"><strong>Meir info om 3110 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3110</styleUrl>
+ <Point>
+ <coordinates>10.41200,59.26770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3111">
+ <IconStyle id="icon3111">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3111.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3111">
+ <name>3111 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3111:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3111"><strong>Meir info om 3111 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3111</styleUrl>
+ <Point>
+ <coordinates>10.40720,59.27250</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3112">
+ <IconStyle id="icon3112">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3112.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3112">
+ <name>3112 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3112:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3112"><strong>Meir info om 3112 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3112</styleUrl>
+ <Point>
+ <coordinates>10.42260,59.26690</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3113">
+ <IconStyle id="icon3113">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3113.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3113">
+ <name>3113 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3113:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3113"><strong>Meir info om 3113 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3113</styleUrl>
+ <Point>
+ <coordinates>10.44910,59.26460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3114">
+ <IconStyle id="icon3114">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3114.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3114">
+ <name>3114 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3114:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3114"><strong>Meir info om 3114 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3114</styleUrl>
+ <Point>
+ <coordinates>10.46650,59.29370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3115">
+ <IconStyle id="icon3115">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3115.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3115">
+ <name>3115 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3115:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3115"><strong>Meir info om 3115 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3115</styleUrl>
+ <Point>
+ <coordinates>10.40230,59.26260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3116">
+ <IconStyle id="icon3116">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3116.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3116">
+ <name>3116 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3116:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3116"><strong>Meir info om 3116 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3116</styleUrl>
+ <Point>
+ <coordinates>10.41610,59.27160</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3117">
+ <IconStyle id="icon3117">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3117.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3117">
+ <name>3117 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3117:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3117"><strong>Meir info om 3117 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3117</styleUrl>
+ <Point>
+ <coordinates>10.42220,59.27700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3118">
+ <IconStyle id="icon3118">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3118.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3118">
+ <name>3118 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3118:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3118"><strong>Meir info om 3118 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3118</styleUrl>
+ <Point>
+ <coordinates>10.44190,59.27750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3119">
+ <IconStyle id="icon3119">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3119.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3119">
+ <name>3119 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3119:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3119"><strong>Meir info om 3119 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3119</styleUrl>
+ <Point>
+ <coordinates>10.40254,59.26395</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3122">
+ <IconStyle id="icon3122">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3122.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3122">
+ <name>3122 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3122:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3122"><strong>Meir info om 3122 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3122</styleUrl>
+ <Point>
+ <coordinates>10.42230,59.29150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3123">
+ <IconStyle id="icon3123">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3123.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3123">
+ <name>3123 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3123:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3123"><strong>Meir info om 3123 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3123</styleUrl>
+ <Point>
+ <coordinates>10.42420,59.30380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3124">
+ <IconStyle id="icon3124">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3124.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3124">
+ <name>3124 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3124:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3124"><strong>Meir info om 3124 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3124</styleUrl>
+ <Point>
+ <coordinates>10.46720,59.25330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3125">
+ <IconStyle id="icon3125">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3125.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3125">
+ <name>3125 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3125:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3125"><strong>Meir info om 3125 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3125</styleUrl>
+ <Point>
+ <coordinates>10.40230,59.28110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3126">
+ <IconStyle id="icon3126">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3126.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3126">
+ <name>3126 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3126:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3126"><strong>Meir info om 3126 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3126</styleUrl>
+ <Point>
+ <coordinates>10.40980,59.26630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3127">
+ <IconStyle id="icon3127">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3127.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3127">
+ <name>3127 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3127:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3127"><strong>Meir info om 3127 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3127</styleUrl>
+ <Point>
+ <coordinates>10.41440,59.25710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3129">
+ <IconStyle id="icon3129">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3129.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3129">
+ <name>3129 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3129:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3129"><strong>Meir info om 3129 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3129</styleUrl>
+ <Point>
+ <coordinates>10.41670,59.26746</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3134">
+ <IconStyle id="icon3134">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3134.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3134">
+ <name>3134 TØNSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3134:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3134"><strong>Meir info om 3134 TØNSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3134</styleUrl>
+ <Point>
+ <coordinates>10.41670,59.26746</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3150">
+ <IconStyle id="icon3150">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3150.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3150">
+ <name>3150 TOLVSRØD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3150:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3150"><strong>Meir info om 3150 TOLVSRØD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3150</styleUrl>
+ <Point>
+ <coordinates>10.48460,59.27890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3151">
+ <IconStyle id="icon3151">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3151.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3151">
+ <name>3151 TOLVSRØD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3151:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3151"><strong>Meir info om 3151 TOLVSRØD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3151</styleUrl>
+ <Point>
+ <coordinates>10.46220,59.27380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3152">
+ <IconStyle id="icon3152">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3152.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3152">
+ <name>3152 TOLVSRØD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3152:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3152"><strong>Meir info om 3152 TOLVSRØD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3152</styleUrl>
+ <Point>
+ <coordinates>10.47390,59.27120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3153">
+ <IconStyle id="icon3153">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3153.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3153">
+ <name>3153 TOLVSRØD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3153:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3153"><strong>Meir info om 3153 TOLVSRØD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3153</styleUrl>
+ <Point>
+ <coordinates>10.49130,59.29910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3154">
+ <IconStyle id="icon3154">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3154.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3154">
+ <name>3154 TOLVSRØD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3154:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3154"><strong>Meir info om 3154 TOLVSRØD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3154</styleUrl>
+ <Point>
+ <coordinates>10.47610,59.27590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3157">
+ <IconStyle id="icon3157">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3157.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3157">
+ <name>3157 BARKÅKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3157:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3157"><strong>Meir info om 3157 BARKÅKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3157</styleUrl>
+ <Point>
+ <coordinates>10.39330,59.31690</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3164">
+ <IconStyle id="icon3164">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3164.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3164">
+ <name>3164 REVETAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3164:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3164"><strong>Meir info om 3164 REVETAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3164</styleUrl>
+ <Point>
+ <coordinates>10.26430,59.37174</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3166">
+ <IconStyle id="icon3166">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3166.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3166">
+ <name>3166 TOLVSRØD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3166:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3166"><strong>Meir info om 3166 TOLVSRØD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3166</styleUrl>
+ <Point>
+ <coordinates>10.47112,59.27286</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3170">
+ <IconStyle id="icon3170">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3170.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3170">
+ <name>3170 SEM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3170:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3170"><strong>Meir info om 3170 SEM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3170</styleUrl>
+ <Point>
+ <coordinates>10.32650,59.28200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3171">
+ <IconStyle id="icon3171">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3171.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3171">
+ <name>3171 SEM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3171:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3171"><strong>Meir info om 3171 SEM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3171</styleUrl>
+ <Point>
+ <coordinates>10.29490,59.29170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3172">
+ <IconStyle id="icon3172">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3172.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3172">
+ <name>3172 VEAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3172:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3172"><strong>Meir info om 3172 VEAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3172</styleUrl>
+ <Point>
+ <coordinates>10.35560,59.26980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3173">
+ <IconStyle id="icon3173">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3173.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3173">
+ <name>3173 VEAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3173:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3173"><strong>Meir info om 3173 VEAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3173</styleUrl>
+ <Point>
+ <coordinates>10.36880,59.25920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3174">
+ <IconStyle id="icon3174">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3174.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3174">
+ <name>3174 REVETAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3174:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3174"><strong>Meir info om 3174 REVETAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3174</styleUrl>
+ <Point>
+ <coordinates>10.26400,59.37160</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3175">
+ <IconStyle id="icon3175">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3175.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3175">
+ <name>3175 RAMNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3175:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3175"><strong>Meir info om 3175 RAMNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3175</styleUrl>
+ <Point>
+ <coordinates>10.25100,59.34770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3176">
+ <IconStyle id="icon3176">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3176.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3176">
+ <name>3176 UNDRUMSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3176:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3176"><strong>Meir info om 3176 UNDRUMSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3176</styleUrl>
+ <Point>
+ <coordinates>10.36860,59.37190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3177">
+ <IconStyle id="icon3177">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3177.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3177">
+ <name>3177 VÅLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3177:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3177"><strong>Meir info om 3177 VÅLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3177</styleUrl>
+ <Point>
+ <coordinates>10.27865,59.41691</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3178">
+ <IconStyle id="icon3178">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3178.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3178">
+ <name>3178 VÅLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3178:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tønsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3178"><strong>Meir info om 3178 VÅLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3178</styleUrl>
+ <Point>
+ <coordinates>10.27830,59.41800</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

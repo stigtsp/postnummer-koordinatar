@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Valle, Aust-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4690">
+ <IconStyle id="icon4690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4690">
+ <name>4690 VALLE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4690:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4690"><strong>Meir info om 4690 VALLE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4690</styleUrl>
+ <Point>
+ <coordinates>7.53498,59.21223</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4692">
+ <IconStyle id="icon4692">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4692.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4692">
+ <name>4692 RYSSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4692:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4692"><strong>Meir info om 4692 RYSSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4692</styleUrl>
+ <Point>
+ <coordinates>7.53022,59.09590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4746">
+ <IconStyle id="icon4746">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4746.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4746">
+ <name>4746 VALLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4746:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4746"><strong>Meir info om 4746 VALLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4746</styleUrl>
+ <Point>
+ <coordinates>7.53498,59.21223</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4747">
+ <IconStyle id="icon4747">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4747.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4747">
+ <name>4747 VALLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4747:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4747"><strong>Meir info om 4747 VALLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4747</styleUrl>
+ <Point>
+ <coordinates>7.535,59.2122</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4748">
+ <IconStyle id="icon4748">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4748.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4748">
+ <name>4748 RYSSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4748:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4748"><strong>Meir info om 4748 RYSSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4748</styleUrl>
+ <Point>
+ <coordinates>7.5302,59.0959</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4749">
+ <IconStyle id="icon4749">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4749.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4749">
+ <name>4749 RYSSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4749:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4749"><strong>Meir info om 4749 RYSSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4749</styleUrl>
+ <Point>
+ <coordinates>7.53022,59.09590</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Valle (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.5395026,59.4006169,0 7.594287,59.3770895,0 7.6094683,59.3360456,0 7.6964634,59.3276289,0 7.6964634,59.3276289,0 7.7238006,59.2623027,0 7.7792451,59.2209849,0 7.7486186,59.2069309,0 7.7301371,59.1641927,0 7.82118,59.1008901,0 7.82118,59.1008901,0 7.7718386,59.0666679,0 7.5995586,59.0438064,0 7.5655194,59.016281,0 7.5446791,59.0280803,0 7.3321078,59.0037621,0 7.1636377,58.9440868,0 7.1636377,58.9440868,0 7.1051328,58.9975483,0 7.1707292,59.0034833,0 7.1769342,59.0171757,0 7.1414767,59.0463678,0 7.1698427,59.1165099,0 7.1600919,59.1378884,0 7.2033749,59.1457156,0 7.1767531,59.1615949,0 6.9979749,59.1913774,0 6.9979749,59.1913774,0 7.1833886,59.2967048,0 7.2337527,59.2794089,0 7.2997471,59.2856187,0 7.2988787,59.3033547,0 7.3275342,59.3095601,0 7.4161055,59.2865057,0 7.445586,59.3510974,0 7.5395026,59.4006169,0 7.5395026,59.4006169,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

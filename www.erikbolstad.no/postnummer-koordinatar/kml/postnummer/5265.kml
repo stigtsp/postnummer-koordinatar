@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5265 YTRE ARNA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5265">
+ <name>5265 YTRE ARNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5265:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bergen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5265"><strong>Meir info om 5265 YTRE ARNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.43910,60.45870</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5265 YTRE ARNA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.38587,60.45347 5.38122,60.45175 5.37666,60.45226 5.37919,60.44685 5.37234,60.44628 5.35679,60.44876 5.37355,60.43702 5.39375,60.42596 5.41116,60.41512 5.41283,60.41320 5.42582,60.41715 5.44831,60.42299 5.43440,60.43970 5.43291,60.44151 5.45605,60.44258 5.45506,60.45198 5.45486,60.45400 5.46469,60.45870 5.46168,60.46029 5.45821,60.46212 5.45678,60.46287 5.45465,60.46391 5.45144,60.46588 5.45083,60.46624 5.44666,60.46854 5.44440,60.47004 5.44326,60.47072 5.44140,60.47181 5.43860,60.47350 5.42710,60.47002 5.42458,60.46974 5.42274,60.46953 5.42194,60.46924 5.42163,60.46905 5.41826,60.46866 5.41455,60.46789 5.41241,60.46224 5.40669,60.46023 5.40005,60.45779 5.39497,60.45619 5.39231,60.45544 5.39127,60.45516 5.38818,60.45425 5.38587,60.45347</coordinates></LineString></Placemark>
+ </Document>
+</kml>

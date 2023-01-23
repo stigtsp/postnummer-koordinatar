@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ullensaker, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style0080">
+ <IconStyle id="icon0080">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/0080.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer0080">
+ <name>0080 OSLO (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0080:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0080"><strong>Meir info om 0080 OSLO (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style0080</styleUrl>
+ <Point>
+ <coordinates>11.10550,60.18950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2040">
+ <IconStyle id="icon2040">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2040.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2040">
+ <name>2040 KLØFTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2040:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2040"><strong>Meir info om 2040 KLØFTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2040</styleUrl>
+ <Point>
+ <coordinates>11.13800,60.07410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2041">
+ <IconStyle id="icon2041">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2041.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2041">
+ <name>2041 KLØFTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2041:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2041"><strong>Meir info om 2041 KLØFTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2041</styleUrl>
+ <Point>
+ <coordinates>11.13751,60.07613</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2050">
+ <IconStyle id="icon2050">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2050.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2050">
+ <name>2050 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2050:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2050"><strong>Meir info om 2050 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2050</styleUrl>
+ <Point>
+ <coordinates>11.16630,60.13900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2051">
+ <IconStyle id="icon2051">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2051.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2051">
+ <name>2051 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2051:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2051"><strong>Meir info om 2051 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2051</styleUrl>
+ <Point>
+ <coordinates>11.17233,60.14138</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2052">
+ <IconStyle id="icon2052">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2052.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2052">
+ <name>2052 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2052:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2052"><strong>Meir info om 2052 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2052</styleUrl>
+ <Point>
+ <coordinates>11.21050,60.13840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2053">
+ <IconStyle id="icon2053">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2053.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2053">
+ <name>2053 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2053:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2053"><strong>Meir info om 2053 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2053</styleUrl>
+ <Point>
+ <coordinates>11.18850,60.13660</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2054">
+ <IconStyle id="icon2054">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2054.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2054">
+ <name>2054 MOGREINA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2054:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2054"><strong>Meir info om 2054 MOGREINA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2054</styleUrl>
+ <Point>
+ <coordinates>11.16720,60.22980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2055">
+ <IconStyle id="icon2055">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2055.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2055">
+ <name>2055 NORDKISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2055:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2055"><strong>Meir info om 2055 NORDKISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2055</styleUrl>
+ <Point>
+ <coordinates>11.26228,60.18451</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2056">
+ <IconStyle id="icon2056">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2056.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2056">
+ <name>2056 ALGARHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2056:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2056"><strong>Meir info om 2056 ALGARHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2056</styleUrl>
+ <Point>
+ <coordinates>11.25500,60.14460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2057">
+ <IconStyle id="icon2057">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2057.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2057">
+ <name>2057 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2057:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2057"><strong>Meir info om 2057 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2057</styleUrl>
+ <Point>
+ <coordinates>11.21144,60.14084</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2058">
+ <IconStyle id="icon2058">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2058.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2058">
+ <name>2058 SESSVOLLMOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2058:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2058"><strong>Meir info om 2058 SESSVOLLMOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2058</styleUrl>
+ <Point>
+ <coordinates>11.14490,60.23710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2059">
+ <IconStyle id="icon2059">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2059.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2059">
+ <name>2059 TRANDUM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2059:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2059"><strong>Meir info om 2059 TRANDUM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2059</styleUrl>
+ <Point>
+ <coordinates>11.12290,60.21400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2060">
+ <IconStyle id="icon2060">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2060.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2060">
+ <name>2060 GARDERMOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2060:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2060"><strong>Meir info om 2060 GARDERMOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2060</styleUrl>
+ <Point>
+ <coordinates>11.09940,60.19400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2061">
+ <IconStyle id="icon2061">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2061.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2061">
+ <name>2061 GARDERMOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2061:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2061"><strong>Meir info om 2061 GARDERMOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2061</styleUrl>
+ <Point>
+ <coordinates>11.09940,60.19400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2062">
+ <IconStyle id="icon2062">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2062.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2062">
+ <name>2062 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2062:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2062"><strong>Meir info om 2062 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2062</styleUrl>
+ <Point>
+ <coordinates>11.21144,60.14084</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2063">
+ <IconStyle id="icon2063">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2063.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2063">
+ <name>2063 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2063:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2063"><strong>Meir info om 2063 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2063</styleUrl>
+ <Point>
+ <coordinates>11.15980,60.14140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2065">
+ <IconStyle id="icon2065">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2065.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2065">
+ <name>2065 GARDERMOEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2065:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2065"><strong>Meir info om 2065 GARDERMOEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2065</styleUrl>
+ <Point>
+ <coordinates>11.17230,60.14140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2066">
+ <IconStyle id="icon2066">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2066.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2066">
+ <name>2066 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2066:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2066"><strong>Meir info om 2066 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2066</styleUrl>
+ <Point>
+ <coordinates>11.17040,60.14780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2067">
+ <IconStyle id="icon2067">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2067.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2067">
+ <name>2067 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2067:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2067"><strong>Meir info om 2067 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2067</styleUrl>
+ <Point>
+ <coordinates>11.14100,60.15490</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2068">
+ <IconStyle id="icon2068">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2068.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2068">
+ <name>2068 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2068:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2068"><strong>Meir info om 2068 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2068</styleUrl>
+ <Point>
+ <coordinates>11.17630,60.15730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2069">
+ <IconStyle id="icon2069">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2069.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2069">
+ <name>2069 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2069:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2069"><strong>Meir info om 2069 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2069</styleUrl>
+ <Point>
+ <coordinates>11.18510,60.15700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2078">
+ <IconStyle id="icon2078">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2078.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2078">
+ <name>2078 NORDKISA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2078:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2078"><strong>Meir info om 2078 NORDKISA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2078</styleUrl>
+ <Point>
+ <coordinates>11.26228,60.18451</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

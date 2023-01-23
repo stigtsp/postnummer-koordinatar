@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0767 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0767">
+ <name>0767 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0767:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0767"><strong>Meir info om 0767 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.65180,59.95310</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0767 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.64846,59.95513 10.64781,59.95444 10.64733,59.95377 10.64798,59.95243 10.64848,59.95125 10.65149,59.95121 10.65430,59.95230 10.65620,59.95209 10.65484,59.95040 10.65506,59.95026 10.65579,59.95020 10.65659,59.95011 10.65696,59.95148 10.65696,59.95174 10.65690,59.95193 10.65678,59.95226 10.65675,59.95232 10.65628,59.95311 10.65602,59.95354 10.65576,59.95381 10.65460,59.95441 10.65231,59.95409 10.65036,59.95422 10.65044,59.95434 10.65111,59.95638 10.65325,59.95591 10.65519,59.95570 10.65576,59.95632 10.65277,59.95785 10.65244,59.95773 10.65209,59.95750 10.65182,59.95735 10.64762,59.95691 10.64846,59.95513</coordinates></LineString></Placemark>
+ </Document>
+</kml>

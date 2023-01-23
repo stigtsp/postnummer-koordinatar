@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Gratangen, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9470">
+ <IconStyle id="icon9470">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9470.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9470">
+ <name>9470 GRATANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9470:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gratangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9470"><strong>Meir info om 9470 GRATANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9470</styleUrl>
+ <Point>
+ <coordinates>17.5422,68.6903</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9471">
+ <IconStyle id="icon9471">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9471.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9471">
+ <name>9471 GRATANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9471:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gratangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9471"><strong>Meir info om 9471 GRATANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9471</styleUrl>
+ <Point>
+ <coordinates>17.53239,68.69224</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9472">
+ <IconStyle id="icon9472">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9472.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9472">
+ <name>9472 GRATANGEN TURISTSTASJON (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9472:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gratangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9472"><strong>Meir info om 9472 GRATANGEN TURISTSTASJON (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9472</styleUrl>
+ <Point>
+ <coordinates>17.5422,68.6903</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Gratangen (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>17.549131,68.599748,0 17.798016,68.6031426,0 17.798016,68.6031426,0 17.843502,68.6936458,0 17.7097433,68.7077516,0 17.6001474,68.710885,0 17.6070511,68.7556445,0 17.4275555,68.7956329,0 17.4646628,68.8274473,0 17.4646628,68.8274473,0 17.4357536,68.8330958,0 17.4357536,68.8330958,0 17.2277804,68.7816218,0 17.1613325,68.7375403,0 17.1613325,68.7375403,0 17.2389989,68.673922,0 17.342554,68.6707834,0 17.3114875,68.6563402,0 17.3382392,68.6453446,0 17.4478351,68.6396876,0 17.549131,68.599748,0 17.549131,68.599748,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

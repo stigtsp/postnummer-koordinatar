@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2214 KONGSVINGER</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2214">
+ <name>2214 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2214:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2214"><strong>Meir info om 2214 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.98980,60.20100</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2214 KONGSVINGER</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.97900,60.20244 11.97943,60.20223 11.97864,60.20177 11.98077,60.20011 11.98235,60.19887 11.98323,60.19830 11.98696,60.19635 11.98800,60.19673 11.98883,60.19645 11.98814,60.19579 11.98918,60.19527 11.99094,60.19684 11.99265,60.19632 11.99380,60.19598 11.99505,60.19563 11.99582,60.19539 11.99613,60.19566 11.99597,60.19604 11.99631,60.19637 11.99695,60.19627 11.99751,60.19668 11.99782,60.19703 11.99732,60.19741 11.99790,60.19770 11.99864,60.19772 11.99867,60.19749 11.99802,60.19709 11.99911,60.19664 11.99938,60.19687 12.00003,60.19685 11.99998,60.19747 11.99992,60.19817 11.99995,60.19861 11.99989,60.19925 11.99996,60.19956 11.99923,60.19955 11.99932,60.19988 12.00038,60.19989 12.00036,60.20019 12.00041,60.20025 12.00084,60.20094 12.00002,60.20104 11.99991,60.20110 11.99987,60.20206 12.00001,60.20255 11.99971,60.20315 11.99957,60.20354 11.99929,60.20394 11.99836,60.20443 11.99750,60.20497 11.99567,60.20644 11.99645,60.20667 11.99670,60.20703 11.99620,60.20779 11.99620,60.20855 11.99613,60.21177 11.99594,60.21481 11.99382,60.21857 11.98797,60.22051 11.98038,60.22070 11.97915,60.22022 11.98051,60.21929 11.98341,60.21668 11.98434,60.20734 11.98316,60.20670 11.98090,60.20516 11.98040,60.20478 11.97916,60.20489 11.97844,60.20440 11.97848,60.20399 11.97847,60.20365 11.97805,60.20345 11.97756,60.20340 11.97657,60.20316 11.97793,60.20228 11.97832,60.20205 11.97900,60.20244</coordinates></LineString></Placemark>
+ </Document>
+</kml>

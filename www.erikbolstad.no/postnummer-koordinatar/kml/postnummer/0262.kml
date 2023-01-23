@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0262 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0262">
+ <name>0262 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0262:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0262"><strong>Meir info om 0262 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.71180,59.91680</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0262 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.71001,59.91725 10.70980,59.91707 10.70969,59.91685 10.70958,59.91668 10.70947,59.91649 10.71022,59.91622 10.71110,59.91599 10.71140,59.91603 10.71325,59.91548 10.71378,59.91605 10.71382,59.91617 10.71331,59.91633 10.71274,59.91651 10.71292,59.91680 10.71275,59.91730 10.71218,59.91765 10.71164,59.91796 10.71140,59.91805 10.71101,59.91810 10.71096,59.91800 10.71088,59.91769 10.71000,59.91761 10.70991,59.91741 10.71018,59.91737 10.71001,59.91725</coordinates></LineString></Placemark>
+ </Document>
+</kml>

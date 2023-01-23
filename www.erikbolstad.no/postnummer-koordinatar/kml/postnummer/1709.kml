@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1709 SARPSBORG</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1709">
+ <name>1709 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1709:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1709"><strong>Meir info om 1709 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.10910,59.29880</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1709 SARPSBORG</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.11329,59.31023 11.11081,59.30703 11.11046,59.30651 11.10813,59.30411 11.10786,59.30348 11.10745,59.30248 11.10726,59.30173 11.10714,59.30145 11.10694,59.30102 11.10675,59.30061 11.10639,59.29970 11.10564,59.29786 11.10517,59.29673 11.10463,59.29587 11.10388,59.29592 11.10373,59.29548 11.10308,59.29549 11.10301,59.29521 11.10358,59.29520 11.10357,59.29492 11.10387,59.29490 11.10379,59.29467 11.10365,59.29406 11.10543,59.29370 11.10891,59.29337 11.10891,59.29318 11.10987,59.29315 11.10991,59.29300 11.11062,59.29272 11.10980,59.29215 11.11181,59.29123 11.11402,59.29074 11.11434,59.29090 11.11444,59.29123 11.11422,59.29150 11.11452,59.29162 11.11426,59.29187 11.11376,59.29190 11.11353,59.29177 11.11054,59.29289 11.11201,59.29484 11.11138,59.29494 11.11172,59.29535 11.11233,59.29637 11.11290,59.29629 11.11696,59.29873 11.11675,59.29904 11.11550,59.29967 11.11555,59.30039 11.11601,59.30074 11.11650,59.30131 11.11460,59.30419 11.11489,59.30430 11.11523,59.30446 11.11783,59.30727 11.12025,59.30989 11.11783,59.31003 11.11505,59.31018 11.11329,59.31023</coordinates></LineString></Placemark>
+ </Document>
+</kml>

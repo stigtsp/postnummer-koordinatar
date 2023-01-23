@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1791 TISTEDAL</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1791">
+ <name>1791 TISTEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1791:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1791"><strong>Meir info om 1791 TISTEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.44060,59.13640</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1791 TISTEDAL</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.42927,59.14365 11.42822,59.14028 11.43011,59.13583 11.42724,59.13584 11.42724,59.13583 11.42582,59.13193 11.42246,59.12833 11.42582,59.12952 11.42842,59.13028 11.43257,59.13152 11.43534,59.13228 11.43724,59.13182 11.43846,59.13195 11.43983,59.13193 11.44118,59.13266 11.44287,59.13326 11.44469,59.13353 11.44535,59.13363 11.44609,59.13378 11.44694,59.13339 11.44817,59.13243 11.44839,59.13228 11.44774,59.13161 11.44815,59.13091 11.45039,59.13034 11.45264,59.12880 11.45617,59.12806 11.45962,59.12916 11.46294,59.13165 11.45525,59.13624 11.45434,59.13789 11.45212,59.14293 11.44810,59.14402 11.44611,59.14391 11.44386,59.14529 11.42927,59.14365</coordinates></LineString></Placemark>
+ </Document>
+</kml>

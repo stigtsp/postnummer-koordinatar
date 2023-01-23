@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1351 RUD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1351">
+ <name>1351 RUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1351:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bærum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1351"><strong>Meir info om 1351 RUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.49320,59.90840</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1351 RUD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.49167,59.91339 10.49020,59.91263 10.48944,59.91186 10.48921,59.91130 10.48911,59.91034 10.48841,59.90951 10.48758,59.90881 10.48720,59.90848 10.48685,59.90846 10.48619,59.90858 10.48353,59.90851 10.48174,59.90762 10.48268,59.90688 10.48370,59.90671 10.48504,59.90676 10.48530,59.90619 10.48481,59.90567 10.48358,59.90602 10.48322,59.90629 10.48256,59.90629 10.48224,59.90603 10.48215,59.90562 10.48266,59.90543 10.48362,59.90512 10.48562,59.90487 10.48627,59.90543 10.48755,59.90566 10.48791,59.90517 10.48716,59.90432 10.48876,59.90385 10.49126,59.90340 10.49262,59.90301 10.49876,59.90543 10.50223,59.90678 10.50512,59.90759 10.50744,59.90782 10.50991,59.90771 10.50956,59.90799 10.50936,59.90806 10.50912,59.90822 10.50883,59.90844 10.50821,59.90894 10.50658,59.91042 10.50801,59.91087 10.50501,59.91221 10.50368,59.91113 10.50223,59.91193 10.49949,59.91059 10.49852,59.91134 10.49642,59.91308 10.49167,59.91339</coordinates></LineString></Placemark>
+ </Document>
+</kml>

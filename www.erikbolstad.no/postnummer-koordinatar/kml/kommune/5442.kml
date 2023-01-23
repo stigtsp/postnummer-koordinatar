@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nesseby, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9820">
+ <IconStyle id="icon9820">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9820.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9820">
+ <name>9820 VARANGERBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9820:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesseby kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9820"><strong>Meir info om 9820 VARANGERBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9820</styleUrl>
+ <Point>
+ <coordinates>28.55350,70.17300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9840">
+ <IconStyle id="icon9840">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9840.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9840">
+ <name>9840 VARANGERBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9840:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesseby kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9840"><strong>Meir info om 9840 VARANGERBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9840</styleUrl>
+ <Point>
+ <coordinates>28.55570,70.17310</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Drammen, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3000">
+ <IconStyle id="icon3000">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3000.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3000">
+ <name>3000 DRAMMEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3000:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3000"><strong>Meir info om 3000 DRAMMEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3000</styleUrl>
+ <Point>
+ <coordinates>10.20449,59.74389</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3001">
+ <IconStyle id="icon3001">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3001.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3001">
+ <name>3001 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3001:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3001"><strong>Meir info om 3001 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3001</styleUrl>
+ <Point>
+ <coordinates>10.20376,59.74412</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3002">
+ <IconStyle id="icon3002">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3002.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3002">
+ <name>3002 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3002:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3002"><strong>Meir info om 3002 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3002</styleUrl>
+ <Point>
+ <coordinates>10.22288,59.74117</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3003">
+ <IconStyle id="icon3003">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3003.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3003">
+ <name>3003 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3003:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3003"><strong>Meir info om 3003 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3003</styleUrl>
+ <Point>
+ <coordinates>10.20501,59.73877</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3004">
+ <IconStyle id="icon3004">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3004.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3004">
+ <name>3004 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3004:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3004"><strong>Meir info om 3004 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3004</styleUrl>
+ <Point>
+ <coordinates>10.19850,59.74910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3005">
+ <IconStyle id="icon3005">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3005.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3005">
+ <name>3005 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3005:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3005"><strong>Meir info om 3005 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3005</styleUrl>
+ <Point>
+ <coordinates>10.15796,59.74253</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3006">
+ <IconStyle id="icon3006">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3006.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3006">
+ <name>3006 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3006:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3006"><strong>Meir info om 3006 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3006</styleUrl>
+ <Point>
+ <coordinates>10.14596,59.71924</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3007">
+ <IconStyle id="icon3007">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3007.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3007">
+ <name>3007 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3007:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3007"><strong>Meir info om 3007 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3007</styleUrl>
+ <Point>
+ <coordinates>10.12605,59.75310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3008">
+ <IconStyle id="icon3008">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3008.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3008">
+ <name>3008 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3008:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3008"><strong>Meir info om 3008 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3008</styleUrl>
+ <Point>
+ <coordinates>10.20620,59.74470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3009">
+ <IconStyle id="icon3009">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3009.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3009">
+ <name>3009 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3009:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3009"><strong>Meir info om 3009 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3009</styleUrl>
+ <Point>
+ <coordinates>10.20620,59.74470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3010">
+ <IconStyle id="icon3010">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3010.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3010">
+ <name>3010 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3010:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3010"><strong>Meir info om 3010 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3010</styleUrl>
+ <Point>
+ <coordinates>10.20620,59.74470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3011">
+ <IconStyle id="icon3011">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3011.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3011">
+ <name>3011 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3011:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3011"><strong>Meir info om 3011 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3011</styleUrl>
+ <Point>
+ <coordinates>10.22470,59.74570</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3012">
+ <IconStyle id="icon3012">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3012.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3012">
+ <name>3012 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3012:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3012"><strong>Meir info om 3012 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3012</styleUrl>
+ <Point>
+ <coordinates>10.22400,59.74230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3013">
+ <IconStyle id="icon3013">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3013.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3013">
+ <name>3013 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3013:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3013"><strong>Meir info om 3013 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3013</styleUrl>
+ <Point>
+ <coordinates>10.22560,59.73590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3014">
+ <IconStyle id="icon3014">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3014.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3014">
+ <name>3014 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3014:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3014"><strong>Meir info om 3014 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3014</styleUrl>
+ <Point>
+ <coordinates>10.21800,59.74900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3015">
+ <IconStyle id="icon3015">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3015.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3015">
+ <name>3015 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3015:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3015"><strong>Meir info om 3015 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3015</styleUrl>
+ <Point>
+ <coordinates>10.21240,59.74380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3016">
+ <IconStyle id="icon3016">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3016.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3016">
+ <name>3016 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3016:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3016"><strong>Meir info om 3016 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3016</styleUrl>
+ <Point>
+ <coordinates>10.20600,59.74780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3017">
+ <IconStyle id="icon3017">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3017.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3017">
+ <name>3017 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3017:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3017"><strong>Meir info om 3017 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3017</styleUrl>
+ <Point>
+ <coordinates>10.20330,59.74420</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3018">
+ <IconStyle id="icon3018">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3018.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3018">
+ <name>3018 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3018:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3018"><strong>Meir info om 3018 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3018</styleUrl>
+ <Point>
+ <coordinates>10.18320,59.74910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3019">
+ <IconStyle id="icon3019">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3019.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3019">
+ <name>3019 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3019:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3019"><strong>Meir info om 3019 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3019</styleUrl>
+ <Point>
+ <coordinates>10.19580,59.74740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3020">
+ <IconStyle id="icon3020">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3020.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3020">
+ <name>3020 DRAMMEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3020:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3020"><strong>Meir info om 3020 DRAMMEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3020</styleUrl>
+ <Point>
+ <coordinates>10.16790,59.73370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3021">
+ <IconStyle id="icon3021">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3021.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3021">
+ <name>3021 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3021:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3021"><strong>Meir info om 3021 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3021</styleUrl>
+ <Point>
+ <coordinates>10.17250,59.76380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3022">
+ <IconStyle id="icon3022">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3022.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3022">
+ <name>3022 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3022:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3022"><strong>Meir info om 3022 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3022</styleUrl>
+ <Point>
+ <coordinates>10.16380,59.75530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3023">
+ <IconStyle id="icon3023">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3023.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3023">
+ <name>3023 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3023:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3023"><strong>Meir info om 3023 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3023</styleUrl>
+ <Point>
+ <coordinates>10.16080,59.75180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3024">
+ <IconStyle id="icon3024">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3024.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3024">
+ <name>3024 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3024:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3024"><strong>Meir info om 3024 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3024</styleUrl>
+ <Point>
+ <coordinates>10.14260,59.75440</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3025">
+ <IconStyle id="icon3025">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3025.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3025">
+ <name>3025 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3025:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3025"><strong>Meir info om 3025 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3025</styleUrl>
+ <Point>
+ <coordinates>10.14820,59.75730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3026">
+ <IconStyle id="icon3026">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3026.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3026">
+ <name>3026 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3026:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3026"><strong>Meir info om 3026 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3026</styleUrl>
+ <Point>
+ <coordinates>10.14150,59.76060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3027">
+ <IconStyle id="icon3027">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3027.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3027">
+ <name>3027 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3027:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3027"><strong>Meir info om 3027 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3027</styleUrl>
+ <Point>
+ <coordinates>10.11830,59.75380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3028">
+ <IconStyle id="icon3028">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3028.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3028">
+ <name>3028 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3028:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3028"><strong>Meir info om 3028 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3028</styleUrl>
+ <Point>
+ <coordinates>10.12510,59.75840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3029">
+ <IconStyle id="icon3029">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3029.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3029">
+ <name>3029 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3029:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3029"><strong>Meir info om 3029 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3029</styleUrl>
+ <Point>
+ <coordinates>10.12660,59.76170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3030">
+ <IconStyle id="icon3030">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3030.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3030">
+ <name>3030 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3030:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3030"><strong>Meir info om 3030 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3030</styleUrl>
+ <Point>
+ <coordinates>10.14420,59.72980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3031">
+ <IconStyle id="icon3031">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3031.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3031">
+ <name>3031 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3031:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3031"><strong>Meir info om 3031 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3031</styleUrl>
+ <Point>
+ <coordinates>10.12920,59.72290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3032">
+ <IconStyle id="icon3032">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3032.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3032">
+ <name>3032 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3032:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3032"><strong>Meir info om 3032 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3032</styleUrl>
+ <Point>
+ <coordinates>10.15480,59.70950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3033">
+ <IconStyle id="icon3033">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3033.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3033">
+ <name>3033 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3033:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3033"><strong>Meir info om 3033 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3033</styleUrl>
+ <Point>
+ <coordinates>10.15960,59.71890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3034">
+ <IconStyle id="icon3034">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3034.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3034">
+ <name>3034 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3034:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3034"><strong>Meir info om 3034 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3034</styleUrl>
+ <Point>
+ <coordinates>10.21490,59.72060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3035">
+ <IconStyle id="icon3035">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3035.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3035">
+ <name>3035 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3035:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3035"><strong>Meir info om 3035 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3035</styleUrl>
+ <Point>
+ <coordinates>10.22640,59.71100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3036">
+ <IconStyle id="icon3036">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3036.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3036">
+ <name>3036 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3036:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3036"><strong>Meir info om 3036 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3036</styleUrl>
+ <Point>
+ <coordinates>10.25840,59.70050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3037">
+ <IconStyle id="icon3037">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3037.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3037">
+ <name>3037 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3037:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3037"><strong>Meir info om 3037 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3037</styleUrl>
+ <Point>
+ <coordinates>10.29260,59.69880</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3038">
+ <IconStyle id="icon3038">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3038.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3038">
+ <name>3038 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3038:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3038"><strong>Meir info om 3038 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3038</styleUrl>
+ <Point>
+ <coordinates>10.25860,59.71610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3039">
+ <IconStyle id="icon3039">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3039.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3039">
+ <name>3039 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3039:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3039"><strong>Meir info om 3039 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3039</styleUrl>
+ <Point>
+ <coordinates>10.25860,59.70470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3040">
+ <IconStyle id="icon3040">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3040.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3040">
+ <name>3040 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3040:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3040"><strong>Meir info om 3040 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3040</styleUrl>
+ <Point>
+ <coordinates>10.24120,59.72760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3041">
+ <IconStyle id="icon3041">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3041.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3041">
+ <name>3041 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3041:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3041"><strong>Meir info om 3041 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3041</styleUrl>
+ <Point>
+ <coordinates>10.22180,59.72680</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3042">
+ <IconStyle id="icon3042">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3042.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3042">
+ <name>3042 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3042:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3042"><strong>Meir info om 3042 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3042</styleUrl>
+ <Point>
+ <coordinates>10.20490,59.72250</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3043">
+ <IconStyle id="icon3043">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3043.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3043">
+ <name>3043 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3043:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3043"><strong>Meir info om 3043 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3043</styleUrl>
+ <Point>
+ <coordinates>10.20770,59.72890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3044">
+ <IconStyle id="icon3044">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3044.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3044">
+ <name>3044 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3044:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3044"><strong>Meir info om 3044 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3044</styleUrl>
+ <Point>
+ <coordinates>10.20900,59.73640</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3045">
+ <IconStyle id="icon3045">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3045.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3045">
+ <name>3045 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3045:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3045"><strong>Meir info om 3045 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3045</styleUrl>
+ <Point>
+ <coordinates>10.19050,59.73980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3046">
+ <IconStyle id="icon3046">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3046.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3046">
+ <name>3046 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3046:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3046"><strong>Meir info om 3046 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3046</styleUrl>
+ <Point>
+ <coordinates>10.19030,59.73370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3047">
+ <IconStyle id="icon3047">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3047.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3047">
+ <name>3047 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3047:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3047"><strong>Meir info om 3047 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3047</styleUrl>
+ <Point>
+ <coordinates>10.16470,59.73940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3048">
+ <IconStyle id="icon3048">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3048.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3048">
+ <name>3048 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3048:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3048"><strong>Meir info om 3048 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3048</styleUrl>
+ <Point>
+ <coordinates>10.14860,59.74480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3050">
+ <IconStyle id="icon3050">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3050.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3050">
+ <name>3050 MJØNDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3050:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3050"><strong>Meir info om 3050 MJØNDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3050</styleUrl>
+ <Point>
+ <coordinates>10.02480,59.75070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3051">
+ <IconStyle id="icon3051">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3051.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3051">
+ <name>3051 MJØNDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3051:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3051"><strong>Meir info om 3051 MJØNDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3051</styleUrl>
+ <Point>
+ <coordinates>10.00937,59.75019</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3053">
+ <IconStyle id="icon3053">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3053.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3053">
+ <name>3053 STEINBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3053:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3053"><strong>Meir info om 3053 STEINBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3053</styleUrl>
+ <Point>
+ <coordinates>9.95490,59.76010</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3054">
+ <IconStyle id="icon3054">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3054.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3054">
+ <name>3054 KROKSTADELVA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3054:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3054"><strong>Meir info om 3054 KROKSTADELVA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3054</styleUrl>
+ <Point>
+ <coordinates>9.99221,59.75831</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3055">
+ <IconStyle id="icon3055">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3055.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3055">
+ <name>3055 KROKSTADELVA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3055:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3055"><strong>Meir info om 3055 KROKSTADELVA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3055</styleUrl>
+ <Point>
+ <coordinates>10.03180,59.75870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3056">
+ <IconStyle id="icon3056">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3056.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3056">
+ <name>3056 SOLBERGELVA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3056:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3056"><strong>Meir info om 3056 SOLBERGELVA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3056</styleUrl>
+ <Point>
+ <coordinates>10.09658,59.76192</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3057">
+ <IconStyle id="icon3057">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3057.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3057">
+ <name>3057 SOLBERGELVA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3057:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3057"><strong>Meir info om 3057 SOLBERGELVA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3057</styleUrl>
+ <Point>
+ <coordinates>10.07870,59.76340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3058">
+ <IconStyle id="icon3058">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3058.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3058">
+ <name>3058 SOLBERGMOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3058:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3058"><strong>Meir info om 3058 SOLBERGMOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3058</styleUrl>
+ <Point>
+ <coordinates>10.05640,59.75930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3060">
+ <IconStyle id="icon3060">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3060.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3060">
+ <name>3060 SVELVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3060:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3060"><strong>Meir info om 3060 SVELVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3060</styleUrl>
+ <Point>
+ <coordinates>10.40870,59.61370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3061">
+ <IconStyle id="icon3061">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3061.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3061">
+ <name>3061 SVELVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3061:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3061"><strong>Meir info om 3061 SVELVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3061</styleUrl>
+ <Point>
+ <coordinates>10.40947,59.61395</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3063">
+ <IconStyle id="icon3063">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3063.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3063">
+ <name>3063 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3063:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3063"><strong>Meir info om 3063 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3063</styleUrl>
+ <Point>
+ <coordinates>10.20810,59.72900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3064">
+ <IconStyle id="icon3064">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3064.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3064">
+ <name>3064 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3064:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3064"><strong>Meir info om 3064 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3064</styleUrl>
+ <Point>
+ <coordinates>10.20810,59.72900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3065">
+ <IconStyle id="icon3065">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3065.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3065">
+ <name>3065 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3065:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3065"><strong>Meir info om 3065 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3065</styleUrl>
+ <Point>
+ <coordinates>10.20810,59.72900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3066">
+ <IconStyle id="icon3066">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3066.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3066">
+ <name>3066 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3066:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3066"><strong>Meir info om 3066 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3066</styleUrl>
+ <Point>
+ <coordinates>10.20810,59.72900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3075">
+ <IconStyle id="icon3075">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3075.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3075">
+ <name>3075 BERGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3075:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3075"><strong>Meir info om 3075 BERGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3075</styleUrl>
+ <Point>
+ <coordinates>10.38480,59.55020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3310">
+ <IconStyle id="icon3310">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3310.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3310">
+ <name>3310 STEINBERG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3310:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3310"><strong>Meir info om 3310 STEINBERG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3310</styleUrl>
+ <Point>
+ <coordinates>9.95490,59.76010</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

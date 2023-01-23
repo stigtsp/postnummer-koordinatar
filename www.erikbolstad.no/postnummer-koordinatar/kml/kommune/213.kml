@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ski, Akershus</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1400">
+ <IconStyle id="icon1400">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1400.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1400">
+ <name>1400 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1400:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1400"><strong>Meir info om 1400 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1400</styleUrl>
+ <Point>
+ <coordinates>10.8356,59.7197</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1401">
+ <IconStyle id="icon1401">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1401.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1401">
+ <name>1401 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1401:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1401"><strong>Meir info om 1401 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1401</styleUrl>
+ <Point>
+ <coordinates>10.83798,59.71808</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1402">
+ <IconStyle id="icon1402">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1402.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1402">
+ <name>1402 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1402:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1402"><strong>Meir info om 1402 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1402</styleUrl>
+ <Point>
+ <coordinates>10.838,59.7181</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1403">
+ <IconStyle id="icon1403">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1403.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1403">
+ <name>1403 LANGHUS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1403:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1403"><strong>Meir info om 1403 LANGHUS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1403</styleUrl>
+ <Point>
+ <coordinates>10.84485,59.75431</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1404">
+ <IconStyle id="icon1404">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1404.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1404">
+ <name>1404 SIGGERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1404:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1404"><strong>Meir info om 1404 SIGGERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1404</styleUrl>
+ <Point>
+ <coordinates>10.8813,59.7912</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1405">
+ <IconStyle id="icon1405">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1405.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1405">
+ <name>1405 LANGHUS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1405:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1405"><strong>Meir info om 1405 LANGHUS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1405</styleUrl>
+ <Point>
+ <coordinates>10.8462,59.7552</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1406">
+ <IconStyle id="icon1406">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1406.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1406">
+ <name>1406 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1406:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1406"><strong>Meir info om 1406 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1406</styleUrl>
+ <Point>
+ <coordinates>10.8141,59.7198</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1408">
+ <IconStyle id="icon1408">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1408.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1408">
+ <name>1408 KRÅKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1408:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1408"><strong>Meir info om 1408 KRÅKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1408</styleUrl>
+ <Point>
+ <coordinates>10.8836,59.6813</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1409">
+ <IconStyle id="icon1409">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1409.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1409">
+ <name>1409 SKOTBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1409:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1409"><strong>Meir info om 1409 SKOTBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1409</styleUrl>
+ <Point>
+ <coordinates>10.9489,59.6650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1422">
+ <IconStyle id="icon1422">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1422.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1422">
+ <name>1422 SIGGERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1422:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1422"><strong>Meir info om 1422 SIGGERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1422</styleUrl>
+ <Point>
+ <coordinates>10.8813,59.79123</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1423">
+ <IconStyle id="icon1423">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1423.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1423">
+ <name>1423 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1423:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1423"><strong>Meir info om 1423 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1423</styleUrl>
+ <Point>
+ <coordinates>10.8356,59.7197</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1424">
+ <IconStyle id="icon1424">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1424.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1424">
+ <name>1424 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1424:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1424"><strong>Meir info om 1424 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1424</styleUrl>
+ <Point>
+ <coordinates>10.8356,59.7197</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1425">
+ <IconStyle id="icon1425">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1425.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1425">
+ <name>1425 SKI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1425:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1425"><strong>Meir info om 1425 SKI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1425</styleUrl>
+ <Point>
+ <coordinates>10.8356,59.7197</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1840">
+ <IconStyle id="icon1840">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1840.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1840">
+ <name>1840 KRÅKSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1840:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1840"><strong>Meir info om 1840 KRÅKSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1840</styleUrl>
+ <Point>
+ <coordinates>10.8836,59.6813</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1845">
+ <IconStyle id="icon1845">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1845.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1845">
+ <name>1845 SKOTBU (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1845:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ski kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1845"><strong>Meir info om 1845 SKOTBU (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1845</styleUrl>
+ <Point>
+ <coordinates>10.9489,59.6650</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Ski (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.8806842,59.6212305,0 10.9316964,59.631615,0 10.9343693,59.6347516,0 10.933359,59.6356989,0 10.9322432,59.639148,0 10.9360627,59.6392564,0 10.9382084,59.6392564,0 10.9489213,59.6523742,0 10.9621712,59.6389826,0 10.9780711,59.6634182,0 10.9548837,59.681148,0 10.9915296,59.7054767,0 10.9915296,59.7054767,0 10.9861101,59.7383903,0 10.9531083,59.7640832,0 10.9751095,59.7716362,0 10.9771096,59.8068608,0 10.9342935,59.8334777,0 10.9342935,59.8334777,0 10.919679,59.827883,0 10.908292,59.825929,0 10.90688,59.826192,0 10.903032,59.825663,0 10.89034,59.817646,0 10.89034,59.817646,0 10.889971,59.81775,0 10.8891972,59.8167311,0 10.8867365,59.8153564,0 10.883247,59.814577,0 10.880087,59.811029,0 10.8688855,59.8115167,0 10.8621341,59.8085597,0 10.8508092,59.8110786,0 10.8501558,59.815459,0 10.845384,59.816793,0 10.844989,59.816736,0 10.844773,59.816703,0 10.8359281,59.8168112,0 10.8359281,59.8168112,0 10.8385556,59.7998476,0 10.8315552,59.7902883,0 10.8305552,59.7701545,0 10.8055538,59.764112,0 10.8055538,59.764112,0 10.8105541,59.7232964,0 10.8268544,59.7016135,0 10.8575566,59.7031222,0 10.8515563,59.684955,0 10.8325553,59.6834406,0 10.8315552,59.6758677,0 10.8806842,59.6212305,0 10.8806842,59.6212305,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Kvænangen, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9090">
+ <IconStyle id="icon9090">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9090.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9090">
+ <name>9090 BURFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9090:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9090"><strong>Meir info om 9090 BURFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9090</styleUrl>
+ <Point>
+ <coordinates>22.05210,69.93800</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9092">
+ <IconStyle id="icon9092">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9092.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9092">
+ <name>9092 SØRSTRAUMEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9092:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9092"><strong>Meir info om 9092 SØRSTRAUMEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9092</styleUrl>
+ <Point>
+ <coordinates>21.86790,69.84020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9098">
+ <IconStyle id="icon9098">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9098.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9098">
+ <name>9098 JØKELFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9098:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9098"><strong>Meir info om 9098 JØKELFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9098</styleUrl>
+ <Point>
+ <coordinates>21.86960,70.06040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9161">
+ <IconStyle id="icon9161">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9161.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9161">
+ <name>9161 BURFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9161:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9161"><strong>Meir info om 9161 BURFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9161</styleUrl>
+ <Point>
+ <coordinates>22.05210,69.93800</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9162">
+ <IconStyle id="icon9162">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9162.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9162">
+ <name>9162 SØRSTRAUMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9162:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9162"><strong>Meir info om 9162 SØRSTRAUMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9162</styleUrl>
+ <Point>
+ <coordinates>21.86790,69.84020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9163">
+ <IconStyle id="icon9163">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9163.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9163">
+ <name>9163 JØKELFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9163:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9163"><strong>Meir info om 9163 JØKELFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9163</styleUrl>
+ <Point>
+ <coordinates>21.86960,70.06040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9164">
+ <IconStyle id="icon9164">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9164.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9164">
+ <name>9164 KVÆNANGSFJELLET (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9164:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9164"><strong>Meir info om 9164 KVÆNANGSFJELLET (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9164</styleUrl>
+ <Point>
+ <coordinates>21.54490,69.89780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9169">
+ <IconStyle id="icon9169">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9169.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9169">
+ <name>9169 BURFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9169:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9169"><strong>Meir info om 9169 BURFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9169</styleUrl>
+ <Point>
+ <coordinates>22.05085,69.93907</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9182">
+ <IconStyle id="icon9182">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9182.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9182">
+ <name>9182 SEGLVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9182:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9182"><strong>Meir info om 9182 SEGLVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9182</styleUrl>
+ <Point>
+ <coordinates>21.22130,70.20480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9184">
+ <IconStyle id="icon9184">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9184.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9184">
+ <name>9184 REINFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9184:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9184"><strong>Meir info om 9184 REINFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9184</styleUrl>
+ <Point>
+ <coordinates>21.59970,70.10180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9185">
+ <IconStyle id="icon9185">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9185.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9185">
+ <name>9185 SPILDRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9185:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9185"><strong>Meir info om 9185 SPILDRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9185</styleUrl>
+ <Point>
+ <coordinates>21.68220,69.99620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9187">
+ <IconStyle id="icon9187">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9187.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9187">
+ <name>9187 VALANHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9187:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvænangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9187"><strong>Meir info om 9187 VALANHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9187</styleUrl>
+ <Point>
+ <coordinates>21.52310,69.96280</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

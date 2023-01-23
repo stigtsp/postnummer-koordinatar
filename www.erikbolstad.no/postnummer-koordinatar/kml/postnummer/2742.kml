@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2742 GRUA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2742">
+ <name>2742 GRUA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2742:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2742"><strong>Meir info om 2742 GRUA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.66340,60.25960</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2742 GRUA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.58055,60.24770 10.58135,60.24447 10.57574,60.24279 10.57177,60.24306 10.56502,60.24272 10.55602,60.24220 10.54023,60.24053 10.54071,60.23584 10.54276,60.22501 10.56002,60.22930 10.56801,60.23039 10.59449,60.22993 10.60829,60.22672 10.61408,60.22860 10.61828,60.23360 10.62136,60.23497 10.62594,60.23604 10.64200,60.23903 10.65958,60.24125 10.66325,60.24165 10.67573,60.24288 10.68595,60.24644 10.70095,60.25027 10.70835,60.25496 10.71428,60.26008 10.72474,60.27301 10.69382,60.27546 10.67570,60.27856 10.67342,60.27797 10.67294,60.27697 10.67249,60.27577 10.67210,60.27472 10.67007,60.27412 10.66947,60.27518 10.66886,60.27550 10.66817,60.27593 10.66755,60.27611 10.66614,60.27639 10.66448,60.27664 10.66321,60.27644 10.66286,60.27531 10.66211,60.27341 10.64453,60.26972 10.64309,60.26700 10.64241,60.26457 10.64087,60.26236 10.63787,60.26242 10.63468,60.26266 10.63130,60.26270 10.62854,60.26188 10.62221,60.26145 10.62109,60.26130 10.61735,60.26068 10.61537,60.26030 10.61466,60.26017 10.61419,60.26008 10.61392,60.26003 10.61369,60.25998 10.61333,60.25987 10.61308,60.25977 10.61238,60.25954 10.61231,60.25951 10.61180,60.25966 10.61137,60.25980 10.61097,60.26001 10.61078,60.26021 10.61044,60.26004 10.61022,60.26006 10.60994,60.26006 10.60971,60.26004 10.60941,60.26004 10.60928,60.25880 10.60852,60.25758 10.60841,60.25672 10.60754,60.25551 10.60569,60.25327 10.60439,60.25147 10.60278,60.25093 10.60111,60.25059 10.59922,60.25000 10.59721,60.25027 10.59446,60.25061 10.59036,60.25098 10.58574,60.25253 10.58402,60.25222 10.58263,60.25177 10.58056,60.25115 10.57993,60.24995 10.58055,60.24770</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vanylven, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6130">
+ <IconStyle id="icon6130">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6130.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6130">
+ <name>6130 ROVDE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6130:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6130"><strong>Meir info om 6130 ROVDE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6130</styleUrl>
+ <Point>
+ <coordinates>5.74263,62.17571</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6138">
+ <IconStyle id="icon6138">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6138.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6138">
+ <name>6138 SYVDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6138:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6138"><strong>Meir info om 6138 SYVDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6138</styleUrl>
+ <Point>
+ <coordinates>5.73852,62.08767</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6139">
+ <IconStyle id="icon6139">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6139.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6139">
+ <name>6139 FISKÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6139:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6139"><strong>Meir info om 6139 FISKÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6139</styleUrl>
+ <Point>
+ <coordinates>5.55661,62.10008</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6140">
+ <IconStyle id="icon6140">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6140.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6140">
+ <name>6140 SYVDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6140:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6140"><strong>Meir info om 6140 SYVDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6140</styleUrl>
+ <Point>
+ <coordinates>5.73852,62.08767</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6141">
+ <IconStyle id="icon6141">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6141.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6141">
+ <name>6141 ROVDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6141:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6141"><strong>Meir info om 6141 ROVDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6141</styleUrl>
+ <Point>
+ <coordinates>5.74263,62.17571</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6142">
+ <IconStyle id="icon6142">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6142.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6142">
+ <name>6142 EIDSÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6142:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6142"><strong>Meir info om 6142 EIDSÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6142</styleUrl>
+ <Point>
+ <coordinates>5.67270,62.12070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6143">
+ <IconStyle id="icon6143">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6143.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6143">
+ <name>6143 FISKÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6143:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6143"><strong>Meir info om 6143 FISKÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6143</styleUrl>
+ <Point>
+ <coordinates>5.55790,62.10060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6144">
+ <IconStyle id="icon6144">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6144.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6144">
+ <name>6144 SYLTE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6144:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6144"><strong>Meir info om 6144 SYLTE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6144</styleUrl>
+ <Point>
+ <coordinates>5.62260,62.05350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6146">
+ <IconStyle id="icon6146">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6146.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6146">
+ <name>6146 ÅHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6146:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6146"><strong>Meir info om 6146 ÅHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6146</styleUrl>
+ <Point>
+ <coordinates>5.53082,62.03613</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6147">
+ <IconStyle id="icon6147">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6147.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6147">
+ <name>6147 ÅHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6147:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6147"><strong>Meir info om 6147 ÅHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6147</styleUrl>
+ <Point>
+ <coordinates>5.53082,62.03613</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6149">
+ <IconStyle id="icon6149">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6149.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6149">
+ <name>6149 ÅRAM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6149:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vanylven kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6149"><strong>Meir info om 6149 ÅRAM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6149</styleUrl>
+ <Point>
+ <coordinates>5.48780,62.19820</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Vanylven (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.4429264,61.9747867,0 5.4780392,61.9857835,0 5.5377308,61.9657114,0 5.5377308,61.9657114,0 5.6992493,61.9681868,0 5.731436,61.9808354,0 5.731436,61.9808354,0 5.7482039,62.0212253,0 5.8337911,62.0322052,0 5.8608572,62.0541533,0 5.8645148,62.0952633,0 5.8089196,62.1346081,0 5.8542736,62.1561406,0 5.8476899,62.2179186,0 5.8476899,62.2179186,0 5.7935578,62.2073468,0 5.7935578,62.2073468,0 5.5960488,62.1759506,0 5.5331385,62.2039358,0 5.4768118,62.2076879,0 5.4197536,62.1848268,0 5.4182906,62.1639979,0 5.3580707,62.1565463,0 5.3580707,62.1565463,0 5.3604115,62.1231819,0 5.5037885,62.0670361,0 5.5037885,62.0074903,0 5.4429264,61.9747867,0 5.4429264,61.9747867,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

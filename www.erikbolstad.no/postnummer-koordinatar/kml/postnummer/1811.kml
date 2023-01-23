@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1811 ASKIM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1811">
+ <name>1811 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1811:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1811"><strong>Meir info om 1811 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.18180,59.57940</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1811 ASKIM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.17220,59.58008 11.17241,59.58001 11.17737,59.57832 11.17832,59.57809 11.17850,59.57805 11.17786,59.57724 11.17838,59.57645 11.17788,59.57569 11.17963,59.57573 11.17995,59.57570 11.18041,59.57496 11.18055,59.57497 11.18115,59.57337 11.18210,59.57337 11.18200,59.57379 11.18226,59.57384 11.18300,59.57463 11.18261,59.57676 11.18346,59.57718 11.18444,59.57707 11.18533,59.57697 11.18566,59.57714 11.18692,59.57704 11.18891,59.57686 11.18880,59.57779 11.18827,59.57826 11.18862,59.57990 11.18981,59.58142 11.18896,59.58169 11.18863,59.58198 11.18813,59.58203 11.18770,59.58200 11.18751,59.58178 11.18717,59.58167 11.18639,59.58148 11.18624,59.58168 11.18603,59.58208 11.18586,59.58233 11.18530,59.58265 11.18505,59.58254 11.18446,59.58235 11.18414,59.58227 11.18346,59.58222 11.18253,59.58196 11.18199,59.58199 11.18133,59.58203 11.18059,59.58226 11.18003,59.58229 11.17513,59.58143 11.17495,59.58132 11.17453,59.58115 11.17447,59.58115 11.17410,59.58101 11.17395,59.58099 11.17348,59.58110 11.17269,59.58125 11.17235,59.58124 11.17165,59.58127 11.17063,59.58120 11.16993,59.58182 11.16920,59.58205 11.16927,59.58262 11.16885,59.58272 11.16844,59.58412 11.16817,59.58409 11.16658,59.58396 11.16669,59.58342 11.16647,59.58343 11.16603,59.58275 11.16585,59.58222 11.16551,59.58158 11.16830,59.58084 11.16956,59.58060 11.17010,59.58049 11.17077,59.58035 11.17104,59.58029 11.17220,59.58008</coordinates></LineString></Placemark>
+ </Document>
+</kml>

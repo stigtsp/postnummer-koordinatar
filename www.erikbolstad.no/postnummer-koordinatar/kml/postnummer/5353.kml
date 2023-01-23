@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5353 STRAUME</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5353">
+ <name>5353 STRAUME</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5353:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øygarden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5353"><strong>Meir info om 5353 STRAUME</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.12040,60.35470</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5353 STRAUME</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.07188,60.37276 5.07390,60.36680 5.08281,60.36179 5.09222,60.35715 5.09918,60.35208 5.10046,60.35180 5.10124,60.35109 5.10454,60.34801 5.11165,60.34503 5.11226,60.34467 5.11260,60.34444 5.11469,60.34293 5.12014,60.34318 5.12601,60.34179 5.13009,60.34269 5.13326,60.34346 5.13573,60.34473 5.13605,60.34530 5.13643,60.34660 5.13537,60.34915 5.13675,60.35168 5.13570,60.35484 5.13508,60.35722 5.13680,60.36096 5.13568,60.36195 5.13582,60.36302 5.13667,60.36390 5.13257,60.36411 5.13133,60.36365 5.12938,60.36314 5.12628,60.36273 5.12436,60.36250 5.12350,60.36222 5.12267,60.36172 5.12201,60.36115 5.12074,60.35996 5.11963,60.35946 5.11874,60.35916 5.11704,60.35891 5.11490,60.35855 5.11368,60.35828 5.11088,60.36251 5.10773,60.36370 5.10522,60.36423 5.09726,60.36564 5.08019,60.37212 5.07188,60.37276</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5075 BERGEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5075">
+ <name>5075 BERGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5075:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bergen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5075"><strong>Meir info om 5075 BERGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.35470,60.34570</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5075 BERGEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.35502,60.34737 5.35289,60.34688 5.35265,60.34621 5.35265,60.34577 5.35228,60.34579 5.35226,60.34484 5.35326,60.34497 5.35461,60.34449 5.35656,60.34441 5.35710,60.34406 5.35706,60.34420 5.35712,60.34430 5.35712,60.34442 5.35727,60.34466 5.35743,60.34518 5.35698,60.34596 5.35624,60.34674 5.35502,60.34737</coordinates></LineString></Placemark>
+ </Document>
+</kml>

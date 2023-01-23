@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Halsa, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6680">
+ <IconStyle id="icon6680">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6680.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6680">
+ <name>6680 HALSANAUSTAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6680:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halsa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6680"><strong>Meir info om 6680 HALSANAUSTAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6680</styleUrl>
+ <Point>
+ <coordinates>8.2274,63.0689</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6683">
+ <IconStyle id="icon6683">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6683.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6683">
+ <name>6683 VÅGLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6683:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halsa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6683"><strong>Meir info om 6683 VÅGLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6683</styleUrl>
+ <Point>
+ <coordinates>8.2825,63.1194</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6684">
+ <IconStyle id="icon6684">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6684.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6684">
+ <name>6684 VALSØYFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6684:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halsa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6684"><strong>Meir info om 6684 VALSØYFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6684</styleUrl>
+ <Point>
+ <coordinates>8.55909,63.12412</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6686">
+ <IconStyle id="icon6686">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6686.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6686">
+ <name>6686 VALSØYBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6686:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halsa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6686"><strong>Meir info om 6686 VALSØYBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6686</styleUrl>
+ <Point>
+ <coordinates>8.6167,63.0942</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6687">
+ <IconStyle id="icon6687">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6687.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6687">
+ <name>6687 VALSØYFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6687:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halsa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6687"><strong>Meir info om 6687 VALSØYFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6687</styleUrl>
+ <Point>
+ <coordinates>8.55909,63.12412</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6688">
+ <IconStyle id="icon6688">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6688.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6688">
+ <name>6688 VÅGLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6688:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halsa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6688"><strong>Meir info om 6688 VÅGLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6688</styleUrl>
+ <Point>
+ <coordinates>8.31743,63.11967</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Halsa (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.7640407,63.1899416,0 8.6686223,63.1897513,0 8.4820859,63.1521962,0 8.3302966,63.1596285,0 8.1026125,63.1315408,0 8.1026125,63.1315408,0 8.2030358,63.0243298,0 8.2440007,63.0133776,0 8.2440007,63.0133776,0 8.3281249,63.0455588,0 8.3383661,63.0379315,0 8.4027394,63.0581563,0 8.4239534,63.0495376,0 8.4810115,63.0816789,0 8.5007624,63.0518582,0 8.5227079,63.0647843,0 8.6521861,63.0664411,0 8.8080353,63.128166,0 8.8080353,63.128166,0 8.8206052,63.1508833,0 8.7640407,63.1899416,0 8.7640407,63.1899416,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

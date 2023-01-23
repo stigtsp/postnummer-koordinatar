@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Os, Hedmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2550">
+ <IconStyle id="icon2550">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2550.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2550">
+ <name>2550 OS I ØSTERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2550:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2550"><strong>Meir info om 2550 OS I ØSTERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2550</styleUrl>
+ <Point>
+ <coordinates>11.22355,62.49617</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2551">
+ <IconStyle id="icon2551">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2551.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2551">
+ <name>2551 OS I ØSTERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2551:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2551"><strong>Meir info om 2551 OS I ØSTERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2551</styleUrl>
+ <Point>
+ <coordinates>11.22355,62.49617</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2552">
+ <IconStyle id="icon2552">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2552.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2552">
+ <name>2552 DALSBYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2552:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2552"><strong>Meir info om 2552 DALSBYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2552</styleUrl>
+ <Point>
+ <coordinates>11.109,62.5276</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2555">
+ <IconStyle id="icon2555">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2555.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2555">
+ <name>2555 TUFSINGDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2555:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2555"><strong>Meir info om 2555 TUFSINGDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2555</styleUrl>
+ <Point>
+ <coordinates>11.7195,62.303</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Os (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.7410906,62.6474985,0 10.7531215,62.6182323,0 10.7184294,62.6005264,0 10.7184294,62.6005264,0 10.9065259,62.5260961,0 10.9672371,62.4782928,0 10.9807887,62.4863071,0 11.0138547,62.4908142,0 11.0149388,62.4780423,0 11.0534254,62.4595009,0 11.100585,62.4589996,0 11.1098001,62.4314163,0 11.1667169,62.419121,0 11.1905678,62.4314163,0 11.2729616,62.4301619,0 11.3168689,62.413097,0 11.3450562,62.3319055,0 11.5130963,62.286564,0 11.552125,62.2386294,0 11.6936039,62.1807541,0 11.6936039,62.1807541,0 11.7819807,62.1696952,0 11.8293419,62.1366505,0 11.8523254,62.1429328,0 11.8446374,62.2735179,0 11.795174,62.3151015,0 11.8568339,62.3585139,0 11.8381276,62.3748858,0 11.8381276,62.3748858,0 11.7698407,62.3822955,0 11.7197152,62.3497802,0 11.6895672,62.350623,0 11.6724955,62.3817903,0 11.5562624,62.3733699,0 11.4799844,62.4431877,0 11.3375988,62.5158604,0 11.255146,62.5332889,0 11.2369845,62.5701234,0 11.1966662,62.5774848,0 11.1603433,62.6491633,0 11.125688,62.6637414,0 11.125688,62.6637414,0 10.9295446,62.698915,0 10.7921437,62.6824191,0 10.7921437,62.6824191,0 10.7410906,62.6474985,0 10.7410906,62.6474985,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

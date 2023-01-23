@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sveio, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5520">
+ <IconStyle id="icon5520">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5520.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5520">
+ <name>5520 SVEIO (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5520:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5520"><strong>Meir info om 5520 SVEIO (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5520</styleUrl>
+ <Point>
+ <coordinates>5.3518,59.5419</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5526">
+ <IconStyle id="icon5526">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5526.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5526">
+ <name>5526 AUKLANDSHAMN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5526:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5526"><strong>Meir info om 5526 AUKLANDSHAMN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5526</styleUrl>
+ <Point>
+ <coordinates>5.3804,59.6347</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5530">
+ <IconStyle id="icon5530">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5530.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5530">
+ <name>5530 FØRDE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5530:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5530"><strong>Meir info om 5530 FØRDE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5530</styleUrl>
+ <Point>
+ <coordinates>5.47159,59.61261</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5550">
+ <IconStyle id="icon5550">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5550.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5550">
+ <name>5550 SVEIO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5550:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5550"><strong>Meir info om 5550 SVEIO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5550</styleUrl>
+ <Point>
+ <coordinates>5.3518,59.5419</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5551">
+ <IconStyle id="icon5551">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5551.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5551">
+ <name>5551 AUKLANDSHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5551:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5551"><strong>Meir info om 5551 AUKLANDSHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5551</styleUrl>
+ <Point>
+ <coordinates>5.3804,59.6347</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5554">
+ <IconStyle id="icon5554">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5554.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5554">
+ <name>5554 VALEVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5554:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5554"><strong>Meir info om 5554 VALEVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5554</styleUrl>
+ <Point>
+ <coordinates>5.4725,59.6993</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5555">
+ <IconStyle id="icon5555">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5555.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5555">
+ <name>5555 FØRDE I HORDALAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5555:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5555"><strong>Meir info om 5555 FØRDE I HORDALAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5555</styleUrl>
+ <Point>
+ <coordinates>5.4716,59.6126</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5556">
+ <IconStyle id="icon5556">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5556.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5556">
+ <name>5556 FØRDE I HORDALAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5556:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5556"><strong>Meir info om 5556 FØRDE I HORDALAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5556</styleUrl>
+ <Point>
+ <coordinates>5.47159,59.61261</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5559">
+ <IconStyle id="icon5559">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5559.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5559">
+ <name>5559 SVEIO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5559:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sveio kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5559"><strong>Meir info om 5559 SVEIO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5559</styleUrl>
+ <Point>
+ <coordinates>5.36405,59.54511</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sveio (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.4673766,59.7317386,0 5.5810123,59.7540124,0 5.5810123,59.7540124,0 5.5568709,59.6780085,0 5.543653,59.6496571,0 5.5388465,59.6292675,0 5.5423041,59.5920016,0 5.5508628,59.5668938,0 5.5325263,59.5509535,0 5.5094244,59.5237647,0 5.5038275,59.5196893,0 5.4978623,59.5178607,0 5.4901805,59.5176866,0 5.476705,59.520843,0 5.4607455,59.5179058,0 5.4615705,59.5007416,0 5.4615705,59.5007416,0 5.4211422,59.5011604,0 5.3974392,59.4836214,0 5.3974392,59.4836214,0 5.3658627,59.4973915,0 5.312896,59.4770396,0 5.1883723,59.5172844,0 5.1883723,59.5172844,0 5.1910126,59.5571058,0 5.2431568,59.5754947,0 5.2867204,59.6449476,0 5.40487,59.6879496,0 5.4673766,59.7317386,0 5.4673766,59.7317386,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

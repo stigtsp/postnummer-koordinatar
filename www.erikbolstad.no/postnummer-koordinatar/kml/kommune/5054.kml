@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Indre Fosen, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7100">
+ <IconStyle id="icon7100">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7100.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7100">
+ <name>7100 RISSA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7100:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7100"><strong>Meir info om 7100 RISSA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7100</styleUrl>
+ <Point>
+ <coordinates>9.95920,63.58420</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7101">
+ <IconStyle id="icon7101">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7101.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7101">
+ <name>7101 RISSA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7101:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7101"><strong>Meir info om 7101 RISSA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7101</styleUrl>
+ <Point>
+ <coordinates>9.95854,63.58442</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7105">
+ <IconStyle id="icon7105">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7105.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7105">
+ <name>7105 STADSBYGD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7105:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7105"><strong>Meir info om 7105 STADSBYGD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7105</styleUrl>
+ <Point>
+ <coordinates>10.01940,63.50960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7110">
+ <IconStyle id="icon7110">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7110.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7110">
+ <name>7110 FEVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7110:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7110"><strong>Meir info om 7110 FEVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7110</styleUrl>
+ <Point>
+ <coordinates>9.85440,63.68260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7111">
+ <IconStyle id="icon7111">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7111.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7111">
+ <name>7111 HASSELVIKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7111:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7111"><strong>Meir info om 7111 HASSELVIKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7111</styleUrl>
+ <Point>
+ <coordinates>9.83398,63.63474</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7112">
+ <IconStyle id="icon7112">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7112.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7112">
+ <name>7112 HASSELVIKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7112:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7112"><strong>Meir info om 7112 HASSELVIKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7112</styleUrl>
+ <Point>
+ <coordinates>9.83398,63.63474</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7113">
+ <IconStyle id="icon7113">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7113.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7113">
+ <name>7113 HUSBYSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7113:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7113"><strong>Meir info om 7113 HUSBYSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7113</styleUrl>
+ <Point>
+ <coordinates>10.13148,63.75221</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7114">
+ <IconStyle id="icon7114">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7114.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7114">
+ <name>7114 RÅKVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7114:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7114"><strong>Meir info om 7114 RÅKVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7114</styleUrl>
+ <Point>
+ <coordinates>10.06898,63.76192</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7115">
+ <IconStyle id="icon7115">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7115.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7115">
+ <name>7115 HUSBYSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7115:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7115"><strong>Meir info om 7115 HUSBYSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7115</styleUrl>
+ <Point>
+ <coordinates>10.13148,63.75221</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7116">
+ <IconStyle id="icon7116">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7116.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7116">
+ <name>7116 RÅKVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7116:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7116"><strong>Meir info om 7116 RÅKVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7116</styleUrl>
+ <Point>
+ <coordinates>10.06898,63.76192</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7119">
+ <IconStyle id="icon7119">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7119.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7119">
+ <name>7119 STADSBYGD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7119:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7119"><strong>Meir info om 7119 STADSBYGD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7119</styleUrl>
+ <Point>
+ <coordinates>10.01900,63.50859</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7120">
+ <IconStyle id="icon7120">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7120.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7120">
+ <name>7120 LEKSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7120:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7120"><strong>Meir info om 7120 LEKSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7120</styleUrl>
+ <Point>
+ <coordinates>10.62560,63.67190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7121">
+ <IconStyle id="icon7121">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7121.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7121">
+ <name>7121 LEKSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7121:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7121"><strong>Meir info om 7121 LEKSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7121</styleUrl>
+ <Point>
+ <coordinates>10.62582,63.67325</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7125">
+ <IconStyle id="icon7125">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7125.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7125">
+ <name>7125 VANVIKAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7125:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7125"><strong>Meir info om 7125 VANVIKAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7125</styleUrl>
+ <Point>
+ <coordinates>10.21670,63.55490</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7126">
+ <IconStyle id="icon7126">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7126.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7126">
+ <name>7126 VANVIKAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7126:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7126"><strong>Meir info om 7126 VANVIKAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7126</styleUrl>
+ <Point>
+ <coordinates>10.22220,63.55352</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7797">
+ <IconStyle id="icon7797">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7797.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7797">
+ <name>7797 VERRABOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7797:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Fosen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7797"><strong>Meir info om 7797 VERRABOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7797</styleUrl>
+ <Point>
+ <coordinates>10.58280,63.80230</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

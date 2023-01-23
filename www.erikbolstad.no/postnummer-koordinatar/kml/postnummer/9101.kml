@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>9101 KVALØYSLETTA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer9101">
+ <name>9101 KVALØYSLETTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9101:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9101"><strong>Meir info om 9101 KVALØYSLETTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>18.88270,69.69580</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 9101 KVALØYSLETTA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>18.75716,69.73047 18.83628,69.70424 18.85654,69.69454 18.86196,69.69327 18.86503,69.69409 18.86610,69.69391 18.86568,69.69355 18.86531,69.69322 18.86511,69.69283 18.86533,69.69236 18.86609,69.69190 18.86710,69.69140 18.86819,69.69179 18.87108,69.69267 18.87262,69.69311 18.87566,69.69402 18.87692,69.69440 18.87809,69.69474 18.87981,69.69522 18.88122,69.69545 18.88261,69.69558 18.88387,69.69567 18.88367,69.69601 18.88414,69.69643 18.88555,69.69691 18.88761,69.69753 18.88790,69.69764 18.88738,69.69772 18.88638,69.69778 18.88595,69.69787 18.88504,69.69821 18.88448,69.69829 18.88341,69.69825 18.88299,69.69832 18.88267,69.69853 18.88215,69.69881 18.88120,69.69893 18.88031,69.69913 18.87978,69.69940 18.87947,69.69964 18.87923,69.70000 18.87893,69.70031 18.87844,69.70049 18.87832,69.70084 18.87716,69.70100 18.87692,69.70122 18.87676,69.70199 18.87483,69.70234 18.87363,69.70285 18.86969,69.70356 18.86560,69.70458 18.85233,69.71255 18.83345,69.71981 18.79319,69.73145 18.82542,69.75303 18.80777,69.76592 18.75876,69.77118 18.75716,69.73047</coordinates></LineString></Placemark>
+ </Document>
+</kml>

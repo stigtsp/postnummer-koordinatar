@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1367 SNARØYA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1367">
+ <name>1367 SNARØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1367:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bærum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1367"><strong>Meir info om 1367 SNARØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.61110,59.88010</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1367 SNARØYA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.54981,59.87178 10.55647,59.86570 10.56091,59.85935 10.56231,59.85736 10.56734,59.85018 10.56528,59.83830 10.56310,59.82574 10.57894,59.83033 10.59767,59.83576 10.60592,59.84241 10.62846,59.86058 10.63899,59.86906 10.64162,59.87117 10.64589,59.87461 10.65385,59.88101 10.65808,59.88441 10.65738,59.88609 10.65566,59.89027 10.64943,59.88958 10.64238,59.89120 10.63705,59.89186 10.63644,59.89184 10.63576,59.89175 10.63452,59.89168 10.63378,59.89155 10.63291,59.89135 10.63222,59.89128 10.63213,59.89121 10.63193,59.89100 10.63181,59.89082 10.63158,59.89078 10.63149,59.89077 10.63135,59.89075 10.63099,59.89068 10.63075,59.89061 10.63064,59.89055 10.63054,59.89048 10.63033,59.89040 10.62987,59.89023 10.62967,59.89015 10.62908,59.89019 10.62789,59.89041 10.62748,59.89063 10.62732,59.89120 10.62737,59.89164 10.62245,59.89005 10.62101,59.88963 10.61928,59.88883 10.61807,59.88920 10.61701,59.88870 10.61676,59.88853 10.61670,59.88834 10.61644,59.88791 10.61410,59.88829 10.61359,59.88846 10.60830,59.88935 10.60426,59.88623 10.54981,59.87178</coordinates></LineString></Placemark>
+ </Document>
+</kml>

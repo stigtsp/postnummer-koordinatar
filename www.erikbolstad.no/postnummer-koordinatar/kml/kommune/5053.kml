@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Inderøy, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7670">
+ <IconStyle id="icon7670">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7670.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7670">
+ <name>7670 INDERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7670:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Inderøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7670"><strong>Meir info om 7670 INDERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7670</styleUrl>
+ <Point>
+ <coordinates>11.29990,63.87090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7671">
+ <IconStyle id="icon7671">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7671.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7671">
+ <name>7671 INDERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7671:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Inderøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7671"><strong>Meir info om 7671 INDERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7671</styleUrl>
+ <Point>
+ <coordinates>11.40075,63.84838</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7672">
+ <IconStyle id="icon7672">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7672.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7672">
+ <name>7672 INDERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7672:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Inderøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7672"><strong>Meir info om 7672 INDERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7672</styleUrl>
+ <Point>
+ <coordinates>11.40075,63.84838</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7690">
+ <IconStyle id="icon7690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7690">
+ <name>7690 MOSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7690:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Inderøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7690"><strong>Meir info om 7690 MOSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7690</styleUrl>
+ <Point>
+ <coordinates>11.00230,63.81580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7691">
+ <IconStyle id="icon7691">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7691.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7691">
+ <name>7691 MOSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7691:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Inderøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7691"><strong>Meir info om 7691 MOSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7691</styleUrl>
+ <Point>
+ <coordinates>11.00231,63.81581</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

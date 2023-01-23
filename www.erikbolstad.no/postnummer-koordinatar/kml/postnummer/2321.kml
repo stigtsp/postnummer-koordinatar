@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2321 HAMAR</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2321">
+ <name>2321 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2321:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2321"><strong>Meir info om 2321 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.09560,60.79510</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2321 HAMAR</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.09341,60.79654 11.09256,60.79657 11.09015,60.79664 11.08976,60.79548 11.08854,60.79507 11.08713,60.79527 11.08623,60.79454 11.08615,60.79445 11.08641,60.79430 11.08633,60.79398 11.08601,60.79372 11.08645,60.79352 11.08683,60.79377 11.08707,60.79364 11.08757,60.79384 11.08787,60.79360 11.08752,60.79345 11.08855,60.79256 11.08810,60.79237 11.08787,60.79252 11.08723,60.79256 11.08686,60.79257 11.08675,60.79198 11.08695,60.79196 11.08680,60.79118 11.08676,60.79089 11.08752,60.78957 11.08732,60.78762 11.08911,60.78516 11.09356,60.78727 11.09405,60.78750 11.09454,60.78773 11.09594,60.78759 11.09636,60.78755 11.09662,60.78754 11.09685,60.78753 11.09709,60.78753 11.09732,60.78755 11.09755,60.78759 11.09778,60.78770 11.09798,60.78783 11.09820,60.78798 11.10541,60.79225 11.10599,60.79223 11.12114,60.79157 11.12382,60.79145 11.12436,60.79144 11.12448,60.79147 11.12453,60.79151 11.12457,60.79157 11.12468,60.79173 11.12574,60.79222 11.12128,60.79563 11.11992,60.79734 11.11892,60.79865 11.11725,60.80009 11.11514,60.80174 11.11330,60.80321 11.11226,60.80273 11.11006,60.80263 11.09906,60.80264 11.09867,60.80209 11.09858,60.80148 11.09778,60.80109 11.09802,60.80046 11.09624,60.79880 11.09675,60.79864 11.09590,60.79789 11.09567,60.79806 11.09524,60.79791 11.09505,60.79800 11.09445,60.79781 11.09431,60.79791 11.09367,60.79778 11.09439,60.79698 11.09369,60.79675 11.09370,60.79666 11.09359,60.79656 11.09341,60.79654</coordinates></LineString></Placemark>
+ </Document>
+</kml>

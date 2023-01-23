@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sunndal, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6600">
+ <IconStyle id="icon6600">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6600.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6600">
+ <name>6600 SUNNDALSØRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6600:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6600"><strong>Meir info om 6600 SUNNDALSØRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6600</styleUrl>
+ <Point>
+ <coordinates>8.56720,62.67240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6601">
+ <IconStyle id="icon6601">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6601.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6601">
+ <name>6601 SUNNDALSØRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6601:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6601"><strong>Meir info om 6601 SUNNDALSØRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6601</styleUrl>
+ <Point>
+ <coordinates>8.56724,62.67272</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6610">
+ <IconStyle id="icon6610">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6610.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6610">
+ <name>6610 ØKSENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6610:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6610"><strong>Meir info om 6610 ØKSENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6610</styleUrl>
+ <Point>
+ <coordinates>8.43180,62.71640</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6611">
+ <IconStyle id="icon6611">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6611.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6611">
+ <name>6611 FURUGRENDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6611:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6611"><strong>Meir info om 6611 FURUGRENDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6611</styleUrl>
+ <Point>
+ <coordinates>8.61610,62.66360</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6612">
+ <IconStyle id="icon6612">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6612.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6612">
+ <name>6612 GRØA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6612:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6612"><strong>Meir info om 6612 GRØA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6612</styleUrl>
+ <Point>
+ <coordinates>8.71740,62.65010</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6613">
+ <IconStyle id="icon6613">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6613.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6613">
+ <name>6613 GJØRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6613:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6613"><strong>Meir info om 6613 GJØRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6613</styleUrl>
+ <Point>
+ <coordinates>9.11330,62.54870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6614">
+ <IconStyle id="icon6614">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6614.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6614">
+ <name>6614 GJØRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6614:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6614"><strong>Meir info om 6614 GJØRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6614</styleUrl>
+ <Point>
+ <coordinates>9.11327,62.54869</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6620">
+ <IconStyle id="icon6620">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6620.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6620">
+ <name>6620 ÅLVUNDEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6620:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6620"><strong>Meir info om 6620 ÅLVUNDEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6620</styleUrl>
+ <Point>
+ <coordinates>8.53719,62.76573</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6622">
+ <IconStyle id="icon6622">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6622.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6622">
+ <name>6622 ÅLVUNDFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6622:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6622"><strong>Meir info om 6622 ÅLVUNDFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6622</styleUrl>
+ <Point>
+ <coordinates>8.50880,62.83360</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6623">
+ <IconStyle id="icon6623">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6623.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6623">
+ <name>6623 ÅLVUNDFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6623:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sunndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6623"><strong>Meir info om 6623 ÅLVUNDFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6623</styleUrl>
+ <Point>
+ <coordinates>8.52057,62.85216</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sunndal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.3722704,62.9425789,0 8.3573484,62.9091183,0 8.4209902,62.8787874,0 8.3741733,62.8524307,0 8.4392781,62.7822536,0 8.3792939,62.8006495,0 8.3229672,62.7876063,0 8.3229672,62.7876063,0 8.2062906,62.7393968,0 8.2911463,62.6770094,0 8.2179948,62.5788695,0 8.249011,62.5683569,0 8.257204,62.5788695,0 8.3157252,62.5769829,0 8.3683943,62.5327482,0 8.3467415,62.5106062,0 8.5135269,62.461403,0 8.519379,62.4375833,0 8.5849227,62.4113055,0 8.6662672,62.4072398,0 8.7300553,62.3787649,0 8.7300553,62.3787649,0 8.8909886,62.3776796,0 8.9331239,62.355694,0 9.0618273,62.3724977,0 9.0618273,62.3724977,0 9.184404,62.4267836,0 9.2059398,62.5214363,0 9.2441769,62.5567019,0 9.2213225,62.5753312,0 9.150562,62.5751287,0 8.9202606,62.7136719,0 8.9202606,62.7136719,0 8.8376968,62.7414069,0 8.7133393,62.7527123,0 8.6191567,62.7782382,0 8.5834954,62.827971,0 8.6246431,62.8413303,0 8.6054408,62.8688645,0 8.5286317,62.8726172,0 8.3722704,62.9425789,0 8.3722704,62.9425789,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

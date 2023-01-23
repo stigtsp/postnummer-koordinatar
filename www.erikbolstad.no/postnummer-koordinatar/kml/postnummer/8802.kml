@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>8802 SANDNESSJØEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer8802">
+ <name>8802 SANDNESSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8802:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alstahaug kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8802"><strong>Meir info om 8802 SANDNESSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>12.56330,66.00350</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 8802 SANDNESSJØEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.55436,66.01926 12.54466,66.01614 12.52560,66.01002 12.50271,66.00266 12.53278,65.99223 12.53814,65.99438 12.54698,65.99104 12.56440,65.99803 12.59370,66.00798 12.58857,66.01002 12.58649,66.00939 12.58607,66.00968 12.58454,66.00924 12.58405,66.00955 12.58370,66.00984 12.58148,66.00928 12.58027,66.00886 12.57759,66.00847 12.57546,66.00946 12.55436,66.01926</coordinates></LineString></Placemark>
+ </Document>
+</kml>

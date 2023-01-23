@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Herøy, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8842">
+ <IconStyle id="icon8842">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8842.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8842">
+ <name>8842 BRASØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8842:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Herøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8842"><strong>Meir info om 8842 BRASØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8842</styleUrl>
+ <Point>
+ <coordinates>12.16868,65.91129</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8844">
+ <IconStyle id="icon8844">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8844.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8844">
+ <name>8844 SANDVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8844:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Herøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8844"><strong>Meir info om 8844 SANDVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8844</styleUrl>
+ <Point>
+ <coordinates>11.98720,65.89510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8850">
+ <IconStyle id="icon8850">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8850.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8850">
+ <name>8850 HERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8850:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Herøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8850"><strong>Meir info om 8850 HERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8850</styleUrl>
+ <Point>
+ <coordinates>12.28850,65.98320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8851">
+ <IconStyle id="icon8851">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8851.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8851">
+ <name>8851 HERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8851:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Herøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8851"><strong>Meir info om 8851 HERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8851</styleUrl>
+ <Point>
+ <coordinates>12.28797,65.98278</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8852">
+ <IconStyle id="icon8852">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8852.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8852">
+ <name>8852 HERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8852:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Herøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8852"><strong>Meir info om 8852 HERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8852</styleUrl>
+ <Point>
+ <coordinates>12.27464,65.96130</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Herøy (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.2997599,66.4065653,0 11.7235265,66.3335069,0 11.8399807,66.3168915,0 11.8399807,66.3168915,0 12.0465514,66.2204562,0 12.1023255,66.1457987,0 12.2242021,66.1244872,0 12.2985676,66.0583495,0 12.3357503,66.0591877,0 12.2955516,66.0135293,0 12.4404486,66.0277138,0 12.4394735,66.0034268,0 12.4835007,65.9961417,0 12.4835007,65.9961417,0 12.2166894,65.9159447,0 12.2554214,65.8849734,0 12.2328277,65.8658447,0 12.2021649,65.8605653,0 12.1569776,65.8895885,0 12.0689118,65.8682152,0 12.0689118,65.8682152,0 12.028566,65.8548096,0 11.8873556,65.8867652,0 11.8797907,65.9073606,0 12.0689118,65.9382227,0 12.094128,65.9546673,0 12.0689118,65.9793143,0 11.7965775,65.9926549,0 11.6200645,65.9341099,0 11.433465,65.9258823,0 10.9532041,65.9753091,0 10.9532041,65.9753091,0 11.0846421,66.1936642,0 11.2997599,66.4065653,0 11.2997599,66.4065653,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

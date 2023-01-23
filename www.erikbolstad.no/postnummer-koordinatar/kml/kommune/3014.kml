@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Indre Østfold, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1800">
+ <IconStyle id="icon1800">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1800.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1800">
+ <name>1800 ASKIM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1800:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1800"><strong>Meir info om 1800 ASKIM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1800</styleUrl>
+ <Point>
+ <coordinates>11.16286,59.58326</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1801">
+ <IconStyle id="icon1801">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1801.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1801">
+ <name>1801 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1801:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1801"><strong>Meir info om 1801 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1801</styleUrl>
+ <Point>
+ <coordinates>11.16490,59.58290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1802">
+ <IconStyle id="icon1802">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1802.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1802">
+ <name>1802 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1802:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1802"><strong>Meir info om 1802 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1802</styleUrl>
+ <Point>
+ <coordinates>11.16373,59.58326</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1803">
+ <IconStyle id="icon1803">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1803.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1803">
+ <name>1803 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1803:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1803"><strong>Meir info om 1803 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1803</styleUrl>
+ <Point>
+ <coordinates>11.16490,59.58290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1804">
+ <IconStyle id="icon1804">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1804.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1804">
+ <name>1804 SPYDEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1804:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1804"><strong>Meir info om 1804 SPYDEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1804</styleUrl>
+ <Point>
+ <coordinates>11.08033,59.61517</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1805">
+ <IconStyle id="icon1805">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1805.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1805">
+ <name>1805 TOMTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1805:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1805"><strong>Meir info om 1805 TOMTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1805</styleUrl>
+ <Point>
+ <coordinates>10.99948,59.66140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1807">
+ <IconStyle id="icon1807">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1807.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1807">
+ <name>1807 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1807:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1807"><strong>Meir info om 1807 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1807</styleUrl>
+ <Point>
+ <coordinates>11.17460,59.59040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1808">
+ <IconStyle id="icon1808">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1808.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1808">
+ <name>1808 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1808:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1808"><strong>Meir info om 1808 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1808</styleUrl>
+ <Point>
+ <coordinates>11.18290,59.59650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1809">
+ <IconStyle id="icon1809">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1809.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1809">
+ <name>1809 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1809:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1809"><strong>Meir info om 1809 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1809</styleUrl>
+ <Point>
+ <coordinates>11.18190,59.58510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1811">
+ <IconStyle id="icon1811">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1811.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1811">
+ <name>1811 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1811:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1811"><strong>Meir info om 1811 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1811</styleUrl>
+ <Point>
+ <coordinates>11.18180,59.57940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1812">
+ <IconStyle id="icon1812">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1812.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1812">
+ <name>1812 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1812:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1812"><strong>Meir info om 1812 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1812</styleUrl>
+ <Point>
+ <coordinates>11.19230,59.59360</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1813">
+ <IconStyle id="icon1813">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1813.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1813">
+ <name>1813 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1813:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1813"><strong>Meir info om 1813 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1813</styleUrl>
+ <Point>
+ <coordinates>11.16530,59.57700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1814">
+ <IconStyle id="icon1814">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1814.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1814">
+ <name>1814 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1814:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1814"><strong>Meir info om 1814 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1814</styleUrl>
+ <Point>
+ <coordinates>11.19380,59.59480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1815">
+ <IconStyle id="icon1815">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1815.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1815">
+ <name>1815 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1815:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1815"><strong>Meir info om 1815 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1815</styleUrl>
+ <Point>
+ <coordinates>11.13110,59.57890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1820">
+ <IconStyle id="icon1820">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1820.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1820">
+ <name>1820 SPYDEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1820:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1820"><strong>Meir info om 1820 SPYDEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1820</styleUrl>
+ <Point>
+ <coordinates>11.08560,59.61710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1821">
+ <IconStyle id="icon1821">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1821.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1821">
+ <name>1821 SPYDEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1821:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1821"><strong>Meir info om 1821 SPYDEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1821</styleUrl>
+ <Point>
+ <coordinates>11.08560,59.62330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1823">
+ <IconStyle id="icon1823">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1823.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1823">
+ <name>1823 KNAPSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1823:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1823"><strong>Meir info om 1823 KNAPSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1823</styleUrl>
+ <Point>
+ <coordinates>11.02820,59.62550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1825">
+ <IconStyle id="icon1825">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1825.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1825">
+ <name>1825 TOMTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1825:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1825"><strong>Meir info om 1825 TOMTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1825</styleUrl>
+ <Point>
+ <coordinates>10.99490,59.65910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1827">
+ <IconStyle id="icon1827">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1827.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1827">
+ <name>1827 HOBØL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1827:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1827"><strong>Meir info om 1827 HOBØL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1827</styleUrl>
+ <Point>
+ <coordinates>10.84560,59.55870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1828">
+ <IconStyle id="icon1828">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1828.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1828">
+ <name>1828 HOBØL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1828:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1828"><strong>Meir info om 1828 HOBØL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1828</styleUrl>
+ <Point>
+ <coordinates>10.84560,59.55870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1830">
+ <IconStyle id="icon1830">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1830.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1830">
+ <name>1830 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1830:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1830"><strong>Meir info om 1830 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1830</styleUrl>
+ <Point>
+ <coordinates>11.16330,59.58310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1831">
+ <IconStyle id="icon1831">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1831.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1831">
+ <name>1831 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1831:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1831"><strong>Meir info om 1831 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1831</styleUrl>
+ <Point>
+ <coordinates>11.15250,59.58230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1832">
+ <IconStyle id="icon1832">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1832.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1832">
+ <name>1832 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1832:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1832"><strong>Meir info om 1832 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1832</styleUrl>
+ <Point>
+ <coordinates>11.13100,59.59090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1833">
+ <IconStyle id="icon1833">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1833.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1833">
+ <name>1833 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1833:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1833"><strong>Meir info om 1833 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1833</styleUrl>
+ <Point>
+ <coordinates>11.12000,59.59000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1850">
+ <IconStyle id="icon1850">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1850.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1850">
+ <name>1850 MYSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1850:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1850"><strong>Meir info om 1850 MYSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1850</styleUrl>
+ <Point>
+ <coordinates>11.32580,59.55350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1851">
+ <IconStyle id="icon1851">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1851.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1851">
+ <name>1851 MYSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1851:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1851"><strong>Meir info om 1851 MYSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1851</styleUrl>
+ <Point>
+ <coordinates>11.33273,59.55329</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1852">
+ <IconStyle id="icon1852">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1852.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1852">
+ <name>1852 MYSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1852:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1852"><strong>Meir info om 1852 MYSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1852</styleUrl>
+ <Point>
+ <coordinates>11.37330,59.54430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1859">
+ <IconStyle id="icon1859">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1859.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1859">
+ <name>1859 SLITU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1859:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1859"><strong>Meir info om 1859 SLITU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1859</styleUrl>
+ <Point>
+ <coordinates>11.26150,59.58540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1860">
+ <IconStyle id="icon1860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1860">
+ <name>1860 TRØGSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1860:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1860"><strong>Meir info om 1860 TRØGSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1860</styleUrl>
+ <Point>
+ <coordinates>11.31590,59.64070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1861">
+ <IconStyle id="icon1861">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1861.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1861">
+ <name>1861 TRØGSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1861:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1861"><strong>Meir info om 1861 TRØGSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1861</styleUrl>
+ <Point>
+ <coordinates>11.31641,59.64082</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1866">
+ <IconStyle id="icon1866">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1866.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1866">
+ <name>1866 BÅSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1866:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1866"><strong>Meir info om 1866 BÅSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1866</styleUrl>
+ <Point>
+ <coordinates>11.29810,59.69970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1867">
+ <IconStyle id="icon1867">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1867.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1867">
+ <name>1867 BÅSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1867:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1867"><strong>Meir info om 1867 BÅSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1867</styleUrl>
+ <Point>
+ <coordinates>11.29447,59.70498</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1878">
+ <IconStyle id="icon1878">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1878.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1878">
+ <name>1878 HÆRLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1878:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1878"><strong>Meir info om 1878 HÆRLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1878</styleUrl>
+ <Point>
+ <coordinates>11.42370,59.55330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1880">
+ <IconStyle id="icon1880">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1880.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1880">
+ <name>1880 EIDSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1880:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1880"><strong>Meir info om 1880 EIDSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1880</styleUrl>
+ <Point>
+ <coordinates>11.30370,59.51340</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

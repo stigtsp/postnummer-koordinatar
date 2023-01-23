@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ringebu, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2630">
+ <IconStyle id="icon2630">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2630.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2630">
+ <name>2630 RINGEBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2630:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringebu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2630"><strong>Meir info om 2630 RINGEBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2630</styleUrl>
+ <Point>
+ <coordinates>10.13890,61.52960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2631">
+ <IconStyle id="icon2631">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2631.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2631">
+ <name>2631 RINGEBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2631:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringebu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2631"><strong>Meir info om 2631 RINGEBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2631</styleUrl>
+ <Point>
+ <coordinates>10.13989,61.53046</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2632">
+ <IconStyle id="icon2632">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2632.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2632">
+ <name>2632 VENABYGD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2632:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringebu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2632"><strong>Meir info om 2632 VENABYGD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2632</styleUrl>
+ <Point>
+ <coordinates>10.05240,61.59310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2633">
+ <IconStyle id="icon2633">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2633.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2633">
+ <name>2633 FÅVANG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2633:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringebu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2633"><strong>Meir info om 2633 FÅVANG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2633</styleUrl>
+ <Point>
+ <coordinates>10.18951,61.45398</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2634">
+ <IconStyle id="icon2634">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2634.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2634">
+ <name>2634 FÅVANG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2634:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringebu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2634"><strong>Meir info om 2634 FÅVANG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2634</styleUrl>
+ <Point>
+ <coordinates>10.19480,61.45650</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

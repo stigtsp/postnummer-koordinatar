@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sarpsborg, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1700">
+ <IconStyle id="icon1700">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1700.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1700">
+ <name>1700 SARPSBORG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1700:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1700"><strong>Meir info om 1700 SARPSBORG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1700</styleUrl>
+ <Point>
+ <coordinates>11.10962,59.28391</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1701">
+ <IconStyle id="icon1701">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1701.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1701">
+ <name>1701 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1701:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1701"><strong>Meir info om 1701 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1701</styleUrl>
+ <Point>
+ <coordinates>11.1086,59.2828</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1702">
+ <IconStyle id="icon1702">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1702.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1702">
+ <name>1702 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1702:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1702"><strong>Meir info om 1702 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1702</styleUrl>
+ <Point>
+ <coordinates>11.10997,59.28439</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1703">
+ <IconStyle id="icon1703">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1703.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1703">
+ <name>1703 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1703:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1703"><strong>Meir info om 1703 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1703</styleUrl>
+ <Point>
+ <coordinates>11.1086,59.2828</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1704">
+ <IconStyle id="icon1704">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1704.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1704">
+ <name>1704 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1704:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1704"><strong>Meir info om 1704 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1704</styleUrl>
+ <Point>
+ <coordinates>11.1086,59.2828</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1705">
+ <IconStyle id="icon1705">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1705.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1705">
+ <name>1705 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1705:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1705"><strong>Meir info om 1705 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1705</styleUrl>
+ <Point>
+ <coordinates>11.09656,59.28993</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1706">
+ <IconStyle id="icon1706">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1706.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1706">
+ <name>1706 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1706:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1706"><strong>Meir info om 1706 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1706</styleUrl>
+ <Point>
+ <coordinates>11.1179,59.2822</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1707">
+ <IconStyle id="icon1707">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1707.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1707">
+ <name>1707 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1707:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1707"><strong>Meir info om 1707 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1707</styleUrl>
+ <Point>
+ <coordinates>11.1129,59.2869</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1708">
+ <IconStyle id="icon1708">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1708.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1708">
+ <name>1708 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1708:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1708"><strong>Meir info om 1708 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1708</styleUrl>
+ <Point>
+ <coordinates>11.1034,59.3598</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1709">
+ <IconStyle id="icon1709">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1709.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1709">
+ <name>1709 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1709:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1709"><strong>Meir info om 1709 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1709</styleUrl>
+ <Point>
+ <coordinates>11.1091,59.2988</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1710">
+ <IconStyle id="icon1710">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1710.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1710">
+ <name>1710 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1710:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1710"><strong>Meir info om 1710 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1710</styleUrl>
+ <Point>
+ <coordinates>11.0992,59.295</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1711">
+ <IconStyle id="icon1711">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1711.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1711">
+ <name>1711 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1711:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1711"><strong>Meir info om 1711 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1711</styleUrl>
+ <Point>
+ <coordinates>11.0876,59.2832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1712">
+ <IconStyle id="icon1712">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1712.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1712">
+ <name>1712 GRÅLUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1712:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1712"><strong>Meir info om 1712 GRÅLUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1712</styleUrl>
+ <Point>
+ <coordinates>11.0681,59.2905</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1713">
+ <IconStyle id="icon1713">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1713.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1713">
+ <name>1713 GRÅLUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1713:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1713"><strong>Meir info om 1713 GRÅLUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1713</styleUrl>
+ <Point>
+ <coordinates>11.06076,59.29284</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1714">
+ <IconStyle id="icon1714">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1714.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1714">
+ <name>1714 GRÅLUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1714:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1714"><strong>Meir info om 1714 GRÅLUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1714</styleUrl>
+ <Point>
+ <coordinates>11.0251,59.3181</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1715">
+ <IconStyle id="icon1715">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1715.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1715">
+ <name>1715 YVEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1715:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1715"><strong>Meir info om 1715 YVEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1715</styleUrl>
+ <Point>
+ <coordinates>11.0708,59.2804</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1718">
+ <IconStyle id="icon1718">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1718.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1718">
+ <name>1718 GREÅKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1718:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1718"><strong>Meir info om 1718 GREÅKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1718</styleUrl>
+ <Point>
+ <coordinates>11.0466,59.2703</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1719">
+ <IconStyle id="icon1719">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1719.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1719">
+ <name>1719 GREÅKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1719:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1719"><strong>Meir info om 1719 GREÅKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1719</styleUrl>
+ <Point>
+ <coordinates>11.0321,59.2738</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1720">
+ <IconStyle id="icon1720">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1720.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1720">
+ <name>1720 GREÅKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1720:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1720"><strong>Meir info om 1720 GREÅKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1720</styleUrl>
+ <Point>
+ <coordinates>11.03205,59.26789</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1721">
+ <IconStyle id="icon1721">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1721.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1721">
+ <name>1721 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1721:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1721"><strong>Meir info om 1721 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1721</styleUrl>
+ <Point>
+ <coordinates>11.1166,59.2793</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1722">
+ <IconStyle id="icon1722">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1722.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1722">
+ <name>1722 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1722:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1722"><strong>Meir info om 1722 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1722</styleUrl>
+ <Point>
+ <coordinates>11.085,59.2719</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1723">
+ <IconStyle id="icon1723">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1723.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1723">
+ <name>1723 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1723:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1723"><strong>Meir info om 1723 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1723</styleUrl>
+ <Point>
+ <coordinates>11.102,59.2819</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1724">
+ <IconStyle id="icon1724">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1724.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1724">
+ <name>1724 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1724:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1724"><strong>Meir info om 1724 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1724</styleUrl>
+ <Point>
+ <coordinates>11.1,59.2756</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1725">
+ <IconStyle id="icon1725">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1725.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1725">
+ <name>1725 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1725:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1725"><strong>Meir info om 1725 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1725</styleUrl>
+ <Point>
+ <coordinates>11.094,59.2785</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1726">
+ <IconStyle id="icon1726">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1726.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1726">
+ <name>1726 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1726:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1726"><strong>Meir info om 1726 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1726</styleUrl>
+ <Point>
+ <coordinates>11.1316,59.2918</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1727">
+ <IconStyle id="icon1727">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1727.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1727">
+ <name>1727 SARPSBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1727:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1727"><strong>Meir info om 1727 SARPSBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1727</styleUrl>
+ <Point>
+ <coordinates>11.1201,59.303</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1730">
+ <IconStyle id="icon1730">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1730.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1730">
+ <name>1730 ISE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1730:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1730"><strong>Meir info om 1730 ISE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1730</styleUrl>
+ <Point>
+ <coordinates>11.2202,59.2999</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1733">
+ <IconStyle id="icon1733">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1733.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1733">
+ <name>1733 HAFSLUNDSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1733:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1733"><strong>Meir info om 1733 HAFSLUNDSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1733</styleUrl>
+ <Point>
+ <coordinates>11.14985,59.29161</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1734">
+ <IconStyle id="icon1734">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1734.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1734">
+ <name>1734 HAFSLUNDSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1734:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1734"><strong>Meir info om 1734 HAFSLUNDSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1734</styleUrl>
+ <Point>
+ <coordinates>11.1483,59.2919</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1735">
+ <IconStyle id="icon1735">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1735.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1735">
+ <name>1735 VARTEIG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1735:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1735"><strong>Meir info om 1735 VARTEIG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1735</styleUrl>
+ <Point>
+ <coordinates>11.1882,59.3504</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1738">
+ <IconStyle id="icon1738">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1738.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1738">
+ <name>1738 BORGENHAUGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1738:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1738"><strong>Meir info om 1738 BORGENHAUGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1738</styleUrl>
+ <Point>
+ <coordinates>11.1463,59.2665</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1739">
+ <IconStyle id="icon1739">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1739.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1739">
+ <name>1739 BORGENHAUGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1739:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1739"><strong>Meir info om 1739 BORGENHAUGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1739</styleUrl>
+ <Point>
+ <coordinates>11.1767,59.2663</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1740">
+ <IconStyle id="icon1740">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1740.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1740">
+ <name>1740 BORGENHAUGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1740:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1740"><strong>Meir info om 1740 BORGENHAUGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1740</styleUrl>
+ <Point>
+ <coordinates>11.16673,59.26843</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1742">
+ <IconStyle id="icon1742">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1742.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1742">
+ <name>1742 KLAVESTADHAUGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1742:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1742"><strong>Meir info om 1742 KLAVESTADHAUGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1742</styleUrl>
+ <Point>
+ <coordinates>11.1759,59.25471</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1743">
+ <IconStyle id="icon1743">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1743.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1743">
+ <name>1743 KLAVESTADHAUGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1743:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1743"><strong>Meir info om 1743 KLAVESTADHAUGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1743</styleUrl>
+ <Point>
+ <coordinates>11.1793,59.2543</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1745">
+ <IconStyle id="icon1745">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1745.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1745">
+ <name>1745 SKJEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1745:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1745"><strong>Meir info om 1745 SKJEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1745</styleUrl>
+ <Point>
+ <coordinates>11.18853,59.21274</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1746">
+ <IconStyle id="icon1746">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1746.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1746">
+ <name>1746 SKJEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1746:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1746"><strong>Meir info om 1746 SKJEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1746</styleUrl>
+ <Point>
+ <coordinates>11.1903,59.2115</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1747">
+ <IconStyle id="icon1747">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1747.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1747">
+ <name>1747 SKJEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1747:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1747"><strong>Meir info om 1747 SKJEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1747</styleUrl>
+ <Point>
+ <coordinates>11.1783,59.1916</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sarpsborg (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.9568776,59.3242531,0 10.9519398,59.3298489,0 10.9541152,59.3431624,0 10.9715186,59.3692195,0 10.9758694,59.3958103,0 10.9758694,59.3958103,0 11.0824652,59.3924876,0 11.1369552,59.4166925,0 11.1369552,59.4166925,0 11.1574494,59.3942438,0 11.1890818,59.4069439,0 11.1890818,59.4069439,0 11.2499728,59.3897184,0 11.2728148,59.3448262,0 11.294569,59.3342873,0 11.3424283,59.2576436,0 11.3424283,59.2576436,0 11.245622,59.1730245,0 11.2369203,59.1417961,0 11.166219,59.0932241,0 11.166219,59.0932241,0 11.158605,59.1261713,0 11.1246834,59.129789,0 11.1246834,59.129789,0 11.1253701,59.134699,0 11.118332,59.1404668,0 11.1183749,59.1482365,0 11.1171303,59.1502611,0 11.1126242,59.1542881,0 11.1135684,59.1577425,0 11.1161862,59.1598766,0 11.1154996,59.1617466,0 11.1111651,59.1621426,0 11.1026679,59.1714468,0 11.0961877,59.1811003,0 11.0850726,59.1833869,0 11.0820256,59.1856952,0 11.079794,59.1872121,0 11.0778628,59.1888387,0 11.0779057,59.1912347,0 11.0755025,59.1930809,0 11.0741721,59.1947074,0 11.0740433,59.1975424,0 11.073185,59.1998718,0 11.0730563,59.2009485,0 11.0724126,59.2029261,0 11.071168,59.2094074,0 11.0780774,59.2116701,0 11.0820256,59.2154921,0 11.1259737,59.2454091,0 11.1127514,59.2609839,0 11.0965771,59.2702102,0 11.0946995,59.2703198,0 11.0913307,59.2702979,0 11.0890776,59.268412,0 11.0816747,59.2666355,0 11.0581356,59.2663504,0 11.0445529,59.2622599,0 11.0333091,59.2610206,0 11.0259491,59.2677102,0 11.0223228,59.2720303,0 11.0217649,59.2760319,0 10.9980756,59.3006783,0 10.9794503,59.3055419,0 10.9706098,59.3151137,0 10.9660178,59.3195811,0 10.9568776,59.3242531,0 10.9568776,59.3242531,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

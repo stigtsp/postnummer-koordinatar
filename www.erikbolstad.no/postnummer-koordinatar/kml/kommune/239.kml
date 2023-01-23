@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hurdal, Akershus</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2090">
+ <IconStyle id="icon2090">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2090.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2090">
+ <name>2090 HURDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2090:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2090"><strong>Meir info om 2090 HURDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2090</styleUrl>
+ <Point>
+ <coordinates>11.0671,60.4352</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2091">
+ <IconStyle id="icon2091">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2091.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2091">
+ <name>2091 HURDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2091:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2091"><strong>Meir info om 2091 HURDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2091</styleUrl>
+ <Point>
+ <coordinates>11.06399,60.42415</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hurdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.7148734,60.5245897,0 10.7113202,60.5174004,0 10.7113202,60.5174004,0 10.6927779,60.4941336,0 10.7117169,60.4564901,0 10.6706825,60.4353159,0 10.687408,60.4307809,0 10.8203004,60.4297087,0 10.9017379,60.3988516,0 10.9004753,60.3816961,0 10.9333029,60.3489195,0 10.9333029,60.3489195,0 11.0453106,60.3470274,0 11.0878129,60.3303246,0 11.0878129,60.3303246,0 11.1040638,60.3661942,0 11.1390657,60.3983197,0 11.0815626,60.4883488,0 11.0734513,60.5199299,0 11.0734513,60.5199299,0 10.950348,60.4879146,0 10.9421411,60.4782727,0 10.9200456,60.4726728,0 10.7584331,60.4969318,0 10.7148734,60.5245897,0 10.7148734,60.5245897,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

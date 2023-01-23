@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Leka, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7993">
+ <IconStyle id="icon7993">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7993.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7993">
+ <name>7993 GUTVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7993:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Leka kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7993"><strong>Meir info om 7993 GUTVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7993</styleUrl>
+ <Point>
+ <coordinates>11.83480,65.08400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7994">
+ <IconStyle id="icon7994">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7994.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7994">
+ <name>7994 LEKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7994:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Leka kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7994"><strong>Meir info om 7994 LEKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7994</styleUrl>
+ <Point>
+ <coordinates>11.71212,65.08758</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7995">
+ <IconStyle id="icon7995">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7995.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7995">
+ <name>7995 LEKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7995:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Leka kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7995"><strong>Meir info om 7995 LEKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7995</styleUrl>
+ <Point>
+ <coordinates>11.71212,65.08758</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

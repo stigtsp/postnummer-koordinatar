@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Åsnes, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2266">
+ <IconStyle id="icon2266">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2266.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2266">
+ <name>2266 ARNEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2266:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2266"><strong>Meir info om 2266 ARNEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2266</styleUrl>
+ <Point>
+ <coordinates>12.01930,60.53430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2270">
+ <IconStyle id="icon2270">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2270.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2270">
+ <name>2270 FLISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2270:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2270"><strong>Meir info om 2270 FLISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2270</styleUrl>
+ <Point>
+ <coordinates>12.01540,60.60920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2271">
+ <IconStyle id="icon2271">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2271.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2271">
+ <name>2271 FLISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2271:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2271"><strong>Meir info om 2271 FLISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2271</styleUrl>
+ <Point>
+ <coordinates>12.01003,60.61280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2280">
+ <IconStyle id="icon2280">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2280.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2280">
+ <name>2280 GJESÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2280:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2280"><strong>Meir info om 2280 GJESÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2280</styleUrl>
+ <Point>
+ <coordinates>12.02720,60.67820</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2283">
+ <IconStyle id="icon2283">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2283.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2283">
+ <name>2283 ÅSNES FINNSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2283:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2283"><strong>Meir info om 2283 ÅSNES FINNSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2283</styleUrl>
+ <Point>
+ <coordinates>12.21020,60.66560</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

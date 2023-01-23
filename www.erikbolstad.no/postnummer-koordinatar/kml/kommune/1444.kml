@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hornindal, Sogn og Fjordane</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6761">
+ <IconStyle id="icon6761">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6761.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6761">
+ <name>6761 HORNINDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6761:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hornindal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6761"><strong>Meir info om 6761 HORNINDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6761</styleUrl>
+ <Point>
+ <coordinates>6.52429,61.96843</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6763">
+ <IconStyle id="icon6763">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6763.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6763">
+ <name>6763 HORNINDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6763:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hornindal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6763"><strong>Meir info om 6763 HORNINDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6763</styleUrl>
+ <Point>
+ <coordinates>6.5277,61.9701</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hornindal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.4056002,61.9855086,0 6.4768591,61.9370277,0 6.4768591,61.9370277,0 6.4776471,61.9375242,0 6.5456036,61.9290971,0 6.6209353,61.960563,0 6.7510421,61.9567043,0 6.7906697,61.9723119,0 6.7906697,61.9723119,0 6.658997,62.071696,0 6.658997,62.071696,0 6.6209583,62.0525034,0 6.5366877,62.0552459,0 6.4905334,62.0373614,0 6.4905334,62.0373614,0 6.4957229,62.0157294,0 6.4202305,62.0138072,0 6.4056002,61.9855086,0 6.4056002,61.9855086,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

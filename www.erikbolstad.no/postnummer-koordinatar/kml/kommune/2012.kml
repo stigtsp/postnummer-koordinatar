@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Alta, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9500">
+ <IconStyle id="icon9500">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9500.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9500">
+ <name>9500 ALTA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9500:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9500"><strong>Meir info om 9500 ALTA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9500</styleUrl>
+ <Point>
+ <coordinates>23.27165,69.96887</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9501">
+ <IconStyle id="icon9501">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9501.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9501">
+ <name>9501 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9501:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9501"><strong>Meir info om 9501 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9501</styleUrl>
+ <Point>
+ <coordinates>23.23405,69.96070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9502">
+ <IconStyle id="icon9502">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9502.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9502">
+ <name>9502 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9502:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9502"><strong>Meir info om 9502 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9502</styleUrl>
+ <Point>
+ <coordinates>23.2342,69.9611</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9503">
+ <IconStyle id="icon9503">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9503.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9503">
+ <name>9503 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9503:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9503"><strong>Meir info om 9503 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9503</styleUrl>
+ <Point>
+ <coordinates>23.2726,69.9661</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9504">
+ <IconStyle id="icon9504">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9504.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9504">
+ <name>9504 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9504:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9504"><strong>Meir info om 9504 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9504</styleUrl>
+ <Point>
+ <coordinates>23.27243,69.96613</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9505">
+ <IconStyle id="icon9505">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9505.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9505">
+ <name>9505 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9505:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9505"><strong>Meir info om 9505 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9505</styleUrl>
+ <Point>
+ <coordinates>23.2726,69.9661</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9506">
+ <IconStyle id="icon9506">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9506.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9506">
+ <name>9506 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9506:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9506"><strong>Meir info om 9506 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9506</styleUrl>
+ <Point>
+ <coordinates>23.2726,69.9661</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9507">
+ <IconStyle id="icon9507">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9507.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9507">
+ <name>9507 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9507:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9507"><strong>Meir info om 9507 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9507</styleUrl>
+ <Point>
+ <coordinates>23.3614,69.9737</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9508">
+ <IconStyle id="icon9508">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9508.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9508">
+ <name>9508 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9508:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9508"><strong>Meir info om 9508 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9508</styleUrl>
+ <Point>
+ <coordinates>23.36137,69.97373</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9509">
+ <IconStyle id="icon9509">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9509.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9509">
+ <name>9509 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9509:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9509"><strong>Meir info om 9509 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9509</styleUrl>
+ <Point>
+ <coordinates>23.3407,69.9761</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9510">
+ <IconStyle id="icon9510">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9510.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9510">
+ <name>9510 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9510:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9510"><strong>Meir info om 9510 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9510</styleUrl>
+ <Point>
+ <coordinates>23.2866,69.9704</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9511">
+ <IconStyle id="icon9511">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9511.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9511">
+ <name>9511 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9511:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9511"><strong>Meir info om 9511 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9511</styleUrl>
+ <Point>
+ <coordinates>23.2664,69.9718</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9512">
+ <IconStyle id="icon9512">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9512.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9512">
+ <name>9512 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9512:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9512"><strong>Meir info om 9512 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9512</styleUrl>
+ <Point>
+ <coordinates>23.2141,69.9516</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9513">
+ <IconStyle id="icon9513">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9513.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9513">
+ <name>9513 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9513:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9513"><strong>Meir info om 9513 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9513</styleUrl>
+ <Point>
+ <coordinates>23.2402,69.9578</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9514">
+ <IconStyle id="icon9514">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9514.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9514">
+ <name>9514 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9514:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9514"><strong>Meir info om 9514 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9514</styleUrl>
+ <Point>
+ <coordinates>23.3253,69.9655</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9515">
+ <IconStyle id="icon9515">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9515.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9515">
+ <name>9515 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9515:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9515"><strong>Meir info om 9515 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9515</styleUrl>
+ <Point>
+ <coordinates>23.3579,69.9723</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9516">
+ <IconStyle id="icon9516">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9516.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9516">
+ <name>9516 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9516:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9516"><strong>Meir info om 9516 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9516</styleUrl>
+ <Point>
+ <coordinates>23.3755,69.9564</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9517">
+ <IconStyle id="icon9517">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9517.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9517">
+ <name>9517 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9517:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9517"><strong>Meir info om 9517 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9517</styleUrl>
+ <Point>
+ <coordinates>23.4769,69.9709</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9518">
+ <IconStyle id="icon9518">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9518.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9518">
+ <name>9518 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9518:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9518"><strong>Meir info om 9518 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9518</styleUrl>
+ <Point>
+ <coordinates>23.2172,69.9039</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9519">
+ <IconStyle id="icon9519">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9519.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9519">
+ <name>9519 KVIBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9519:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9519"><strong>Meir info om 9519 KVIBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9519</styleUrl>
+ <Point>
+ <coordinates>23.3944,70.1202</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9530">
+ <IconStyle id="icon9530">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9530.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9530">
+ <name>9530 KVIBY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9530:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9530"><strong>Meir info om 9530 KVIBY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9530</styleUrl>
+ <Point>
+ <coordinates>23.3944,70.1202</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9531">
+ <IconStyle id="icon9531">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9531.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9531">
+ <name>9531 KVALFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9531:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9531"><strong>Meir info om 9531 KVALFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9531</styleUrl>
+ <Point>
+ <coordinates>22.87149,70.31844</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9532">
+ <IconStyle id="icon9532">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9532.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9532">
+ <name>9532 HAKKSTABBEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9532:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9532"><strong>Meir info om 9532 HAKKSTABBEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9532</styleUrl>
+ <Point>
+ <coordinates>23.1225,70.2785</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9533">
+ <IconStyle id="icon9533">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9533.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9533">
+ <name>9533 KONGSHUS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9533:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9533"><strong>Meir info om 9533 KONGSHUS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9533</styleUrl>
+ <Point>
+ <coordinates>23.2677,70.1432</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9536">
+ <IconStyle id="icon9536">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9536.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9536">
+ <name>9536 KORSFJORDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9536:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9536"><strong>Meir info om 9536 KORSFJORDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9536</styleUrl>
+ <Point>
+ <coordinates>23.3861,70.2474</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9540">
+ <IconStyle id="icon9540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9540">
+ <name>9540 TALVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9540"><strong>Meir info om 9540 TALVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9540</styleUrl>
+ <Point>
+ <coordinates>22.9525,70.04165</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9545">
+ <IconStyle id="icon9545">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9545.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9545">
+ <name>9545 LANGFJORDBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9545:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9545"><strong>Meir info om 9545 LANGFJORDBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9545</styleUrl>
+ <Point>
+ <coordinates>22.2578,70.0397</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9636">
+ <IconStyle id="icon9636">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9636.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9636">
+ <name>9636 KORSFJORDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9636:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9636"><strong>Meir info om 9636 KORSFJORDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9636</styleUrl>
+ <Point>
+ <coordinates>23.3861,70.2474</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9640">
+ <IconStyle id="icon9640">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9640.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9640">
+ <name>9640 KVALFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9640:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9640"><strong>Meir info om 9640 KVALFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9640</styleUrl>
+ <Point>
+ <coordinates>22.87149,70.31844</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9644">
+ <IconStyle id="icon9644">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9644.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9644">
+ <name>9644 HAKKSTABBEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9644:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9644"><strong>Meir info om 9644 HAKKSTABBEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9644</styleUrl>
+ <Point>
+ <coordinates>23.1225,70.2785</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Alta (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>23.2668087,70.4268485,0 23.7364242,70.3288708,0 23.7679059,70.2255273,0 23.9597971,70.0979566,0 23.9597971,70.0979566,0 23.9110046,70.0055348,0 24.0684131,69.9869332,0 24.1199286,69.9898714,0 24.2172357,69.808895,0 24.2172357,69.808895,0 24.2154335,69.6702677,0 24.2154335,69.6702677,0 23.4809343,69.7147663,0 23.3234108,69.7103207,0 23.1603922,69.6868066,0 22.8948003,69.6957069,0 22.8332812,69.6710652,0 22.8332812,69.6710652,0 22.7611606,69.6490664,0 22.5683485,69.701723,0 22.5374397,69.7710503,0 22.447657,69.7929227,0 22.5462708,69.8487723,0 22.4491288,69.874616,0 22.5241931,69.9019452,0 22.4976998,69.9211556,0 22.4064453,69.9246924,0 22.2371827,69.9625496,0 22.1827244,70.0119131,0 22.2180487,70.0405709,0 22.2180487,70.0405709,0 22.2816289,70.0934073,0 22.4896705,70.1129036,0 22.5333894,70.0954604,0 22.6042441,70.1016185,0 22.5605252,70.1195692,0 22.5575101,70.1656567,0 22.4308761,70.2085792,0 22.444444,70.2264373,0 22.4022327,70.236635,0 22.5002233,70.2926319,0 22.5002233,70.2926319,0 22.573914,70.280854,0 22.6595428,70.2963115,0 22.6905745,70.4498123,0 22.6905745,70.4498123,0 22.8762301,70.3950714,0 23.0220985,70.394915,0 23.0968303,70.4484367,0 23.2668087,70.4268485,0 23.2668087,70.4268485,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

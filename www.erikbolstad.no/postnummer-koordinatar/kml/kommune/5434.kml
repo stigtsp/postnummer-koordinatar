@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Måsøy, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9670">
+ <IconStyle id="icon9670">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9670.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9670">
+ <name>9670 TUFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9670:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Måsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9670"><strong>Meir info om 9670 TUFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9670</styleUrl>
+ <Point>
+ <coordinates>24.12894,70.99181</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9672">
+ <IconStyle id="icon9672">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9672.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9672">
+ <name>9672 INGØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9672:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Måsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9672"><strong>Meir info om 9672 INGØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9672</styleUrl>
+ <Point>
+ <coordinates>24.05624,71.08362</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9680">
+ <IconStyle id="icon9680">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9680.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9680">
+ <name>9680 SNEFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9680:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Måsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9680"><strong>Meir info om 9680 SNEFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9680</styleUrl>
+ <Point>
+ <coordinates>24.56910,70.79070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9690">
+ <IconStyle id="icon9690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9690">
+ <name>9690 HAVØYSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9690:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Måsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9690"><strong>Meir info om 9690 HAVØYSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9690</styleUrl>
+ <Point>
+ <coordinates>24.66210,70.99630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9691">
+ <IconStyle id="icon9691">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9691.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9691">
+ <name>9691 HAVØYSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9691:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Måsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9691"><strong>Meir info om 9691 HAVØYSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9691</styleUrl>
+ <Point>
+ <coordinates>24.66812,70.99583</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9692">
+ <IconStyle id="icon9692">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9692.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9692">
+ <name>9692 MÅSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9692:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Måsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9692"><strong>Meir info om 9692 MÅSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9692</styleUrl>
+ <Point>
+ <coordinates>25.00440,71.00970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9714">
+ <IconStyle id="icon9714">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9714.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9714">
+ <name>9714 SNEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9714:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Måsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9714"><strong>Meir info om 9714 SNEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9714</styleUrl>
+ <Point>
+ <coordinates>24.56910,70.79070</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

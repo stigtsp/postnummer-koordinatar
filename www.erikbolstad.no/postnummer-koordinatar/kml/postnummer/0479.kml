@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0479 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0479">
+ <name>0479 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0479:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0479"><strong>Meir info om 0479 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.77550,59.93680</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0479 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.77210,59.93661 10.77439,59.93514 10.77566,59.93525 10.77610,59.93516 10.77901,59.93440 10.77962,59.93509 10.78014,59.93541 10.78027,59.93550 10.77901,59.93800 10.77914,59.93822 10.77911,59.93854 10.77794,59.93859 10.77780,59.93817 10.77728,59.93824 10.77709,59.93795 10.77640,59.93807 10.77652,59.93830 10.77703,59.93823 10.77711,59.93862 10.77656,59.93865 10.77659,59.93881 10.77611,59.93885 10.77592,59.93816 10.77479,59.93826 10.77490,59.93850 10.77498,59.93882 10.77483,59.93884 10.77464,59.93886 10.77453,59.93887 10.77431,59.93892 10.77411,59.93867 10.77416,59.93794 10.77360,59.93718 10.77251,59.93720 10.77210,59.93661</coordinates></LineString></Placemark>
+ </Document>
+</kml>

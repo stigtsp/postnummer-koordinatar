@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3004 DRAMMEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3004">
+ <name>3004 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3004:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3004"><strong>Meir info om 3004 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.19850,59.74910</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3004 DRAMMEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.19725,59.74976 10.19708,59.74954 10.19691,59.74948 10.19607,59.74942 10.19575,59.74930 10.19515,59.74877 10.19630,59.74846 10.19680,59.74893 10.19800,59.74861 10.19769,59.74827 10.19813,59.74818 10.19840,59.74848 10.19967,59.74819 10.20028,59.74885 10.19973,59.74899 10.19998,59.74926 10.19946,59.74938 10.19959,59.74951 10.19903,59.74960 10.19827,59.74976 10.19768,59.74984 10.19725,59.74976</coordinates></LineString></Placemark>
+ </Document>
+</kml>

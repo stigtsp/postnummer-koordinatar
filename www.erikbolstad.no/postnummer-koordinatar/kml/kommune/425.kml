@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Åsnes, Hedmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2266">
+ <IconStyle id="icon2266">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2266.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2266">
+ <name>2266 ARNEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2266:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2266"><strong>Meir info om 2266 ARNEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2266</styleUrl>
+ <Point>
+ <coordinates>12.0193,60.5343</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2270">
+ <IconStyle id="icon2270">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2270.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2270">
+ <name>2270 FLISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2270:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2270"><strong>Meir info om 2270 FLISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2270</styleUrl>
+ <Point>
+ <coordinates>12.0154,60.6092</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2271">
+ <IconStyle id="icon2271">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2271.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2271">
+ <name>2271 FLISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2271:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2271"><strong>Meir info om 2271 FLISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2271</styleUrl>
+ <Point>
+ <coordinates>12.01003,60.61280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2280">
+ <IconStyle id="icon2280">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2280.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2280">
+ <name>2280 GJESÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2280:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2280"><strong>Meir info om 2280 GJESÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2280</styleUrl>
+ <Point>
+ <coordinates>12.0272,60.6782</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2283">
+ <IconStyle id="icon2283">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2283.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2283">
+ <name>2283 ÅSNES FINNSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2283:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2283"><strong>Meir info om 2283 ÅSNES FINNSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2283</styleUrl>
+ <Point>
+ <coordinates>12.2102,60.6656</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Åsnes (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.6478435,60.5825566,0 11.6503719,60.5693071,0 11.6503719,60.5693071,0 11.6797605,60.5478448,0 11.6954372,60.5494506,0 11.7065415,60.5288899,0 11.7254842,60.5173188,0 11.7594504,60.4806496,0 11.7986422,60.4874076,0 11.7986422,60.4874076,0 11.9378623,60.5155117,0 12.0502121,60.508438,0 12.0397609,60.5399361,0 12.0626228,60.5508569,0 12.1566935,60.5421658,0 12.1788499,60.5526491,0 12.2595327,60.5386707,0 12.2607868,60.5281829,0 12.2674756,60.5242748,0 12.3295553,60.5320905,0 12.3550561,60.5394931,0 12.381393,60.5396987,0 12.399787,60.5489495,0 12.4152547,60.5485384,0 12.4440998,60.5411379,0 12.4817239,60.5275658,0 12.5977505,60.5267132,0 12.5977505,60.5267132,0 12.5819504,60.5510463,0 12.5722087,60.5582404,0 12.5181782,60.6003809,0 12.5179637,60.6018556,0 12.5116551,60.6432239,0 12.5064624,60.6464638,0 12.4815285,60.6678302,0 12.4609292,60.6852116,0 12.4290002,60.70882,0 12.4105036,60.7225906,0 12.3953116,60.7338378,0 12.381922,60.7584588,0 12.3745406,60.7720614,0 12.3644126,60.7905803,0 12.3494351,60.8178571,0 12.3473739,60.8220355,0 12.3404216,60.8383298,0 12.3374944,60.8453677,0 12.3374944,60.8453677,0 12.306202,60.8460658,0 12.1696266,60.8916406,0 12.1489138,60.881563,0 12.2034712,60.8438013,0 12.1840529,60.8421812,0 12.0798709,60.8039849,0 12.1074881,60.788194,0 12.1036018,60.7882873,0 12.0811655,60.7888258,0 12.0587266,60.7829286,0 12.0406028,60.7738701,0 11.9758769,60.7516987,0 11.9505926,60.7053386,0 11.9052917,60.6986366,0 11.9084522,60.6769745,0 11.9379505,60.6604602,0 11.9042382,60.6113836,0 11.7757099,60.5689626,0 11.6478435,60.5825566,0 11.6478435,60.5825566,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

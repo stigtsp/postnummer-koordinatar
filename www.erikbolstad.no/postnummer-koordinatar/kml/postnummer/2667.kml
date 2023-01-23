@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2667 LESJAVERK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2667">
+ <name>2667 LESJAVERK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2667:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lesja kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2667"><strong>Meir info om 2667 LESJAVERK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>8.54190,62.19190</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2667 LESJAVERK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.50057,62.27103 8.48321,62.26069 8.46549,62.25063 8.46471,62.24969 8.46263,62.24743 8.45270,62.24176 8.44875,62.23398 8.44304,62.22441 8.44224,62.22267 8.44270,62.21947 8.43932,62.21798 8.43786,62.21745 8.43506,62.21718 8.42861,62.21651 8.41915,62.21426 8.40898,62.20731 8.39687,62.19717 8.39294,62.19379 8.38364,62.18927 8.38016,62.16387 8.37390,62.13983 8.34537,62.11514 8.36219,62.11799 8.42715,62.12769 8.51952,62.14101 8.53118,62.14358 8.57283,62.15495 8.57510,62.15542 8.58657,62.15870 8.61002,62.17539 8.63379,62.19276 8.63076,62.21114 8.60772,62.21886 8.59550,62.22297 8.57677,62.22680 8.56769,62.22865 8.55670,62.23200 8.54963,62.23447 8.53490,62.24046 8.51742,62.24976 8.50057,62.27103</coordinates></LineString></Placemark>
+ </Document>
+</kml>

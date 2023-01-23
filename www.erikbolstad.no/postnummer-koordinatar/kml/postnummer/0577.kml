@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0577 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0577">
+ <name>0577 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0577:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0577"><strong>Meir info om 0577 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.77220,59.91520</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0577 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.77295,59.91653 10.77309,59.91514 10.77172,59.91563 10.77062,59.91516 10.77087,59.91453 10.77102,59.91429 10.77194,59.91429 10.77277,59.91445 10.77341,59.91454 10.77459,59.91474 10.77574,59.91573 10.77662,59.91541 10.77518,59.91898 10.77280,59.91893 10.77265,59.91698 10.77417,59.91737 10.77401,59.91657 10.77295,59.91653</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0577 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.77039,59.91414 10.77026,59.91434 10.76984,59.91458 10.76878,59.91418 10.76816,59.91399 10.76788,59.91373 10.76764,59.91374 10.76763,59.91341 10.76783,59.91340 10.76881,59.91384 10.77039,59.91414</coordinates></LineString></Placemark>
+ </Document>
+</kml>

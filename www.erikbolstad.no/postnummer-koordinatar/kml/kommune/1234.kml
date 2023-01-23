@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Granvin, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5733">
+ <IconStyle id="icon5733">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5733.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5733">
+ <name>5733 GRANVIN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5733:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Granvin herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5733"><strong>Meir info om 5733 GRANVIN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5733</styleUrl>
+ <Point>
+ <coordinates>6.71970,60.52418</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5736">
+ <IconStyle id="icon5736">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5736.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5736">
+ <name>5736 GRANVIN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5736:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Granvin herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5736"><strong>Meir info om 5736 GRANVIN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5736</styleUrl>
+ <Point>
+ <coordinates>6.7193,60.5240</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Granvin (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.5012741,60.4784331,0 6.5255068,60.4693938,0 6.4925041,60.4580051,0 6.5103256,60.432936,0 6.5103256,60.432936,0 6.6066934,60.4462869,0 6.6218747,60.4706951,0 6.6918404,60.466791,0 6.7548807,60.4884443,0 6.7548807,60.4884443,0 6.8126354,60.5168817,0 6.8352613,60.6270525,0 6.8352613,60.6270525,0 6.6742082,60.6429124,0 6.6398854,60.6328795,0 6.6075427,60.5816954,0 6.635265,60.5648323,0 6.6095229,60.5262085,0 6.5725599,60.4943661,0 6.5012741,60.4784331,0 6.5012741,60.4784331,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

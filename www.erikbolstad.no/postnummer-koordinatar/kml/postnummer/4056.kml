@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>4056 TANANGER</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer4056">
+ <name>4056 TANANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4056:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sola kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4056"><strong>Meir info om 4056 TANANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.57340,58.93660</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 4056 TANANGER</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.27954,58.90730 5.30007,58.86120 5.30140,58.85847 5.30572,58.84844 5.42470,58.86406 5.43761,58.86575 5.45751,58.87003 5.49270,58.87985 5.50018,58.88255 5.51667,58.89251 5.53091,58.90313 5.53542,58.90798 5.54364,58.91911 5.57199,58.91588 5.58890,58.91189 5.59100,58.91186 5.59579,58.91383 5.59604,58.91411 5.59686,58.91447 5.59821,58.91489 5.60098,58.91541 5.60169,58.91539 5.60245,58.91514 5.60285,58.91513 5.60298,58.91497 5.60657,58.91487 5.60707,58.91700 5.60804,58.91932 5.61046,58.91921 5.61205,58.91829 5.61421,58.91713 5.61754,58.91580 5.61859,58.91569 5.62194,58.91564 5.62427,58.91566 5.62605,58.91568 5.63080,58.91622 5.63374,58.91758 5.64631,58.92742 5.63297,58.93318 5.63261,58.93415 5.63026,58.94053 5.62503,58.94307 5.61885,58.94608 5.60389,58.94440 5.59901,58.94611 5.59496,58.94568 5.59155,58.94636 5.58214,58.94491 5.58073,58.94498 5.57755,58.94391 5.57723,58.94382 5.57695,58.94390 5.57613,58.94360 5.57554,58.94331 5.56866,58.94058 5.27954,58.90730</coordinates></LineString></Placemark>
+ </Document>
+</kml>

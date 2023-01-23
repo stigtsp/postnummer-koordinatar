@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5416 STORD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5416">
+ <name>5416 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5416:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5416"><strong>Meir info om 5416 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.51670,59.79500</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5416 STORD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.48449,59.79234 5.49708,59.79165 5.50255,59.78977 5.50702,59.78756 5.50842,59.78666 5.51357,59.78269 5.52581,59.77464 5.53168,59.77017 5.54197,59.76084 5.54426,59.76211 5.54572,59.76280 5.54817,59.76439 5.55099,59.76593 5.55372,59.76754 5.55725,59.76986 5.57578,59.77025 5.58068,59.78835 5.58463,59.79214 5.56945,59.80273 5.54194,59.80134 5.52895,59.80103 5.52625,59.80190 5.52607,59.80219 5.52622,59.80246 5.52450,59.80337 5.52414,59.80344 5.52375,59.80351 5.52321,59.80368 5.52125,59.80422 5.51983,59.80454 5.51909,59.80483 5.51908,59.80438 5.51906,59.80372 5.51863,59.80370 5.51779,59.80418 5.51775,59.80434 5.51700,59.80427 5.51657,59.80414 5.51622,59.80401 5.51588,59.80385 5.51568,59.80364 5.51597,59.80339 5.51609,59.80307 5.51583,59.80265 5.51492,59.80187 5.51425,59.80130 5.51382,59.80077 5.51332,59.79987 5.51302,59.79952 5.50691,59.80106 5.50116,59.80199 5.49780,59.80252 5.49590,59.79999 5.49587,59.79925 5.49581,59.79844 5.49553,59.79771 5.48956,59.79695 5.48449,59.79234</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sula, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6030">
+ <IconStyle id="icon6030">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6030.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6030">
+ <name>6030 LANGEVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6030:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sula kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6030"><strong>Meir info om 6030 LANGEVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6030</styleUrl>
+ <Point>
+ <coordinates>6.18920,62.43750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6034">
+ <IconStyle id="icon6034">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6034.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6034">
+ <name>6034 EIDSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6034:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sula kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6034"><strong>Meir info om 6034 EIDSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6034</styleUrl>
+ <Point>
+ <coordinates>6.31627,62.42757</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6035">
+ <IconStyle id="icon6035">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6035.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6035">
+ <name>6035 FISKARSTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6035:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sula kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6035"><strong>Meir info om 6035 FISKARSTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6035</styleUrl>
+ <Point>
+ <coordinates>6.27160,62.43960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6036">
+ <IconStyle id="icon6036">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6036.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6036">
+ <name>6036 MAUSEIDVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6036:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sula kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6036"><strong>Meir info om 6036 MAUSEIDVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6036</styleUrl>
+ <Point>
+ <coordinates>6.27090,62.42150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6037">
+ <IconStyle id="icon6037">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6037.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6037">
+ <name>6037 EIDSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6037:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sula kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6037"><strong>Meir info om 6037 EIDSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6037</styleUrl>
+ <Point>
+ <coordinates>6.31627,62.42757</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6038">
+ <IconStyle id="icon6038">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6038.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6038">
+ <name>6038 FISKARSTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6038:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sula kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6038"><strong>Meir info om 6038 FISKARSTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6038</styleUrl>
+ <Point>
+ <coordinates>6.27307,62.44024</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6039">
+ <IconStyle id="icon6039">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6039.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6039">
+ <name>6039 LANGEVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6039:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sula kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6039"><strong>Meir info om 6039 LANGEVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6039</styleUrl>
+ <Point>
+ <coordinates>6.19032,62.44213</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sula (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.0137438,62.4475336,0 6.046756,62.4073498,0 6.1673463,62.3694071,0 6.1673463,62.3694071,0 6.3652942,62.3966707,0 6.3652942,62.3966707,0 6.3662818,62.4347144,0 6.2931303,62.4344435,0 6.2281718,62.460701,0 6.0539772,62.4559916,0 6.0539772,62.4559916,0 6.0137438,62.4475336,0 6.0137438,62.4475336,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

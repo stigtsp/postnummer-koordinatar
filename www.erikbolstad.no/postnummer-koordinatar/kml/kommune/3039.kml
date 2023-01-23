@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Flå, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3539">
+ <IconStyle id="icon3539">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3539.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3539">
+ <name>3539 FLÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3539:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flå kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3539"><strong>Meir info om 3539 FLÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3539</styleUrl>
+ <Point>
+ <coordinates>9.46220,60.42920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3545">
+ <IconStyle id="icon3545">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3545.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3545">
+ <name>3545 FLÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3545:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flå kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3545"><strong>Meir info om 3545 FLÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3545</styleUrl>
+ <Point>
+ <coordinates>9.46217,60.42919</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

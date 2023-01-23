@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0373 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0373">
+ <name>0373 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0373:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0373"><strong>Meir info om 0373 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.70920,59.94210</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0373 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.70369,59.94271 10.70460,59.94240 10.70426,59.94187 10.70408,59.94156 10.70387,59.94085 10.70391,59.94027 10.70402,59.93976 10.70456,59.93879 10.70505,59.93842 10.70788,59.93645 10.70926,59.93617 10.71042,59.93704 10.71158,59.93763 10.71377,59.93845 10.71468,59.93912 10.71525,59.93962 10.71618,59.94019 10.71656,59.94043 10.71741,59.94119 10.71803,59.94203 10.71839,59.94244 10.71915,59.94298 10.71987,59.94334 10.71965,59.94354 10.72042,59.94400 10.71938,59.94626 10.71602,59.94575 10.71530,59.94582 10.71362,59.94601 10.71192,59.94638 10.71322,59.94792 10.71256,59.94855 10.71219,59.94929 10.71053,59.94833 10.70920,59.94835 10.70845,59.94864 10.70746,59.94875 10.70698,59.94878 10.70625,59.94824 10.70553,59.94767 10.70640,59.94733 10.70687,59.94719 10.70728,59.94715 10.70778,59.94715 10.70852,59.94719 10.70897,59.94722 10.70964,59.94718 10.71003,59.94709 10.71031,59.94693 10.71044,59.94678 10.71054,59.94650 10.70928,59.94655 10.70788,59.94651 10.70712,59.94641 10.70640,59.94620 10.70559,59.94570 10.70369,59.94459 10.70307,59.94422 10.70239,59.94394 10.70220,59.94338 10.70278,59.94330 10.70277,59.94322 10.70368,59.94311 10.70369,59.94271</coordinates></LineString></Placemark>
+ </Document>
+</kml>

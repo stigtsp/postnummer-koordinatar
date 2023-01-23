@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Storfjord, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9046">
+ <IconStyle id="icon9046">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9046.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9046">
+ <name>9046 OTEREN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9046:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Storfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9046"><strong>Meir info om 9046 OTEREN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9046</styleUrl>
+ <Point>
+ <coordinates>19.88490,69.25530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9048">
+ <IconStyle id="icon9048">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9048.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9048">
+ <name>9048 SKIBOTN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9048:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Storfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9048"><strong>Meir info om 9048 SKIBOTN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9048</styleUrl>
+ <Point>
+ <coordinates>20.27465,69.38853</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9142">
+ <IconStyle id="icon9142">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9142.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9142">
+ <name>9142 SKIBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9142:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Storfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9142"><strong>Meir info om 9142 SKIBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9142</styleUrl>
+ <Point>
+ <coordinates>20.27465,69.38853</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9143">
+ <IconStyle id="icon9143">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9143.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9143">
+ <name>9143 SKIBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9143:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Storfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9143"><strong>Meir info om 9143 SKIBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9143</styleUrl>
+ <Point>
+ <coordinates>20.26730,69.39080</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

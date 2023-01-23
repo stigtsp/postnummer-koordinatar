@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3086 HOLMESTRAND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3086">
+ <name>3086 HOLMESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3086:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Holmestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3086"><strong>Meir info om 3086 HOLMESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.28410,59.51130</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3086 HOLMESTRAND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.24685,59.53426 10.26986,59.51342 10.27800,59.50419 10.28035,59.49873 10.27882,59.49706 10.28251,59.49076 10.29383,59.49117 10.29428,59.49116 10.29497,59.49072 10.29573,59.49082 10.29661,59.49088 10.29660,59.49142 10.29604,59.49172 10.29543,59.49162 10.29411,59.49163 10.29240,59.49282 10.28722,59.49853 10.28999,59.50256 10.29134,59.50488 10.29608,59.50577 10.29088,59.50944 10.28718,59.51387 10.28466,59.51781 10.28219,59.52090 10.27413,59.52617 10.26423,59.53085 10.26325,59.53118 10.26183,59.53151 10.26067,59.53193 10.25981,59.53254 10.25936,59.53316 10.25868,59.53451 10.25735,59.53632 10.25217,59.53474 10.25097,59.53437 10.24977,59.53429 10.24911,59.53432 10.24685,59.53426</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Fredrikstad, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1600">
+ <IconStyle id="icon1600">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1600.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1600">
+ <name>1600 FREDRIKSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1600:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1600"><strong>Meir info om 1600 FREDRIKSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1600</styleUrl>
+ <Point>
+ <coordinates>10.92981,59.21810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1601">
+ <IconStyle id="icon1601">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1601.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1601">
+ <name>1601 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1601:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1601"><strong>Meir info om 1601 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1601</styleUrl>
+ <Point>
+ <coordinates>10.93835,59.21448</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1602">
+ <IconStyle id="icon1602">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1602.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1602">
+ <name>1602 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1602:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1602"><strong>Meir info om 1602 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1602</styleUrl>
+ <Point>
+ <coordinates>10.92980,59.21810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1603">
+ <IconStyle id="icon1603">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1603.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1603">
+ <name>1603 FREDRIKSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1603:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1603"><strong>Meir info om 1603 FREDRIKSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1603</styleUrl>
+ <Point>
+ <coordinates>10.93780,59.21710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1604">
+ <IconStyle id="icon1604">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1604.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1604">
+ <name>1604 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1604:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1604"><strong>Meir info om 1604 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1604</styleUrl>
+ <Point>
+ <coordinates>10.95550,59.21310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1605">
+ <IconStyle id="icon1605">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1605.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1605">
+ <name>1605 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1605:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1605"><strong>Meir info om 1605 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1605</styleUrl>
+ <Point>
+ <coordinates>10.94810,59.22040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1606">
+ <IconStyle id="icon1606">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1606.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1606">
+ <name>1606 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1606:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1606"><strong>Meir info om 1606 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1606</styleUrl>
+ <Point>
+ <coordinates>10.94530,59.20780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1607">
+ <IconStyle id="icon1607">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1607.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1607">
+ <name>1607 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1607:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1607"><strong>Meir info om 1607 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1607</styleUrl>
+ <Point>
+ <coordinates>10.94040,59.21290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1608">
+ <IconStyle id="icon1608">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1608.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1608">
+ <name>1608 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1608:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1608"><strong>Meir info om 1608 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1608</styleUrl>
+ <Point>
+ <coordinates>10.93370,59.21700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1609">
+ <IconStyle id="icon1609">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1609.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1609">
+ <name>1609 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1609:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1609"><strong>Meir info om 1609 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1609</styleUrl>
+ <Point>
+ <coordinates>10.95837,59.22841</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1610">
+ <IconStyle id="icon1610">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1610.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1610">
+ <name>1610 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1610:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1610"><strong>Meir info om 1610 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1610</styleUrl>
+ <Point>
+ <coordinates>10.92480,59.21970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1612">
+ <IconStyle id="icon1612">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1612.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1612">
+ <name>1612 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1612:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1612"><strong>Meir info om 1612 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1612</styleUrl>
+ <Point>
+ <coordinates>10.93008,59.22306</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1613">
+ <IconStyle id="icon1613">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1613.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1613">
+ <name>1613 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1613:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1613"><strong>Meir info om 1613 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1613</styleUrl>
+ <Point>
+ <coordinates>10.93390,59.22870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1614">
+ <IconStyle id="icon1614">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1614.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1614">
+ <name>1614 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1614:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1614"><strong>Meir info om 1614 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1614</styleUrl>
+ <Point>
+ <coordinates>10.91980,59.23290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1615">
+ <IconStyle id="icon1615">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1615.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1615">
+ <name>1615 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1615:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1615"><strong>Meir info om 1615 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1615</styleUrl>
+ <Point>
+ <coordinates>10.91870,59.25460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1616">
+ <IconStyle id="icon1616">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1616.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1616">
+ <name>1616 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1616:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1616"><strong>Meir info om 1616 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1616</styleUrl>
+ <Point>
+ <coordinates>10.97644,59.23334</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1617">
+ <IconStyle id="icon1617">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1617.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1617">
+ <name>1617 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1617:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1617"><strong>Meir info om 1617 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1617</styleUrl>
+ <Point>
+ <coordinates>10.96930,59.23430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1618">
+ <IconStyle id="icon1618">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1618.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1618">
+ <name>1618 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1618:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1618"><strong>Meir info om 1618 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1618</styleUrl>
+ <Point>
+ <coordinates>10.98400,59.23400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1619">
+ <IconStyle id="icon1619">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1619.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1619">
+ <name>1619 FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1619:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1619"><strong>Meir info om 1619 FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1619</styleUrl>
+ <Point>
+ <coordinates>10.97040,59.22760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1620">
+ <IconStyle id="icon1620">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1620.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1620">
+ <name>1620 GRESSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1620:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1620"><strong>Meir info om 1620 GRESSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1620</styleUrl>
+ <Point>
+ <coordinates>10.90602,59.21677</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1621">
+ <IconStyle id="icon1621">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1621.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1621">
+ <name>1621 GRESSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1621:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1621"><strong>Meir info om 1621 GRESSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1621</styleUrl>
+ <Point>
+ <coordinates>10.90380,59.22240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1622">
+ <IconStyle id="icon1622">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1622.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1622">
+ <name>1622 GRESSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1622:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1622"><strong>Meir info om 1622 GRESSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1622</styleUrl>
+ <Point>
+ <coordinates>10.83520,59.19200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1623">
+ <IconStyle id="icon1623">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1623.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1623">
+ <name>1623 GRESSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1623:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1623"><strong>Meir info om 1623 GRESSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1623</styleUrl>
+ <Point>
+ <coordinates>10.86300,59.25310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1624">
+ <IconStyle id="icon1624">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1624.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1624">
+ <name>1624 GRESSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1624:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1624"><strong>Meir info om 1624 GRESSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1624</styleUrl>
+ <Point>
+ <coordinates>10.90480,59.22820</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1625">
+ <IconStyle id="icon1625">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1625.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1625">
+ <name>1625 MANSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1625:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1625"><strong>Meir info om 1625 MANSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1625</styleUrl>
+ <Point>
+ <coordinates>10.78812,59.26469</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1626">
+ <IconStyle id="icon1626">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1626.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1626">
+ <name>1626 MANSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1626:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1626"><strong>Meir info om 1626 MANSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1626</styleUrl>
+ <Point>
+ <coordinates>10.76920,59.26900</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1628">
+ <IconStyle id="icon1628">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1628.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1628">
+ <name>1628 ENGELSVIKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1628:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1628"><strong>Meir info om 1628 ENGELSVIKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1628</styleUrl>
+ <Point>
+ <coordinates>10.73830,59.25280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1629">
+ <IconStyle id="icon1629">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1629.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1629">
+ <name>1629 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1629:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1629"><strong>Meir info om 1629 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1629</styleUrl>
+ <Point>
+ <coordinates>10.95571,59.20421</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1630">
+ <IconStyle id="icon1630">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1630.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1630">
+ <name>1630 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1630:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1630"><strong>Meir info om 1630 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1630</styleUrl>
+ <Point>
+ <coordinates>10.96180,59.19540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1631">
+ <IconStyle id="icon1631">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1631.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1631">
+ <name>1631 GAMLE FREDRIKSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1631:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1631"><strong>Meir info om 1631 GAMLE FREDRIKSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1631</styleUrl>
+ <Point>
+ <coordinates>10.95571,59.20421</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1632">
+ <IconStyle id="icon1632">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1632.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1632">
+ <name>1632 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1632:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1632"><strong>Meir info om 1632 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1632</styleUrl>
+ <Point>
+ <coordinates>10.96120,59.20620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1633">
+ <IconStyle id="icon1633">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1633.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1633">
+ <name>1633 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1633:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1633"><strong>Meir info om 1633 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1633</styleUrl>
+ <Point>
+ <coordinates>10.96840,59.20430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1634">
+ <IconStyle id="icon1634">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1634.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1634">
+ <name>1634 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1634:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1634"><strong>Meir info om 1634 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1634</styleUrl>
+ <Point>
+ <coordinates>11.04200,59.17300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1636">
+ <IconStyle id="icon1636">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1636.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1636">
+ <name>1636 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1636:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1636"><strong>Meir info om 1636 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1636</styleUrl>
+ <Point>
+ <coordinates>10.97350,59.21450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1637">
+ <IconStyle id="icon1637">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1637.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1637">
+ <name>1637 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1637:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1637"><strong>Meir info om 1637 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1637</styleUrl>
+ <Point>
+ <coordinates>10.98300,59.21120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1638">
+ <IconStyle id="icon1638">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1638.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1638">
+ <name>1638 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1638:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1638"><strong>Meir info om 1638 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1638</styleUrl>
+ <Point>
+ <coordinates>11.00844,59.21730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1639">
+ <IconStyle id="icon1639">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1639.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1639">
+ <name>1639 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1639:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1639"><strong>Meir info om 1639 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1639</styleUrl>
+ <Point>
+ <coordinates>11.00590,59.21270</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1650">
+ <IconStyle id="icon1650">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1650.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1650">
+ <name>1650 SELLEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1650:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1650"><strong>Meir info om 1650 SELLEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1650</styleUrl>
+ <Point>
+ <coordinates>10.99587,59.22725</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1651">
+ <IconStyle id="icon1651">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1651.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1651">
+ <name>1651 SELLEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1651:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1651"><strong>Meir info om 1651 SELLEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1651</styleUrl>
+ <Point>
+ <coordinates>10.98520,59.22410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1652">
+ <IconStyle id="icon1652">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1652.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1652">
+ <name>1652 TORP (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1652:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1652"><strong>Meir info om 1652 TORP (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1652</styleUrl>
+ <Point>
+ <coordinates>11.02220,59.24070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1653">
+ <IconStyle id="icon1653">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1653.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1653">
+ <name>1653 SELLEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1653:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1653"><strong>Meir info om 1653 SELLEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1653</styleUrl>
+ <Point>
+ <coordinates>10.99470,59.23010</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1654">
+ <IconStyle id="icon1654">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1654.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1654">
+ <name>1654 SELLEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1654:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1654"><strong>Meir info om 1654 SELLEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1654</styleUrl>
+ <Point>
+ <coordinates>11.00840,59.22740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1655">
+ <IconStyle id="icon1655">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1655.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1655">
+ <name>1655 SELLEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1655:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1655"><strong>Meir info om 1655 SELLEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1655</styleUrl>
+ <Point>
+ <coordinates>11.06150,59.21830</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1657">
+ <IconStyle id="icon1657">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1657.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1657">
+ <name>1657 TORP</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1657:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1657"><strong>Meir info om 1657 TORP</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1657</styleUrl>
+ <Point>
+ <coordinates>11.02220,59.24070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1658">
+ <IconStyle id="icon1658">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1658.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1658">
+ <name>1658 TORP</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1658:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1658"><strong>Meir info om 1658 TORP</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1658</styleUrl>
+ <Point>
+ <coordinates>11.01640,59.24560</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1659">
+ <IconStyle id="icon1659">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1659.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1659">
+ <name>1659 TORP</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1659:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1659"><strong>Meir info om 1659 TORP</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1659</styleUrl>
+ <Point>
+ <coordinates>11.09600,59.25580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1661">
+ <IconStyle id="icon1661">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1661.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1661">
+ <name>1661 ROLVSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1661:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1661"><strong>Meir info om 1661 ROLVSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1661</styleUrl>
+ <Point>
+ <coordinates>10.99730,59.24610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1662">
+ <IconStyle id="icon1662">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1662.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1662">
+ <name>1662 ROLVSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1662:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1662"><strong>Meir info om 1662 ROLVSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1662</styleUrl>
+ <Point>
+ <coordinates>10.99989,59.25523</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1663">
+ <IconStyle id="icon1663">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1663.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1663">
+ <name>1663 ROLVSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1663:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1663"><strong>Meir info om 1663 ROLVSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1663</styleUrl>
+ <Point>
+ <coordinates>10.99130,59.25380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1664">
+ <IconStyle id="icon1664">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1664.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1664">
+ <name>1664 ROLVSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1664:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1664"><strong>Meir info om 1664 ROLVSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1664</styleUrl>
+ <Point>
+ <coordinates>11.00530,59.26340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1665">
+ <IconStyle id="icon1665">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1665.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1665">
+ <name>1665 ROLVSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1665:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1665"><strong>Meir info om 1665 ROLVSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1665</styleUrl>
+ <Point>
+ <coordinates>10.99730,59.26790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1666">
+ <IconStyle id="icon1666">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1666.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1666">
+ <name>1666 ROLVSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1666:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1666"><strong>Meir info om 1666 ROLVSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1666</styleUrl>
+ <Point>
+ <coordinates>11.02070,59.26530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1667">
+ <IconStyle id="icon1667">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1667.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1667">
+ <name>1667 ROLVSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1667:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1667"><strong>Meir info om 1667 ROLVSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1667</styleUrl>
+ <Point>
+ <coordinates>10.98520,59.29650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1670">
+ <IconStyle id="icon1670">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1670.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1670">
+ <name>1670 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1670:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1670"><strong>Meir info om 1670 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1670</styleUrl>
+ <Point>
+ <coordinates>10.93785,59.20645</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1671">
+ <IconStyle id="icon1671">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1671.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1671">
+ <name>1671 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1671:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1671"><strong>Meir info om 1671 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1671</styleUrl>
+ <Point>
+ <coordinates>10.93090,59.20670</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1672">
+ <IconStyle id="icon1672">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1672.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1672">
+ <name>1672 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1672:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1672"><strong>Meir info om 1672 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1672</styleUrl>
+ <Point>
+ <coordinates>10.93700,59.19980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1673">
+ <IconStyle id="icon1673">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1673.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1673">
+ <name>1673 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1673:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1673"><strong>Meir info om 1673 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1673</styleUrl>
+ <Point>
+ <coordinates>10.93810,59.19450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1675">
+ <IconStyle id="icon1675">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1675.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1675">
+ <name>1675 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1675:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1675"><strong>Meir info om 1675 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1675</styleUrl>
+ <Point>
+ <coordinates>10.93340,59.17630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1676">
+ <IconStyle id="icon1676">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1676.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1676">
+ <name>1676 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1676:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1676"><strong>Meir info om 1676 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1676</styleUrl>
+ <Point>
+ <coordinates>10.92880,59.14740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1678">
+ <IconStyle id="icon1678">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1678.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1678">
+ <name>1678 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1678:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1678"><strong>Meir info om 1678 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1678</styleUrl>
+ <Point>
+ <coordinates>10.90920,59.20320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1679">
+ <IconStyle id="icon1679">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1679.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1679">
+ <name>1679 KRÅKERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1679:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1679"><strong>Meir info om 1679 KRÅKERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1679</styleUrl>
+ <Point>
+ <coordinates>10.89990,59.18950</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

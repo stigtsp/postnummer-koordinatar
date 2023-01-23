@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Kongsberg, Buskerud</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3600">
+ <IconStyle id="icon3600">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3600.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3600">
+ <name>3600 KONGSBERG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3600:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3600"><strong>Meir info om 3600 KONGSBERG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3600</styleUrl>
+ <Point>
+ <coordinates>9.65017,59.66858</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3601">
+ <IconStyle id="icon3601">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3601.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3601">
+ <name>3601 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3601:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3601"><strong>Meir info om 3601 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3601</styleUrl>
+ <Point>
+ <coordinates>9.6443,59.6639</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3602">
+ <IconStyle id="icon3602">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3602.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3602">
+ <name>3602 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3602:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3602"><strong>Meir info om 3602 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3602</styleUrl>
+ <Point>
+ <coordinates>9.6443,59.6639</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3603">
+ <IconStyle id="icon3603">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3603.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3603">
+ <name>3603 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3603:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3603"><strong>Meir info om 3603 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3603</styleUrl>
+ <Point>
+ <coordinates>9.64425,59.66389</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3604">
+ <IconStyle id="icon3604">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3604.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3604">
+ <name>3604 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3604:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3604"><strong>Meir info om 3604 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3604</styleUrl>
+ <Point>
+ <coordinates>9.6443,59.6639</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3605">
+ <IconStyle id="icon3605">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3605.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3605">
+ <name>3605 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3605:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3605"><strong>Meir info om 3605 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3605</styleUrl>
+ <Point>
+ <coordinates>9.6443,59.6639</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3606">
+ <IconStyle id="icon3606">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3606.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3606">
+ <name>3606 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3606:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3606"><strong>Meir info om 3606 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3606</styleUrl>
+ <Point>
+ <coordinates>9.65246,59.66858</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3607">
+ <IconStyle id="icon3607">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3607.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3607">
+ <name>3607 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3607:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3607"><strong>Meir info om 3607 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3607</styleUrl>
+ <Point>
+ <coordinates>9.65246,59.66858</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3608">
+ <IconStyle id="icon3608">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3608.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3608">
+ <name>3608 HEISTADMOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3608:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3608"><strong>Meir info om 3608 HEISTADMOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3608</styleUrl>
+ <Point>
+ <coordinates>9.6635,59.596</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3609">
+ <IconStyle id="icon3609">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3609.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3609">
+ <name>3609 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3609:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3609"><strong>Meir info om 3609 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3609</styleUrl>
+ <Point>
+ <coordinates>9.65246,59.66858</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3610">
+ <IconStyle id="icon3610">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3610.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3610">
+ <name>3610 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3610:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3610"><strong>Meir info om 3610 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3610</styleUrl>
+ <Point>
+ <coordinates>9.6646,59.6507</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3611">
+ <IconStyle id="icon3611">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3611.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3611">
+ <name>3611 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3611:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3611"><strong>Meir info om 3611 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3611</styleUrl>
+ <Point>
+ <coordinates>9.6447,59.6786</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3612">
+ <IconStyle id="icon3612">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3612.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3612">
+ <name>3612 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3612:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3612"><strong>Meir info om 3612 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3612</styleUrl>
+ <Point>
+ <coordinates>9.6704,59.6702</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3613">
+ <IconStyle id="icon3613">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3613.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3613">
+ <name>3613 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3613:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3613"><strong>Meir info om 3613 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3613</styleUrl>
+ <Point>
+ <coordinates>9.6576,59.6737</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3614">
+ <IconStyle id="icon3614">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3614.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3614">
+ <name>3614 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3614:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3614"><strong>Meir info om 3614 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3614</styleUrl>
+ <Point>
+ <coordinates>9.5104,59.6984</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3615">
+ <IconStyle id="icon3615">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3615.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3615">
+ <name>3615 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3615:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3615"><strong>Meir info om 3615 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3615</styleUrl>
+ <Point>
+ <coordinates>9.642,59.6375</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3616">
+ <IconStyle id="icon3616">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3616.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3616">
+ <name>3616 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3616:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3616"><strong>Meir info om 3616 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3616</styleUrl>
+ <Point>
+ <coordinates>9.6422,59.6598</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3617">
+ <IconStyle id="icon3617">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3617.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3617">
+ <name>3617 KONGSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3617:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3617"><strong>Meir info om 3617 KONGSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3617</styleUrl>
+ <Point>
+ <coordinates>9.6349,59.6802</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3618">
+ <IconStyle id="icon3618">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3618.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3618">
+ <name>3618 SKOLLENBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3618:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3618"><strong>Meir info om 3618 SKOLLENBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3618</styleUrl>
+ <Point>
+ <coordinates>9.6748,59.5729</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3619">
+ <IconStyle id="icon3619">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3619.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3619">
+ <name>3619 SKOLLENBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3619:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3619"><strong>Meir info om 3619 SKOLLENBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3619</styleUrl>
+ <Point>
+ <coordinates>9.6829,59.6218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3625">
+ <IconStyle id="icon3625">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3625.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3625">
+ <name>3625 SKOLLENBORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3625:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3625"><strong>Meir info om 3625 SKOLLENBORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3625</styleUrl>
+ <Point>
+ <coordinates>9.6829,59.6218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3640">
+ <IconStyle id="icon3640">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3640.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3640">
+ <name>3640 SKOLLENBORG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3640:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3640"><strong>Meir info om 3640 SKOLLENBORG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3640</styleUrl>
+ <Point>
+ <coordinates>9.6829,59.6218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3645">
+ <IconStyle id="icon3645">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3645.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3645">
+ <name>3645 HEISTADMOEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3645:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3645"><strong>Meir info om 3645 HEISTADMOEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3645</styleUrl>
+ <Point>
+ <coordinates>9.6635,59.596</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3646">
+ <IconStyle id="icon3646">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3646.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3646">
+ <name>3646 HVITTINGFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3646:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3646"><strong>Meir info om 3646 HVITTINGFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3646</styleUrl>
+ <Point>
+ <coordinates>10.01016,59.48304</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3647">
+ <IconStyle id="icon3647">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3647.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3647">
+ <name>3647 HVITTINGFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3647:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3647"><strong>Meir info om 3647 HVITTINGFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3647</styleUrl>
+ <Point>
+ <coordinates>10.0117,59.4857</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3648">
+ <IconStyle id="icon3648">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3648.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3648">
+ <name>3648 PASSEBEKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3648:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3648"><strong>Meir info om 3648 PASSEBEKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3648</styleUrl>
+ <Point>
+ <coordinates>9.8271,59.5113</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Kongsberg (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.0600372,59.4758482,0 9.9148253,59.5858794,0 9.9148253,59.5858794,0 9.8263466,59.6447712,0 9.7431205,59.6612979,0 9.6656913,59.6966249,0 9.6461477,59.7338765,0 9.6461477,59.7338765,0 9.6100417,59.7206845,0 9.5775794,59.7373824,0 9.4616426,59.7375493,0 9.438124,59.7575757,0 9.3678736,59.7832999,0 9.3678736,59.7832999,0 9.3317019,59.6947288,0 9.4049267,59.6874422,0 9.4699007,59.5601915,0 9.4699007,59.5601915,0 9.5144543,59.5410622,0 9.473201,59.4853899,0 9.473201,59.4853899,0 9.5507573,59.4891601,0 9.6241883,59.4271078,0 9.6241883,59.4271078,0 9.6588411,59.4098974,0 9.7763345,59.4129831,0 9.7763345,59.4129831,0 9.7567392,59.4596573,0 9.8134626,59.4696131,0 9.9207213,59.4575609,0 9.9434107,59.470137,0 10.0083847,59.4607054,0 10.0600372,59.4758482,0 10.0600372,59.4758482,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

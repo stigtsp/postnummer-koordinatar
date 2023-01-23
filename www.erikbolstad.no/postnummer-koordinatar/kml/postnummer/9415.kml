@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>9415 HARSTAD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer9415">
+ <name>9415 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9415:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9415"><strong>Meir info om 9415 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>16.55760,68.73810</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 9415 HARSTAD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>16.45569,68.74476 16.45542,68.73995 16.45136,68.73451 16.44938,68.73188 16.43353,68.72013 16.46632,68.71695 16.50622,68.71041 16.54208,68.70628 16.55245,68.70701 16.59524,68.71560 16.60868,68.71530 16.66030,68.71586 16.71659,68.71893 16.72010,68.72960 16.72183,68.73407 16.72343,68.73812 16.72575,68.74322 16.72740,68.74665 16.72870,68.74999 16.73014,68.75223 16.73181,68.75473 16.73428,68.75972 16.73428,68.75973 16.68381,68.75783 16.64175,68.75603 16.61176,68.75357 16.59248,68.75203 16.58409,68.75223 16.56997,68.75255 16.56924,68.75225 16.56743,68.75188 16.55840,68.75234 16.55874,68.75147 16.55630,68.75091 16.55514,68.75181 16.55415,68.75281 16.55270,68.75286 16.54386,68.75166 16.53576,68.75073 16.53453,68.75016 16.51884,68.74859 16.50588,68.74776 16.49963,68.74720 16.45569,68.74476</coordinates></LineString></Placemark>
+ </Document>
+</kml>

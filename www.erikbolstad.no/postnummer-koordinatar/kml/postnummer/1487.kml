@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1487 HAKADAL</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1487">
+ <name>1487 HAKADAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1487:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nittedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1487"><strong>Meir info om 1487 HAKADAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.86153,60.11228</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1487 HAKADAL</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.83945,60.11933 10.83988,60.11921 10.84028,60.11908 10.84083,60.11889 10.84072,60.11868 10.83971,60.11854 10.83936,60.11828 10.83972,60.11783 10.84056,60.11765 10.84089,60.11721 10.84109,60.11698 10.84168,60.11695 10.84238,60.11693 10.84267,60.11669 10.84281,60.11653 10.84282,60.11621 10.84256,60.11595 10.84238,60.11578 10.84266,60.11559 10.84257,60.11541 10.84235,60.11532 10.84176,60.11529 10.84159,60.11493 10.84133,60.11453 10.84163,60.11429 10.84249,60.11419 10.84321,60.11410 10.84419,60.11400 10.84482,60.11382 10.84535,60.11364 10.84611,60.11352 10.84743,60.11328 10.84919,60.11281 10.85040,60.11237 10.85195,60.11182 10.85275,60.11129 10.85364,60.11061 10.85459,60.11000 10.85582,60.10914 10.85631,60.10897 10.85702,60.10897 10.85764,60.10902 10.85839,60.10892 10.85927,60.10866 10.85955,60.10830 10.85994,60.10794 10.86026,60.10781 10.86114,60.10775 10.86234,60.10769 10.86284,60.10762 10.86286,60.10756 10.86278,60.10672 10.86255,60.10607 10.86223,60.10513 10.86195,60.10410 10.86206,60.10380 10.86253,60.10364 10.86310,60.10348 10.86732,60.10414 10.87224,60.10488 10.87516,60.10507 10.87582,60.10432 10.87636,60.10387 10.87751,60.10409 10.87803,60.10429 10.88368,60.10670 10.88493,60.11087 10.88247,60.11330 10.87984,60.11381 10.87945,60.11472 10.87881,60.11552 10.87956,60.11796 10.88569,60.12184 10.88549,60.12428 10.88674,60.12812 10.88375,60.12997 10.87912,60.13193 10.83929,60.12557 10.83932,60.12117 10.84068,60.12012 10.84065,60.11999 10.84047,60.11978 10.84019,60.11963 10.83988,60.11947 10.83946,60.11937 10.83945,60.11933</coordinates></LineString></Placemark>
+ </Document>
+</kml>

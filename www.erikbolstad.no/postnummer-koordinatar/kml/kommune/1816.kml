@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vevelstad, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8870">
+ <IconStyle id="icon8870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8870">
+ <name>8870 VISTHUS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vevelstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8870"><strong>Meir info om 8870 VISTHUS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8870</styleUrl>
+ <Point>
+ <coordinates>12.60190,65.72460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8976">
+ <IconStyle id="icon8976">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8976.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8976">
+ <name>8976 VEVELSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8976:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vevelstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8976"><strong>Meir info om 8976 VEVELSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8976</styleUrl>
+ <Point>
+ <coordinates>12.44083,65.70068</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8977">
+ <IconStyle id="icon8977">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8977.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8977">
+ <name>8977 VEVELSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8977:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vevelstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8977"><strong>Meir info om 8977 VEVELSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8977</styleUrl>
+ <Point>
+ <coordinates>12.44083,65.70068</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8978">
+ <IconStyle id="icon8978">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8978.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8978">
+ <name>8978 HESSTUN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8978:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vevelstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8978"><strong>Meir info om 8978 HESSTUN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8978</styleUrl>
+ <Point>
+ <coordinates>12.39520,65.69590</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Vevelstad (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.2242271,65.6045084,0 12.3236392,65.6034419,0 12.3636623,65.5441809,0 12.4630744,65.5682219,0 12.4798583,65.600242,0 12.435962,65.6087741,0 12.5444116,65.6274282,0 12.6309131,65.5970418,0 12.6954664,65.5975752,0 12.6541523,65.5767645,0 12.7096681,65.5206527,0 13.036308,65.5436464,0 13.036308,65.5436464,0 12.9911528,65.6797752,0 12.9040058,65.6844272,0 12.9185303,65.6970499,0 12.8749569,65.7202862,0 12.7151874,65.7295748,0 12.660317,65.7839128,0 12.5893084,65.7925168,0 12.5893084,65.7925168,0 12.3246397,65.7076748,0 12.23786,65.7006605,0 12.23786,65.7006605,0 12.2242271,65.6045084,0 12.2242271,65.6045084,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

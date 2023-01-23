@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Fyresdal, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3870">
+ <IconStyle id="icon3870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3870">
+ <name>3870 FYRESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fyresdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3870"><strong>Meir info om 3870 FYRESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3870</styleUrl>
+ <Point>
+ <coordinates>8.09510,59.18370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3885">
+ <IconStyle id="icon3885">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3885.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3885">
+ <name>3885 FYRESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3885:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fyresdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3885"><strong>Meir info om 3885 FYRESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3885</styleUrl>
+ <Point>
+ <coordinates>8.09536,59.18391</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

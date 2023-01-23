@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Fet, Akershus</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1900">
+ <IconStyle id="icon1900">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1900.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1900">
+ <name>1900 FETSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1900:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fet kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1900"><strong>Meir info om 1900 FETSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1900</styleUrl>
+ <Point>
+ <coordinates>11.1625,59.9290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1901">
+ <IconStyle id="icon1901">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1901.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1901">
+ <name>1901 FETSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1901:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fet kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1901"><strong>Meir info om 1901 FETSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1901</styleUrl>
+ <Point>
+ <coordinates>11.16335,59.92772</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1903">
+ <IconStyle id="icon1903">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1903.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1903">
+ <name>1903 GAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1903:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fet kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1903"><strong>Meir info om 1903 GAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1903</styleUrl>
+ <Point>
+ <coordinates>11.2204,59.8813</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1910">
+ <IconStyle id="icon1910">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1910.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1910">
+ <name>1910 ENEBAKKNESET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1910:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fet kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1910"><strong>Meir info om 1910 ENEBAKKNESET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1910</styleUrl>
+ <Point>
+ <coordinates>11.2612,59.7847</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Fet (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.3444306,59.7561556,0 11.3312935,59.7558263,0 11.3276083,59.7547727,0 11.3139631,59.7576824,0 11.3113735,59.7595886,0 11.2924495,59.7602407,0 11.2821567,59.7646527,0 11.2536694,59.7723247,0 11.238432,59.762651,0 11.238432,59.762651,0 11.1731202,59.8601302,0 11.1731202,59.8601302,0 11.0703999,59.9389997,0 11.0703999,59.9389997,0 11.075421,59.940655,0 11.0790688,59.9411709,0 11.0810887,59.9410542,0 11.083532,59.9409129,0 11.083532,59.9409129,0 11.0879339,59.9411306,0 11.0902056,59.9409163,0 11.0931896,59.9414765,0 11.0928205,59.9428622,0 11.0909423,59.9440986,0 11.0901513,59.9457726,0 11.0899858,59.9463128,0 11.0897552,59.9470659,0 11.0906152,59.9480109,0 11.0915648,59.9488314,0 11.0930337,59.9492297,0 11.0966776,59.9494536,0 11.098266,59.9497303,0 11.0997153,59.9499543,0 11.1006476,59.9506948,0 11.1011608,59.9515262,0 11.1006476,59.9528646,0 11.0995906,59.9533423,0 11.0969912,59.9535635,0 11.0927014,59.9534777,0 11.0878952,59.9529131,0 11.0839225,59.952533,0 11.0816909,59.9527908,0 11.0787726,59.9533925,0 11.0777671,59.9541659,0 11.07767,59.9558111,0 11.0787487,59.9574065,0 11.0803521,59.9574489,0 11.0819109,59.9572839,0 11.0839962,59.9564615,0 11.0852707,59.9554894,0 11.0863746,59.955353,0 11.0872831,59.9555656,0 11.0882158,59.9563306,0 11.088538,59.9574314,0 11.0900228,59.9587182,0 11.0903961,59.9606488,0 11.0884378,59.9623765,0 11.0889495,59.9636322,0 11.0829497,59.9644977,0 11.0829497,59.9644977,0 11.0761149,59.9689162,0 11.087552,59.9696967,0 11.1421185,59.9734204,0 11.1745071,59.987973,0 11.1745071,59.987973,0 11.1973077,59.9789053,0 11.2061219,59.9729199,0 11.2561246,59.9298545,0 11.2771258,59.8952614,0 11.3201281,59.8817152,0 11.3201281,59.8817152,0 11.3541299,59.8706735,0 11.3451294,59.8515928,0 11.3121277,59.845565,0 11.2731256,59.8224484,0 11.3101276,59.7978066,0 11.3444306,59.7561556,0 11.3444306,59.7561556,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

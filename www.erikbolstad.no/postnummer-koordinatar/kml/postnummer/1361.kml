@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1361 ØSTERÅS</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1361">
+ <name>1361 ØSTERÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1361:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bærum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1361"><strong>Meir info om 1361 ØSTERÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.60760,59.94190</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1361 ØSTERÅS</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.59309,59.94581 10.59387,59.94541 10.59494,59.94545 10.59648,59.94546 10.59750,59.94522 10.59759,59.94519 10.59778,59.94513 10.59793,59.94507 10.59803,59.94504 10.59816,59.94497 10.59826,59.94493 10.59832,59.94488 10.59836,59.94484 10.60111,59.94423 10.60158,59.94286 10.60175,59.94226 10.60193,59.94118 10.60129,59.94103 10.60142,59.94088 10.60223,59.94043 10.60359,59.94010 10.60387,59.93967 10.60448,59.93899 10.60515,59.93836 10.60640,59.93757 10.60768,59.93790 10.60831,59.93802 10.60827,59.93956 10.61001,59.93942 10.61167,59.93935 10.61365,59.93942 10.61429,59.93945 10.61510,59.93973 10.61565,59.94006 10.61571,59.94035 10.61572,59.94074 10.61550,59.94240 10.61612,59.94251 10.61799,59.94184 10.61850,59.94206 10.61802,59.94266 10.61734,59.94310 10.61667,59.94329 10.61606,59.94366 10.61442,59.94446 10.61382,59.94397 10.61296,59.94423 10.61256,59.94457 10.61251,59.94538 10.61258,59.94555 10.61216,59.94575 10.61229,59.94593 10.61232,59.94605 10.61224,59.94615 10.61184,59.94642 10.61210,59.94668 10.61276,59.94723 10.61283,59.94766 10.61289,59.94824 10.61267,59.94901 10.61146,59.94880 10.60971,59.94885 10.60605,59.94889 10.60340,59.94900 10.60080,59.94873 10.59933,59.94819 10.59676,59.94729 10.59428,59.94629 10.59309,59.94581</coordinates></LineString></Placemark>
+ </Document>
+</kml>

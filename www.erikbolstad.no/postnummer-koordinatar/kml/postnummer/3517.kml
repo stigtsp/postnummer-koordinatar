@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3517 HØNEFOSS</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3517">
+ <name>3517 HØNEFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3517:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringerike kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3517"><strong>Meir info om 3517 HØNEFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.23740,60.17330</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3517 HØNEFOSS</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.19874,60.17474 10.19816,60.17420 10.19735,60.17351 10.19684,60.17318 10.19644,60.17261 10.19573,60.17224 10.19503,60.17173 10.19425,60.17090 10.19381,60.17057 10.19358,60.17021 10.19307,60.16988 10.19244,60.16944 10.19118,60.16798 10.19342,60.16334 10.19633,60.15565 10.19736,60.15437 10.20318,60.15147 10.20416,60.15195 10.20831,60.15145 10.21109,60.15219 10.21330,60.15312 10.21631,60.15277 10.21892,60.15614 10.21924,60.15633 10.22491,60.15962 10.23062,60.16172 10.23599,60.16295 10.23895,60.16337 10.24289,60.16373 10.24468,60.16391 10.24611,60.16396 10.24749,60.16399 10.24997,60.16449 10.25272,60.16573 10.25307,60.16714 10.25178,60.16803 10.25035,60.16888 10.24966,60.16964 10.25164,60.17025 10.24689,60.17121 10.24368,60.17471 10.24278,60.17664 10.24285,60.17752 10.24343,60.18018 10.24365,60.18125 10.24102,60.18479 10.23715,60.18713 10.23648,60.18860 10.24007,60.19028 10.24029,60.19137 10.23991,60.19257 10.23727,60.19522 10.23231,60.19188 10.23021,60.18935 10.23170,60.18685 10.23246,60.18479 10.21930,60.18432 10.21627,60.18391 10.21649,60.18190 10.21666,60.17886 10.22174,60.17585 10.22057,60.17516 10.21875,60.17481 10.21714,60.17429 10.21581,60.17368 10.21501,60.17258 10.21574,60.17187 10.21471,60.17103 10.21032,60.17236 10.20555,60.17424 10.20212,60.17468 10.19874,60.17474</coordinates></LineString></Placemark>
+ </Document>
+</kml>

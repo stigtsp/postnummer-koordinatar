@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1397 NESØYA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1397">
+ <name>1397 NESØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1397:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Asker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1397"><strong>Meir info om 1397 NESØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.52890,59.87020</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1397 NESØYA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.50689,59.87432 10.50733,59.87290 10.50787,59.87092 10.50955,59.86903 10.51050,59.86797 10.51059,59.86635 10.51043,59.86454 10.51169,59.85913 10.51308,59.85536 10.51318,59.85397 10.51427,59.85034 10.51498,59.84907 10.51510,59.84897 10.51614,59.84804 10.51888,59.84652 10.52415,59.84454 10.53436,59.84249 10.54642,59.84079 10.55321,59.84002 10.55945,59.83915 10.56512,59.83832 10.56528,59.83830 10.56734,59.85018 10.56231,59.85736 10.56091,59.85935 10.55647,59.86570 10.54981,59.87178 10.54616,59.87511 10.53992,59.87881 10.53505,59.88169 10.53156,59.88352 10.53003,59.88345 10.52690,59.88332 10.52120,59.88055 10.51650,59.87890 10.51425,59.87869 10.51133,59.87800 10.50758,59.87712 10.50736,59.87724 10.50576,59.87668 10.50562,59.87630 10.50689,59.87432</coordinates></LineString></Placemark>
+ </Document>
+</kml>

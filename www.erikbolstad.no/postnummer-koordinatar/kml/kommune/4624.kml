@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bjørnafjorden, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5200">
+ <IconStyle id="icon5200">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5200.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5200">
+ <name>5200 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5200:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5200"><strong>Meir info om 5200 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5200</styleUrl>
+ <Point>
+ <coordinates>5.46990,60.18500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5201">
+ <IconStyle id="icon5201">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5201.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5201">
+ <name>5201 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5201:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5201"><strong>Meir info om 5201 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5201</styleUrl>
+ <Point>
+ <coordinates>5.47130,60.18540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5202">
+ <IconStyle id="icon5202">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5202.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5202">
+ <name>5202 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5202:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5202"><strong>Meir info om 5202 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5202</styleUrl>
+ <Point>
+ <coordinates>5.47130,60.18540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5203">
+ <IconStyle id="icon5203">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5203.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5203">
+ <name>5203 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5203:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5203"><strong>Meir info om 5203 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5203</styleUrl>
+ <Point>
+ <coordinates>5.47130,60.18540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5206">
+ <IconStyle id="icon5206">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5206.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5206">
+ <name>5206 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5206:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5206"><strong>Meir info om 5206 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5206</styleUrl>
+ <Point>
+ <coordinates>5.44740,60.20420</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5207">
+ <IconStyle id="icon5207">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5207.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5207">
+ <name>5207 SØFTELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5207:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5207"><strong>Meir info om 5207 SØFTELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5207</styleUrl>
+ <Point>
+ <coordinates>5.44203,60.23823</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5208">
+ <IconStyle id="icon5208">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5208.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5208">
+ <name>5208 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5208:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5208"><strong>Meir info om 5208 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5208</styleUrl>
+ <Point>
+ <coordinates>5.43390,60.14700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5209">
+ <IconStyle id="icon5209">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5209.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5209">
+ <name>5209 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5209:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5209"><strong>Meir info om 5209 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5209</styleUrl>
+ <Point>
+ <coordinates>5.45080,60.17290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5210">
+ <IconStyle id="icon5210">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5210.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5210">
+ <name>5210 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5210:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5210"><strong>Meir info om 5210 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5210</styleUrl>
+ <Point>
+ <coordinates>5.45310,60.20220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5211">
+ <IconStyle id="icon5211">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5211.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5211">
+ <name>5211 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5211:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5211"><strong>Meir info om 5211 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5211</styleUrl>
+ <Point>
+ <coordinates>5.50790,60.21170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5212">
+ <IconStyle id="icon5212">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5212.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5212">
+ <name>5212 SØFTELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5212:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5212"><strong>Meir info om 5212 SØFTELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5212</styleUrl>
+ <Point>
+ <coordinates>5.45280,60.23800</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5213">
+ <IconStyle id="icon5213">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5213.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5213">
+ <name>5213 LEPSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5213:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5213"><strong>Meir info om 5213 LEPSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5213</styleUrl>
+ <Point>
+ <coordinates>5.37834,60.14555</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5214">
+ <IconStyle id="icon5214">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5214.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5214">
+ <name>5214 LYSEKLOSTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5214:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5214"><strong>Meir info om 5214 LYSEKLOSTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5214</styleUrl>
+ <Point>
+ <coordinates>5.38334,60.21774</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5215">
+ <IconStyle id="icon5215">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5215.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5215">
+ <name>5215 LYSEKLOSTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5215:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5215"><strong>Meir info om 5215 LYSEKLOSTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5215</styleUrl>
+ <Point>
+ <coordinates>5.38334,60.21774</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5216">
+ <IconStyle id="icon5216">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5216.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5216">
+ <name>5216 LEPSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5216:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5216"><strong>Meir info om 5216 LEPSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5216</styleUrl>
+ <Point>
+ <coordinates>5.37834,60.14555</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5217">
+ <IconStyle id="icon5217">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5217.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5217">
+ <name>5217 HAGAVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5217:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5217"><strong>Meir info om 5217 HAGAVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5217</styleUrl>
+ <Point>
+ <coordinates>5.40060,60.18040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5218">
+ <IconStyle id="icon5218">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5218.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5218">
+ <name>5218 NORDSTRØNO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5218:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5218"><strong>Meir info om 5218 NORDSTRØNO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5218</styleUrl>
+ <Point>
+ <coordinates>5.34120,60.16630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5219">
+ <IconStyle id="icon5219">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5219.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5219">
+ <name>5219 SKORPO FERIEHEIM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5219:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5219"><strong>Meir info om 5219 SKORPO FERIEHEIM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5219</styleUrl>
+ <Point>
+ <coordinates>5.30850,60.17140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5220">
+ <IconStyle id="icon5220">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5220.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5220">
+ <name>5220 HAGAVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5220:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5220"><strong>Meir info om 5220 HAGAVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5220</styleUrl>
+ <Point>
+ <coordinates>5.40060,60.18040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5640">
+ <IconStyle id="icon5640">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5640.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5640">
+ <name>5640 EIKELANDSOSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5640:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5640"><strong>Meir info om 5640 EIKELANDSOSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5640</styleUrl>
+ <Point>
+ <coordinates>5.74660,60.24050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5641">
+ <IconStyle id="icon5641">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5641.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5641">
+ <name>5641 FUSA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5641:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5641"><strong>Meir info om 5641 FUSA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5641</styleUrl>
+ <Point>
+ <coordinates>5.61250,60.19700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5642">
+ <IconStyle id="icon5642">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5642.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5642">
+ <name>5642 HOLMEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5642:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5642"><strong>Meir info om 5642 HOLMEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5642</styleUrl>
+ <Point>
+ <coordinates>5.66340,60.28720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5643">
+ <IconStyle id="icon5643">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5643.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5643">
+ <name>5643 STRANDVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5643:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5643"><strong>Meir info om 5643 STRANDVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5643</styleUrl>
+ <Point>
+ <coordinates>5.66730,60.15970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5644">
+ <IconStyle id="icon5644">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5644.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5644">
+ <name>5644 SÆVAREID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5644:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5644"><strong>Meir info om 5644 SÆVAREID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5644</styleUrl>
+ <Point>
+ <coordinates>5.76128,60.18972</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5645">
+ <IconStyle id="icon5645">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5645.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5645">
+ <name>5645 SÆVAREID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5645:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5645"><strong>Meir info om 5645 SÆVAREID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5645</styleUrl>
+ <Point>
+ <coordinates>5.76128,60.18972</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5646">
+ <IconStyle id="icon5646">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5646.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5646">
+ <name>5646 NORDTVEITGREND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5646:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5646"><strong>Meir info om 5646 NORDTVEITGREND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5646</styleUrl>
+ <Point>
+ <coordinates>5.73810,60.10000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5647">
+ <IconStyle id="icon5647">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5647.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5647">
+ <name>5647 BALDERSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5647:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5647"><strong>Meir info om 5647 BALDERSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5647</styleUrl>
+ <Point>
+ <coordinates>5.74860,60.14700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5648">
+ <IconStyle id="icon5648">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5648.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5648">
+ <name>5648 FUSA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5648:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5648"><strong>Meir info om 5648 FUSA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5648</styleUrl>
+ <Point>
+ <coordinates>5.61252,60.19704</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5649">
+ <IconStyle id="icon5649">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5649.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5649">
+ <name>5649 EIKELANDSOSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5649:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5649"><strong>Meir info om 5649 EIKELANDSOSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5649</styleUrl>
+ <Point>
+ <coordinates>5.74422,60.24083</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5670">
+ <IconStyle id="icon5670">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5670.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5670">
+ <name>5670 FUSA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5670:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5670"><strong>Meir info om 5670 FUSA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5670</styleUrl>
+ <Point>
+ <coordinates>5.61252,60.19704</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5673">
+ <IconStyle id="icon5673">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5673.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5673">
+ <name>5673 STRANDVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5673:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5673"><strong>Meir info om 5673 STRANDVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5673</styleUrl>
+ <Point>
+ <coordinates>5.66730,60.15970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5674">
+ <IconStyle id="icon5674">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5674.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5674">
+ <name>5674 SÆVAREID (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5674:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5674"><strong>Meir info om 5674 SÆVAREID (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5674</styleUrl>
+ <Point>
+ <coordinates>5.76128,60.18972</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5676">
+ <IconStyle id="icon5676">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5676.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5676">
+ <name>5676 BALDERSHEIM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5676:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5676"><strong>Meir info om 5676 BALDERSHEIM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5676</styleUrl>
+ <Point>
+ <coordinates>5.74860,60.14700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5677">
+ <IconStyle id="icon5677">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5677.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5677">
+ <name>5677 NORDTVEITGREND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5677:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjørnafjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5677"><strong>Meir info om 5677 NORDTVEITGREND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5677</styleUrl>
+ <Point>
+ <coordinates>5.73810,60.10000</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

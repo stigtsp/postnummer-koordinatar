@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Kvinesdal, Vest-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4473">
+ <IconStyle id="icon4473">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4473.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4473">
+ <name>4473 KVINLOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4473:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvinesdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4473"><strong>Meir info om 4473 KVINLOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4473</styleUrl>
+ <Point>
+ <coordinates>6.9326,58.5244</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4480">
+ <IconStyle id="icon4480">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4480.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4480">
+ <name>4480 KVINESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4480:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvinesdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4480"><strong>Meir info om 4480 KVINESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4480</styleUrl>
+ <Point>
+ <coordinates>6.9618,58.3122</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4484">
+ <IconStyle id="icon4484">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4484.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4484">
+ <name>4484 ØYESTRANDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4484:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvinesdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4484"><strong>Meir info om 4484 ØYESTRANDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4484</styleUrl>
+ <Point>
+ <coordinates>6.9027,58.286</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4485">
+ <IconStyle id="icon4485">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4485.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4485">
+ <name>4485 FEDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4485:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvinesdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4485"><strong>Meir info om 4485 FEDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4485</styleUrl>
+ <Point>
+ <coordinates>6.81737,58.26929</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4490">
+ <IconStyle id="icon4490">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4490.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4490">
+ <name>4490 KVINESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4490:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvinesdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4490"><strong>Meir info om 4490 KVINESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4490</styleUrl>
+ <Point>
+ <coordinates>6.95876,58.31770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4491">
+ <IconStyle id="icon4491">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4491.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4491">
+ <name>4491 KVINESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4491:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvinesdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4491"><strong>Meir info om 4491 KVINESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4491</styleUrl>
+ <Point>
+ <coordinates>6.9587,58.3176</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4492">
+ <IconStyle id="icon4492">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4492.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4492">
+ <name>4492 KVINESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4492:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kvinesdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4492"><strong>Meir info om 4492 KVINESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4492</styleUrl>
+ <Point>
+ <coordinates>6.9587,58.3176</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Kvinesdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.8989936,58.2231821,0 6.8152562,58.2303495,0 6.7763448,58.2154467,0 6.7597954,58.2333785,0 6.7303586,58.221036,0 6.7303586,58.221036,0 6.7126716,58.2415226,0 6.7604265,58.2657187,0 6.7798822,58.2991937,0 6.7838243,58.3457235,0 6.8301897,58.3263284,0 6.9258184,58.3464838,0 6.8743818,58.4121943,0 6.8678616,58.4997441,0 6.8257199,58.5134284,0 6.8257199,58.5134284,0 6.8039861,58.5762785,0 6.8565094,58.6823473,0 6.8863934,58.6922307,0 6.8827711,58.7129295,0 6.9289554,58.7472437,0 6.9280498,58.771666,0 6.9171829,58.7937253,0 7.0140794,58.7979478,0 7.0315585,58.8231508,0 7.0315585,58.8231508,0 7.1618648,58.8231508,0 7.1618648,58.8231508,0 7.1416876,58.7734816,0 7.1824384,58.7377835,0 7.1597991,58.6719278,0 7.1597991,58.6719278,0 7.0810141,58.6507335,0 7.068336,58.5322798,0 7.1335374,58.4413988,0 7.0991256,58.4138989,0 7.1389708,58.2860753,0 7.1389708,58.2860753,0 7.0674304,58.2827428,0 7.0402632,58.2665522,0 7.0456967,58.2422524,0 6.9506113,58.2403458,0 6.8989936,58.2231821,0 6.8989936,58.2231821,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

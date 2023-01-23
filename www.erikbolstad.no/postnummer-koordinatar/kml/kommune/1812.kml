@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sømna, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8920">
+ <IconStyle id="icon8920">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8920.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8920">
+ <name>8920 SØMNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8920:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sømna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8920"><strong>Meir info om 8920 SØMNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8920</styleUrl>
+ <Point>
+ <coordinates>12.16730,65.31250</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8921">
+ <IconStyle id="icon8921">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8921.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8921">
+ <name>8921 SØMNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8921:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sømna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8921"><strong>Meir info om 8921 SØMNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8921</styleUrl>
+ <Point>
+ <coordinates>12.16815,65.31240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8922">
+ <IconStyle id="icon8922">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8922.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8922">
+ <name>8922 SØMNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8922:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sømna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8922"><strong>Meir info om 8922 SØMNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8922</styleUrl>
+ <Point>
+ <coordinates>12.19787,65.37096</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sømna (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.6416866,65.5408952,0 10.6058935,65.5033116,0 10.6058935,65.5033116,0 11.07392,65.4291134,0 11.6286752,65.2935027,0 11.6626132,65.2707012,0 11.736204,65.2955338,0 11.7878466,65.2912167,0 11.7917198,65.2204246,0 11.8601463,65.2041859,0 11.9621406,65.2101413,0 12.0525153,65.1830608,0 12.1790398,65.2231301,0 12.299109,65.2777214,0 12.3016911,65.2987711,0 12.3404231,65.289058,0 12.4385442,65.3052445,0 12.4385442,65.3052445,0 12.4547228,65.3702597,0 12.3865545,65.3934935,0 12.3493718,65.4429042,0 12.2481522,65.3831699,0 12.1768853,65.371551,0 12.1169798,65.3883322,0 11.9692818,65.3538978,0 11.6986743,65.3327844,0 11.5912575,65.3745638,0 11.0903237,65.4665025,0 10.6416866,65.5408952,0 10.6416866,65.5408952,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

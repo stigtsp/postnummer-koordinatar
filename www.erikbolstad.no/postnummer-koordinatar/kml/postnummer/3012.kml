@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3012 DRAMMEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3012">
+ <name>3012 DRAMMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3012:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3012"><strong>Meir info om 3012 DRAMMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.22400,59.74230</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3012 DRAMMEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.21972,59.74236 10.21998,59.74236 10.22004,59.74220 10.21935,59.74216 10.21939,59.74200 10.21961,59.74119 10.21942,59.73928 10.23250,59.74024 10.24075,59.74022 10.23825,59.74230 10.23770,59.74276 10.23753,59.74289 10.23705,59.74328 10.23672,59.74356 10.23667,59.74360 10.23657,59.74365 10.23621,59.74379 10.23587,59.74393 10.23536,59.74414 10.23487,59.74435 10.23458,59.74447 10.23447,59.74452 10.23143,59.74381 10.22773,59.74321 10.22782,59.74307 10.22695,59.74296 10.22683,59.74341 10.22707,59.74345 10.22703,59.74355 10.22536,59.74338 10.22437,59.74327 10.22288,59.74309 10.21957,59.74277 10.21925,59.74274 10.21925,59.74274 10.21934,59.74234 10.21972,59.74236</coordinates></LineString></Placemark>
+ </Document>
+</kml>

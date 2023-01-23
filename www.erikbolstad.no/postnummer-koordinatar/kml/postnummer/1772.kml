@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1772 HALDEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1772">
+ <name>1772 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1772:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1772"><strong>Meir info om 1772 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.39580,59.12630</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1772 HALDEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.39142,59.12586 11.38995,59.12615 11.38923,59.12551 11.38991,59.12531 11.39019,59.12523 11.38995,59.12493 11.39012,59.12482 11.39062,59.12493 11.39076,59.12490 11.39119,59.12472 11.39158,59.12442 11.39140,59.12437 11.39139,59.12422 11.39065,59.12417 11.39064,59.12405 11.39093,59.12370 11.39155,59.12386 11.39214,59.12394 11.39279,59.12346 11.39303,59.12329 11.39504,59.12372 11.39662,59.12376 11.40022,59.12348 11.40325,59.12382 11.40460,59.12470 11.40666,59.12582 11.40824,59.12615 11.40755,59.12692 11.40720,59.12764 11.40708,59.12781 11.40340,59.12788 11.40251,59.12865 11.40186,59.12880 11.40200,59.12890 11.40233,59.12912 11.40182,59.12929 11.40150,59.12911 11.40107,59.12927 11.40058,59.12893 11.39929,59.12880 11.39874,59.12853 11.39751,59.12816 11.39552,59.12800 11.39514,59.12798 11.39357,59.12840 11.39127,59.12865 11.39040,59.12896 11.38980,59.12853 11.39037,59.12798 11.39224,59.12610 11.39188,59.12599 11.39142,59.12586</coordinates></LineString></Placemark>
+ </Document>
+</kml>

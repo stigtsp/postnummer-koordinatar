@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lom, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2685">
+ <IconStyle id="icon2685">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2685.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2685">
+ <name>2685 GARMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2685:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2685"><strong>Meir info om 2685 GARMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2685</styleUrl>
+ <Point>
+ <coordinates>8.80520,61.84870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2686">
+ <IconStyle id="icon2686">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2686.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2686">
+ <name>2686 LOM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2686:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2686"><strong>Meir info om 2686 LOM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2686</styleUrl>
+ <Point>
+ <coordinates>8.56840,61.83770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2687">
+ <IconStyle id="icon2687">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2687.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2687">
+ <name>2687 BØVERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2687:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2687"><strong>Meir info om 2687 BØVERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2687</styleUrl>
+ <Point>
+ <coordinates>8.34640,61.72050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2688">
+ <IconStyle id="icon2688">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2688.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2688">
+ <name>2688 LOM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2688:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2688"><strong>Meir info om 2688 LOM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2688</styleUrl>
+ <Point>
+ <coordinates>8.56848,61.83787</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

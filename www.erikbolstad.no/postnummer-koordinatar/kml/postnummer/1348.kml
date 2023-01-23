@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1348 RYKKINN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1348">
+ <name>1348 RYKKINN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1348:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bærum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1348"><strong>Meir info om 1348 RYKKINN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.48820,59.92730</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1348 RYKKINN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.48350,59.93519 10.48307,59.93443 10.48222,59.93361 10.48193,59.93331 10.48081,59.93319 10.48030,59.93238 10.48022,59.93204 10.47995,59.93176 10.47998,59.93128 10.47935,59.93116 10.47935,59.93078 10.47911,59.93060 10.48051,59.92989 10.47962,59.92879 10.47899,59.92882 10.47782,59.92901 10.47578,59.92900 10.47534,59.92893 10.47565,59.92792 10.47595,59.92745 10.47669,59.92689 10.47889,59.92729 10.47897,59.92700 10.47926,59.92661 10.47982,59.92661 10.48077,59.92636 10.48097,59.92562 10.48150,59.92523 10.48172,59.92486 10.48167,59.92425 10.48376,59.92415 10.48368,59.92398 10.48319,59.92303 10.48360,59.92287 10.48381,59.92311 10.48437,59.92296 10.48430,59.92258 10.48492,59.92212 10.48561,59.92234 10.48642,59.92211 10.48787,59.92149 10.48823,59.92140 10.48872,59.92115 10.48937,59.92103 10.48991,59.92085 10.48804,59.91895 10.49059,59.91789 10.49206,59.91778 10.49415,59.91805 10.49434,59.91809 10.49521,59.91927 10.49688,59.92007 10.49721,59.92050 10.49727,59.92153 10.49723,59.92289 10.49708,59.92344 10.49671,59.92409 10.49643,59.92507 10.49632,59.92603 10.49617,59.92644 10.49619,59.92688 10.49651,59.92767 10.49639,59.92826 10.49648,59.92933 10.49471,59.92884 10.49440,59.92889 10.49505,59.93021 10.49543,59.93060 10.49609,59.93115 10.49619,59.93173 10.49638,59.93219 10.49542,59.93226 10.49476,59.93231 10.49416,59.93241 10.49339,59.93246 10.49247,59.93254 10.49161,59.93338 10.48788,59.93393 10.48812,59.93431 10.48437,59.93481 10.48350,59.93519</coordinates></LineString></Placemark>
+ </Document>
+</kml>

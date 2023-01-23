@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2936 BEGNADALEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2936">
+ <name>2936 BEGNADALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2936:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Aurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2936"><strong>Meir info om 2936 BEGNADALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.78340,60.64760</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2936 BEGNADALEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.66467,60.68821 9.66217,60.68634 9.65317,60.67960 9.65363,60.67253 9.69341,60.66348 9.73200,60.64835 9.73536,60.64769 9.74531,60.64640 9.75308,60.63911 9.76585,60.63624 9.78212,60.63828 9.79581,60.63685 9.79810,60.60559 9.81104,60.59606 9.82029,60.60948 9.82652,60.62289 9.83243,60.62887 9.83048,60.63816 9.83988,60.64307 9.85121,60.65080 9.83134,60.65460 9.82801,60.65503 9.82301,60.65466 9.81824,60.65403 9.81202,60.65344 9.80588,60.65131 9.80296,60.65034 9.79139,60.65088 9.78717,60.65309 9.76942,60.65346 9.75872,60.65232 9.75103,60.65463 9.74795,60.66147 9.74604,60.66192 9.74592,60.66538 9.74568,60.66860 9.73837,60.67120 9.73448,60.67149 9.73238,60.67325 9.72714,60.67443 9.72706,60.67591 9.70054,60.68179 9.68112,60.68541 9.67867,60.68709 9.67148,60.68718 9.66467,60.68821</coordinates></LineString></Placemark>
+ </Document>
+</kml>

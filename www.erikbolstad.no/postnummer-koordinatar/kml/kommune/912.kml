@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vegårshei, Aust-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4930">
+ <IconStyle id="icon4930">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4930.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4930">
+ <name>4930 VEGÅRSHEI (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4930:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vegårshei kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4930"><strong>Meir info om 4930 VEGÅRSHEI (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4930</styleUrl>
+ <Point>
+ <coordinates>8.86421,58.74921</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4973">
+ <IconStyle id="icon4973">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4973.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4973">
+ <name>4973 VEGÅRSHEI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4973:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vegårshei kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4973"><strong>Meir info om 4973 VEGÅRSHEI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4973</styleUrl>
+ <Point>
+ <coordinates>8.86421,58.74921</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4985">
+ <IconStyle id="icon4985">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4985.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4985">
+ <name>4985 VEGÅRSHEI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4985:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vegårshei kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4985"><strong>Meir info om 4985 VEGÅRSHEI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4985</styleUrl>
+ <Point>
+ <coordinates>8.8627,58.7493</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Vegårshei (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.9659621,58.7062475,0 9.0168417,58.7511465,0 9.0151458,58.7863209,0 9.0151458,58.7863209,0 8.9863139,58.8038947,0 9.0015778,58.8126783,0 8.9303463,58.8477904,0 8.820107,58.8723478,0 8.7931709,58.8675365,0 8.7931709,58.8675365,0 8.7866477,58.8459077,0 8.7433316,58.8333603,0 8.7433316,58.8333603,0 8.6682425,58.8061204,0 8.6213518,58.7430985,0 8.6508756,58.7016219,0 8.7151333,58.7047795,0 8.7594189,58.6555791,0 8.7594189,58.6555791,0 8.8234989,58.642762,0 8.8557227,58.6912683,0 8.9473062,58.6903869,0 8.9659621,58.7062475,0 8.9659621,58.7062475,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

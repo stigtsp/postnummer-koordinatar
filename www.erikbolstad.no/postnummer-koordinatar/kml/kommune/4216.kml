@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Birkenes, Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4732">
+ <IconStyle id="icon4732">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4732.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4732">
+ <name>4732 ENGESLAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4732:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4732"><strong>Meir info om 4732 ENGESLAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4732</styleUrl>
+ <Point>
+ <coordinates>8.11980,58.53310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4760">
+ <IconStyle id="icon4760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4760">
+ <name>4760 BIRKELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4760"><strong>Meir info om 4760 BIRKELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4760</styleUrl>
+ <Point>
+ <coordinates>8.23260,58.33170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4766">
+ <IconStyle id="icon4766">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4766.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4766">
+ <name>4766 HEREFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4766:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4766"><strong>Meir info om 4766 HEREFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4766</styleUrl>
+ <Point>
+ <coordinates>8.35120,58.52460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4768">
+ <IconStyle id="icon4768">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4768.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4768">
+ <name>4768 ENGESLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4768:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4768"><strong>Meir info om 4768 ENGESLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4768</styleUrl>
+ <Point>
+ <coordinates>8.11980,58.53310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4795">
+ <IconStyle id="icon4795">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4795.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4795">
+ <name>4795 BIRKELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4795:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4795"><strong>Meir info om 4795 BIRKELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4795</styleUrl>
+ <Point>
+ <coordinates>8.23267,58.33026</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

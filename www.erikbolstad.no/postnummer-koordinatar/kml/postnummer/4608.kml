@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>4608 KRISTIANSAND S</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer4608">
+ <name>4608 KRISTIANSAND S</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4608:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kristiansand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4608"><strong>Meir info om 4608 KRISTIANSAND S</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>8.00410,58.14670</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 4608 KRISTIANSAND S</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.00166,58.14798 8.00039,58.14730 8.00027,58.14727 8.00008,58.14718 7.99863,58.14631 7.99929,58.14593 8.00080,58.14511 8.00246,58.14417 8.00200,58.14383 8.00229,58.14370 8.01426,58.14312 8.01291,58.14569 8.01165,58.14699 8.00891,58.14853 8.00848,58.14870 8.00544,58.14989 8.00528,58.14995 8.00358,58.14890 8.00336,58.14900 8.00187,58.14812 8.00201,58.14805 8.00178,58.14793 8.00166,58.14798</coordinates></LineString></Placemark>
+ </Document>
+</kml>

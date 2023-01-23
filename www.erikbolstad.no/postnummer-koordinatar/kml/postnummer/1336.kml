@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1336 SANDVIKA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1336">
+ <name>1336 SANDVIKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1336:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bærum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1336"><strong>Meir info om 1336 SANDVIKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.49100,59.89820</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1336 SANDVIKA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.47925,59.90131 10.48005,59.90090 10.48029,59.89944 10.48224,59.89861 10.48406,59.89696 10.48407,59.89635 10.48438,59.89580 10.48549,59.89500 10.48604,59.89428 10.48593,59.89325 10.48652,59.89285 10.48814,59.89262 10.48833,59.89174 10.49279,59.89163 10.49367,59.89173 10.49409,59.89202 10.49469,59.89254 10.49568,59.89290 10.49700,59.89330 10.49854,59.89345 10.49953,59.89365 10.50002,59.89407 10.50027,59.89479 10.50045,59.89473 10.50131,59.89457 10.50194,59.89456 10.50230,59.89461 10.50234,59.89447 10.50508,59.89478 10.50609,59.89498 10.50771,59.89518 10.50806,59.89514 10.50831,59.89502 10.50834,59.89496 10.50852,59.89497 10.50883,59.89477 10.50919,59.89490 10.50991,59.89461 10.50972,59.89449 10.50945,59.89423 10.50959,59.89420 10.50927,59.89400 10.50943,59.89390 10.51009,59.89414 10.50989,59.89426 10.51063,59.89458 10.50924,59.89559 10.50761,59.89586 10.50483,59.89672 10.50286,59.89714 10.50390,59.89810 10.50183,59.89804 10.50099,59.89913 10.50043,59.89915 10.49988,59.89956 10.49923,59.89945 10.49894,59.89960 10.49807,59.89976 10.49468,59.90171 10.49262,59.90301 10.49203,59.90268 10.49102,59.90288 10.48953,59.90179 10.48872,59.90187 10.48827,59.90221 10.48781,59.90229 10.48737,59.90241 10.48702,59.90244 10.48649,59.90238 10.48604,59.90223 10.48536,59.90215 10.48501,59.90215 10.48473,59.90221 10.48460,59.90235 10.48433,59.90247 10.48400,59.90246 10.48358,59.90240 10.47925,59.90131</coordinates></LineString></Placemark>
+ </Document>
+</kml>

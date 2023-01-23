@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Krødsherad, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3380">
+ <IconStyle id="icon3380">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3380.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3380">
+ <name>3380 KRØDEREN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3380:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Krødsherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3380"><strong>Meir info om 3380 KRØDEREN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3380</styleUrl>
+ <Point>
+ <coordinates>9.78590,60.12400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3384">
+ <IconStyle id="icon3384">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3384.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3384">
+ <name>3384 NORESUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3384:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Krødsherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3384"><strong>Meir info om 3384 NORESUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3384</styleUrl>
+ <Point>
+ <coordinates>9.62376,60.18124</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3535">
+ <IconStyle id="icon3535">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3535.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3535">
+ <name>3535 KRØDEREN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3535:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Krødsherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3535"><strong>Meir info om 3535 KRØDEREN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3535</styleUrl>
+ <Point>
+ <coordinates>9.78590,60.12400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3536">
+ <IconStyle id="icon3536">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3536.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3536">
+ <name>3536 NORESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3536:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Krødsherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3536"><strong>Meir info om 3536 NORESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3536</styleUrl>
+ <Point>
+ <coordinates>9.62380,60.18120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3537">
+ <IconStyle id="icon3537">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3537.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3537">
+ <name>3537 KRØDEREN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3537:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Krødsherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3537"><strong>Meir info om 3537 KRØDEREN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3537</styleUrl>
+ <Point>
+ <coordinates>9.78259,60.12437</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3543">
+ <IconStyle id="icon3543">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3543.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3543">
+ <name>3543 NORESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3543:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Krødsherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3543"><strong>Meir info om 3543 NORESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3543</styleUrl>
+ <Point>
+ <coordinates>9.62376,60.18124</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

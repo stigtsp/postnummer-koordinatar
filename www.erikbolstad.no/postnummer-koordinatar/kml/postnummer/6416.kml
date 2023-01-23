@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>6416 MOLDE</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer6416">
+ <name>6416 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6416:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6416"><strong>Meir info om 6416 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>7.20370,62.74400</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 6416 MOLDE</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.19514,62.74219 7.19408,62.74103 7.19362,62.73978 7.19231,62.73970 7.19228,62.73893 7.19222,62.73859 7.19200,62.73839 7.19203,62.73828 7.19235,62.73699 7.19367,62.73186 7.20354,62.73227 7.21371,62.73292 7.21282,62.73955 7.21293,62.74226 7.21411,62.74284 7.21404,62.74378 7.21393,62.74424 7.21353,62.74536 7.21286,62.74653 7.21422,62.74671 7.21408,62.74718 7.21392,62.74765 7.21220,62.74755 7.21101,62.74780 7.20909,62.75065 7.20718,62.74946 7.20592,62.74880 7.20395,62.74807 7.20227,62.74749 7.20031,62.74708 7.19874,62.74678 7.19657,62.74696 7.19539,62.74732 7.19369,62.74766 7.19372,62.74701 7.19382,62.74620 7.19412,62.74530 7.19364,62.74451 7.19396,62.74373 7.19575,62.74340 7.19675,62.74370 7.19698,62.74334 7.19631,62.74328 7.19653,62.74305 7.19625,62.74288 7.19558,62.74269 7.19550,62.74260 7.19527,62.74248 7.19514,62.74219</coordinates></LineString></Placemark>
+ </Document>
+</kml>

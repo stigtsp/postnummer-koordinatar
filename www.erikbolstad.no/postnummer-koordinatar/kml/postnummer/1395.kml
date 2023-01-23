@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1395 HVALSTAD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1395">
+ <name>1395 HVALSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1395:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Asker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1395"><strong>Meir info om 1395 HVALSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.46190,59.85890</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1395 HVALSTAD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.45656,59.86903 10.44499,59.86113 10.44932,59.85370 10.44995,59.85208 10.44987,59.85153 10.45033,59.85112 10.45127,59.85004 10.45081,59.84970 10.45118,59.84952 10.45121,59.84944 10.44964,59.84905 10.45049,59.84793 10.45071,59.84762 10.45385,59.84902 10.46210,59.84963 10.46552,59.85031 10.46550,59.84991 10.46677,59.84977 10.46692,59.84977 10.46701,59.84975 10.46927,59.84968 10.47125,59.85044 10.47581,59.85067 10.47820,59.85022 10.47839,59.85136 10.47860,59.85284 10.47862,59.85386 10.47944,59.85506 10.48049,59.85599 10.48111,59.85632 10.48286,59.85750 10.48360,59.85851 10.48444,59.85982 10.48546,59.86131 10.48631,59.86267 10.48500,59.86229 10.48239,59.86221 10.47134,59.86756 10.46780,59.86767 10.46532,59.86748 10.46204,59.86719 10.45656,59.86903</coordinates></LineString></Placemark>
+ </Document>
+</kml>

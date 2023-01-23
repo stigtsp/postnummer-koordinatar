@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1692 NEDGÅRDEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1692">
+ <name>1692 NEDGÅRDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1692:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1692"><strong>Meir info om 1692 NEDGÅRDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.07150,59.01400</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1692 NEDGÅRDEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.06632,59.02133 11.04950,59.01676 11.04539,59.01077 11.05259,59.00795 11.05929,59.00483 11.06432,59.00028 11.07116,58.99455 11.07049,58.99167 11.07058,58.98957 11.07087,58.98769 11.07303,58.98138 11.08435,58.98735 11.09237,58.99179 11.11713,59.01505 11.12355,59.02645 11.10487,59.02675 11.09278,59.02590 11.08579,59.02318 11.06632,59.02133</coordinates></LineString></Placemark>
+ </Document>
+</kml>

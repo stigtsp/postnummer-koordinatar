@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1598 MOSS</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1598">
+ <name>1598 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1598:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1598"><strong>Meir info om 1598 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.69150,59.44210</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1598 MOSS</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.68896,59.44478 10.68942,59.44405 10.68939,59.44301 10.68955,59.44231 10.68922,59.44100 10.68843,59.44015 10.68939,59.43976 10.68937,59.43930 10.68957,59.43892 10.69045,59.43852 10.69066,59.43810 10.69257,59.44006 10.69271,59.44090 10.69324,59.44139 10.69369,59.44170 10.69466,59.44155 10.69492,59.44186 10.69584,59.44245 10.69595,59.44403 10.69624,59.44549 10.69439,59.44555 10.69372,59.44490 10.69364,59.44450 10.69271,59.44453 10.68896,59.44478</coordinates></LineString></Placemark>
+ </Document>
+</kml>

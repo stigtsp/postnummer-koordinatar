@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0557 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0557">
+ <name>0557 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0557:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0557"><strong>Meir info om 0557 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.76350,59.92870</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0557 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.76144,59.92937 10.76144,59.92881 10.76120,59.92880 10.76120,59.92861 10.75941,59.92860 10.75941,59.92849 10.76116,59.92851 10.76154,59.92852 10.76160,59.92827 10.76240,59.92832 10.76246,59.92830 10.76247,59.92804 10.76292,59.92803 10.76292,59.92836 10.76381,59.92835 10.76410,59.92840 10.76432,59.92840 10.76427,59.92763 10.76448,59.92754 10.76453,59.92748 10.76526,59.92748 10.76526,59.92763 10.76543,59.92763 10.76710,59.92879 10.76700,59.92892 10.76556,59.92935 10.76513,59.92984 10.76438,59.93004 10.76358,59.93018 10.76304,59.93022 10.76250,59.93028 10.76217,59.93032 10.76218,59.93025 10.76207,59.92978 10.76200,59.92944 10.76144,59.92943 10.76144,59.92937</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0557 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.75529,59.92871 10.75532,59.92833 10.75584,59.92759 10.75631,59.92760 10.75694,59.92764 10.75693,59.92812 10.75792,59.92816 10.75788,59.92843 10.75868,59.92843 10.75866,59.92891 10.75703,59.92889 10.75572,59.92928 10.75529,59.92871</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0363 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0363">
+ <name>0363 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0363:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0363"><strong>Meir info om 0363 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.71800,59.93140</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0363 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.71301,59.93261 10.71388,59.93294 10.71433,59.93267 10.71442,59.93271 10.71489,59.93243 10.71406,59.93211 10.71486,59.93165 10.71550,59.93122 10.71506,59.93104 10.71599,59.93033 10.71654,59.93051 10.71741,59.92995 10.71807,59.93021 10.71828,59.93008 10.71871,59.93023 10.71854,59.93034 10.71939,59.93068 10.72021,59.93012 10.72043,59.93020 10.71961,59.93075 10.71998,59.93088 10.71990,59.93093 10.71951,59.93128 10.71995,59.93144 10.71963,59.93171 10.72068,59.93210 10.72075,59.93206 10.72133,59.93230 10.72114,59.93241 10.72074,59.93228 10.72000,59.93265 10.71601,59.93424 10.71582,59.93510 10.71476,59.93552 10.71352,59.93473 10.71255,59.93430 10.71074,59.93308 10.71175,59.93242 10.71269,59.93279 10.71301,59.93261</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0363 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.72337,59.92856 10.72294,59.92842 10.72279,59.92851 10.72253,59.92839 10.72299,59.92800 10.72331,59.92772 10.72399,59.92802 10.72391,59.92810 10.72337,59.92856</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense for del 3 0363 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.72181,59.92970 10.72143,59.92957 10.72123,59.92969 10.71955,59.92901 10.72018,59.92865 10.72181,59.92940 10.72212,59.92953 10.72181,59.92970</coordinates></LineString></Placemark>
+ </Document>
+</kml>

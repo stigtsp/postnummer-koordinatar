@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Alvdal, Hedmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2560">
+ <IconStyle id="icon2560">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2560.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2560">
+ <name>2560 ALVDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2560:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2560"><strong>Meir info om 2560 ALVDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2560</styleUrl>
+ <Point>
+ <coordinates>10.6307,62.1077</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2561">
+ <IconStyle id="icon2561">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2561.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2561">
+ <name>2561 ALVDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2561:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2561"><strong>Meir info om 2561 ALVDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2561</styleUrl>
+ <Point>
+ <coordinates>10.63166,62.10892</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Alvdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.8846424,62.0243255,0 10.9312767,61.9756698,0 10.8994304,61.945092,0 10.8906218,61.9801265,0 10.8445463,61.9603848,0 10.7659469,61.966436,0 10.5836777,61.9148026,0 10.5477659,61.9673914,0 10.4490216,61.9670102,0 10.4490216,61.9670102,0 10.3499254,61.9554642,0 10.3058826,61.9160157,0 10.1534269,61.9506853,0 10.1534269,61.9506853,0 10.1229357,61.9745724,0 10.1635906,62.0437395,0 10.3821104,62.2033342,0 10.3346798,62.2502997,0 10.3423026,62.282226,0 10.3423026,62.282226,0 10.4238873,62.252824,0 10.4558692,62.2677101,0 10.5425995,62.2225244,0 10.7187706,62.2212613,0 10.7187706,62.2111543,0 10.7296119,62.2023078,0 10.7090134,62.1744878,0 10.7480421,62.1098975,0 10.8846424,62.0243255,0 10.8846424,62.0243255,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

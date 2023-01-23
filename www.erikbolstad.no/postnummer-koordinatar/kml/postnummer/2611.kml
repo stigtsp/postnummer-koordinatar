@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2611 LILLEHAMMER</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2611">
+ <name>2611 LILLEHAMMER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2611:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillehammer kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2611"><strong>Meir info om 2611 LILLEHAMMER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.51510,61.09970</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2611 LILLEHAMMER</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.49360,61.11066 10.49309,61.10841 10.49259,61.10780 10.49109,61.10654 10.49033,61.10629 10.48982,61.10609 10.48918,61.10610 10.48884,61.10598 10.48867,61.10561 10.48869,61.10503 10.48915,61.10430 10.49055,61.10326 10.49131,61.10278 10.49153,61.10259 10.49171,61.10234 10.49230,61.10150 10.49228,61.10117 10.49234,61.10083 10.49243,61.10075 10.49288,61.10075 10.49320,61.10077 10.49386,61.10067 10.49495,61.09998 10.49500,61.09864 10.49399,61.09688 10.49288,61.09319 10.49217,61.09279 10.49253,61.09228 10.49308,61.09153 10.49467,61.09026 10.49756,61.08901 10.50064,61.08825 10.50539,61.08749 10.51136,61.08705 10.52112,61.08747 10.53256,61.08843 10.53773,61.08839 10.54001,61.08802 10.54406,61.08769 10.55170,61.08621 10.55616,61.08225 10.55786,61.08169 10.55954,61.08137 10.56291,61.08226 10.56442,61.08276 10.56436,61.08234 10.56824,61.08180 10.56865,61.08189 10.56981,61.08164 10.57133,61.08143 10.57238,61.08179 10.57322,61.08204 10.57355,61.08211 10.57394,61.08229 10.57387,61.08238 10.57403,61.08250 10.57429,61.08245 10.57499,61.08287 10.57397,61.08311 10.57402,61.08315 10.57390,61.08320 10.57377,61.08373 10.57363,61.08411 10.57304,61.08474 10.57182,61.08496 10.57201,61.08521 10.57192,61.08548 10.57176,61.08559 10.57346,61.08679 10.59465,61.08335 10.61802,61.09937 10.60393,61.10811 10.60165,61.10630 10.60072,61.10564 10.59925,61.10449 10.59170,61.10603 10.58228,61.10736 10.57147,61.10839 10.56298,61.10865 10.55423,61.10901 10.54026,61.10953 10.53365,61.10974 10.52619,61.11023 10.51689,61.11089 10.50609,61.11096 10.49360,61.11066</coordinates></LineString></Placemark>
+ </Document>
+</kml>

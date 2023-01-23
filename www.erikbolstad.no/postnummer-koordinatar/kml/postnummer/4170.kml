@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>4170 SJERNARØY</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer4170">
+ <name>4170 SJERNARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4170:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4170"><strong>Meir info om 4170 SJERNARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.83640,59.25260</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 4170 SJERNARØY</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.89946,59.30916 5.88714,59.30867 5.85653,59.30744 5.83704,59.30666 5.81313,59.30569 5.76746,59.30384 5.75894,59.29528 5.73961,59.27583 5.70235,59.23829 5.69232,59.22816 5.64464,59.20905 5.59830,59.19041 5.60576,59.18785 5.63417,59.19101 5.66542,59.19448 5.71347,59.20054 5.79143,59.21298 5.79671,59.21392 5.82385,59.21544 5.84287,59.21445 5.85050,59.21393 5.85943,59.21206 5.86416,59.21501 5.86519,59.21855 5.86907,59.23194 5.87009,59.24393 5.88257,59.24730 5.89060,59.24969 5.90569,59.25117 5.90502,59.26740 5.90531,59.27979 5.90187,59.29734 5.89946,59.30916</coordinates></LineString></Placemark>
+ </Document>
+</kml>

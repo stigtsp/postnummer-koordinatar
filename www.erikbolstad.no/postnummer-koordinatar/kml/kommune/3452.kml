@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vestre Slidre, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2959">
+ <IconStyle id="icon2959">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2959.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2959">
+ <name>2959 RØN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2959:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vestre Slidre kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2959"><strong>Meir info om 2959 RØN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2959</styleUrl>
+ <Point>
+ <coordinates>9.05437,61.03311</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2960">
+ <IconStyle id="icon2960">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2960.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2960">
+ <name>2960 RØN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2960:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vestre Slidre kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2960"><strong>Meir info om 2960 RØN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2960</styleUrl>
+ <Point>
+ <coordinates>9.05640,61.03330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2965">
+ <IconStyle id="icon2965">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2965.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2965">
+ <name>2965 SLIDRE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2965:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vestre Slidre kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2965"><strong>Meir info om 2965 SLIDRE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2965</styleUrl>
+ <Point>
+ <coordinates>8.98150,61.08750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2966">
+ <IconStyle id="icon2966">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2966.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2966">
+ <name>2966 SLIDRE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2966:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vestre Slidre kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2966"><strong>Meir info om 2966 SLIDRE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2966</styleUrl>
+ <Point>
+ <coordinates>8.98152,61.08751</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2967">
+ <IconStyle id="icon2967">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2967.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2967">
+ <name>2967 LOMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2967:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vestre Slidre kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2967"><strong>Meir info om 2967 LOMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2967</styleUrl>
+ <Point>
+ <coordinates>8.89060,61.13440</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

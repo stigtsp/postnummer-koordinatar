@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0265 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0265">
+ <name>0265 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0265:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0265"><strong>Meir info om 0265 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.70480,59.91830</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0265 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.70417,59.91916 10.70349,59.91909 10.70240,59.91923 10.70224,59.91896 10.70173,59.91904 10.70114,59.91809 10.70105,59.91795 10.70155,59.91793 10.70212,59.91788 10.70218,59.91810 10.70267,59.91801 10.70269,59.91808 10.70357,59.91819 10.70351,59.91834 10.70406,59.91841 10.70413,59.91824 10.70415,59.91822 10.70521,59.91787 10.70540,59.91802 10.70632,59.91780 10.70616,59.91758 10.70716,59.91731 10.70740,59.91759 10.70892,59.91712 10.70916,59.91688 10.70914,59.91680 10.70920,59.91679 10.70958,59.91668 10.70969,59.91685 10.70980,59.91707 10.71001,59.91725 10.70946,59.91736 10.70890,59.91750 10.70895,59.91768 10.70782,59.91790 10.70818,59.91819 10.70826,59.91858 10.70832,59.91912 10.70820,59.91939 10.70506,59.91903 10.70431,59.91891 10.70417,59.91916</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0265 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.70062,59.91922 10.70053,59.91911 10.70039,59.91881 10.70033,59.91874 10.70024,59.91861 10.69992,59.91861 10.69997,59.91839 10.70016,59.91832 10.70008,59.91799 10.70026,59.91798 10.70028,59.91795 10.70057,59.91792 10.70072,59.91830 10.70102,59.91826 10.70115,59.91852 10.70090,59.91851 10.70092,59.91879 10.70131,59.91874 10.70148,59.91906 10.70116,59.91910 10.70123,59.91934 10.70079,59.91942 10.70074,59.91943 10.70069,59.91937 10.70051,59.91939 10.70042,59.91935 10.70027,59.91933 10.70036,59.91926 10.70062,59.91922</coordinates></LineString></Placemark>
+ </Document>
+</kml>

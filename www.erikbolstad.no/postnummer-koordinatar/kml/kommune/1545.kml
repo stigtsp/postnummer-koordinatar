@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Midsund, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6475">
+ <IconStyle id="icon6475">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6475.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6475">
+ <name>6475 MIDSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6475:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Midsund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6475"><strong>Meir info om 6475 MIDSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6475</styleUrl>
+ <Point>
+ <coordinates>6.6742,62.6738</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6476">
+ <IconStyle id="icon6476">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6476.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6476">
+ <name>6476 MIDSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6476:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Midsund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6476"><strong>Meir info om 6476 MIDSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6476</styleUrl>
+ <Point>
+ <coordinates>6.6742,62.6738</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Midsund (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.5156201,62.7007016,0 6.4482638,62.6532279,0 6.4958122,62.6290232,0 6.678691,62.6502034,0 6.678691,62.6502034,0 6.8052431,62.6696893,0 6.847671,62.6528919,0 7.0013461,62.6910376,0 7.0013461,62.6910376,0 6.9556995,62.7529935,0 6.9556995,62.7529935,0 6.6964506,62.7677257,0 6.6964506,62.7677257,0 6.5782378,62.7398622,0 6.5156201,62.7007016,0 6.5156201,62.7007016,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

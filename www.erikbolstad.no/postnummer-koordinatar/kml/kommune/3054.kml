@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lunner, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2713">
+ <IconStyle id="icon2713">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2713.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2713">
+ <name>2713 ROA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2713:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2713"><strong>Meir info om 2713 ROA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2713</styleUrl>
+ <Point>
+ <coordinates>10.62557,60.28812</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2715">
+ <IconStyle id="icon2715">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2715.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2715">
+ <name>2715 LUNNER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2715:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2715"><strong>Meir info om 2715 LUNNER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2715</styleUrl>
+ <Point>
+ <coordinates>10.58450,60.30349</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2716">
+ <IconStyle id="icon2716">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2716.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2716">
+ <name>2716 HARESTUA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2716:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2716"><strong>Meir info om 2716 HARESTUA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2716</styleUrl>
+ <Point>
+ <coordinates>10.71291,60.20729</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2717">
+ <IconStyle id="icon2717">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2717.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2717">
+ <name>2717 GRUA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2717:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2717"><strong>Meir info om 2717 GRUA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2717</styleUrl>
+ <Point>
+ <coordinates>10.66133,60.25702</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2720">
+ <IconStyle id="icon2720">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2720.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2720">
+ <name>2720 GRINDVOLL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2720:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2720"><strong>Meir info om 2720 GRINDVOLL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2720</styleUrl>
+ <Point>
+ <coordinates>10.48430,60.29730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2730">
+ <IconStyle id="icon2730">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2730.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2730">
+ <name>2730 LUNNER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2730:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2730"><strong>Meir info om 2730 LUNNER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2730</styleUrl>
+ <Point>
+ <coordinates>10.58370,60.30680</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2740">
+ <IconStyle id="icon2740">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2740.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2740">
+ <name>2740 ROA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2740:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2740"><strong>Meir info om 2740 ROA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2740</styleUrl>
+ <Point>
+ <coordinates>10.61590,60.29090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2742">
+ <IconStyle id="icon2742">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2742.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2742">
+ <name>2742 GRUA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2742:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2742"><strong>Meir info om 2742 GRUA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2742</styleUrl>
+ <Point>
+ <coordinates>10.66340,60.25960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2743">
+ <IconStyle id="icon2743">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2743.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2743">
+ <name>2743 HARESTUA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2743:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lunner kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2743"><strong>Meir info om 2743 HARESTUA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2743</styleUrl>
+ <Point>
+ <coordinates>10.71590,60.19760</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

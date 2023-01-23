@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Longyearbyen arealplanområde, Svalbard</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9170">
+ <IconStyle id="icon9170">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9170.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9170">
+ <name>9170 LONGYEARBYEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9170:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spitsbergen</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9170"><strong>Meir info om 9170 LONGYEARBYEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9170</styleUrl>
+ <Point>
+ <coordinates>15.64262,78.21875</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9171">
+ <IconStyle id="icon9171">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9171.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9171">
+ <name>9171 LONGYEARBYEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9171:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spitsbergen</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9171"><strong>Meir info om 9171 LONGYEARBYEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9171</styleUrl>
+ <Point>
+ <coordinates>15.64262,78.21875</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9172">
+ <IconStyle id="icon9172">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9172.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9172">
+ <name>9172 ISFJORD PÅ SVALBARD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9172:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spitsbergen</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9172"><strong>Meir info om 9172 ISFJORD PÅ SVALBARD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9172</styleUrl>
+ <Point>
+ <coordinates>13.6011,78.0522</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9173">
+ <IconStyle id="icon9173">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9173.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9173">
+ <name>9173 NY-ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9173:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spitsbergen</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9173"><strong>Meir info om 9173 NY-ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9173</styleUrl>
+ <Point>
+ <coordinates>11.9286,78.9245</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9175">
+ <IconStyle id="icon9175">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9175.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9175">
+ <name>9175 SVEAGRUVA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9175:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spitsbergen</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9175"><strong>Meir info om 9175 SVEAGRUVA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9175</styleUrl>
+ <Point>
+ <coordinates>16.7224,77.8983</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9177">
+ <IconStyle id="icon9177">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9177.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9177">
+ <name>9177 HORNSUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9177:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spitsbergen</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9177"><strong>Meir info om 9177 HORNSUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9177</styleUrl>
+ <Point>
+ <coordinates>16.2741,77.0199</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9178">
+ <IconStyle id="icon9178">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9178.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9178">
+ <name>9178 BARENTSBURG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9178:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spitsbergen</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9178"><strong>Meir info om 9178 BARENTSBURG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9178</styleUrl>
+ <Point>
+ <coordinates>14.2144,78.062</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9179">
+ <IconStyle id="icon9179">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9179.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9179">
+ <name>9179 PYRAMIDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9179:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Spitsbergen</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9179"><strong>Meir info om 9179 PYRAMIDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9179</styleUrl>
+ <Point>
+ <coordinates>16.4000,78.6833</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Longyearbyen arealplanområde (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.205,78.420,0 17.050,76.128,0 19.979,78.514,0 22.706,78.786,0 16.704,80.167,0 8.9793,79.836,0 10.205,78.420,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

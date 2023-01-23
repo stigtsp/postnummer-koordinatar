@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bardu, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9250">
+ <IconStyle id="icon9250">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9250.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9250">
+ <name>9250 BARDU (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9250:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bardu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9250"><strong>Meir info om 9250 BARDU (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9250</styleUrl>
+ <Point>
+ <coordinates>18.34860,68.86100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9360">
+ <IconStyle id="icon9360">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9360.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9360">
+ <name>9360 BARDU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9360:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bardu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9360"><strong>Meir info om 9360 BARDU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9360</styleUrl>
+ <Point>
+ <coordinates>18.34860,68.86100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9365">
+ <IconStyle id="icon9365">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9365.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9365">
+ <name>9365 BARDU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9365:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bardu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9365"><strong>Meir info om 9365 BARDU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9365</styleUrl>
+ <Point>
+ <coordinates>18.34740,68.86199</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

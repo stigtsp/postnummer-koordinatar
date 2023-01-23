@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Jølster, Sogn og Fjordane</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6840">
+ <IconStyle id="icon6840">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6840.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6840">
+ <name>6840 VASSENDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6840:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jølster kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6840"><strong>Meir info om 6840 VASSENDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6840</styleUrl>
+ <Point>
+ <coordinates>6.10801,61.49090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6841">
+ <IconStyle id="icon6841">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6841.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6841">
+ <name>6841 SKEI I JØLSTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6841:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jølster kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6841"><strong>Meir info om 6841 SKEI I JØLSTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6841</styleUrl>
+ <Point>
+ <coordinates>6.48223,61.57024</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6843">
+ <IconStyle id="icon6843">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6843.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6843">
+ <name>6843 SKEI I JØLSTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6843:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jølster kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6843"><strong>Meir info om 6843 SKEI I JØLSTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6843</styleUrl>
+ <Point>
+ <coordinates>6.485,61.572</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6844">
+ <IconStyle id="icon6844">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6844.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6844">
+ <name>6844 VASSENDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6844:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jølster kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6844"><strong>Meir info om 6844 VASSENDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6844</styleUrl>
+ <Point>
+ <coordinates>6.10801,61.49090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6847">
+ <IconStyle id="icon6847">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6847.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6847">
+ <name>6847 VASSENDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6847:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jølster kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6847"><strong>Meir info om 6847 VASSENDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6847</styleUrl>
+ <Point>
+ <coordinates>6.108,61.4909</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Jølster (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.8542288,61.6114372,0 6.7806179,61.6423622,0 6.7795511,61.6631305,0 6.7361669,61.6685313,0 6.7187421,61.7031081,0 6.7187421,61.7031081,0 6.5811217,61.6384771,0 6.5402267,61.6548586,0 6.4097185,61.6454023,0 6.3759357,61.6051809,0 6.3165491,61.6161709,0 6.3101482,61.6469223,0 6.2649291,61.6414452,0 6.2649291,61.6414452,0 6.2685515,61.6099004,0 6.1932829,61.5862346,0 6.1932829,61.5862346,0 6.1662532,61.5496654,0 6.0228082,61.511649,0 5.9716925,61.4563274,0 6.011539,61.4434636,0 6.0956012,61.4592684,0 6.1590274,61.4373958,0 6.2952467,61.4683455,0 6.4124648,61.4706463,0 6.4964979,61.49505,0 6.5816014,61.4827867,0 6.6080959,61.5044997,0 6.6447601,61.4850864,0 6.6436896,61.4633598,0 6.6436896,61.4633598,0 6.7442743,61.5302737,0 6.8076442,61.5723566,0 6.8076442,61.5723566,0 6.8542288,61.6114372,0 6.8542288,61.6114372,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

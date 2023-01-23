@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1714 GRÅLUM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1714">
+ <name>1714 GRÅLUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1714:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1714"><strong>Meir info om 1714 GRÅLUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.02510,59.31810</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1714 GRÅLUM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.01936,59.32010 11.01873,59.31956 11.01800,59.31920 11.01771,59.31839 11.01808,59.31810 11.01934,59.31779 11.01959,59.31750 11.02131,59.31656 11.02367,59.31653 11.02537,59.31632 11.02586,59.31620 11.02819,59.31608 11.02901,59.31585 11.03020,59.31522 11.03084,59.31563 11.03138,59.31604 11.03188,59.31660 11.03232,59.31709 11.03267,59.31727 11.03007,59.31895 11.02773,59.32061 11.02025,59.32074 11.01936,59.32010</coordinates></LineString></Placemark>
+ </Document>
+</kml>

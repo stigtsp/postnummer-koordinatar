@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Dønna, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8813">
+ <IconStyle id="icon8813">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8813.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8813">
+ <name>8813 LØKTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8813:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Dønna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8813"><strong>Meir info om 8813 LØKTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8813</styleUrl>
+ <Point>
+ <coordinates>12.70130,66.14290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8820">
+ <IconStyle id="icon8820">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8820.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8820">
+ <name>8820 DØNNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8820:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Dønna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8820"><strong>Meir info om 8820 DØNNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8820</styleUrl>
+ <Point>
+ <coordinates>12.49020,66.10530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8826">
+ <IconStyle id="icon8826">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8826.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8826">
+ <name>8826 NORDØYVÅGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8826:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Dønna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8826"><strong>Meir info om 8826 NORDØYVÅGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8826</styleUrl>
+ <Point>
+ <coordinates>12.59660,66.21840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8827">
+ <IconStyle id="icon8827">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8827.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8827">
+ <name>8827 DØNNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8827:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Dønna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8827"><strong>Meir info om 8827 DØNNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8827</styleUrl>
+ <Point>
+ <coordinates>12.48741,66.10887</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8830">
+ <IconStyle id="icon8830">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8830.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8830">
+ <name>8830 VANDVE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8830:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Dønna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8830"><strong>Meir info om 8830 VANDVE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8830</styleUrl>
+ <Point>
+ <coordinates>12.34390,66.16620</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Dønna (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.6260627,66.2648455,0 12.6673769,66.2090756,0 12.8254034,66.1874004,0 12.8351829,66.1501398,0 12.8351829,66.1501398,0 12.7008394,66.1290867,0 12.7056809,66.1022962,0 12.6201477,66.0650039,0 12.6185339,66.0388011,0 12.6185339,66.0388011,0 12.4835007,65.9961417,0 12.4835007,65.9961417,0 12.4394735,66.0034268,0 12.4404486,66.0277138,0 12.2955516,66.0135293,0 12.3357503,66.0591877,0 12.2985676,66.0583495,0 12.2242021,66.1244872,0 12.1023255,66.1457987,0 12.0465514,66.2204562,0 11.8399807,66.3168915,0 11.8399807,66.3168915,0 11.9929237,66.3374939,0 11.9929237,66.3374939,0 12.1891658,66.2893618,0 12.3368638,66.2910231,0 12.4267221,66.2344787,0 12.5723544,66.2669241,0 12.6260627,66.2648455,0 12.6260627,66.2648455,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

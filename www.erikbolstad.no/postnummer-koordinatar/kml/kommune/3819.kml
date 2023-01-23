@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hjartdal, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3665">
+ <IconStyle id="icon3665">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3665.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3665">
+ <name>3665 SAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3665:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3665"><strong>Meir info om 3665 SAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3665</styleUrl>
+ <Point>
+ <coordinates>8.93201,59.61726</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3690">
+ <IconStyle id="icon3690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3690">
+ <name>3690 HJARTDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3690:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3690"><strong>Meir info om 3690 HJARTDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3690</styleUrl>
+ <Point>
+ <coordinates>8.65210,59.60040</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3692">
+ <IconStyle id="icon3692">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3692.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3692">
+ <name>3692 SAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3692:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3692"><strong>Meir info om 3692 SAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3692</styleUrl>
+ <Point>
+ <coordinates>8.93760,59.61610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3697">
+ <IconStyle id="icon3697">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3697.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3697">
+ <name>3697 TUDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3697:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3697"><strong>Meir info om 3697 TUDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3697</styleUrl>
+ <Point>
+ <coordinates>8.79650,59.75340</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Flatanger, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7745">
+ <IconStyle id="icon7745">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7745.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7745">
+ <name>7745 OPPLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7745:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flatanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7745"><strong>Meir info om 7745 OPPLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7745</styleUrl>
+ <Point>
+ <coordinates>10.86500,64.33780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7746">
+ <IconStyle id="icon7746">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7746.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7746">
+ <name>7746 HASVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7746:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flatanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7746"><strong>Meir info om 7746 HASVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7746</styleUrl>
+ <Point>
+ <coordinates>10.59900,64.44480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7770">
+ <IconStyle id="icon7770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7770">
+ <name>7770 FLATANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7770:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flatanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7770"><strong>Meir info om 7770 FLATANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7770</styleUrl>
+ <Point>
+ <coordinates>10.89400,64.50060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7771">
+ <IconStyle id="icon7771">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7771.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7771">
+ <name>7771 FLATANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7771:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flatanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7771"><strong>Meir info om 7771 FLATANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7771</styleUrl>
+ <Point>
+ <coordinates>10.89422,64.49985</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7845">
+ <IconStyle id="icon7845">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7845.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7845">
+ <name>7845 OPPLAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7845:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flatanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7845"><strong>Meir info om 7845 OPPLAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7845</styleUrl>
+ <Point>
+ <coordinates>10.86500,64.33780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7846">
+ <IconStyle id="icon7846">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7846.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7846">
+ <name>7846 HASVÅG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7846:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flatanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7846"><strong>Meir info om 7846 HASVÅG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7846</styleUrl>
+ <Point>
+ <coordinates>10.59900,64.44480</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

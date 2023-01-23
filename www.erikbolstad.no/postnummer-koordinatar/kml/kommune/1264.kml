@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Austrheim, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5941">
+ <IconStyle id="icon5941">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5941.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5941">
+ <name>5941 AUSTRHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5941:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Austrheim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5941"><strong>Meir info om 5941 AUSTRHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5941</styleUrl>
+ <Point>
+ <coordinates>4.9295,60.7889</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5943">
+ <IconStyle id="icon5943">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5943.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5943">
+ <name>5943 AUSTRHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5943:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Austrheim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5943"><strong>Meir info om 5943 AUSTRHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5943</styleUrl>
+ <Point>
+ <coordinates>4.9329,60.7773</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5952">
+ <IconStyle id="icon5952">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5952.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5952">
+ <name>5952 FONNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5952:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Austrheim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5952"><strong>Meir info om 5952 FONNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5952</styleUrl>
+ <Point>
+ <coordinates>4.9940,60.8031</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5953">
+ <IconStyle id="icon5953">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5953.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5953">
+ <name>5953 FONNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5953:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Austrheim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5953"><strong>Meir info om 5953 FONNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5953</styleUrl>
+ <Point>
+ <coordinates>4.99369,60.80309</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Austrheim (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>4.6852846,60.8593501,0 4.9509292,60.8402396,0 4.9509292,60.8402396,0 4.9525133,60.8266005,0 5.0459769,60.7969861,0 5.0190467,60.7853905,0 4.9900044,60.7920907,0 5.047033,60.7583175,0 5.0264393,60.7513522,0 5.0375282,60.7330289,0 5.0375282,60.7330289,0 4.9618472,60.7308472,0 4.7889131,60.7643914,0 4.7889131,60.7643914,0 4.6859447,60.8381295,0 4.6852846,60.8593501,0 4.6852846,60.8593501,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Enebakk, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1835">
+ <IconStyle id="icon1835">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1835.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1835">
+ <name>1835 ENEBAKK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1835:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Enebakk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1835"><strong>Meir info om 1835 ENEBAKK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1835</styleUrl>
+ <Point>
+ <coordinates>11.14750,59.76190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1838">
+ <IconStyle id="icon1838">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1838.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1838">
+ <name>1838 FLATEBY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1838:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Enebakk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1838"><strong>Meir info om 1838 FLATEBY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1838</styleUrl>
+ <Point>
+ <coordinates>11.14080,59.83460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1911">
+ <IconStyle id="icon1911">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1911.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1911">
+ <name>1911 FLATEBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1911:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Enebakk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1911"><strong>Meir info om 1911 FLATEBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1911</styleUrl>
+ <Point>
+ <coordinates>11.14080,59.83460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1912">
+ <IconStyle id="icon1912">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1912.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1912">
+ <name>1912 ENEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1912:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Enebakk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1912"><strong>Meir info om 1912 ENEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1912</styleUrl>
+ <Point>
+ <coordinates>11.14750,59.76190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1914">
+ <IconStyle id="icon1914">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1914.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1914">
+ <name>1914 YTRE ENEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1914:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Enebakk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1914"><strong>Meir info om 1914 YTRE ENEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1914</styleUrl>
+ <Point>
+ <coordinates>11.03280,59.73030</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1916">
+ <IconStyle id="icon1916">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1916.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1916">
+ <name>1916 FLATEBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1916:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Enebakk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1916"><strong>Meir info om 1916 FLATEBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1916</styleUrl>
+ <Point>
+ <coordinates>11.14751,59.83464</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1917">
+ <IconStyle id="icon1917">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1917.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1917">
+ <name>1917 YTRE ENEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1917:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Enebakk kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1917"><strong>Meir info om 1917 YTRE ENEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1917</styleUrl>
+ <Point>
+ <coordinates>11.05048,59.72398</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

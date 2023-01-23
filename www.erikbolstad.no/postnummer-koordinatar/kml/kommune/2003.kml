@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vadsø, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9800">
+ <IconStyle id="icon9800">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9800.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9800">
+ <name>9800 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9800:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9800"><strong>Meir info om 9800 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9800</styleUrl>
+ <Point>
+ <coordinates>29.7523,70.0732</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9801">
+ <IconStyle id="icon9801">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9801.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9801">
+ <name>9801 VADSØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9801:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9801"><strong>Meir info om 9801 VADSØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9801</styleUrl>
+ <Point>
+ <coordinates>29.7523,70.0732</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9802">
+ <IconStyle id="icon9802">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9802.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9802">
+ <name>9802 VESTRE JAKOBSELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9802:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9802"><strong>Meir info om 9802 VESTRE JAKOBSELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9802</styleUrl>
+ <Point>
+ <coordinates>29.3335,70.1115</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9810">
+ <IconStyle id="icon9810">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9810.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9810">
+ <name>9810 VESTRE JAKOBSELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9810:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9810"><strong>Meir info om 9810 VESTRE JAKOBSELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9810</styleUrl>
+ <Point>
+ <coordinates>29.33388,70.11074</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9811">
+ <IconStyle id="icon9811">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9811.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9811">
+ <name>9811 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9811:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9811"><strong>Meir info om 9811 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9811</styleUrl>
+ <Point>
+ <coordinates>29.7528,70.07306</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9815">
+ <IconStyle id="icon9815">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9815.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9815">
+ <name>9815 VADSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9815:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vadsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9815"><strong>Meir info om 9815 VADSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9815</styleUrl>
+ <Point>
+ <coordinates>29.7521,70.0731</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Vadsø (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>30.9232373,70.0308163,0 30.4529364,70.1955211,0 30.460263,70.2097897,0 30.0719504,70.2976644,0 30.0719504,70.2976644,0 29.8631409,70.3266671,0 29.5938864,70.3402288,0 29.6671529,70.3648633,0 29.5774014,70.3771694,0 29.4528483,70.4281608,0 29.2272093,70.4789073,0 29.2272093,70.4789073,0 29.1026562,70.4525718,0 29.0532013,70.4102411,0 28.9835981,70.4077844,0 28.9835981,70.4077844,0 29.0853137,70.3791228,0 29.2731307,70.3776212,0 29.2686589,70.3039038,0 29.183694,70.2284078,0 29.2149969,70.1526341,0 29.1434475,70.0918146,0 29.3491519,70.0674368,0 29.3491519,70.0674368,0 30.0333424,69.9788268,0 30.6191526,69.9910713,0 30.9232373,70.0308163,0 30.9232373,70.0308163,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

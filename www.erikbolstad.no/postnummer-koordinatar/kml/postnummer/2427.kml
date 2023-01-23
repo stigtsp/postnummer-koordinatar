@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2427 PLASSEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2427">
+ <name>2427 PLASSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2427:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2427"><strong>Meir info om 2427 PLASSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>12.50780,61.13140</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2427 PLASSEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.38138,61.13085 12.36061,61.12388 12.34610,61.12179 12.33040,61.11901 12.31683,61.11678 12.31172,61.11555 12.30905,61.11397 12.30721,61.11131 12.30638,61.10910 12.30668,61.10617 12.30903,61.10523 12.31137,61.10321 12.31698,61.09971 12.32165,61.09711 12.32877,61.09307 12.33710,61.08709 12.33942,61.08508 12.34232,61.08297 12.34523,61.08063 12.34608,61.07865 12.34776,61.07578 12.34908,61.07402 12.35114,61.07223 12.35386,61.07006 12.35553,61.06867 12.35835,61.06688 12.36179,61.06454 12.36394,61.06252 12.36620,61.05897 12.36837,61.05546 12.37126,61.05182 12.37361,61.04872 12.37614,61.04593 12.37792,61.04327 12.37934,61.04032 12.39606,61.04287 12.44761,61.05073 12.48759,61.05163 12.49756,61.05118 12.54072,61.04929 12.59668,61.04701 12.59719,61.04699 12.59805,61.04696 12.60016,61.04646 12.60194,61.04648 12.61039,61.04654 12.65169,61.05215 12.65766,61.05269 12.66844,61.05505 12.67124,61.05651 12.67926,61.05887 12.68144,61.05950 12.68261,61.06120 12.68727,61.07662 12.69280,61.09476 12.69482,61.10143 12.70047,61.12068 12.64758,61.14260 12.64249,61.13844 12.63044,61.13456 12.60791,61.13523 12.58086,61.12893 12.55954,61.11936 12.55609,61.12319 12.55312,61.12724 12.54952,61.13054 12.53598,61.13920 12.52886,61.14303 12.51722,61.14685 12.50108,61.15337 12.48719,61.15907 12.47895,61.16370 12.46311,61.15349 12.42092,61.14432 12.40361,61.14157 12.38138,61.13085</coordinates></LineString></Placemark>
+ </Document>
+</kml>

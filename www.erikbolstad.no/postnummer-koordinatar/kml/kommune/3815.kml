@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Drangedal, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3750">
+ <IconStyle id="icon3750">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3750.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3750">
+ <name>3750 DRANGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3750:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3750"><strong>Meir info om 3750 DRANGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3750</styleUrl>
+ <Point>
+ <coordinates>9.06260,59.09560</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3753">
+ <IconStyle id="icon3753">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3753.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3753">
+ <name>3753 TØRDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3753:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3753"><strong>Meir info om 3753 TØRDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3753</styleUrl>
+ <Point>
+ <coordinates>8.80990,59.15620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3760">
+ <IconStyle id="icon3760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3760">
+ <name>3760 NESLANDSVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3760"><strong>Meir info om 3760 NESLANDSVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3760</styleUrl>
+ <Point>
+ <coordinates>9.15800,58.96790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3795">
+ <IconStyle id="icon3795">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3795.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3795">
+ <name>3795 DRANGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3795:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3795"><strong>Meir info om 3795 DRANGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3795</styleUrl>
+ <Point>
+ <coordinates>9.06184,59.09677</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

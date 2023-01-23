@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5148 FYLLINGSDALEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5148">
+ <name>5148 FYLLINGSDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5148:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bergen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5148"><strong>Meir info om 5148 FYLLINGSDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.30190,60.34650</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5148 FYLLINGSDALEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.30689,60.35413 5.30697,60.35391 5.30708,60.35271 5.30698,60.35169 5.30524,60.34777 5.30433,60.34907 5.30433,60.34970 5.30527,60.35148 5.30531,60.35160 5.30566,60.35217 5.30627,60.35299 5.30579,60.35327 5.30627,60.35335 5.30651,60.35340 5.30668,60.35354 5.30672,60.35366 5.30671,60.35382 5.30668,60.35400 5.30660,60.35415 5.30645,60.35434 5.30629,60.35452 5.30584,60.35436 5.30527,60.35417 5.30419,60.35423 5.30469,60.35509 5.30287,60.35653 5.30264,60.35597 5.30222,60.35503 5.30151,60.35334 5.30263,60.35332 5.30292,60.35280 5.30430,60.35284 5.30483,60.35276 5.30528,60.35252 5.30541,60.35227 5.30534,60.35208 5.30517,60.35183 5.30513,60.35163 5.30484,60.35155 5.30092,60.35138 5.30084,60.35110 5.30073,60.35091 5.30055,60.35074 5.30053,60.35074 5.30031,60.35061 5.29792,60.34977 5.29859,60.34926 5.29760,60.34916 5.29711,60.34943 5.29692,60.34935 5.29647,60.34909 5.29582,60.34872 5.29681,60.34749 5.29705,60.34726 5.29855,60.34724 5.29896,60.34712 5.29943,60.34553 5.29869,60.34565 5.29769,60.34484 5.29722,60.34377 5.29494,60.34341 5.29550,60.34161 5.29441,60.34076 5.29421,60.34040 5.29426,60.34023 5.29423,60.34017 5.29520,60.34015 5.29545,60.33967 5.29507,60.33908 5.29582,60.33881 5.29794,60.33881 5.29777,60.33896 5.29766,60.33912 5.29765,60.33920 5.29766,60.33925 5.29797,60.33953 5.29924,60.34056 5.29976,60.34087 5.30015,60.34113 5.30072,60.34140 5.30145,60.34161 5.30703,60.34000 5.31014,60.34214 5.31156,60.34465 5.31247,60.34714 5.31480,60.35393 5.30888,60.35329 5.30812,60.35422 5.30751,60.35399 5.30689,60.35413</coordinates></LineString></Placemark>
+ </Document>
+</kml>

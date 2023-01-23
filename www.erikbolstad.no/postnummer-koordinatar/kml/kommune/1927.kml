@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tranøy, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9304">
+ <IconStyle id="icon9304">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9304.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9304">
+ <name>9304 VANGSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9304:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tranøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9304"><strong>Meir info om 9304 VANGSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9304</styleUrl>
+ <Point>
+ <coordinates>17.736,69.17</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9375">
+ <IconStyle id="icon9375">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9375.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9375">
+ <name>9375 VANGSVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9375:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tranøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9375"><strong>Meir info om 9375 VANGSVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9375</styleUrl>
+ <Point>
+ <coordinates>17.736,69.17</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9376">
+ <IconStyle id="icon9376">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9376.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9376">
+ <name>9376 SKATVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9376:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tranøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9376"><strong>Meir info om 9376 SKATVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9376</styleUrl>
+ <Point>
+ <coordinates>17.6020,69.1618</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9391">
+ <IconStyle id="icon9391">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9391.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9391">
+ <name>9391 STONGLANDSEIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9391:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tranøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9391"><strong>Meir info om 9391 STONGLANDSEIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9391</styleUrl>
+ <Point>
+ <coordinates>17.17707,69.08511</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9392">
+ <IconStyle id="icon9392">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9392.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9392">
+ <name>9392 STONGLANDSEIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9392:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tranøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9392"><strong>Meir info om 9392 STONGLANDSEIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9392</styleUrl>
+ <Point>
+ <coordinates>17.1724,69.0854</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Tranøy (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>17.2424507,68.9756612,0 16.9442323,68.9551284,0 16.9442323,68.9551284,0 16.7123119,69.0216537,0 16.7274137,69.1936042,0 16.7274137,69.1936042,0 16.8288114,69.1763549,0 17.0909354,69.1786556,0 17.2613699,69.2108399,0 17.1966479,69.2452703,0 17.2602912,69.2555887,0 17.2678421,69.2876593,0 17.4069943,69.3010081,0 17.4069943,69.3010081,0 17.5233757,69.3096891,0 17.5547862,69.3120314,0 17.5666519,69.353149,0 17.5666519,69.353149,0 17.6734431,69.2784702,0 17.670207,69.2395047,0 17.7252207,69.241034,0 17.7209059,69.218082,0 17.8190675,69.2196129,0 17.850997,69.2042992,0 17.8337378,69.1472374,0 17.8337378,69.1472374,0 17.3919026,69.112267,0 17.329338,69.089179,0 17.306462,69.0203751,0 17.2424507,68.9756612,0 17.2424507,68.9756612,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Samnanger, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5650">
+ <IconStyle id="icon5650">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5650.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5650">
+ <name>5650 TYSSE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5650:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Samnanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5650"><strong>Meir info om 5650 TYSSE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5650</styleUrl>
+ <Point>
+ <coordinates>5.7551,60.3748</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5651">
+ <IconStyle id="icon5651">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5651.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5651">
+ <name>5651 TYSSE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5651:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Samnanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5651"><strong>Meir info om 5651 TYSSE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5651</styleUrl>
+ <Point>
+ <coordinates>5.75505,60.37480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5652">
+ <IconStyle id="icon5652">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5652.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5652">
+ <name>5652 ÅRLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5652:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Samnanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5652"><strong>Meir info om 5652 ÅRLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5652</styleUrl>
+ <Point>
+ <coordinates>5.7116,60.4006</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5653">
+ <IconStyle id="icon5653">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5653.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5653">
+ <name>5653 ÅRLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5653:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Samnanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5653"><strong>Meir info om 5653 ÅRLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5653</styleUrl>
+ <Point>
+ <coordinates>5.73059,60.40154</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5658">
+ <IconStyle id="icon5658">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5658.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5658">
+ <name>5658 ÅRLAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5658:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Samnanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5658"><strong>Meir info om 5658 ÅRLAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5658</styleUrl>
+ <Point>
+ <coordinates>5.7116,60.4006</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Samnanger (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.9909656,60.5051668,0 5.9171765,60.4112637,0 5.9175065,60.3326232,0 5.9175065,60.3326232,0 5.7699989,60.3250255,0 5.7390589,60.3551366,0 5.7246202,60.3275784,0 5.6369568,60.3178764,0 5.6287061,60.2872198,0 5.6287061,60.2872198,0 5.5709514,60.291309,0 5.5765831,60.3293477,0 5.5765831,60.3293477,0 5.5782333,60.3799525,0 5.6880112,60.437181,0 5.6880112,60.437181,0 5.7911446,60.4524426,0 5.8813863,60.4842144,0 5.917483,60.5280085,0 5.9909656,60.5051668,0 5.9909656,60.5051668,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

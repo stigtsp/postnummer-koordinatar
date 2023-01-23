@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lyngen, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9060">
+ <IconStyle id="icon9060">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9060.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9060">
+ <name>9060 LYNGSEIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9060:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lyngen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9060"><strong>Meir info om 9060 LYNGSEIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9060</styleUrl>
+ <Point>
+ <coordinates>20.2191,69.5757</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9062">
+ <IconStyle id="icon9062">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9062.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9062">
+ <name>9062 FURUFLATEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9062:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lyngen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9062"><strong>Meir info om 9062 FURUFLATEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9062</styleUrl>
+ <Point>
+ <coordinates>20.1543,69.4431</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9064">
+ <IconStyle id="icon9064">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9064.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9064">
+ <name>9064 SVENSBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9064:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lyngen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9064"><strong>Meir info om 9064 SVENSBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9064</styleUrl>
+ <Point>
+ <coordinates>19.8111,69.6636</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9068">
+ <IconStyle id="icon9068">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9068.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9068">
+ <name>9068 NORD-LENANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9068:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lyngen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9068"><strong>Meir info om 9068 NORD-LENANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9068</styleUrl>
+ <Point>
+ <coordinates>20.16121,69.90826</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9069">
+ <IconStyle id="icon9069">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9069.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9069">
+ <name>9069 LYNGSEIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9069:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lyngen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9069"><strong>Meir info om 9069 LYNGSEIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9069</styleUrl>
+ <Point>
+ <coordinates>20.21552,69.57523</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Lyngen (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>20.2746478,69.4650771,0 20.1959459,69.4158611,0 19.8919974,69.4029442,0 19.8919974,69.4029442,0 19.879862,69.4716151,0 20.0403186,69.5504336,0 20.0430153,69.5866774,0 19.7760372,69.6313091,0 19.7719921,69.6556994,0 19.714012,69.6791254,0 19.8421075,69.8377377,0 19.8421075,69.8377377,0 19.8579153,69.8570466,0 20.2220842,70.0608034,0 20.2220842,70.0608034,0 20.4999571,69.9415701,0 20.4576721,69.8784321,0 20.4576721,69.8784321,0 20.3856229,69.759123,0 20.3856229,69.759123,0 20.4291161,69.6962134,0 20.4063339,69.6141268,0 20.2746478,69.4650771,0 20.2746478,69.4650771,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

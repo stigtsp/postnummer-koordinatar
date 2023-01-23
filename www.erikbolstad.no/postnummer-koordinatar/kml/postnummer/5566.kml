@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5566 HERVIK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5566">
+ <name>5566 HERVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5566:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tysvær kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5566"><strong>Meir info om 5566 HERVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.59450,59.32370</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5566 HERVIK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.56549,59.39681 5.56636,59.39184 5.56218,59.38464 5.55383,59.37307 5.58058,59.36724 5.58381,59.36502 5.58568,59.36279 5.58853,59.36068 5.58377,59.35780 5.57754,59.35454 5.57202,59.35035 5.56684,59.34976 5.54483,59.33982 5.53611,59.33820 5.53494,59.33259 5.53230,59.33079 5.53086,59.33054 5.52916,59.32881 5.52943,59.32246 5.52463,59.31616 5.53500,59.31543 5.55898,59.31532 5.58672,59.31189 5.61884,59.30479 5.64169,59.33020 5.65620,59.34752 5.65858,59.35244 5.64527,59.37149 5.63306,59.38235 5.62643,59.39471 5.62407,59.40240 5.61384,59.40685 5.59841,59.41029 5.59104,59.40839 5.58612,59.40430 5.58498,59.40265 5.58033,59.39945 5.57346,59.39677 5.56549,59.39681</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Re, Vestfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3164">
+ <IconStyle id="icon3164">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3164.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3164">
+ <name>3164 REVETAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3164:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Re kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3164"><strong>Meir info om 3164 REVETAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3164</styleUrl>
+ <Point>
+ <coordinates>10.2643,59.37174</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3174">
+ <IconStyle id="icon3174">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3174.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3174">
+ <name>3174 REVETAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3174:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Re kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3174"><strong>Meir info om 3174 REVETAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3174</styleUrl>
+ <Point>
+ <coordinates>10.264,59.3716</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3175">
+ <IconStyle id="icon3175">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3175.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3175">
+ <name>3175 RAMNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3175:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Re kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3175"><strong>Meir info om 3175 RAMNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3175</styleUrl>
+ <Point>
+ <coordinates>10.251,59.3477</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3176">
+ <IconStyle id="icon3176">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3176.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3176">
+ <name>3176 UNDRUMSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3176:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Re kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3176"><strong>Meir info om 3176 UNDRUMSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3176</styleUrl>
+ <Point>
+ <coordinates>10.3686,59.3719</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3177">
+ <IconStyle id="icon3177">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3177.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3177">
+ <name>3177 VÅLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3177:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Re kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3177"><strong>Meir info om 3177 VÅLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3177</styleUrl>
+ <Point>
+ <coordinates>10.27865,59.41691</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3178">
+ <IconStyle id="icon3178">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3178.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3178">
+ <name>3178 VÅLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3178:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Re kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3178"><strong>Meir info om 3178 VÅLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3178</styleUrl>
+ <Point>
+ <coordinates>10.2783,59.418</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Re (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.0419355,59.3827681,0 10.1330229,59.3834405,0 10.1521645,59.3894908,0 10.2122294,59.3296124,0 10.2122294,59.3296124,0 10.2300508,59.3158052,0 10.2557929,59.3195101,0 10.2775747,59.304688,0 10.2775747,59.304688,0 10.3482004,59.3205205,0 10.3534809,59.3487984,0 10.3752626,59.3403848,0 10.390679,59.3508973,0 10.390679,59.3508973,0 10.3954314,59.3767292,0 10.3764219,59.3813016,0 10.3822303,59.4036166,0 10.3558282,59.4011976,0 10.3331223,59.4130222,0 10.3526599,59.4463236,0 10.4538111,59.4820058,0 10.4538111,59.4820058,0 10.3930841,59.5159635,0 10.3930841,59.5159635,0 10.3449002,59.4945266,0 10.3449002,59.4945266,0 10.3217983,59.4532895,0 10.3151088,59.454879,0 10.2709741,59.4653641,0 10.2460598,59.4523949,0 10.2439119,59.4512766,0 10.2383632,59.4509241,0 10.2280706,59.4502701,0 10.207609,59.4838031,0 10.1409435,59.4646934,0 10.1409435,59.4646934,0 10.1482041,59.4482571,0 10.061077,59.4559731,0 10.061077,59.4559731,0 10.0419355,59.3827681,0 10.0419355,59.3827681,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

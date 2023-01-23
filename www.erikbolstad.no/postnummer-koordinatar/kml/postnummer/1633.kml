@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1633 GAMLE FREDRIKSTAD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1633">
+ <name>1633 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1633:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1633"><strong>Meir info om 1633 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.96840,59.20430</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1633 GAMLE FREDRIKSTAD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.96609,59.20445 10.96491,59.20365 10.96412,59.20335 10.96322,59.20296 10.96456,59.20188 10.96594,59.20196 10.96643,59.20191 10.96918,59.20180 10.96976,59.20182 10.97034,59.20194 10.97125,59.20231 10.97196,59.20257 10.97270,59.20272 10.97344,59.20273 10.97451,59.20279 10.97597,59.20361 10.97848,59.20542 10.97860,59.20659 10.97796,59.20762 10.97791,59.20770 10.97685,59.20764 10.97632,59.20756 10.97433,59.20729 10.97188,59.20696 10.96965,59.20666 10.96952,59.20648 10.96911,59.20634 10.96861,59.20635 10.96609,59.20445</coordinates></LineString></Placemark>
+ </Document>
+</kml>

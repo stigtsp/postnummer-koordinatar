@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Saltdal, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8250">
+ <IconStyle id="icon8250">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8250.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8250">
+ <name>8250 ROGNAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8250:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Saltdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8250"><strong>Meir info om 8250 ROGNAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8250</styleUrl>
+ <Point>
+ <coordinates>15.38780,67.09530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8251">
+ <IconStyle id="icon8251">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8251.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8251">
+ <name>8251 ROGNAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8251:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Saltdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8251"><strong>Meir info om 8251 ROGNAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8251</styleUrl>
+ <Point>
+ <coordinates>15.39358,67.10207</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8252">
+ <IconStyle id="icon8252">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8252.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8252">
+ <name>8252 ROGNAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8252:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Saltdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8252"><strong>Meir info om 8252 ROGNAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8252</styleUrl>
+ <Point>
+ <coordinates>15.38780,67.09530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8253">
+ <IconStyle id="icon8253">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8253.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8253">
+ <name>8253 ROGNAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8253:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Saltdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8253"><strong>Meir info om 8253 ROGNAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8253</styleUrl>
+ <Point>
+ <coordinates>15.38780,67.09530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8255">
+ <IconStyle id="icon8255">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8255.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8255">
+ <name>8255 RØKLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8255:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Saltdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8255"><strong>Meir info om 8255 RØKLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8255</styleUrl>
+ <Point>
+ <coordinates>15.31680,66.98770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8256">
+ <IconStyle id="icon8256">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8256.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8256">
+ <name>8256 RØKLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8256:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Saltdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8256"><strong>Meir info om 8256 RØKLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8256</styleUrl>
+ <Point>
+ <coordinates>15.31785,66.98388</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Saltdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>16.3086143,67.0179417,0 16.1963737,66.9812694,0 16.0364103,66.9127062,0 15.989167,66.875,0 15.839167,66.764167,0 15.822924,66.7524612,0 15.816667,66.748333,0 15.796111,66.7325,0 15.773889,66.716667,0 15.753333,66.700833,0 15.731111,66.685,0 15.710833,66.669167,0 15.688611,66.653333,0 15.668333,66.6375,0 15.646111,66.621667,0 15.625833,66.605833,0 15.621111,66.603333,0 15.590556,66.588333,0 15.558333,66.573333,0 15.527778,66.558056,0 15.527778,66.558056,0 15.3297336,66.5763138,0 15.2440068,66.5742608,0 15.206824,66.5910906,0 15.2192183,66.622257,0 15.1500171,66.6693423,0 15.1489843,66.7036785,0 15.2057912,66.7391906,0 15.1603456,66.7807604,0 14.9785635,66.7746516,0 14.9785635,66.7746516,0 14.9716542,66.8438817,0 15.0245879,66.9280145,0 15.0245879,66.9280145,0 15.1097983,66.9613845,0 15.1730606,67.0133708,0 15.1795159,67.0833512,0 15.2053372,67.0949113,0 15.2466514,67.1491194,0 15.3615563,67.1831882,0 15.3615563,67.2067076,0 15.3615563,67.2067076,0 15.4390203,67.1881943,0 15.4997004,67.2087082,0 15.5862019,67.2017054,0 15.6727033,67.1621514,0 15.6727033,67.1375853,0 15.8431241,67.1054613,0 15.9890146,67.0521619,0 16.1620176,67.0184121,0 16.3086143,67.0179417,0 16.3086143,67.0179417,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

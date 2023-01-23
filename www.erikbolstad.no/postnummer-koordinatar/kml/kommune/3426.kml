@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tolga, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2540">
+ <IconStyle id="icon2540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2540">
+ <name>2540 TOLGA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2540"><strong>Meir info om 2540 TOLGA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2540</styleUrl>
+ <Point>
+ <coordinates>10.99120,62.41060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2541">
+ <IconStyle id="icon2541">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2541.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2541">
+ <name>2541 TOLGA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2541:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2541"><strong>Meir info om 2541 TOLGA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2541</styleUrl>
+ <Point>
+ <coordinates>10.99119,62.41055</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2542">
+ <IconStyle id="icon2542">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2542.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2542">
+ <name>2542 VINGELEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2542:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2542"><strong>Meir info om 2542 VINGELEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2542</styleUrl>
+ <Point>
+ <coordinates>10.86180,62.41720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2544">
+ <IconStyle id="icon2544">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2544.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2544">
+ <name>2544 ØVERSJØDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2544:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2544"><strong>Meir info om 2544 ØVERSJØDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2544</styleUrl>
+ <Point>
+ <coordinates>11.48160,62.20880</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

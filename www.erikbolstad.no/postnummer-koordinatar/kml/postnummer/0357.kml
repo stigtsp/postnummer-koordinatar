@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0357 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0357">
+ <name>0357 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0357:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0357"><strong>Meir info om 0357 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.72230,59.92660</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0357 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.71892,59.92550 10.71907,59.92553 10.71980,59.92474 10.72036,59.92447 10.72086,59.92485 10.72210,59.92538 10.72154,59.92579 10.72108,59.92603 10.72068,59.92588 10.72032,59.92611 10.72133,59.92656 10.72166,59.92670 10.72205,59.92650 10.72217,59.92646 10.72307,59.92685 10.72344,59.92704 10.72339,59.92706 10.72334,59.92708 10.72376,59.92727 10.72453,59.92761 10.72445,59.92768 10.72467,59.92778 10.72449,59.92789 10.72527,59.92822 10.72555,59.92807 10.72670,59.92856 10.72694,59.92861 10.72673,59.92881 10.72662,59.92903 10.72570,59.92856 10.72549,59.92870 10.72494,59.92842 10.72512,59.92828 10.72442,59.92797 10.72412,59.92819 10.72391,59.92810 10.72399,59.92802 10.72331,59.92772 10.72327,59.92770 10.72353,59.92755 10.72275,59.92722 10.72239,59.92739 10.72201,59.92746 10.72185,59.92735 10.72204,59.92725 10.72239,59.92703 10.72213,59.92696 10.72190,59.92708 10.72180,59.92704 10.72171,59.92701 10.72138,59.92686 10.72123,59.92677 10.72138,59.92668 10.72110,59.92657 10.72066,59.92652 10.72038,59.92643 10.71996,59.92666 10.71982,59.92659 10.71915,59.92618 10.71843,59.92582 10.71892,59.92550</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0357 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.72424,59.92595 10.72474,59.92629 10.72409,59.92666 10.72370,59.92639 10.72362,59.92643 10.72341,59.92629 10.72424,59.92595</coordinates></LineString></Placemark>
+ </Document>
+</kml>

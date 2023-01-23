@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1680 SKJÆRHALDEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1680">
+ <name>1680 SKJÆRHALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1680:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hvaler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1680"><strong>Meir info om 1680 SKJÆRHALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.03680,59.02530</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1680 SKJÆRHALDEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.98664,59.10818 10.98623,59.10716 10.98061,59.09293 10.97814,59.08305 10.97115,59.07548 10.97017,59.06876 10.97049,59.06544 10.97403,59.04837 10.97865,59.03362 10.97094,59.01455 10.90955,58.99926 10.86630,58.98471 10.82524,58.96635 10.75408,58.91456 10.75126,58.91250 10.74645,58.90900 10.91790,58.94227 10.98318,58.96044 11.06640,58.97738 11.07303,58.98138 11.06849,58.98182 11.06330,58.98238 11.05812,58.98324 11.04720,58.98617 11.03353,58.99064 10.99442,58.99556 10.99401,58.99797 11.01012,58.99981 11.03252,59.01037 11.04539,59.01077 11.04950,59.01676 11.06632,59.02133 11.08579,59.02318 11.09278,59.02590 11.10487,59.02675 11.12355,59.02645 11.15350,59.07925 11.16733,59.09261 11.15678,59.10258 11.15980,59.12274 11.15594,59.12391 11.13489,59.13031 11.12427,59.13044 11.11852,59.12545 11.11185,59.11966 11.10637,59.11490 11.06069,59.11235 10.98664,59.10818</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1778 HALDEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1778">
+ <name>1778 HALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1778:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Halden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1778"><strong>Meir info om 1778 HALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.38050,59.12960</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1778 HALDEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.37934,59.13349 11.37896,59.13293 11.37865,59.13228 11.37764,59.13172 11.37774,59.13142 11.37798,59.13073 11.37760,59.12945 11.37654,59.12871 11.37590,59.12795 11.37482,59.12674 11.37323,59.12601 11.37399,59.12553 11.37517,59.12590 11.37588,59.12628 11.37627,59.12633 11.37653,59.12622 11.37902,59.12661 11.38130,59.12777 11.38129,59.12795 11.38229,59.12789 11.38253,59.12800 11.38305,59.12811 11.38347,59.12813 11.38394,59.12815 11.38432,59.12820 11.38487,59.12834 11.38495,59.12885 11.38496,59.12912 11.38481,59.13048 11.38503,59.13171 11.38555,59.13300 11.38568,59.13415 11.38353,59.13489 11.38331,59.13522 11.38325,59.13452 11.38115,59.13361 11.37934,59.13349</coordinates></LineString></Placemark>
+ </Document>
+</kml>

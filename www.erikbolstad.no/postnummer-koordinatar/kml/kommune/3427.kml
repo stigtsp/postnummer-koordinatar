@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tynset, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2500">
+ <IconStyle id="icon2500">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2500.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2500">
+ <name>2500 TYNSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2500:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2500"><strong>Meir info om 2500 TYNSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2500</styleUrl>
+ <Point>
+ <coordinates>10.78240,62.27590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2501">
+ <IconStyle id="icon2501">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2501.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2501">
+ <name>2501 TYNSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2501:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2501"><strong>Meir info om 2501 TYNSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2501</styleUrl>
+ <Point>
+ <coordinates>10.77590,62.27891</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2510">
+ <IconStyle id="icon2510">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2510.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2510">
+ <name>2510 TYLLDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2510:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2510"><strong>Meir info om 2510 TYLLDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2510</styleUrl>
+ <Point>
+ <coordinates>10.79450,62.13750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2512">
+ <IconStyle id="icon2512">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2512.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2512">
+ <name>2512 KVIKNE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2512:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2512"><strong>Meir info om 2512 KVIKNE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2512</styleUrl>
+ <Point>
+ <coordinates>10.28530,62.58370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2513">
+ <IconStyle id="icon2513">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2513.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2513">
+ <name>2513 KVIKNE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2513:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2513"><strong>Meir info om 2513 KVIKNE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2513</styleUrl>
+ <Point>
+ <coordinates>10.28525,62.58366</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2592">
+ <IconStyle id="icon2592">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2592.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2592">
+ <name>2592 KVIKNE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2592:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2592"><strong>Meir info om 2592 KVIKNE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2592</styleUrl>
+ <Point>
+ <coordinates>10.28525,62.58366</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

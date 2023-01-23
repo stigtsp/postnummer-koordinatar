@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1624 GRESSVIK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1624">
+ <name>1624 GRESSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1624:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1624"><strong>Meir info om 1624 GRESSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.90480,59.22820</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1624 GRESSVIK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.90873,59.23810 10.90524,59.23460 10.90248,59.23397 10.89947,59.23364 10.89455,59.23153 10.89283,59.22736 10.89413,59.22504 10.89482,59.22491 10.89524,59.22525 10.89612,59.22504 10.89760,59.22484 10.89789,59.22516 10.89843,59.22571 10.89929,59.22672 10.90113,59.22663 10.90167,59.22661 10.90183,59.22732 10.90246,59.22738 10.90251,59.22671 10.90264,59.22649 10.90300,59.22619 10.90384,59.22598 10.90380,59.22516 10.90512,59.22429 10.90442,59.22330 10.90569,59.22280 10.90645,59.22297 10.90669,59.22343 10.90737,59.22428 10.90830,59.22549 10.90885,59.22569 10.90930,59.22607 10.91024,59.22605 10.91027,59.22494 10.91123,59.22476 10.91174,59.22523 10.91326,59.22520 10.91329,59.22726 10.91296,59.22815 10.91249,59.22926 10.91256,59.23062 10.91251,59.23077 10.91237,59.23180 10.91214,59.23266 10.91164,59.23348 10.91086,59.23444 10.91027,59.23539 10.91005,59.23572 10.90899,59.23739 10.90873,59.23810</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Roan, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7180">
+ <IconStyle id="icon7180">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7180.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7180">
+ <name>7180 ROAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7180:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Roan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7180"><strong>Meir info om 7180 ROAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7180</styleUrl>
+ <Point>
+ <coordinates>10.225,64.173</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7181">
+ <IconStyle id="icon7181">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7181.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7181">
+ <name>7181 ROAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7181:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Roan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7181"><strong>Meir info om 7181 ROAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7181</styleUrl>
+ <Point>
+ <coordinates>10.22502,64.17297</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7190">
+ <IconStyle id="icon7190">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7190.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7190">
+ <name>7190 BESSAKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7190:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Roan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7190"><strong>Meir info om 7190 BESSAKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7190</styleUrl>
+ <Point>
+ <coordinates>10.31966,64.24754</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7194">
+ <IconStyle id="icon7194">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7194.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7194">
+ <name>7194 BRANDSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7194:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Roan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7194"><strong>Meir info om 7194 BRANDSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7194</styleUrl>
+ <Point>
+ <coordinates>10.421,64.1879</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1654 SELLEBAKK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1654">
+ <name>1654 SELLEBAKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1654:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1654"><strong>Meir info om 1654 SELLEBAKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.00840,59.22740</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1654 SELLEBAKK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.00189,59.23295 11.00034,59.23055 11.00005,59.23011 10.99912,59.22896 10.99780,59.22761 10.99556,59.22554 10.99239,59.22328 10.99051,59.22079 10.98996,59.22055 10.98920,59.22004 10.98903,59.21986 10.98879,59.21975 10.98851,59.21963 10.98789,59.21938 10.98715,59.21907 10.98653,59.21885 10.98627,59.21873 10.98574,59.21819 10.98682,59.21792 10.98720,59.21821 10.98865,59.21793 10.99580,59.21673 10.99657,59.21709 10.99750,59.21766 10.99840,59.21832 10.99922,59.21897 11.00015,59.21972 11.00104,59.22067 11.00209,59.22187 11.00272,59.22285 11.00320,59.22333 11.00611,59.22364 11.00774,59.22292 11.00933,59.22332 11.01120,59.22367 11.01270,59.22291 11.01457,59.22227 11.01619,59.22170 11.01928,59.22223 11.01961,59.22260 11.02069,59.22442 11.02210,59.22596 11.02405,59.22735 11.02714,59.22927 11.02275,59.22975 11.02317,59.23027 11.02249,59.23110 11.02027,59.23159 11.01787,59.23192 11.01652,59.23103 11.01582,59.23096 11.00773,59.23203 11.00771,59.23204 11.00777,59.23216 11.00792,59.23252 11.00736,59.23273 11.00632,59.23275 11.00547,59.23290 11.00441,59.23314 11.00414,59.23296 11.00336,59.23291 11.00284,59.23307 11.00189,59.23295</coordinates></LineString></Placemark>
+ </Document>
+</kml>

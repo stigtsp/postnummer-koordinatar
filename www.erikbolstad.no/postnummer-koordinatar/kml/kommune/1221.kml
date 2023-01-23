@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Stord, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5400">
+ <IconStyle id="icon5400">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5400.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5400">
+ <name>5400 STORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5400:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5400"><strong>Meir info om 5400 STORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5400</styleUrl>
+ <Point>
+ <coordinates>5.50051,59.77977</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5401">
+ <IconStyle id="icon5401">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5401.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5401">
+ <name>5401 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5401:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5401"><strong>Meir info om 5401 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5401</styleUrl>
+ <Point>
+ <coordinates>5.50020,59.77959</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5402">
+ <IconStyle id="icon5402">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5402.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5402">
+ <name>5402 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5402:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5402"><strong>Meir info om 5402 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5402</styleUrl>
+ <Point>
+ <coordinates>5.4995,59.7818</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5403">
+ <IconStyle id="icon5403">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5403.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5403">
+ <name>5403 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5403:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5403"><strong>Meir info om 5403 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5403</styleUrl>
+ <Point>
+ <coordinates>5.4995,59.7818</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5404">
+ <IconStyle id="icon5404">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5404.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5404">
+ <name>5404 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5404:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5404"><strong>Meir info om 5404 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5404</styleUrl>
+ <Point>
+ <coordinates>5.4995,59.7818</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5405">
+ <IconStyle id="icon5405">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5405.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5405">
+ <name>5405 STORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5405:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5405"><strong>Meir info om 5405 STORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5405</styleUrl>
+ <Point>
+ <coordinates>5.4995,59.7818</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5406">
+ <IconStyle id="icon5406">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5406.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5406">
+ <name>5406 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5406:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5406"><strong>Meir info om 5406 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5406</styleUrl>
+ <Point>
+ <coordinates>5.46404,59.76492</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5407">
+ <IconStyle id="icon5407">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5407.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5407">
+ <name>5407 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5407:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5407"><strong>Meir info om 5407 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5407</styleUrl>
+ <Point>
+ <coordinates>5.51865,59.80343</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5408">
+ <IconStyle id="icon5408">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5408.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5408">
+ <name>5408 SAGVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5408:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5408"><strong>Meir info om 5408 SAGVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5408</styleUrl>
+ <Point>
+ <coordinates>5.39187,59.77491</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5409">
+ <IconStyle id="icon5409">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5409.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5409">
+ <name>5409 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5409:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5409"><strong>Meir info om 5409 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5409</styleUrl>
+ <Point>
+ <coordinates>5.5005,59.7798</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5410">
+ <IconStyle id="icon5410">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5410.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5410">
+ <name>5410 SAGVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5410:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5410"><strong>Meir info om 5410 SAGVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5410</styleUrl>
+ <Point>
+ <coordinates>5.3899,59.7814</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5411">
+ <IconStyle id="icon5411">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5411.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5411">
+ <name>5411 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5411:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5411"><strong>Meir info om 5411 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5411</styleUrl>
+ <Point>
+ <coordinates>5.4968,59.7723</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5412">
+ <IconStyle id="icon5412">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5412.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5412">
+ <name>5412 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5412:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5412"><strong>Meir info om 5412 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5412</styleUrl>
+ <Point>
+ <coordinates>5.4567,59.758</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5413">
+ <IconStyle id="icon5413">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5413.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5413">
+ <name>5413 HUGLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5413:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5413"><strong>Meir info om 5413 HUGLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5413</styleUrl>
+ <Point>
+ <coordinates>5.565,59.8636</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5414">
+ <IconStyle id="icon5414">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5414.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5414">
+ <name>5414 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5414:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5414"><strong>Meir info om 5414 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5414</styleUrl>
+ <Point>
+ <coordinates>5.516,59.8203</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5415">
+ <IconStyle id="icon5415">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5415.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5415">
+ <name>5415 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5415:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5415"><strong>Meir info om 5415 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5415</styleUrl>
+ <Point>
+ <coordinates>5.412,59.7861</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5416">
+ <IconStyle id="icon5416">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5416.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5416">
+ <name>5416 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5416:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5416"><strong>Meir info om 5416 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5416</styleUrl>
+ <Point>
+ <coordinates>5.5167,59.795</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5417">
+ <IconStyle id="icon5417">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5417.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5417">
+ <name>5417 STORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5417:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5417"><strong>Meir info om 5417 STORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5417</styleUrl>
+ <Point>
+ <coordinates>5.4938,59.7836</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5497">
+ <IconStyle id="icon5497">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5497.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5497">
+ <name>5497 HUGLO (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5497:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5497"><strong>Meir info om 5497 HUGLO (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5497</styleUrl>
+ <Point>
+ <coordinates>5.5759,59.8484</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Stord (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.6505486,59.8589872,0 5.6521744,59.8391013,0 5.5696676,59.7939897,0 5.5810123,59.7540124,0 5.5810123,59.7540124,0 5.4673766,59.7317386,0 5.4673766,59.7317386,0 5.428891,59.7324461,0 5.4024025,59.7254999,0 5.3776505,59.7390156,0 5.3282869,59.7836063,0 5.3222167,59.8093792,0 5.3222167,59.8093792,0 5.4055485,59.8417264,0 5.4344259,59.8843931,0 5.4979112,59.9257246,0 5.4979112,59.9257246,0 5.5422585,59.8828004,0 5.5574661,59.8828535,0 5.5711359,59.8900446,0 5.6188695,59.8645558,0 5.6505486,59.8589872,0 5.6505486,59.8589872,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

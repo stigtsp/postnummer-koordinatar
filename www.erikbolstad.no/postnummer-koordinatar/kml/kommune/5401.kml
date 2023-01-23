@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tromsø, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9000">
+ <IconStyle id="icon9000">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9000.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9000">
+ <name>9000 TROMSØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9000:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9000"><strong>Meir info om 9000 TROMSØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9000</styleUrl>
+ <Point>
+ <coordinates>18.95508,69.64890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9001">
+ <IconStyle id="icon9001">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9001.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9001">
+ <name>9001 TROMSØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9001:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9001"><strong>Meir info om 9001 TROMSØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9001</styleUrl>
+ <Point>
+ <coordinates>18.91970,69.63200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9002">
+ <IconStyle id="icon9002">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9002.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9002">
+ <name>9002 TROMSØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9002:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9002"><strong>Meir info om 9002 TROMSØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9002</styleUrl>
+ <Point>
+ <coordinates>18.91970,69.63200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9003">
+ <IconStyle id="icon9003">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9003.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9003">
+ <name>9003 TROMSØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9003:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9003"><strong>Meir info om 9003 TROMSØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9003</styleUrl>
+ <Point>
+ <coordinates>18.91970,69.63200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9006">
+ <IconStyle id="icon9006">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9006.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9006">
+ <name>9006 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9006:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9006"><strong>Meir info om 9006 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9006</styleUrl>
+ <Point>
+ <coordinates>18.92250,69.63390</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9007">
+ <IconStyle id="icon9007">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9007.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9007">
+ <name>9007 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9007:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9007"><strong>Meir info om 9007 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9007</styleUrl>
+ <Point>
+ <coordinates>18.93350,69.64240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9008">
+ <IconStyle id="icon9008">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9008.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9008">
+ <name>9008 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9008:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9008"><strong>Meir info om 9008 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9008</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.65130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9009">
+ <IconStyle id="icon9009">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9009.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9009">
+ <name>9009 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9009:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9009"><strong>Meir info om 9009 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9009</styleUrl>
+ <Point>
+ <coordinates>18.95030,69.65420</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9010">
+ <IconStyle id="icon9010">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9010.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9010">
+ <name>9010 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9010:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9010"><strong>Meir info om 9010 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9010</styleUrl>
+ <Point>
+ <coordinates>18.96740,69.66930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9011">
+ <IconStyle id="icon9011">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9011.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9011">
+ <name>9011 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9011:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9011"><strong>Meir info om 9011 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9011</styleUrl>
+ <Point>
+ <coordinates>18.95000,69.66020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9012">
+ <IconStyle id="icon9012">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9012.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9012">
+ <name>9012 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9012:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9012"><strong>Meir info om 9012 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9012</styleUrl>
+ <Point>
+ <coordinates>18.92770,69.65150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9013">
+ <IconStyle id="icon9013">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9013.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9013">
+ <name>9013 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9013:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9013"><strong>Meir info om 9013 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9013</styleUrl>
+ <Point>
+ <coordinates>18.90710,69.64400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9014">
+ <IconStyle id="icon9014">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9014.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9014">
+ <name>9014 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9014:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9014"><strong>Meir info om 9014 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9014</styleUrl>
+ <Point>
+ <coordinates>18.94840,69.68350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9015">
+ <IconStyle id="icon9015">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9015.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9015">
+ <name>9015 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9015:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9015"><strong>Meir info om 9015 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9015</styleUrl>
+ <Point>
+ <coordinates>18.93600,69.67630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9016">
+ <IconStyle id="icon9016">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9016.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9016">
+ <name>9016 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9016:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9016"><strong>Meir info om 9016 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9016</styleUrl>
+ <Point>
+ <coordinates>18.92730,69.66590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9017">
+ <IconStyle id="icon9017">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9017.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9017">
+ <name>9017 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9017:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9017"><strong>Meir info om 9017 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9017</styleUrl>
+ <Point>
+ <coordinates>18.97610,69.70130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9018">
+ <IconStyle id="icon9018">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9018.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9018">
+ <name>9018 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9018:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9018"><strong>Meir info om 9018 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9018</styleUrl>
+ <Point>
+ <coordinates>19.00190,69.69490</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9019">
+ <IconStyle id="icon9019">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9019.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9019">
+ <name>9019 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9019:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9019"><strong>Meir info om 9019 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9019</styleUrl>
+ <Point>
+ <coordinates>18.99190,69.68500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9020">
+ <IconStyle id="icon9020">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9020.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9020">
+ <name>9020 TROMSDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9020:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9020"><strong>Meir info om 9020 TROMSDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9020</styleUrl>
+ <Point>
+ <coordinates>18.99920,69.64420</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9021">
+ <IconStyle id="icon9021">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9021.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9021">
+ <name>9021 TROMSDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9021:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9021"><strong>Meir info om 9021 TROMSDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9021</styleUrl>
+ <Point>
+ <coordinates>19.01090,69.54710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9022">
+ <IconStyle id="icon9022">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9022.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9022">
+ <name>9022 KROKELVDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9022:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9022"><strong>Meir info om 9022 KROKELVDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9022</styleUrl>
+ <Point>
+ <coordinates>19.07210,69.68410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9023">
+ <IconStyle id="icon9023">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9023.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9023">
+ <name>9023 KROKELVDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9023:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9023"><strong>Meir info om 9023 KROKELVDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9023</styleUrl>
+ <Point>
+ <coordinates>19.25010,69.75500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9024">
+ <IconStyle id="icon9024">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9024.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9024">
+ <name>9024 TOMASJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9024:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9024"><strong>Meir info om 9024 TOMASJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9024</styleUrl>
+ <Point>
+ <coordinates>19.01820,69.65940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9026">
+ <IconStyle id="icon9026">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9026.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9026">
+ <name>9026 OLDERVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9026:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9026"><strong>Meir info om 9026 OLDERVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9026</styleUrl>
+ <Point>
+ <coordinates>19.67600,69.75690</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9027">
+ <IconStyle id="icon9027">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9027.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9027">
+ <name>9027 RAMFJORDBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9027:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9027"><strong>Meir info om 9027 RAMFJORDBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9027</styleUrl>
+ <Point>
+ <coordinates>19.18200,69.56140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9029">
+ <IconStyle id="icon9029">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9029.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9029">
+ <name>9029 TROMSDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9029:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9029"><strong>Meir info om 9029 TROMSDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9029</styleUrl>
+ <Point>
+ <coordinates>18.97080,69.63990</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9030">
+ <IconStyle id="icon9030">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9030.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9030">
+ <name>9030 SJURSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9030:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9030"><strong>Meir info om 9030 SJURSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9030</styleUrl>
+ <Point>
+ <coordinates>19.63900,69.53820</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9032">
+ <IconStyle id="icon9032">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9032.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9032">
+ <name>9032 JØVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9032:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9032"><strong>Meir info om 9032 JØVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9032</styleUrl>
+ <Point>
+ <coordinates>19.81740,69.60420</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9034">
+ <IconStyle id="icon9034">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9034.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9034">
+ <name>9034 OLDERVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9034:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9034"><strong>Meir info om 9034 OLDERVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9034</styleUrl>
+ <Point>
+ <coordinates>19.67600,69.75690</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9037">
+ <IconStyle id="icon9037">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9037.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9037">
+ <name>9037 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9037:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9037"><strong>Meir info om 9037 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9037</styleUrl>
+ <Point>
+ <coordinates>18.97080,69.67970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9038">
+ <IconStyle id="icon9038">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9038.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9038">
+ <name>9038 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9038:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9038"><strong>Meir info om 9038 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9038</styleUrl>
+ <Point>
+ <coordinates>18.98290,69.68310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9043">
+ <IconStyle id="icon9043">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9043.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9043">
+ <name>9043 JØVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9043:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9043"><strong>Meir info om 9043 JØVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9043</styleUrl>
+ <Point>
+ <coordinates>19.81740,69.60420</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9057">
+ <IconStyle id="icon9057">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9057.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9057">
+ <name>9057 VIKRAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9057:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9057"><strong>Meir info om 9057 VIKRAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9057</styleUrl>
+ <Point>
+ <coordinates>18.77100,69.54290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9100">
+ <IconStyle id="icon9100">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9100.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9100">
+ <name>9100 KVALØYSLETTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9100:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9100"><strong>Meir info om 9100 KVALØYSLETTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9100</styleUrl>
+ <Point>
+ <coordinates>18.85690,69.68840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9101">
+ <IconStyle id="icon9101">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9101.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9101">
+ <name>9101 KVALØYSLETTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9101:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9101"><strong>Meir info om 9101 KVALØYSLETTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9101</styleUrl>
+ <Point>
+ <coordinates>18.88270,69.69580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9102">
+ <IconStyle id="icon9102">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9102.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9102">
+ <name>9102 KVALØYSLETTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9102:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9102"><strong>Meir info om 9102 KVALØYSLETTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9102</styleUrl>
+ <Point>
+ <coordinates>18.89210,69.70230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9103">
+ <IconStyle id="icon9103">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9103.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9103">
+ <name>9103 KVALØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9103:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9103"><strong>Meir info om 9103 KVALØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9103</styleUrl>
+ <Point>
+ <coordinates>18.82170,69.85210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9104">
+ <IconStyle id="icon9104">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9104.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9104">
+ <name>9104 KVALØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9104:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9104"><strong>Meir info om 9104 KVALØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9104</styleUrl>
+ <Point>
+ <coordinates>18.80060,69.68480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9105">
+ <IconStyle id="icon9105">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9105.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9105">
+ <name>9105 KVALØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9105:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9105"><strong>Meir info om 9105 KVALØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9105</styleUrl>
+ <Point>
+ <coordinates>18.75680,69.67500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9106">
+ <IconStyle id="icon9106">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9106.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9106">
+ <name>9106 STRAUMSBUKTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9106:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9106"><strong>Meir info om 9106 STRAUMSBUKTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9106</styleUrl>
+ <Point>
+ <coordinates>18.65340,69.57170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9107">
+ <IconStyle id="icon9107">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9107.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9107">
+ <name>9107 KVALØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9107:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9107"><strong>Meir info om 9107 KVALØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9107</styleUrl>
+ <Point>
+ <coordinates>18.65340,69.68550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9108">
+ <IconStyle id="icon9108">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9108.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9108">
+ <name>9108 KVALØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9108:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9108"><strong>Meir info om 9108 KVALØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9108</styleUrl>
+ <Point>
+ <coordinates>18.19240,69.62340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9109">
+ <IconStyle id="icon9109">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9109.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9109">
+ <name>9109 KVALØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9109:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9109"><strong>Meir info om 9109 KVALØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9109</styleUrl>
+ <Point>
+ <coordinates>,</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9110">
+ <IconStyle id="icon9110">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9110.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9110">
+ <name>9110 SOMMARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9110:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9110"><strong>Meir info om 9110 SOMMARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9110</styleUrl>
+ <Point>
+ <coordinates>18.00540,69.63430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9112">
+ <IconStyle id="icon9112">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9112.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9112">
+ <name>9112 STRAUMSBUKTA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9112:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9112"><strong>Meir info om 9112 STRAUMSBUKTA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9112</styleUrl>
+ <Point>
+ <coordinates>18.65340,69.57170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9118">
+ <IconStyle id="icon9118">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9118.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9118">
+ <name>9118 BRENSHOLMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9118:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9118"><strong>Meir info om 9118 BRENSHOLMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9118</styleUrl>
+ <Point>
+ <coordinates>18.04130,69.60180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9119">
+ <IconStyle id="icon9119">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9119.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9119">
+ <name>9119 SOMMARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9119:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9119"><strong>Meir info om 9119 SOMMARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9119</styleUrl>
+ <Point>
+ <coordinates>18.00422,69.63494</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9120">
+ <IconStyle id="icon9120">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9120.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9120">
+ <name>9120 VENGSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9120:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9120"><strong>Meir info om 9120 VENGSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9120</styleUrl>
+ <Point>
+ <coordinates>18.57710,69.83590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9122">
+ <IconStyle id="icon9122">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9122.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9122">
+ <name>9122 KÅRVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9122:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9122"><strong>Meir info om 9122 KÅRVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9122</styleUrl>
+ <Point>
+ <coordinates>18.92520,69.86880</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9128">
+ <IconStyle id="icon9128">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9128.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9128">
+ <name>9128 TUSSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9128:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9128"><strong>Meir info om 9128 TUSSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9128</styleUrl>
+ <Point>
+ <coordinates>18.13460,69.64700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9131">
+ <IconStyle id="icon9131">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9131.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9131">
+ <name>9131 KÅRVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9131:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9131"><strong>Meir info om 9131 KÅRVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9131</styleUrl>
+ <Point>
+ <coordinates>18.92520,69.86880</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9141">
+ <IconStyle id="icon9141">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9141.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9141">
+ <name>9141 MJØLVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9141:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9141"><strong>Meir info om 9141 MJØLVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9141</styleUrl>
+ <Point>
+ <coordinates>18.55960,70.03300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9240">
+ <IconStyle id="icon9240">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9240.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9240">
+ <name>9240 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9240:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9240"><strong>Meir info om 9240 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9240</styleUrl>
+ <Point>
+ <coordinates>18.91841,69.67382</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9251">
+ <IconStyle id="icon9251">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9251.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9251">
+ <name>9251 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9251:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9251"><strong>Meir info om 9251 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9251</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9252">
+ <IconStyle id="icon9252">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9252.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9252">
+ <name>9252 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9252:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9252"><strong>Meir info om 9252 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9252</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9253">
+ <IconStyle id="icon9253">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9253.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9253">
+ <name>9253 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9253:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9253"><strong>Meir info om 9253 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9253</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9254">
+ <IconStyle id="icon9254">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9254.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9254">
+ <name>9254 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9254:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9254"><strong>Meir info om 9254 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9254</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64787</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9255">
+ <IconStyle id="icon9255">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9255.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9255">
+ <name>9255 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9255:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9255"><strong>Meir info om 9255 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9255</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9256">
+ <IconStyle id="icon9256">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9256.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9256">
+ <name>9256 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9256:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9256"><strong>Meir info om 9256 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9256</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9257">
+ <IconStyle id="icon9257">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9257.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9257">
+ <name>9257 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9257:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9257"><strong>Meir info om 9257 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9257</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9258">
+ <IconStyle id="icon9258">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9258.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9258">
+ <name>9258 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9258:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9258"><strong>Meir info om 9258 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9258</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9259">
+ <IconStyle id="icon9259">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9259.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9259">
+ <name>9259 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9259:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9259"><strong>Meir info om 9259 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9259</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9260">
+ <IconStyle id="icon9260">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9260.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9260">
+ <name>9260 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9260:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9260"><strong>Meir info om 9260 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9260</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9261">
+ <IconStyle id="icon9261">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9261.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9261">
+ <name>9261 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9261:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9261"><strong>Meir info om 9261 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9261</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9262">
+ <IconStyle id="icon9262">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9262.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9262">
+ <name>9262 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9262:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9262"><strong>Meir info om 9262 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9262</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9263">
+ <IconStyle id="icon9263">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9263.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9263">
+ <name>9263 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9263:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9263"><strong>Meir info om 9263 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9263</styleUrl>
+ <Point>
+ <coordinates>18.95660,69.64790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9265">
+ <IconStyle id="icon9265">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9265.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9265">
+ <name>9265 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9265:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9265"><strong>Meir info om 9265 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9265</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9266">
+ <IconStyle id="icon9266">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9266.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9266">
+ <name>9266 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9266:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9266"><strong>Meir info om 9266 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9266</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9267">
+ <IconStyle id="icon9267">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9267.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9267">
+ <name>9267 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9267:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9267"><strong>Meir info om 9267 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9267</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9268">
+ <IconStyle id="icon9268">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9268.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9268">
+ <name>9268 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9268:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9268"><strong>Meir info om 9268 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9268</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9269">
+ <IconStyle id="icon9269">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9269.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9269">
+ <name>9269 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9269:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9269"><strong>Meir info om 9269 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9269</styleUrl>
+ <Point>
+ <coordinates>18.92063,69.66902</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9270">
+ <IconStyle id="icon9270">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9270.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9270">
+ <name>9270 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9270:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9270"><strong>Meir info om 9270 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9270</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9271">
+ <IconStyle id="icon9271">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9271.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9271">
+ <name>9271 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9271:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9271"><strong>Meir info om 9271 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9271</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9272">
+ <IconStyle id="icon9272">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9272.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9272">
+ <name>9272 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9272:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9272"><strong>Meir info om 9272 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9272</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9273">
+ <IconStyle id="icon9273">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9273.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9273">
+ <name>9273 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9273:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9273"><strong>Meir info om 9273 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9273</styleUrl>
+ <Point>
+ <coordinates>18.92794,69.67447</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9274">
+ <IconStyle id="icon9274">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9274.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9274">
+ <name>9274 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9274:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9274"><strong>Meir info om 9274 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9274</styleUrl>
+ <Point>
+ <coordinates>18.97364,69.69993</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9275">
+ <IconStyle id="icon9275">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9275.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9275">
+ <name>9275 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9275:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9275"><strong>Meir info om 9275 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9275</styleUrl>
+ <Point>
+ <coordinates>19.00350,69.68499</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9276">
+ <IconStyle id="icon9276">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9276.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9276">
+ <name>9276 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9276:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9276"><strong>Meir info om 9276 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9276</styleUrl>
+ <Point>
+ <coordinates>19.00350,69.68500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9277">
+ <IconStyle id="icon9277">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9277.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9277">
+ <name>9277 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9277:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9277"><strong>Meir info om 9277 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9277</styleUrl>
+ <Point>
+ <coordinates>19.00350,69.68500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9278">
+ <IconStyle id="icon9278">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9278.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9278">
+ <name>9278 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9278:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9278"><strong>Meir info om 9278 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9278</styleUrl>
+ <Point>
+ <coordinates>18.97100,69.66597</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9279">
+ <IconStyle id="icon9279">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9279.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9279">
+ <name>9279 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9279:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9279"><strong>Meir info om 9279 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9279</styleUrl>
+ <Point>
+ <coordinates>18.86340,69.69090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9280">
+ <IconStyle id="icon9280">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9280.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9280">
+ <name>9280 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9280:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9280"><strong>Meir info om 9280 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9280</styleUrl>
+ <Point>
+ <coordinates>18.86340,69.69090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9281">
+ <IconStyle id="icon9281">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9281.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9281">
+ <name>9281 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9281:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9281"><strong>Meir info om 9281 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9281</styleUrl>
+ <Point>
+ <coordinates>18.86341,69.69092</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9282">
+ <IconStyle id="icon9282">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9282.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9282">
+ <name>9282 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9282:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9282"><strong>Meir info om 9282 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9282</styleUrl>
+ <Point>
+ <coordinates>18.74778,69.67722</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9283">
+ <IconStyle id="icon9283">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9283.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9283">
+ <name>9283 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9283:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9283"><strong>Meir info om 9283 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9283</styleUrl>
+ <Point>
+ <coordinates>18.97090,69.64000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9284">
+ <IconStyle id="icon9284">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9284.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9284">
+ <name>9284 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9284:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9284"><strong>Meir info om 9284 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9284</styleUrl>
+ <Point>
+ <coordinates>18.97090,69.64000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9285">
+ <IconStyle id="icon9285">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9285.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9285">
+ <name>9285 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9285:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9285"><strong>Meir info om 9285 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9285</styleUrl>
+ <Point>
+ <coordinates>18.97086,69.63996</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9286">
+ <IconStyle id="icon9286">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9286.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9286">
+ <name>9286 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9286:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9286"><strong>Meir info om 9286 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9286</styleUrl>
+ <Point>
+ <coordinates>18.97090,69.64000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9287">
+ <IconStyle id="icon9287">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9287.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9287">
+ <name>9287 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9287:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9287"><strong>Meir info om 9287 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9287</styleUrl>
+ <Point>
+ <coordinates>19.02183,69.66661</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9288">
+ <IconStyle id="icon9288">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9288.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9288">
+ <name>9288 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9288:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9288"><strong>Meir info om 9288 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9288</styleUrl>
+ <Point>
+ <coordinates>19.07149,69.68411</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9290">
+ <IconStyle id="icon9290">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9290.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9290">
+ <name>9290 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9290:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9290"><strong>Meir info om 9290 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9290</styleUrl>
+ <Point>
+ <coordinates>18.95950,69.64930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9291">
+ <IconStyle id="icon9291">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9291.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9291">
+ <name>9291 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9291:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9291"><strong>Meir info om 9291 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9291</styleUrl>
+ <Point>
+ <coordinates>19.01120,69.65490</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9292">
+ <IconStyle id="icon9292">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9292.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9292">
+ <name>9292 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9292:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9292"><strong>Meir info om 9292 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9292</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9293">
+ <IconStyle id="icon9293">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9293.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9293">
+ <name>9293 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9293:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9293"><strong>Meir info om 9293 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9293</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9294">
+ <IconStyle id="icon9294">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9294.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9294">
+ <name>9294 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9294:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9294"><strong>Meir info om 9294 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9294</styleUrl>
+ <Point>
+ <coordinates>18.95670,69.64810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9295">
+ <IconStyle id="icon9295">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9295.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9295">
+ <name>9295 TROMSØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9295:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9295"><strong>Meir info om 9295 TROMSØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9295</styleUrl>
+ <Point>
+ <coordinates>18.91970,69.63200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9296">
+ <IconStyle id="icon9296">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9296.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9296">
+ <name>9296 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9296:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9296"><strong>Meir info om 9296 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9296</styleUrl>
+ <Point>
+ <coordinates>18.94850,69.64390</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9297">
+ <IconStyle id="icon9297">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9297.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9297">
+ <name>9297 TROMSØ (Ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9297:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9297"><strong>Meir info om 9297 TROMSØ (Ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9297</styleUrl>
+ <Point>
+ <coordinates>18.92250,69.67530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9298">
+ <IconStyle id="icon9298">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9298.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9298">
+ <name>9298 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9298:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9298"><strong>Meir info om 9298 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9298</styleUrl>
+ <Point>
+ <coordinates>18.95560,69.64930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9299">
+ <IconStyle id="icon9299">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9299.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9299">
+ <name>9299 TROMSØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9299:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tromsø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9299"><strong>Meir info om 9299 TROMSØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9299</styleUrl>
+ <Point>
+ <coordinates>18.95560,69.65180</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

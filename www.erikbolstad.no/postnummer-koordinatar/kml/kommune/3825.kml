@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Vinje, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3864">
+ <IconStyle id="icon3864">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3864.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3864">
+ <name>3864 RAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3864:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3864"><strong>Meir info om 3864 RAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3864</styleUrl>
+ <Point>
+ <coordinates>8.06300,59.69470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3884">
+ <IconStyle id="icon3884">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3884.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3884">
+ <name>3884 RAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3884:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3884"><strong>Meir info om 3884 RAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3884</styleUrl>
+ <Point>
+ <coordinates>8.06388,59.69504</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3887">
+ <IconStyle id="icon3887">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3887.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3887">
+ <name>3887 VINJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3887:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3887"><strong>Meir info om 3887 VINJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3887</styleUrl>
+ <Point>
+ <coordinates>7.96919,59.56587</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3888">
+ <IconStyle id="icon3888">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3888.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3888">
+ <name>3888 EDLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3888:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3888"><strong>Meir info om 3888 EDLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3888</styleUrl>
+ <Point>
+ <coordinates>7.58808,59.73174</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3890">
+ <IconStyle id="icon3890">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3890.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3890">
+ <name>3890 VINJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3890:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3890"><strong>Meir info om 3890 VINJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3890</styleUrl>
+ <Point>
+ <coordinates>7.98770,59.57140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3892">
+ <IconStyle id="icon3892">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3892.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3892">
+ <name>3892 VINJE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3892:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3892"><strong>Meir info om 3892 VINJE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3892</styleUrl>
+ <Point>
+ <coordinates>7.96919,59.56587</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3893">
+ <IconStyle id="icon3893">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3893.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3893">
+ <name>3893 VINJESVINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3893:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3893"><strong>Meir info om 3893 VINJESVINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3893</styleUrl>
+ <Point>
+ <coordinates>7.80770,59.65450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3895">
+ <IconStyle id="icon3895">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3895.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3895">
+ <name>3895 EDLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3895:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3895"><strong>Meir info om 3895 EDLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3895</styleUrl>
+ <Point>
+ <coordinates>7.60050,59.73890</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

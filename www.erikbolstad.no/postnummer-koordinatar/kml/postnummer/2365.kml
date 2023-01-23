@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2365 ÅSMARKA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2365">
+ <name>2365 ÅSMARKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2365:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2365"><strong>Meir info om 2365 ÅSMARKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.75420,61.02710</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2365 ÅSMARKA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.68413,61.05691 10.69556,61.05121 10.71171,61.03726 10.70768,61.03303 10.70912,61.03118 10.70809,61.02960 10.69449,61.02627 10.70929,61.01937 10.71853,61.01570 10.72345,61.01448 10.72978,61.01210 10.74609,61.00471 10.74807,61.00320 10.75676,61.00872 10.77968,61.00686 10.78566,61.00996 10.78596,61.01000 10.78666,61.01050 10.79546,61.01007 10.80182,61.01094 10.81116,61.01746 10.82089,61.02073 10.82510,61.02622 10.83738,61.03003 10.84113,61.03362 10.84418,61.03664 10.85009,61.04237 10.85306,61.04576 10.85563,61.04846 10.85738,61.05094 10.85549,61.05448 10.82994,61.06965 10.78403,61.07831 10.72288,61.08770 10.71834,61.08039 10.71558,61.07728 10.70465,61.06570 10.68413,61.05691</coordinates></LineString></Placemark>
+ </Document>
+</kml>

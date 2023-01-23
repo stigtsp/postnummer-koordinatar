@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Randaberg, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4070">
+ <IconStyle id="icon4070">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4070.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4070">
+ <name>4070 RANDABERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4070:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Randaberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4070"><strong>Meir info om 4070 RANDABERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4070</styleUrl>
+ <Point>
+ <coordinates>5.61770,58.99950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4071">
+ <IconStyle id="icon4071">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4071.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4071">
+ <name>4071 RANDABERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4071:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Randaberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4071"><strong>Meir info om 4071 RANDABERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4071</styleUrl>
+ <Point>
+ <coordinates>5.59320,59.00350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4072">
+ <IconStyle id="icon4072">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4072.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4072">
+ <name>4072 RANDABERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4072:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Randaberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4072"><strong>Meir info om 4072 RANDABERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4072</styleUrl>
+ <Point>
+ <coordinates>5.65010,59.00660</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4073">
+ <IconStyle id="icon4073">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4073.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4073">
+ <name>4073 RANDABERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4073:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Randaberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4073"><strong>Meir info om 4073 RANDABERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4073</styleUrl>
+ <Point>
+ <coordinates>5.62470,58.98600</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4096">
+ <IconStyle id="icon4096">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4096.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4096">
+ <name>4096 RANDABERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4096:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Randaberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4096"><strong>Meir info om 4096 RANDABERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4096</styleUrl>
+ <Point>
+ <coordinates>5.61825,58.99915</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Randaberg (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.6836739,59.0147821,0 5.6650574,59.0015971,0 5.6490495,58.9920113,0 5.6475668,58.9911358,0 5.6603367,58.9819207,0 5.6626713,58.9747548,0 5.6626713,58.9739054,0 5.654102,58.9740744,0 5.654102,58.9740744,0 5.6521227,58.9741134,0 5.641823,58.9732286,0 5.6275322,58.9755157,0 5.6208975,58.9774842,0 5.6146437,58.9756115,0 5.6113907,58.9757221,0 5.5820591,58.9755069,0 5.5711586,58.9713925,0 5.5711586,58.9713925,0 5.5669529,58.9722774,0 5.4455522,58.9828143,0 5.4455522,58.9828143,0 5.50323,59.057276,0 5.5456253,59.0725999,0 5.5456253,59.0725999,0 5.6836739,59.0147821,0 5.6836739,59.0147821,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

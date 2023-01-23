@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nøtterøy, Vestfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nøtterøy (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.6036413,59.2516799,0 10.6538054,59.1932485,0 10.6505051,59.1330239,0 10.6221228,59.1137161,0 10.6221228,59.1137161,0 10.3983645,59.1726217,0 10.3686621,59.1621344,0 10.3693222,59.1350557,0 10.3376396,59.1357329,0 10.3376396,59.1357329,0 10.3297189,59.1517117,0 10.3297189,59.1517117,0 10.379223,59.2581586,0 10.379223,59.2581586,0 10.3930841,59.2716519,0 10.4473713,59.2451614,0 10.4502037,59.2398502,0 10.4762509,59.2281167,0 10.4854916,59.25006,0 10.5072734,59.2409468,0 10.5904402,59.2679418,0 10.5904402,59.2679418,0 10.6036413,59.2516799,0 10.6036413,59.2516799,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

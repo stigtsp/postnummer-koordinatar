@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1443 DRØBAK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1443">
+ <name>1443 DRØBAK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1443:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Frogn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1443"><strong>Meir info om 1443 DRØBAK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.62880,59.67500</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1443 DRØBAK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.55592,59.68320 10.56485,59.67974 10.58225,59.67301 10.58504,59.67193 10.60200,59.67001 10.61267,59.66960 10.62544,59.66653 10.62740,59.66677 10.62763,59.66665 10.62796,59.66669 10.62819,59.66677 10.62841,59.66678 10.62850,59.66669 10.62861,59.66635 10.62887,59.66637 10.62962,59.66640 10.62968,59.66669 10.62986,59.66667 10.63054,59.66663 10.63061,59.66680 10.63083,59.66682 10.63114,59.66683 10.63131,59.66676 10.63152,59.66670 10.63161,59.66659 10.63238,59.66656 10.63255,59.66656 10.63262,59.66667 10.63288,59.66677 10.63330,59.66665 10.63402,59.66617 10.63553,59.66580 10.63548,59.66531 10.63630,59.66519 10.63642,59.66535 10.63808,59.66489 10.63863,59.66545 10.63927,59.66602 10.63976,59.66588 10.64005,59.66605 10.64057,59.66639 10.64124,59.66686 10.64238,59.66663 10.64195,59.66639 10.64136,59.66610 10.64139,59.66602 10.64206,59.66597 10.64328,59.66568 10.64449,59.66686 10.64500,59.66696 10.64601,59.66745 10.64680,59.66828 10.64752,59.66898 10.64813,59.66960 10.64836,59.66985 10.64869,59.67015 10.64992,59.67144 10.65054,59.67206 10.65133,59.67261 10.64624,59.67495 10.64158,59.69209 10.63892,59.69256 10.62856,59.68784 10.62754,59.68801 10.62749,59.68783 10.62776,59.68709 10.62683,59.68706 10.62674,59.68677 10.62670,59.68647 10.62568,59.68648 10.62426,59.68669 10.62044,59.68660 10.61839,59.68287 10.61654,59.68147 10.61566,59.68105 10.61386,59.68130 10.60802,59.68470 10.59885,59.69016 10.59705,59.69299 10.58697,59.70014 10.57816,59.71224 10.57262,59.71980 10.56214,59.72269 10.54117,59.72254 10.54086,59.72254 10.53918,59.72051 10.54117,59.71606 10.55592,59.68320</coordinates></LineString></Placemark>
+ </Document>
+</kml>

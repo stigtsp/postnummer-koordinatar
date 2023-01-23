@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Øyer, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2635">
+ <IconStyle id="icon2635">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2635.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2635">
+ <name>2635 TRETTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2635:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øyer kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2635"><strong>Meir info om 2635 TRETTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2635</styleUrl>
+ <Point>
+ <coordinates>10.30060,61.31560</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2636">
+ <IconStyle id="icon2636">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2636.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2636">
+ <name>2636 ØYER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2636:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øyer kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2636"><strong>Meir info om 2636 ØYER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2636</styleUrl>
+ <Point>
+ <coordinates>10.41300,61.26500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2637">
+ <IconStyle id="icon2637">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2637.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2637">
+ <name>2637 ØYER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2637:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øyer kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2637"><strong>Meir info om 2637 ØYER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2637</styleUrl>
+ <Point>
+ <coordinates>10.43935,61.24621</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2638">
+ <IconStyle id="icon2638">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2638.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2638">
+ <name>2638 TRETTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2638:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Øyer kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2638"><strong>Meir info om 2638 TRETTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2638</styleUrl>
+ <Point>
+ <coordinates>10.30062,61.31561</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

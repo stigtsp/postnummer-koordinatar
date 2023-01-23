@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Værøy, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8062">
+ <IconStyle id="icon8062">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8062.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8062">
+ <name>8062 VÆRØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8062:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Værøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8062"><strong>Meir info om 8062 VÆRØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8062</styleUrl>
+ <Point>
+ <coordinates>12.69181,67.66333</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8063">
+ <IconStyle id="icon8063">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8063.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8063">
+ <name>8063 VÆRØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8063:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Værøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8063"><strong>Meir info om 8063 VÆRØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8063</styleUrl>
+ <Point>
+ <coordinates>12.69181,67.66333</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Værøy (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.988227,67.7852025,0 12.1303449,67.8259102,0 12.1632152,67.8721671,0 12.1632152,67.8721671,0 12.664496,67.8147476,0 12.8521041,67.8048429,0 13.1788659,67.7597906,0 13.5045798,67.6749943,0 13.5045798,67.6749943,0 13.2947814,67.5428229,0 12.8364528,67.3764101,0 12.8364528,67.3764101,0 12.3941789,67.582799,0 11.988227,67.7852025,0 11.988227,67.7852025,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

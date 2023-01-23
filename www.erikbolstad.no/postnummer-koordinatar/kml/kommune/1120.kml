@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Klepp, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4060">
+ <IconStyle id="icon4060">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4060.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4060">
+ <name>4060 KLEPPE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4060:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4060"><strong>Meir info om 4060 KLEPPE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4060</styleUrl>
+ <Point>
+ <coordinates>5.63330,58.77300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4062">
+ <IconStyle id="icon4062">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4062.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4062">
+ <name>4062 KLEPP STASJON (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4062:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4062"><strong>Meir info om 4062 KLEPP STASJON (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4062</styleUrl>
+ <Point>
+ <coordinates>5.67380,58.77410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4341">
+ <IconStyle id="icon4341">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4341.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4341">
+ <name>4341 BRYNE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4341:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4341"><strong>Meir info om 4341 BRYNE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4341</styleUrl>
+ <Point>
+ <coordinates>5.63240,58.74370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4343">
+ <IconStyle id="icon4343">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4343.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4343">
+ <name>4343 ORRE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4343:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4343"><strong>Meir info om 4343 ORRE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4343</styleUrl>
+ <Point>
+ <coordinates>5.56990,58.71740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4350">
+ <IconStyle id="icon4350">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4350.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4350">
+ <name>4350 KLEPPE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4350:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4350"><strong>Meir info om 4350 KLEPPE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4350</styleUrl>
+ <Point>
+ <coordinates>5.63330,58.77300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4351">
+ <IconStyle id="icon4351">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4351.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4351">
+ <name>4351 KLEPPE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4351:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4351"><strong>Meir info om 4351 KLEPPE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4351</styleUrl>
+ <Point>
+ <coordinates>5.63330,58.77300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4352">
+ <IconStyle id="icon4352">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4352.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4352">
+ <name>4352 KLEPPE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4352:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4352"><strong>Meir info om 4352 KLEPPE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4352</styleUrl>
+ <Point>
+ <coordinates>5.63330,58.77300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4353">
+ <IconStyle id="icon4353">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4353.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4353">
+ <name>4353 KLEPP STASJON</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4353:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4353"><strong>Meir info om 4353 KLEPP STASJON</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4353</styleUrl>
+ <Point>
+ <coordinates>5.67380,58.77410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4354">
+ <IconStyle id="icon4354">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4354.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4354">
+ <name>4354 VOLL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4354:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4354"><strong>Meir info om 4354 VOLL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4354</styleUrl>
+ <Point>
+ <coordinates>5.60500,58.80600</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4357">
+ <IconStyle id="icon4357">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4357.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4357">
+ <name>4357 KLEPP STASJON</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4357:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4357"><strong>Meir info om 4357 KLEPP STASJON</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4357</styleUrl>
+ <Point>
+ <coordinates>5.67424,58.77417</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4358">
+ <IconStyle id="icon4358">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4358.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4358">
+ <name>4358 KLEPPE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4358:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Klepp kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4358"><strong>Meir info om 4358 KLEPPE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4358</styleUrl>
+ <Point>
+ <coordinates>5.62627,58.77932</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Klepp (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.0717887,58.7836193,0 5.1597178,58.625899,0 5.1597178,58.625899,0 5.5278479,58.6932659,0 5.6182141,58.7033689,0 5.6182141,58.7033689,0 5.6033437,58.7348477,0 5.6685446,58.7467191,0 5.7119783,58.781884,0 5.7410964,58.7898906,0 5.7382962,58.7990569,0 5.7382962,58.7990569,0 5.73585,58.79849,0 5.7287368,58.7999184,0 5.7223317,58.8034307,0 5.7100793,58.8017635,0 5.7063779,58.7998628,0 5.7014212,58.7982176,0 5.6974622,58.7995904,0 5.698975,58.8035197,0 5.6899735,58.8022248,0 5.6869265,58.804381,0 5.6117352,58.8301047,0 5.6117352,58.8301047,0 5.5951726,58.8147822,0 5.5881345,58.8160266,0 5.5872762,58.8146822,0 5.5224277,58.8436582,0 5.0717887,58.7836193,0 5.0717887,58.7836193,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

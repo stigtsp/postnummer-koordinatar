@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sauherad, Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3807">
+ <IconStyle id="icon3807">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3807.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3807">
+ <name>3807 HØRTE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3807:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3807"><strong>Meir info om 3807 HØRTE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3807</styleUrl>
+ <Point>
+ <coordinates>9.1310,59.4217</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3810">
+ <IconStyle id="icon3810">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3810.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3810">
+ <name>3810 GVARV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3810:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3810"><strong>Meir info om 3810 GVARV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3810</styleUrl>
+ <Point>
+ <coordinates>9.1737,59.3875</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3811">
+ <IconStyle id="icon3811">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3811.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3811">
+ <name>3811 HØRTE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3811:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3811"><strong>Meir info om 3811 HØRTE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3811</styleUrl>
+ <Point>
+ <coordinates>9.1310,59.4217</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3812">
+ <IconStyle id="icon3812">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3812.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3812">
+ <name>3812 AKKERHAUGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3812:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3812"><strong>Meir info om 3812 AKKERHAUGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3812</styleUrl>
+ <Point>
+ <coordinates>9.2511,59.3954</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3820">
+ <IconStyle id="icon3820">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3820.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3820">
+ <name>3820 NORDAGUTU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3820:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3820"><strong>Meir info om 3820 NORDAGUTU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3820</styleUrl>
+ <Point>
+ <coordinates>9.3258,59.4159</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3834">
+ <IconStyle id="icon3834">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3834.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3834">
+ <name>3834 GVARV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3834:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3834"><strong>Meir info om 3834 GVARV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3834</styleUrl>
+ <Point>
+ <coordinates>9.17397,59.38756</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sauherad (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.473201,59.4853899,0 9.4467988,59.4648559,0 9.4030703,59.4627599,0 9.375018,59.3662027,0 9.4055455,59.3561113,0 9.3304643,59.3561113,0 9.2628209,59.3361018,0 9.2628209,59.3361018,0 9.211766,59.324066,0 9.1376389,59.3429699,0 9.1035842,59.3847709,0 9.1035842,59.3847709,0 9.1516324,59.4615252,0 9.1629771,59.4709566,0 9.1846351,59.4625733,0 9.1794784,59.4882406,0 9.1794784,59.4882406,0 9.2203179,59.5073768,0 9.3141693,59.515749,0 9.4069893,59.554966,0 9.4699007,59.5601915,0 9.4699007,59.5601915,0 9.5144543,59.5410622,0 9.473201,59.4853899,0 9.473201,59.4853899,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

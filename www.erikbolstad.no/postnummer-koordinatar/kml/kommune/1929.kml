@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Berg, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9384">
+ <IconStyle id="icon9384">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9384.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9384">
+ <name>9384 SKALAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9384:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Berg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9384"><strong>Meir info om 9384 SKALAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9384</styleUrl>
+ <Point>
+ <coordinates>17.2979,69.44450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9385">
+ <IconStyle id="icon9385">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9385.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9385">
+ <name>9385 SKALAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9385:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Berg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9385"><strong>Meir info om 9385 SKALAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9385</styleUrl>
+ <Point>
+ <coordinates>17.2983,69.4446</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9386">
+ <IconStyle id="icon9386">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9386.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9386">
+ <name>9386 SENJAHOPEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9386:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Berg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9386"><strong>Meir info om 9386 SENJAHOPEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9386</styleUrl>
+ <Point>
+ <coordinates>17.4916,69.4981</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9387">
+ <IconStyle id="icon9387">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9387.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9387">
+ <name>9387 SENJAHOPEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9387:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Berg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9387"><strong>Meir info om 9387 SENJAHOPEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9387</styleUrl>
+ <Point>
+ <coordinates>17.49006,69.49674</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Berg (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>17.5666519,69.353149,0 17.6142202,69.3643892,0 17.5670271,69.3857625,0 17.6361313,69.4444301,0 17.7709687,69.477545,0 17.7271466,69.4946738,0 17.6597279,69.4816808,0 17.5939946,69.5052985,0 17.4928666,69.5889314,0 17.4996084,69.5983343,0 17.0539087,69.7463725,0 17.0539087,69.7463725,0 16.5693912,69.6510087,0 16.5693912,69.6510087,0 16.8244966,69.4722819,0 17.2063562,69.3835869,0 17.2139071,69.3566028,0 17.3023604,69.3562225,0 17.3260918,69.3242534,0 17.4069943,69.3010081,0 17.4069943,69.3010081,0 17.5233757,69.3096891,0 17.5547862,69.3120314,0 17.5666519,69.353149,0 17.5666519,69.353149,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

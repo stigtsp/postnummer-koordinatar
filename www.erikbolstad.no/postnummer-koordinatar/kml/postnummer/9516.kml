@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>9516 ALTA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer9516">
+ <name>9516 ALTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9516:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alta kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9516"><strong>Meir info om 9516 ALTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>23.37550,69.95640</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 9516 ALTA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>23.36170,69.96265 23.35803,69.95862 23.35291,69.95758 23.34557,69.95726 23.33571,69.95767 23.32156,69.95806 23.31773,69.95766 23.31532,69.95669 23.31212,69.95568 23.30830,69.95365 23.30346,69.95148 23.30178,69.94947 23.31500,69.94666 23.32109,69.94198 23.32018,69.94063 23.31056,69.93588 23.30482,69.93526 23.28543,69.93308 23.29091,69.92922 23.29233,69.92712 23.29533,69.92420 23.30058,69.92119 23.30853,69.91889 23.35494,69.92300 23.37999,69.93205 23.38124,69.95054 23.39009,69.95426 23.39409,69.95533 23.39787,69.95708 23.39979,69.95888 23.40028,69.96053 23.39951,69.96127 23.39740,69.96126 23.39579,69.96131 23.39250,69.96082 23.39009,69.96021 23.38947,69.95966 23.38822,69.95947 23.38690,69.95996 23.38525,69.95992 23.38012,69.95946 23.37285,69.95956 23.37057,69.95992 23.36878,69.96033 23.36773,69.96090 23.36711,69.96125 23.36604,69.96177 23.36426,69.96224 23.36170,69.96265</coordinates></LineString></Placemark>
+ </Document>
+</kml>

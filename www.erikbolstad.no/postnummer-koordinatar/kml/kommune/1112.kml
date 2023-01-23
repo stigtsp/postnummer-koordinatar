@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lund, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4460">
+ <IconStyle id="icon4460">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4460.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4460">
+ <name>4460 MOI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4460:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4460"><strong>Meir info om 4460 MOI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4460</styleUrl>
+ <Point>
+ <coordinates>6.55130,58.45740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4462">
+ <IconStyle id="icon4462">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4462.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4462">
+ <name>4462 HOVSHERAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4462:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4462"><strong>Meir info om 4462 HOVSHERAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4462</styleUrl>
+ <Point>
+ <coordinates>6.49820,58.52550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4463">
+ <IconStyle id="icon4463">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4463.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4463">
+ <name>4463 UALAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4463:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4463"><strong>Meir info om 4463 UALAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4463</styleUrl>
+ <Point>
+ <coordinates>6.34060,58.53120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4465">
+ <IconStyle id="icon4465">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4465.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4465">
+ <name>4465 MOI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4465:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4465"><strong>Meir info om 4465 MOI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4465</styleUrl>
+ <Point>
+ <coordinates>6.54538,58.46108</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Lund (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.6072455,58.5617276,0 6.5881178,58.4922828,0 6.6313384,58.4540367,0 6.5958753,58.418651,0 6.609174,58.3733519,0 6.5581958,58.325085,0 6.4741495,58.3005354,0 6.4741495,58.3005354,0 6.4908213,58.3750584,0 6.5243075,58.3866293,0 6.4695119,58.4627428,0 6.4169994,58.4599562,0 6.394929,58.4384522,0 6.3271955,58.4229133,0 6.3036029,58.4201236,0 6.3180629,58.4607524,0 6.2776081,58.4745415,0 6.2776081,58.4745415,0 6.2650612,58.5604908,0 6.3423707,58.576395,0 6.3941468,58.5712177,0 6.4955713,58.6092901,0 6.4955713,58.6092901,0 6.53176,58.627375,0 6.5552286,58.6220184,0 6.5566427,58.6216956,0 6.5813729,58.6156771,0 6.6155403,58.6249382,0 6.5869895,58.5910499,0 6.6072455,58.5617276,0 6.6072455,58.5617276,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

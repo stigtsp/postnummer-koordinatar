@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0785 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0785">
+ <name>0785 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0785:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0785"><strong>Meir info om 0785 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.65890,59.95600</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0785 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.65576,59.95632 10.65656,59.95596 10.65867,59.95539 10.65939,59.95521 10.66003,59.95512 10.66096,59.95478 10.66020,59.95384 10.66061,59.95366 10.66158,59.95350 10.66323,59.95350 10.66532,59.95341 10.66495,59.95392 10.66430,59.95441 10.66376,59.95469 10.66349,59.95486 10.66384,59.95525 10.66527,59.95570 10.66415,59.95643 10.66386,59.95660 10.66322,59.95699 10.66228,59.95670 10.66297,59.95634 10.66244,59.95626 10.66203,59.95649 10.66181,59.95644 10.66201,59.95609 10.66082,59.95590 10.66010,59.95632 10.65929,59.95613 10.65855,59.95636 10.65791,59.95660 10.65743,59.95715 10.65743,59.95790 10.65698,59.95804 10.65658,59.95819 10.65651,59.95838 10.65720,59.95853 10.65733,59.95923 10.65655,59.95908 10.65561,59.95925 10.65500,59.95971 10.65388,59.95972 10.65338,59.95988 10.65287,59.95991 10.65258,59.96025 10.65288,59.96084 10.65316,59.96103 10.65347,59.96127 10.65271,59.96152 10.65244,59.96147 10.65211,59.96126 10.65195,59.96097 10.65210,59.96059 10.65112,59.96027 10.65181,59.95972 10.65277,59.95785 10.65576,59.95632</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0785 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.66478,59.95744 10.66478,59.95700 10.66492,59.95687 10.66470,59.95674 10.66437,59.95661 10.66568,59.95632 10.66609,59.95629 10.66666,59.95626 10.66707,59.95629 10.66739,59.95633 10.66839,59.95656 10.66854,59.95659 10.66855,59.95707 10.67044,59.95730 10.67065,59.95670 10.67153,59.95673 10.67132,59.95735 10.67115,59.95741 10.67072,59.95756 10.67001,59.95757 10.66980,59.95800 10.66877,59.95814 10.66869,59.95782 10.66762,59.95782 10.66740,59.95795 10.66607,59.95801 10.66582,59.95780 10.66548,59.95789 10.66475,59.95785 10.66478,59.95744</coordinates></LineString></Placemark>
+ </Document>
+</kml>

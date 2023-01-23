@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Gjerstad, Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4971">
+ <IconStyle id="icon4971">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4971.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4971">
+ <name>4971 SUNDEBRU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4971:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4971"><strong>Meir info om 4971 SUNDEBRU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4971</styleUrl>
+ <Point>
+ <coordinates>9.07392,58.82217</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4972">
+ <IconStyle id="icon4972">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4972.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4972">
+ <name>4972 GJERSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4972:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4972"><strong>Meir info om 4972 GJERSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4972</styleUrl>
+ <Point>
+ <coordinates>9.01871,58.88127</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4980">
+ <IconStyle id="icon4980">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4980.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4980">
+ <name>4980 GJERSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4980:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4980"><strong>Meir info om 4980 GJERSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4980</styleUrl>
+ <Point>
+ <coordinates>9.01890,58.88100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4993">
+ <IconStyle id="icon4993">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4993.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4993">
+ <name>4993 SUNDEBRU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4993:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4993"><strong>Meir info om 4993 SUNDEBRU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4993</styleUrl>
+ <Point>
+ <coordinates>9.08700,58.83820</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

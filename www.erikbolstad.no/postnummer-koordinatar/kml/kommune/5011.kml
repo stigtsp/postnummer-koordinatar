@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hemne, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7200">
+ <IconStyle id="icon7200">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7200.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7200">
+ <name>7200 KYRKSÆTERØRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7200:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hemne kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7200"><strong>Meir info om 7200 KYRKSÆTERØRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7200</styleUrl>
+ <Point>
+ <coordinates>9.0891,63.2906</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7201">
+ <IconStyle id="icon7201">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7201.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7201">
+ <name>7201 KYRKSÆTERØRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7201:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hemne kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7201"><strong>Meir info om 7201 KYRKSÆTERØRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7201</styleUrl>
+ <Point>
+ <coordinates>9.08480,63.29326</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7203">
+ <IconStyle id="icon7203">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7203.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7203">
+ <name>7203 VINJEØRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7203:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hemne kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7203"><strong>Meir info om 7203 VINJEØRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7203</styleUrl>
+ <Point>
+ <coordinates>8.986,63.2059</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7206">
+ <IconStyle id="icon7206">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7206.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7206">
+ <name>7206 HELLANDSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7206:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hemne kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7206"><strong>Meir info om 7206 HELLANDSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7206</styleUrl>
+ <Point>
+ <coordinates>8.9809,63.4039</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

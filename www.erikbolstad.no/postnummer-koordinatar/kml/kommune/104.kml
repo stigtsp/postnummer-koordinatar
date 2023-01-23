@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Moss, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1500">
+ <IconStyle id="icon1500">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1500.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1500">
+ <name>1500 MOSS (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1500:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1500"><strong>Meir info om 1500 MOSS (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1500</styleUrl>
+ <Point>
+ <coordinates>10.65771,59.43403</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1501">
+ <IconStyle id="icon1501">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1501.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1501">
+ <name>1501 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1501:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1501"><strong>Meir info om 1501 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1501</styleUrl>
+ <Point>
+ <coordinates>10.6669,59.43765</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1502">
+ <IconStyle id="icon1502">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1502.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1502">
+ <name>1502 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1502:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1502"><strong>Meir info om 1502 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1502</styleUrl>
+ <Point>
+ <coordinates>10.6669,59.4377</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1503">
+ <IconStyle id="icon1503">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1503.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1503">
+ <name>1503 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1503:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1503"><strong>Meir info om 1503 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1503</styleUrl>
+ <Point>
+ <coordinates>10.6669,59.4377</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1504">
+ <IconStyle id="icon1504">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1504.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1504">
+ <name>1504 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1504:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1504"><strong>Meir info om 1504 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1504</styleUrl>
+ <Point>
+ <coordinates>10.6669,59.4377</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1505">
+ <IconStyle id="icon1505">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1505.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1505">
+ <name>1505 MOSS (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1505:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1505"><strong>Meir info om 1505 MOSS (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1505</styleUrl>
+ <Point>
+ <coordinates>10.6669,59.43765</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1506">
+ <IconStyle id="icon1506">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1506.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1506">
+ <name>1506 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1506:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1506"><strong>Meir info om 1506 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1506</styleUrl>
+ <Point>
+ <coordinates>10.69072,59.47158</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1508">
+ <IconStyle id="icon1508">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1508.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1508">
+ <name>1508 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1508:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1508"><strong>Meir info om 1508 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1508</styleUrl>
+ <Point>
+ <coordinates>10.61895,59.44273</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1509">
+ <IconStyle id="icon1509">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1509.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1509">
+ <name>1509 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1509:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1509"><strong>Meir info om 1509 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1509</styleUrl>
+ <Point>
+ <coordinates>10.7031,59.44620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1510">
+ <IconStyle id="icon1510">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1510.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1510">
+ <name>1510 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1510:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1510"><strong>Meir info om 1510 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1510</styleUrl>
+ <Point>
+ <coordinates>10.64964,59.43158</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1511">
+ <IconStyle id="icon1511">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1511.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1511">
+ <name>1511 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1511:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1511"><strong>Meir info om 1511 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1511</styleUrl>
+ <Point>
+ <coordinates>10.6398,59.4377</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1512">
+ <IconStyle id="icon1512">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1512.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1512">
+ <name>1512 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1512:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1512"><strong>Meir info om 1512 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1512</styleUrl>
+ <Point>
+ <coordinates>10.6259,59.4408</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1513">
+ <IconStyle id="icon1513">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1513.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1513">
+ <name>1513 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1513:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1513"><strong>Meir info om 1513 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1513</styleUrl>
+ <Point>
+ <coordinates>10.6448,59.445</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1514">
+ <IconStyle id="icon1514">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1514.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1514">
+ <name>1514 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1514:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1514"><strong>Meir info om 1514 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1514</styleUrl>
+ <Point>
+ <coordinates>10.6539,59.4844</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1515">
+ <IconStyle id="icon1515">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1515.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1515">
+ <name>1515 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1515:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1515"><strong>Meir info om 1515 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1515</styleUrl>
+ <Point>
+ <coordinates>10.6441,59.4323</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1516">
+ <IconStyle id="icon1516">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1516.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1516">
+ <name>1516 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1516:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1516"><strong>Meir info om 1516 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1516</styleUrl>
+ <Point>
+ <coordinates>10.6369,59.4265</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1517">
+ <IconStyle id="icon1517">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1517.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1517">
+ <name>1517 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1517:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1517"><strong>Meir info om 1517 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1517</styleUrl>
+ <Point>
+ <coordinates>10.6313,59.4319</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1518">
+ <IconStyle id="icon1518">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1518.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1518">
+ <name>1518 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1518:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1518"><strong>Meir info om 1518 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1518</styleUrl>
+ <Point>
+ <coordinates>10.6179,59.4432</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1519">
+ <IconStyle id="icon1519">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1519.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1519">
+ <name>1519 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1519:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1519"><strong>Meir info om 1519 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1519</styleUrl>
+ <Point>
+ <coordinates>10.6117,59.4367</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1523">
+ <IconStyle id="icon1523">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1523.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1523">
+ <name>1523 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1523:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1523"><strong>Meir info om 1523 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1523</styleUrl>
+ <Point>
+ <coordinates>10.6777,59.4239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1524">
+ <IconStyle id="icon1524">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1524.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1524">
+ <name>1524 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1524:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1524"><strong>Meir info om 1524 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1524</styleUrl>
+ <Point>
+ <coordinates>10.6646,59.4204</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1530">
+ <IconStyle id="icon1530">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1530.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1530">
+ <name>1530 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1530:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1530"><strong>Meir info om 1530 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1530</styleUrl>
+ <Point>
+ <coordinates>10.6674,59.4365</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1531">
+ <IconStyle id="icon1531">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1531.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1531">
+ <name>1531 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1531:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1531"><strong>Meir info om 1531 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1531</styleUrl>
+ <Point>
+ <coordinates>10.6576,59.4336</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1532">
+ <IconStyle id="icon1532">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1532.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1532">
+ <name>1532 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1532:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1532"><strong>Meir info om 1532 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1532</styleUrl>
+ <Point>
+ <coordinates>10.6654,59.4302</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1533">
+ <IconStyle id="icon1533">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1533.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1533">
+ <name>1533 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1533:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1533"><strong>Meir info om 1533 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1533</styleUrl>
+ <Point>
+ <coordinates>10.6763,59.4298</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1534">
+ <IconStyle id="icon1534">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1534.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1534">
+ <name>1534 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1534:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1534"><strong>Meir info om 1534 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1534</styleUrl>
+ <Point>
+ <coordinates>10.6782,59.4472</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1535">
+ <IconStyle id="icon1535">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1535.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1535">
+ <name>1535 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1535:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1535"><strong>Meir info om 1535 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1535</styleUrl>
+ <Point>
+ <coordinates>10.6926,59.452</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1536">
+ <IconStyle id="icon1536">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1536.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1536">
+ <name>1536 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1536:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1536"><strong>Meir info om 1536 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1536</styleUrl>
+ <Point>
+ <coordinates>10.6937,59.463</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1537">
+ <IconStyle id="icon1537">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1537.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1537">
+ <name>1537 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1537:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1537"><strong>Meir info om 1537 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1537</styleUrl>
+ <Point>
+ <coordinates>10.6948,59.4567</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1538">
+ <IconStyle id="icon1538">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1538.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1538">
+ <name>1538 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1538:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1538"><strong>Meir info om 1538 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1538</styleUrl>
+ <Point>
+ <coordinates>10.6941,59.4704</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1539">
+ <IconStyle id="icon1539">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1539.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1539">
+ <name>1539 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1539:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1539"><strong>Meir info om 1539 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1539</styleUrl>
+ <Point>
+ <coordinates>10.6929,59.4856</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1596">
+ <IconStyle id="icon1596">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1596.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1596">
+ <name>1596 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1596:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1596"><strong>Meir info om 1596 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1596</styleUrl>
+ <Point>
+ <coordinates>10.6966,59.4334</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1597">
+ <IconStyle id="icon1597">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1597.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1597">
+ <name>1597 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1597:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1597"><strong>Meir info om 1597 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1597</styleUrl>
+ <Point>
+ <coordinates>10.6866,59.4345</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1598">
+ <IconStyle id="icon1598">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1598.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1598">
+ <name>1598 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1598:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1598"><strong>Meir info om 1598 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1598</styleUrl>
+ <Point>
+ <coordinates>10.6915,59.4421</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1599">
+ <IconStyle id="icon1599">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1599.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1599">
+ <name>1599 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1599:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1599"><strong>Meir info om 1599 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1599</styleUrl>
+ <Point>
+ <coordinates>10.7281,59.451</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Moss (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.5801633,59.3924248,0 10.647991,59.4177511,0 10.6583765,59.4171834,0 10.6595567,59.4169104,0 10.6605223,59.4167903,0 10.6617239,59.4165829,0 10.6624964,59.4163755,0 10.6627539,59.4169323,0 10.6671527,59.4155566,0 10.6694487,59.4171179,0 10.6698899,59.4170282,0 10.6764774,59.4166679,0 10.6806616,59.4164932,0 10.6806844,59.4168844,0 10.6807507,59.4169923,0 10.6813174,59.4180416,0 10.6814891,59.4184455,0 10.6814247,59.4188167,0 10.6815534,59.4189859,0 10.6817895,59.4191715,0 10.6821221,59.4193189,0 10.6823152,59.4193353,0 10.6824332,59.4192643,0 10.682519,59.419308,0 10.6824225,59.419368,0 10.682401,59.4194826,0 10.6827014,59.4197828,0 10.6833666,59.421262,0 10.6834202,59.4217259,0 10.6838816,59.422681,0 10.6846219,59.4235815,0 10.6860274,59.4245475,0 10.6861883,59.4248859,0 10.6863278,59.4252625,0 10.6863385,59.4255244,0 10.6865531,59.4265013,0 10.6863278,59.4270142,0 10.6911879,59.4291315,0 10.692057,59.4293116,0 10.694074,59.4292897,0 10.6975501,59.4289678,0 10.6987839,59.4289514,0 10.6992131,59.4290933,0 10.6994384,59.4294862,0 10.6989771,59.4304247,0 10.6994813,59.4307958,0 10.7002431,59.4309704,0 10.7013267,59.4309649,0 10.7040625,59.4290933,0 10.705232,59.4285804,0 10.706101,59.4282966,0 10.7073348,59.4286677,0 10.7077962,59.4292625,0 10.7089871,59.4298736,0 10.7093411,59.4298354,0 10.7094852,59.4297058,0 10.7094377,59.4295789,0 10.7097703,59.4294807,0 10.7111436,59.4299336,0 10.712592,59.4306048,0 10.714094,59.4313359,0 10.7158642,59.4318216,0 10.7169264,59.4320616,0 10.7184284,59.4322199,0 10.7205849,59.4327164,0 10.72191,59.4332684,0 10.7231384,59.4336548,0 10.7242006,59.4342004,0 10.7254666,59.4345714,0 10.7293826,59.4358426,0 10.7318073,59.4368628,0 10.7356053,59.4375884,0 10.7383626,59.4384776,0 10.7411199,59.4390449,0 10.7446604,59.4393504,0 10.7469779,59.4391158,0 10.7473427,59.4383467,0 10.7392209,59.4320343,0 10.7341998,59.4289678,0 10.7281488,59.4266322,0 10.7242864,59.423456,0 10.7202202,59.4210982,0 10.7180207,59.4183527,0 10.7170766,59.4171955,0 10.721175,59.4167042,0 10.7218617,59.4136035,0 10.7230848,59.41267,0 10.7266145,59.412135,0 10.729919,59.4118402,0 10.7367211,59.4115126,0 10.7429975,59.4103988,0 10.747804,59.4079528,0 10.7505506,59.4081712,0 10.7567304,59.4166879,0 10.7702919,59.4196136,0 10.7702919,59.4196136,0 10.7715791,59.4238926,0 10.7779973,59.4946852,0 10.7779973,59.4946852,0 10.7255391,59.4753679,0 10.7079416,59.4921881,0 10.6748168,59.4911371,0 10.6168484,59.5342019,0 10.6168484,59.5342019,0 10.5404102,59.4594741,0 10.5404102,59.4594741,0 10.5393079,59.4340027,0 10.5435784,59.4130222,0 10.5801633,59.3924248,0 10.5801633,59.3924248,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

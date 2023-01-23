@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1890 RAKKESTAD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1890">
+ <name>1890 RAKKESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1890:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rakkestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1890"><strong>Meir info om 1890 RAKKESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.34540,59.42510</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1890 RAKKESTAD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.31349,59.44646 11.31429,59.44588 11.31664,59.44336 11.31678,59.44161 11.31842,59.43840 11.31618,59.43360 11.31375,59.43102 11.31570,59.42912 11.31746,59.42737 11.31864,59.42623 11.31826,59.42549 11.31919,59.42500 11.32160,59.42444 11.32275,59.42442 11.32465,59.42471 11.32858,59.42412 11.32924,59.42357 11.32908,59.42294 11.32988,59.42270 11.33247,59.42308 11.33466,59.42323 11.33578,59.42266 11.33600,59.42142 11.33686,59.42116 11.33890,59.42143 11.34048,59.42176 11.34182,59.42126 11.34310,59.41960 11.34417,59.41863 11.34406,59.41757 11.34426,59.41612 11.34601,59.41528 11.34713,59.41468 11.34723,59.41334 11.34721,59.41225 11.34917,59.41135 11.34976,59.40954 11.35027,59.40725 11.34817,59.40577 11.34896,59.40464 11.35044,59.40441 11.35439,59.40608 11.35520,59.40712 11.35818,59.40666 11.36016,59.40550 11.36319,59.40457 11.36369,59.40363 11.36482,59.40299 11.36749,59.40286 11.36833,59.40247 11.37001,59.40042 11.37260,59.39860 11.37464,59.39940 11.37402,59.40019 11.37341,59.40092 11.37358,59.40188 11.37255,59.40280 11.37318,59.40308 11.37329,59.40458 11.37250,59.40577 11.37099,59.40621 11.36969,59.40712 11.36751,59.40767 11.36807,59.40863 11.37042,59.40782 11.37134,59.40791 11.37083,59.40891 11.37318,59.40932 11.37362,59.41014 11.37383,59.41069 11.37477,59.41058 11.37709,59.41003 11.37808,59.41074 11.37921,59.41016 11.38035,59.41067 11.38121,59.41008 11.38300,59.40952 11.38562,59.41230 11.38259,59.42082 11.36909,59.42519 11.36663,59.43071 11.36170,59.43328 11.36389,59.43639 11.35903,59.43957 11.34330,59.44103 11.34267,59.44568 11.33479,59.44716 11.33099,59.44901 11.32183,59.44882 11.31349,59.44646</coordinates></LineString></Placemark>
+ </Document>
+</kml>

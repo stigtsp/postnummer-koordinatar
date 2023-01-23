@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Våler, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1591">
+ <IconStyle id="icon1591">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1591.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1591">
+ <name>1591 SPERREBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1591:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1591"><strong>Meir info om 1591 SPERREBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1591</styleUrl>
+ <Point>
+ <coordinates>10.7932,59.4589</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1592">
+ <IconStyle id="icon1592">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1592.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1592">
+ <name>1592 VÅLER I ØSTFOLD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1592:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1592"><strong>Meir info om 1592 VÅLER I ØSTFOLD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1592</styleUrl>
+ <Point>
+ <coordinates>10.8742,59.4910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1593">
+ <IconStyle id="icon1593">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1593.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1593">
+ <name>1593 SVINNDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1593:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1593"><strong>Meir info om 1593 SVINNDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1593</styleUrl>
+ <Point>
+ <coordinates>11.0115,59.4249</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1594">
+ <IconStyle id="icon1594">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1594.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1594">
+ <name>1594 VÅLER I ØSTFOLD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1594:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1594"><strong>Meir info om 1594 VÅLER I ØSTFOLD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1594</styleUrl>
+ <Point>
+ <coordinates>10.8742,59.4910</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Våler (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.7779973,59.5239302,0 10.7969835,59.5161745,0 10.8230885,59.5376875,0 10.8535445,59.5338272,0 10.8785619,59.5338272,0 10.987333,59.5426501,0 10.987333,59.5426501,0 10.9786313,59.5272085,0 10.9753682,59.5078967,0 11.0580343,59.5062408,0 11.0580343,59.5062408,0 11.0625522,59.4911881,0 11.1369552,59.4166925,0 11.1369552,59.4166925,0 11.0824652,59.3924876,0 10.9758694,59.3958103,0 10.9758694,59.3958103,0 10.8812385,59.412419,0 10.8747122,59.3908261,0 10.8211034,59.3966375,0 10.8211034,59.3966375,0 10.8072847,59.4005699,0 10.8058255,59.4014,0 10.8027356,59.4014874,0 10.7960408,59.4027106,0 10.7942384,59.4033223,0 10.7921785,59.403497,0 10.7907193,59.4040212,0 10.7896035,59.4049386,0 10.7885736,59.4060744,0 10.7870286,59.406555,0 10.7859987,59.4076033,0 10.780248,59.4120149,0 10.7749265,59.4162075,0 10.7702919,59.4196136,0 10.7702919,59.4196136,0 10.7715791,59.4238926,0 10.7779973,59.4946852,0 10.7779973,59.4946852,0 10.7779973,59.5239302,0 10.7779973,59.5239302,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

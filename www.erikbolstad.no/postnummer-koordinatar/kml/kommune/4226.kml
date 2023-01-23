@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hægebostad, Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4590">
+ <IconStyle id="icon4590">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4590.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4590">
+ <name>4590 SNARTEMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4590:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hægebostad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4590"><strong>Meir info om 4590 SNARTEMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4590</styleUrl>
+ <Point>
+ <coordinates>7.20980,58.33210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4595">
+ <IconStyle id="icon4595">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4595.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4595">
+ <name>4595 TINGVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4595:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hægebostad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4595"><strong>Meir info om 4595 TINGVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4595</styleUrl>
+ <Point>
+ <coordinates>7.22156,58.37357</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4596">
+ <IconStyle id="icon4596">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4596.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4596">
+ <name>4596 EIKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4596:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hægebostad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4596"><strong>Meir info om 4596 EIKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4596</styleUrl>
+ <Point>
+ <coordinates>7.20840,58.47870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4597">
+ <IconStyle id="icon4597">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4597.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4597">
+ <name>4597 EIKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4597:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hægebostad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4597"><strong>Meir info om 4597 EIKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4597</styleUrl>
+ <Point>
+ <coordinates>7.22615,58.47204</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

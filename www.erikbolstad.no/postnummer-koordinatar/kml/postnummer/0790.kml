@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0790 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0790">
+ <name>0790 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0790:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0790"><strong>Meir info om 0790 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.66100,59.97740</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0790 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.65194,59.97702 10.65324,59.97538 10.65274,59.97517 10.65407,59.97394 10.65488,59.97367 10.65488,59.97363 10.65394,59.97315 10.65539,59.97171 10.65769,59.97183 10.65953,59.97027 10.66140,59.96995 10.66315,59.96995 10.66393,59.96995 10.66423,59.96984 10.66432,59.96956 10.66429,59.96894 10.66656,59.96888 10.66702,59.96980 10.66607,59.97002 10.66626,59.97030 10.66713,59.97037 10.66695,59.97174 10.66324,59.97233 10.65956,59.97639 10.66542,59.97967 10.66086,59.98166 10.65955,59.98151 10.65832,59.98086 10.65867,59.98074 10.65856,59.98068 10.65843,59.98062 10.65820,59.98049 10.65872,59.98035 10.65824,59.98015 10.65803,59.98006 10.65762,59.97991 10.65750,59.97989 10.65319,59.97819 10.65194,59.97702</coordinates></LineString></Placemark>
+ </Document>
+</kml>

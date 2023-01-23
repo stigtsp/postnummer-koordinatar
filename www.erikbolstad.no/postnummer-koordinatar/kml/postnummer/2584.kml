@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2584 DALHOLEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2584">
+ <name>2584 DALHOLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2584:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2584"><strong>Meir info om 2584 DALHOLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.81620,62.17500</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2584 DALHOLEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.67989,62.21780 9.64932,62.19964 9.64809,62.19889 9.64737,62.19846 9.64662,62.19815 9.64548,62.19771 9.64420,62.19734 9.64247,62.19677 9.64107,62.19684 9.63911,62.19693 9.63814,62.19698 9.63685,62.19678 9.63506,62.19650 9.63403,62.19660 9.63273,62.19671 9.63099,62.19701 9.62934,62.19739 9.62776,62.19762 9.62585,62.19783 9.62503,62.19799 9.62387,62.19804 9.62275,62.19783 9.62166,62.19769 9.62066,62.19757 9.61959,62.19792 9.61884,62.19815 9.61789,62.19820 9.61633,62.19841 9.61485,62.19862 9.61329,62.19880 9.61219,62.19894 9.61124,62.19906 9.60721,62.19735 9.60415,62.19602 9.60049,62.19446 9.59696,62.19293 9.59345,62.19145 9.59040,62.19012 9.58872,62.18940 9.58639,62.18842 9.58401,62.18738 9.58397,62.18689 9.58379,62.18571 9.58366,62.18451 9.58460,62.18393 9.60580,62.16733 9.65083,62.13932 9.65149,62.13923 9.68275,62.13477 9.69831,62.13256 9.71784,62.12977 9.76333,62.12315 9.76423,62.12292 9.81295,62.10942 9.83588,62.13044 9.85578,62.14416 9.85614,62.14573 9.85520,62.14748 9.85986,62.14935 9.86521,62.15051 9.86772,62.15190 9.87158,62.15126 9.88627,62.15051 9.89184,62.15942 9.89724,62.16028 9.90176,62.16062 9.91275,62.16185 9.92208,62.16344 9.93258,62.16504 9.94461,62.16736 9.94875,62.16844 9.95369,62.17001 9.96961,62.17605 9.97770,62.17948 9.98202,62.18224 9.93416,62.20854 9.88980,62.21577 9.86427,62.23046 9.80475,62.23892 9.80083,62.23546 9.79559,62.23083 9.78719,62.22448 9.77381,62.21582 9.76006,62.20684 9.75253,62.20796 9.73717,62.20949 9.70586,62.21343 9.67989,62.21780</coordinates></LineString></Placemark>
+ </Document>
+</kml>

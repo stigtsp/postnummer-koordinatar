@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hægebostad, Vest-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4590">
+ <IconStyle id="icon4590">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4590.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4590">
+ <name>4590 SNARTEMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4590:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hægebostad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4590"><strong>Meir info om 4590 SNARTEMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4590</styleUrl>
+ <Point>
+ <coordinates>7.2098,58.3321</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4595">
+ <IconStyle id="icon4595">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4595.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4595">
+ <name>4595 TINGVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4595:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hægebostad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4595"><strong>Meir info om 4595 TINGVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4595</styleUrl>
+ <Point>
+ <coordinates>7.22156,58.37357</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4596">
+ <IconStyle id="icon4596">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4596.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4596">
+ <name>4596 EIKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4596:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hægebostad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4596"><strong>Meir info om 4596 EIKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4596</styleUrl>
+ <Point>
+ <coordinates>7.2084,58.4787</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4597">
+ <IconStyle id="icon4597">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4597.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4597">
+ <name>4597 EIKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4597:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hægebostad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4597"><strong>Meir info om 4597 EIKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4597</styleUrl>
+ <Point>
+ <coordinates>7.22615,58.47204</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hægebostad (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.2441082,58.3021196,0 7.2079441,58.2997726,0 7.1982331,58.3146855,0 7.1389708,58.2860753,0 7.1389708,58.2860753,0 7.0991256,58.4138989,0 7.1335374,58.4413988,0 7.068336,58.5322798,0 7.0810141,58.6507335,0 7.1597991,58.6719278,0 7.1597991,58.6719278,0 7.214667,58.6252394,0 7.2475347,58.621739,0 7.2527637,58.5504888,0 7.3080412,58.5192956,0 7.3797525,58.513834,0 7.3797525,58.513834,0 7.3468848,58.4806556,0 7.3707886,58.4536995,0 7.3058002,58.4380634,0 7.32821,58.3856315,0 7.3028122,58.3715321,0 7.3125231,58.3397877,0 7.2848844,58.3295921,0 7.3043062,58.3084071,0 7.2547416,58.3033302,0 7.2441082,58.3021196,0 7.2441082,58.3021196,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

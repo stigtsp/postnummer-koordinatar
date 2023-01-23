@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Karlsøy, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9130">
+ <IconStyle id="icon9130">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9130.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9130">
+ <name>9130 HANSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9130:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9130"><strong>Meir info om 9130 HANSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9130</styleUrl>
+ <Point>
+ <coordinates>19.61860,69.96240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9132">
+ <IconStyle id="icon9132">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9132.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9132">
+ <name>9132 STAKKVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9132:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9132"><strong>Meir info om 9132 STAKKVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9132</styleUrl>
+ <Point>
+ <coordinates>19.68750,69.95950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9134">
+ <IconStyle id="icon9134">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9134.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9134">
+ <name>9134 HANSNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9134:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9134"><strong>Meir info om 9134 HANSNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9134</styleUrl>
+ <Point>
+ <coordinates>19.60961,69.96029</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9135">
+ <IconStyle id="icon9135">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9135.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9135">
+ <name>9135 VANNVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9135:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9135"><strong>Meir info om 9135 VANNVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9135</styleUrl>
+ <Point>
+ <coordinates>19.98210,70.07260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9136">
+ <IconStyle id="icon9136">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9136.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9136">
+ <name>9136 VANNAREID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9136:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9136"><strong>Meir info om 9136 VANNAREID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9136</styleUrl>
+ <Point>
+ <coordinates>19.64884,70.18061</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9137">
+ <IconStyle id="icon9137">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9137.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9137">
+ <name>9137 VANNVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9137:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9137"><strong>Meir info om 9137 VANNVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9137</styleUrl>
+ <Point>
+ <coordinates>19.99165,70.07186</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9138">
+ <IconStyle id="icon9138">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9138.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9138">
+ <name>9138 KARLSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9138:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9138"><strong>Meir info om 9138 KARLSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9138</styleUrl>
+ <Point>
+ <coordinates>19.88940,70.00260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9140">
+ <IconStyle id="icon9140">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9140.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9140">
+ <name>9140 REBBENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9140:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9140"><strong>Meir info om 9140 REBBENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9140</styleUrl>
+ <Point>
+ <coordinates>18.93060,70.05230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9150">
+ <IconStyle id="icon9150">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9150.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9150">
+ <name>9150 STAKKVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9150:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9150"><strong>Meir info om 9150 STAKKVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9150</styleUrl>
+ <Point>
+ <coordinates>19.68750,69.95950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9160">
+ <IconStyle id="icon9160">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9160.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9160">
+ <name>9160 VANNVÅG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9160:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9160"><strong>Meir info om 9160 VANNVÅG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9160</styleUrl>
+ <Point>
+ <coordinates>19.98210,70.07260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9166">
+ <IconStyle id="icon9166">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9166.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9166">
+ <name>9166 VANNAREID (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9166:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karlsøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9166"><strong>Meir info om 9166 VANNAREID (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9166</styleUrl>
+ <Point>
+ <coordinates>19.64884,70.18061</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

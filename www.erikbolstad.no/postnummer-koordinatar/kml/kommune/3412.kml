@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Løten, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2340">
+ <IconStyle id="icon2340">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2340.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2340">
+ <name>2340 LØTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2340:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2340"><strong>Meir info om 2340 LØTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2340</styleUrl>
+ <Point>
+ <coordinates>11.30260,60.82770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2341">
+ <IconStyle id="icon2341">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2341.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2341">
+ <name>2341 LØTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2341:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2341"><strong>Meir info om 2341 LØTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2341</styleUrl>
+ <Point>
+ <coordinates>11.34207,60.81983</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2345">
+ <IconStyle id="icon2345">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2345.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2345">
+ <name>2345 ÅDALSBRUK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2345:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2345"><strong>Meir info om 2345 ÅDALSBRUK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2345</styleUrl>
+ <Point>
+ <coordinates>11.30880,60.79650</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Flakstad, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8380">
+ <IconStyle id="icon8380">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8380.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8380">
+ <name>8380 RAMBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8380:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flakstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8380"><strong>Meir info om 8380 RAMBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8380</styleUrl>
+ <Point>
+ <coordinates>13.22790,68.08760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8382">
+ <IconStyle id="icon8382">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8382.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8382">
+ <name>8382 NAPP</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8382:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flakstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8382"><strong>Meir info om 8382 NAPP</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8382</styleUrl>
+ <Point>
+ <coordinates>13.43030,68.13320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8384">
+ <IconStyle id="icon8384">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8384.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8384">
+ <name>8384 SUND I LOFOTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8384:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flakstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8384"><strong>Meir info om 8384 SUND I LOFOTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8384</styleUrl>
+ <Point>
+ <coordinates>13.20890,68.00630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8387">
+ <IconStyle id="icon8387">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8387.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8387">
+ <name>8387 FREDVANG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8387:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flakstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8387"><strong>Meir info om 8387 FREDVANG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8387</styleUrl>
+ <Point>
+ <coordinates>13.16340,68.08630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8388">
+ <IconStyle id="icon8388">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8388.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8388">
+ <name>8388 RAMBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8388:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flakstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8388"><strong>Meir info om 8388 RAMBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8388</styleUrl>
+ <Point>
+ <coordinates>13.22826,68.08909</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Flakstad (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.4713436,68.1544037,0 12.5873192,68.2428813,0 12.8012852,68.3397947,0 13.0049759,68.3960554,0 13.0049759,68.3960554,0 13.2214873,68.2828989,0 13.4660839,68.1687815,0 13.4181732,68.0380674,0 13.4433894,67.9766872,0 13.577035,67.8534373,0 13.577035,67.8534373,0 13.1660118,67.9804691,0 13.0575824,67.9814145,0 13.0121933,68.0427823,0 12.9365449,68.0682256,0 12.4713436,68.1544037,0 12.4713436,68.1544037,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

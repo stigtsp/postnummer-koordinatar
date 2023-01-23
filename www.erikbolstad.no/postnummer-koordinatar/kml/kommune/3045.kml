@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sigdal, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3350">
+ <IconStyle id="icon3350">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3350.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3350">
+ <name>3350 PRESTFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3350:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sigdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3350"><strong>Meir info om 3350 PRESTFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3350</styleUrl>
+ <Point>
+ <coordinates>9.63520,60.04340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3351">
+ <IconStyle id="icon3351">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3351.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3351">
+ <name>3351 PRESTFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3351:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sigdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3351"><strong>Meir info om 3351 PRESTFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3351</styleUrl>
+ <Point>
+ <coordinates>9.58978,60.04211</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3355">
+ <IconStyle id="icon3355">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3355.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3355">
+ <name>3355 SOLUMSMOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3355:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sigdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3355"><strong>Meir info om 3355 SOLUMSMOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3355</styleUrl>
+ <Point>
+ <coordinates>9.77090,59.96350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3357">
+ <IconStyle id="icon3357">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3357.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3357">
+ <name>3357 EGGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3357:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sigdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3357"><strong>Meir info om 3357 EGGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3357</styleUrl>
+ <Point>
+ <coordinates>9.35531,60.24679</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3358">
+ <IconStyle id="icon3358">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3358.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3358">
+ <name>3358 NEDRE EGGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3358:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sigdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3358"><strong>Meir info om 3358 NEDRE EGGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3358</styleUrl>
+ <Point>
+ <coordinates>9.43710,60.13470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3359">
+ <IconStyle id="icon3359">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3359.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3359">
+ <name>3359 EGGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3359:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sigdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3359"><strong>Meir info om 3359 EGGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3359</styleUrl>
+ <Point>
+ <coordinates>9.35530,60.24680</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

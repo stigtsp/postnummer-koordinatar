@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nore og Uvdal, Buskerud</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3544">
+ <IconStyle id="icon3544">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3544.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3544">
+ <name>3544 TUNHOVD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3544:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nore og Uvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3544"><strong>Meir info om 3544 TUNHOVD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3544</styleUrl>
+ <Point>
+ <coordinates>8.7682,60.4615</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3629">
+ <IconStyle id="icon3629">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3629.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3629">
+ <name>3629 NORE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3629:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nore og Uvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3629"><strong>Meir info om 3629 NORE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3629</styleUrl>
+ <Point>
+ <coordinates>9.01082,60.16862</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3630">
+ <IconStyle id="icon3630">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3630.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3630">
+ <name>3630 RØDBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3630:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nore og Uvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3630"><strong>Meir info om 3630 RØDBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3630</styleUrl>
+ <Point>
+ <coordinates>8.9458,60.2675</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3631">
+ <IconStyle id="icon3631">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3631.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3631">
+ <name>3631 RØDBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3631:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nore og Uvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3631"><strong>Meir info om 3631 RØDBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3631</styleUrl>
+ <Point>
+ <coordinates>8.94695,60.26734</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3632">
+ <IconStyle id="icon3632">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3632.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3632">
+ <name>3632 UVDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3632:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nore og Uvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3632"><strong>Meir info om 3632 UVDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3632</styleUrl>
+ <Point>
+ <coordinates>8.7518,60.2695</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3634">
+ <IconStyle id="icon3634">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3634.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3634">
+ <name>3634 NORE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3634:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nore og Uvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3634"><strong>Meir info om 3634 NORE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3634</styleUrl>
+ <Point>
+ <coordinates>9.01082,60.16862</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nore og Uvdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.6793779,60.5142906,0 8.4757919,60.4873315,0 8.4757919,60.4873315,0 8.5421084,60.4790715,0 8.6236782,60.4439603,0 8.5843425,60.42966,0 8.5748192,60.405335,0 8.1915743,60.3462235,0 8.1379972,60.3407214,0 8.1117141,60.3657233,0 8.0530826,60.3462235,0 8.0510608,60.3802156,0 7.9428957,60.396699,0 7.7902516,60.3727204,0 7.6882633,60.3963071,0 7.6882633,60.3963071,0 7.6740825,60.2968074,0 7.6109133,60.2463039,0 7.5838408,60.1784171,0 7.4893706,60.0998265,0 7.4893706,60.0998265,0 7.6438131,60.1282239,0 7.8121268,60.1035586,0 7.8536043,60.1169383,0 7.8536043,60.1169383,0 8.1031872,60.1846958,0 8.1825999,60.1754643,0 8.1660986,60.1882851,0 8.4878748,60.1708476,0 8.7219876,60.1849842,0 8.9571318,60.0993987,0 8.9705392,60.0811509,0 8.9705392,60.0811509,0 9.0884622,60.0761836,0 9.1240454,60.1187576,0 9.21799,60.1544853,0 9.21799,60.1544853,0 9.1723788,60.2111093,0 9.1710849,60.2846314,0 9.1387365,60.3057906,0 9.14856,60.3646541,0 9.14856,60.3646541,0 9.0970047,60.3936332,0 9.0970047,60.3936332,0 9.0196835,60.4310705,0 8.6793779,60.5142906,0 8.6793779,60.5142906,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

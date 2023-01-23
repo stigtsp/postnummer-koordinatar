@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Harstad, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9400">
+ <IconStyle id="icon9400">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9400.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9400">
+ <name>9400 HARSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9400:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9400"><strong>Meir info om 9400 HARSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9400</styleUrl>
+ <Point>
+ <coordinates>16.54165,68.79833</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9401">
+ <IconStyle id="icon9401">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9401.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9401">
+ <name>9401 HARSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9401:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9401"><strong>Meir info om 9401 HARSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9401</styleUrl>
+ <Point>
+ <coordinates>16.402,68.8239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9402">
+ <IconStyle id="icon9402">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9402.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9402">
+ <name>9402 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9402:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9402"><strong>Meir info om 9402 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9402</styleUrl>
+ <Point>
+ <coordinates>16.402,68.8239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9403">
+ <IconStyle id="icon9403">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9403.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9403">
+ <name>9403 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9403:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9403"><strong>Meir info om 9403 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9403</styleUrl>
+ <Point>
+ <coordinates>16.5102,68.8081</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9404">
+ <IconStyle id="icon9404">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9404.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9404">
+ <name>9404 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9404:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9404"><strong>Meir info om 9404 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9404</styleUrl>
+ <Point>
+ <coordinates>16.5429,68.8103</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9405">
+ <IconStyle id="icon9405">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9405.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9405">
+ <name>9405 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9405:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9405"><strong>Meir info om 9405 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9405</styleUrl>
+ <Point>
+ <coordinates>16.5363,68.8011</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9406">
+ <IconStyle id="icon9406">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9406.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9406">
+ <name>9406 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9406:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9406"><strong>Meir info om 9406 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9406</styleUrl>
+ <Point>
+ <coordinates>16.5285,68.7931</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9407">
+ <IconStyle id="icon9407">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9407.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9407">
+ <name>9407 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9407:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9407"><strong>Meir info om 9407 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9407</styleUrl>
+ <Point>
+ <coordinates>16.5261,68.7838</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9408">
+ <IconStyle id="icon9408">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9408.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9408">
+ <name>9408 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9408:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9408"><strong>Meir info om 9408 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9408</styleUrl>
+ <Point>
+ <coordinates>16.5532,68.7844</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9409">
+ <IconStyle id="icon9409">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9409.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9409">
+ <name>9409 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9409:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9409"><strong>Meir info om 9409 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9409</styleUrl>
+ <Point>
+ <coordinates>16.58,68.7864</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9411">
+ <IconStyle id="icon9411">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9411.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9411">
+ <name>9411 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9411:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9411"><strong>Meir info om 9411 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9411</styleUrl>
+ <Point>
+ <coordinates>16.5581,68.773</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9414">
+ <IconStyle id="icon9414">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9414.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9414">
+ <name>9414 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9414:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9414"><strong>Meir info om 9414 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9414</styleUrl>
+ <Point>
+ <coordinates>16.5575,68.7587</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9415">
+ <IconStyle id="icon9415">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9415.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9415">
+ <name>9415 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9415:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9415"><strong>Meir info om 9415 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9415</styleUrl>
+ <Point>
+ <coordinates>16.5576,68.7381</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9416">
+ <IconStyle id="icon9416">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9416.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9416">
+ <name>9416 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9416:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9416"><strong>Meir info om 9416 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9416</styleUrl>
+ <Point>
+ <coordinates>16.55798,68.74566</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9419">
+ <IconStyle id="icon9419">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9419.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9419">
+ <name>9419 SØRVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9419:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9419"><strong>Meir info om 9419 SØRVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9419</styleUrl>
+ <Point>
+ <coordinates>16.5358,68.6842</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9420">
+ <IconStyle id="icon9420">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9420.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9420">
+ <name>9420 LUNDENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9420:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9420"><strong>Meir info om 9420 LUNDENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9420</styleUrl>
+ <Point>
+ <coordinates>16.5654,68.8786</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9423">
+ <IconStyle id="icon9423">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9423.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9423">
+ <name>9423 GRØTAVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9423:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9423"><strong>Meir info om 9423 GRØTAVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9423</styleUrl>
+ <Point>
+ <coordinates>16.2628,68.9643</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9424">
+ <IconStyle id="icon9424">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9424.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9424">
+ <name>9424 KJØTTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9424:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9424"><strong>Meir info om 9424 KJØTTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9424</styleUrl>
+ <Point>
+ <coordinates>16.6956,68.8747</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9425">
+ <IconStyle id="icon9425">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9425.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9425">
+ <name>9425 SANDSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9425:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9425"><strong>Meir info om 9425 SANDSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9425</styleUrl>
+ <Point>
+ <coordinates>16.67263,68.94185</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9426">
+ <IconStyle id="icon9426">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9426.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9426">
+ <name>9426 BJARKØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9426:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9426"><strong>Meir info om 9426 BJARKØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9426</styleUrl>
+ <Point>
+ <coordinates>16.5379,68.9972</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9427">
+ <IconStyle id="icon9427">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9427.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9427">
+ <name>9427 MELØYVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9427:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9427"><strong>Meir info om 9427 MELØYVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9427</styleUrl>
+ <Point>
+ <coordinates>16.5047,69.0728</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9430">
+ <IconStyle id="icon9430">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9430.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9430">
+ <name>9430 SANDTORG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9430:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9430"><strong>Meir info om 9430 SANDTORG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9430</styleUrl>
+ <Point>
+ <coordinates>16.4992,68.5955</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9433">
+ <IconStyle id="icon9433">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9433.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9433">
+ <name>9433 SØRVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9433:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9433"><strong>Meir info om 9433 SØRVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9433</styleUrl>
+ <Point>
+ <coordinates>16.5358,68.6842</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9434">
+ <IconStyle id="icon9434">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9434.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9434">
+ <name>9434 SANDTORG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9434:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9434"><strong>Meir info om 9434 SANDTORG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9434</styleUrl>
+ <Point>
+ <coordinates>16.5359,68.6841</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9477">
+ <IconStyle id="icon9477">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9477.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9477">
+ <name>9477 HARSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9477:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9477"><strong>Meir info om 9477 HARSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9477</styleUrl>
+ <Point>
+ <coordinates>16.402,68.8239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9478">
+ <IconStyle id="icon9478">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9478.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9478">
+ <name>9478 HARSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9478:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9478"><strong>Meir info om 9478 HARSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9478</styleUrl>
+ <Point>
+ <coordinates>16.402,68.8239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9479">
+ <IconStyle id="icon9479">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9479.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9479">
+ <name>9479 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9479:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9479"><strong>Meir info om 9479 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9479</styleUrl>
+ <Point>
+ <coordinates>16.546,68.7993</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9480">
+ <IconStyle id="icon9480">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9480.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9480">
+ <name>9480 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9480:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9480"><strong>Meir info om 9480 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9480</styleUrl>
+ <Point>
+ <coordinates>16.546,68.7993</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9481">
+ <IconStyle id="icon9481">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9481.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9481">
+ <name>9481 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9481:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9481"><strong>Meir info om 9481 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9481</styleUrl>
+ <Point>
+ <coordinates>16.54551,68.79902</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9482">
+ <IconStyle id="icon9482">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9482.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9482">
+ <name>9482 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9482:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9482"><strong>Meir info om 9482 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9482</styleUrl>
+ <Point>
+ <coordinates>16.5455,68.799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9483">
+ <IconStyle id="icon9483">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9483.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9483">
+ <name>9483 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9483:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9483"><strong>Meir info om 9483 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9483</styleUrl>
+ <Point>
+ <coordinates>16.5455,68.799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9484">
+ <IconStyle id="icon9484">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9484.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9484">
+ <name>9484 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9484:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9484"><strong>Meir info om 9484 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9484</styleUrl>
+ <Point>
+ <coordinates>16.5455,68.799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9485">
+ <IconStyle id="icon9485">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9485.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9485">
+ <name>9485 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9485:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9485"><strong>Meir info om 9485 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9485</styleUrl>
+ <Point>
+ <coordinates>16.5455,68.799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9486">
+ <IconStyle id="icon9486">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9486.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9486">
+ <name>9486 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9486:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9486"><strong>Meir info om 9486 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9486</styleUrl>
+ <Point>
+ <coordinates>16.5455,68.799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9487">
+ <IconStyle id="icon9487">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9487.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9487">
+ <name>9487 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9487:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9487"><strong>Meir info om 9487 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9487</styleUrl>
+ <Point>
+ <coordinates>16.5455,68.799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9488">
+ <IconStyle id="icon9488">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9488.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9488">
+ <name>9488 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9488:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9488"><strong>Meir info om 9488 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9488</styleUrl>
+ <Point>
+ <coordinates>16.5456,68.7989</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9489">
+ <IconStyle id="icon9489">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9489.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9489">
+ <name>9489 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9489:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9489"><strong>Meir info om 9489 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9489</styleUrl>
+ <Point>
+ <coordinates>16.5455,68.799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9490">
+ <IconStyle id="icon9490">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9490.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9490">
+ <name>9490 HARSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9490:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9490"><strong>Meir info om 9490 HARSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9490</styleUrl>
+ <Point>
+ <coordinates>16.402,68.8239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9491">
+ <IconStyle id="icon9491">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9491.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9491">
+ <name>9491 HARSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9491:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9491"><strong>Meir info om 9491 HARSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9491</styleUrl>
+ <Point>
+ <coordinates>16.402,68.8239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9496">
+ <IconStyle id="icon9496">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9496.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9496">
+ <name>9496 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9496:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9496"><strong>Meir info om 9496 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9496</styleUrl>
+ <Point>
+ <coordinates>16.5091,68.808</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9497">
+ <IconStyle id="icon9497">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9497.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9497">
+ <name>9497 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9497:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9497"><strong>Meir info om 9497 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9497</styleUrl>
+ <Point>
+ <coordinates>16.5641,68.77930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9498">
+ <IconStyle id="icon9498">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9498.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9498">
+ <name>9498 HARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9498:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9498"><strong>Meir info om 9498 HARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9498</styleUrl>
+ <Point>
+ <coordinates>16.546,68.7993</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9499">
+ <IconStyle id="icon9499">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9499.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9499">
+ <name>9499 HARSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9499:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Harstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9499"><strong>Meir info om 9499 HARSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9499</styleUrl>
+ <Point>
+ <coordinates>16.546,68.7993</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Harstad (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>16.1202407,69.0528982,0 16.0500056,69.0105416,0 16.0500056,69.0105416,0 16.1128083,68.9325016,0 16.1128083,68.9325016,0 16.2355923,68.8760428,0 16.2411886,68.8153839,0 16.3317825,68.7925315,0 16.3637538,68.7737157,0 16.3244029,68.7602143,0 16.3644442,68.7577132,0 16.3685864,68.7103886,0 16.4113892,68.7021153,0 16.3872263,68.6923338,0 16.422435,68.6742644,0 16.2674892,68.6328238,0 16.2674892,68.6328238,0 16.3070317,68.6031426,0 16.4349633,68.5810683,0 16.4567902,68.5507695,0 16.4805288,68.5513386,0 16.5535907,68.5780951,0 16.5535907,68.5780951,0 16.5343265,68.6009807,0 16.715548,68.7034692,0 16.715548,68.7034692,0 16.7489877,68.7930064,0 16.8730381,68.8779089,0 16.8849038,68.9155823,0 16.8849038,68.9155823,0 16.7177054,68.9198505,0 16.5321691,68.9047141,0 16.5095164,68.9384657,0 16.3390819,68.969069,0 16.2916192,69.0212675,0 16.1202407,69.0528982,0 16.1202407,69.0528982,0 16.1202407,69.0528982,0 16.3161586,69.1693244,0 16.4297343,69.3152414,0 16.4297343,69.3152414,0 16.6432751,69.2712482,0 16.7392794,69.2257664,0 16.7274137,69.1936042,0 16.7274137,69.1936042,0 16.7123119,69.0216537,0 16.9442323,68.9551284,0 16.9442323,68.9551284,0 16.8849038,68.9155823,0 16.8849038,68.9155823,0 16.7177054,68.9198505,0 16.5321691,68.9047141,0 16.5095164,68.9384657,0 16.3390819,68.969069,0 16.2916192,69.0212675,0 16.1202407,69.0528982,0 16.1202407,69.0528982,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

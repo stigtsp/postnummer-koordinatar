@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Stranda, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6200">
+ <IconStyle id="icon6200">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6200.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6200">
+ <name>6200 STRANDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6200:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stranda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6200"><strong>Meir info om 6200 STRANDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6200</styleUrl>
+ <Point>
+ <coordinates>6.94460,62.30740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6201">
+ <IconStyle id="icon6201">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6201.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6201">
+ <name>6201 STRANDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6201:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stranda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6201"><strong>Meir info om 6201 STRANDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6201</styleUrl>
+ <Point>
+ <coordinates>6.94458,62.30714</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6212">
+ <IconStyle id="icon6212">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6212.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6212">
+ <name>6212 LIABYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6212:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stranda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6212"><strong>Meir info om 6212 LIABYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6212</styleUrl>
+ <Point>
+ <coordinates>7.05620,62.31190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6216">
+ <IconStyle id="icon6216">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6216.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6216">
+ <name>6216 GEIRANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6216:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stranda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6216"><strong>Meir info om 6216 GEIRANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6216</styleUrl>
+ <Point>
+ <coordinates>7.20397,62.09712</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6217">
+ <IconStyle id="icon6217">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6217.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6217">
+ <name>6217 GEIRANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6217:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stranda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6217"><strong>Meir info om 6217 GEIRANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6217</styleUrl>
+ <Point>
+ <coordinates>7.20397,62.09712</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6218">
+ <IconStyle id="icon6218">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6218.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6218">
+ <name>6218 HELLESYLT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6218:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stranda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6218"><strong>Meir info om 6218 HELLESYLT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6218</styleUrl>
+ <Point>
+ <coordinates>6.86760,62.08540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6219">
+ <IconStyle id="icon6219">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6219.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6219">
+ <name>6219 HELLESYLT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6219:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stranda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6219"><strong>Meir info om 6219 HELLESYLT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6219</styleUrl>
+ <Point>
+ <coordinates>6.87077,62.08814</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6252">
+ <IconStyle id="icon6252">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6252.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6252">
+ <name>6252 LIABYGDA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6252:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stranda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6252"><strong>Meir info om 6252 LIABYGDA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6252</styleUrl>
+ <Point>
+ <coordinates>7.05620,62.31190</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Stranda (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.658997,62.071696,0 6.7906697,61.9723119,0 6.7906697,61.9723119,0 6.8415832,61.9648863,0 6.9498474,61.9882572,0 7.0475778,61.984684,0 7.0762532,62.0091383,0 7.1728132,62.0118848,0 7.2295788,62.0330242,0 7.2424534,62.0187499,0 7.349114,62.0076814,0 7.349114,62.0076814,0 7.3448655,62.0352197,0 7.4028015,62.0599077,0 7.4174318,62.0936156,0 7.4174318,62.0936156,0 7.3730294,62.0952668,0 7.3145082,62.1442519,0 7.2735433,62.1633866,0 7.2296524,62.1584674,0 7.2179482,62.1765005,0 7.178739,62.152454,0 7.0868607,62.1702174,0 7.024243,62.2163537,0 7.0341916,62.2956305,0 7.1424558,62.2904607,0 7.1635235,62.3214661,0 7.1635235,62.3214661,0 7.0856903,62.3312507,0 7.0400437,62.362214,0 6.9393872,62.339402,0 6.9148083,62.3657429,0 6.8510202,62.374699,0 6.8510202,62.374699,0 6.8159075,62.3497239,0 6.8387308,62.3138537,0 6.7807948,62.3018875,0 6.734563,62.263509,0 6.7491933,62.2378962,0 6.7053024,62.2226272,0 6.7053024,62.2226272,0 6.7854765,62.185513,0 6.753875,62.1349536,0 6.6690193,62.1174431,0 6.7064729,62.0878711,0 6.658997,62.071696,0 6.658997,62.071696,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

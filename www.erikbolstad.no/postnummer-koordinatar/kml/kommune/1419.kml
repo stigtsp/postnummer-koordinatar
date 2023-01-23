@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Leikanger, Sogn og Fjordane</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5842">
+ <IconStyle id="icon5842">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5842.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5842">
+ <name>5842 LEIKANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5842:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Leikanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5842"><strong>Meir info om 5842 LEIKANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5842</styleUrl>
+ <Point>
+ <coordinates>6.85063,61.18350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6861">
+ <IconStyle id="icon6861">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6861.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6861">
+ <name>6861 LEIKANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6861:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Leikanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6861"><strong>Meir info om 6861 LEIKANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6861</styleUrl>
+ <Point>
+ <coordinates>6.85063,61.18350</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6863">
+ <IconStyle id="icon6863">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6863.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6863">
+ <name>6863 LEIKANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6863:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Leikanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6863"><strong>Meir info om 6863 LEIKANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6863</styleUrl>
+ <Point>
+ <coordinates>6.8080,61.1856</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Leikanger (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.5884948,61.1894012,0 6.5817059,61.2182099,0 6.6984101,61.2580315,0 6.6392498,61.2485473,0 6.6179133,61.2602077,0 6.6408662,61.2741946,0 6.6408662,61.2741946,0 6.717277,61.2625724,0 6.7139845,61.3040989,0 6.7502016,61.3147682,0 6.7921806,61.3127927,0 6.8004118,61.296984,0 6.8860159,61.3072605,0 6.8991858,61.2724647,0 6.9279949,61.2740471,0 6.9461034,61.2558439,0 6.9156481,61.2451545,0 6.922233,61.1928429,0 6.8759047,61.1604903,0 6.8759047,61.1604903,0 6.7064781,61.1692767,0 6.6536462,61.1929875,0 6.5884948,61.1894012,0 6.5884948,61.1894012,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

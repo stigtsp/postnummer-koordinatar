@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>4824 BJORBEKK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer4824">
+ <name>4824 BJORBEKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4824:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4824"><strong>Meir info om 4824 BJORBEKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>8.70900,58.44140</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 4824 BJORBEKK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.64242,58.45152 8.64318,58.45059 8.64406,58.44981 8.65015,58.44221 8.66111,58.43714 8.66498,58.43395 8.67150,58.43202 8.67099,58.41665 8.67064,58.41553 8.67164,58.41436 8.67372,58.41241 8.68269,58.41696 8.68903,58.42092 8.69288,58.42185 8.69575,58.42208 8.69910,58.42281 8.70046,58.42399 8.70649,58.42897 8.71143,58.43380 8.71406,58.43666 8.71453,58.43709 8.71549,58.43751 8.71665,58.43792 8.71811,58.43808 8.71932,58.43835 8.72056,58.43879 8.72151,58.43906 8.72239,58.43953 8.72356,58.43961 8.72522,58.43955 8.72416,58.44084 8.72279,58.44177 8.72202,58.44182 8.72201,58.44210 8.72205,58.44259 8.72193,58.44288 8.72122,58.44285 8.72111,58.44303 8.72094,58.44311 8.72031,58.44343 8.72158,58.44380 8.72162,58.44386 8.72157,58.44395 8.72142,58.44515 8.72143,58.44657 8.72121,58.44689 8.71899,58.44650 8.71894,58.44680 8.71889,58.44693 8.71888,58.44711 8.71846,58.44751 8.71801,58.44775 8.71777,58.44782 8.71753,58.44793 8.71708,58.44811 8.71678,58.44822 8.71656,58.44835 8.71591,58.44843 8.71237,58.44724 8.70884,58.44915 8.70420,58.45371 8.69975,58.45397 8.68900,58.45464 8.68055,58.45715 8.67036,58.45775 8.66287,58.45761 8.65192,58.45561 8.64456,58.45256 8.64242,58.45152</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Os, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2550">
+ <IconStyle id="icon2550">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2550.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2550">
+ <name>2550 OS I ØSTERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2550:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2550"><strong>Meir info om 2550 OS I ØSTERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2550</styleUrl>
+ <Point>
+ <coordinates>11.22355,62.49617</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2551">
+ <IconStyle id="icon2551">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2551.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2551">
+ <name>2551 OS I ØSTERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2551:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2551"><strong>Meir info om 2551 OS I ØSTERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2551</styleUrl>
+ <Point>
+ <coordinates>11.22355,62.49617</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2552">
+ <IconStyle id="icon2552">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2552.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2552">
+ <name>2552 DALSBYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2552:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2552"><strong>Meir info om 2552 DALSBYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2552</styleUrl>
+ <Point>
+ <coordinates>11.10900,62.52760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2555">
+ <IconStyle id="icon2555">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2555.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2555">
+ <name>2555 TUFSINGDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2555:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2555"><strong>Meir info om 2555 TUFSINGDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2555</styleUrl>
+ <Point>
+ <coordinates>11.71950,62.30300</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

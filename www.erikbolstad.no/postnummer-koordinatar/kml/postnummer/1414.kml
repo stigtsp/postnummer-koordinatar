@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1414 TROLLÅSEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1414">
+ <name>1414 TROLLÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1414:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nordre Follo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1414"><strong>Meir info om 1414 TROLLÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.78020,59.81910</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1414 TROLLÅSEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.77674,59.82622 10.77628,59.82333 10.77519,59.81795 10.77373,59.81102 10.77546,59.80960 10.77631,59.80901 10.77724,59.80767 10.77779,59.80788 10.77827,59.80810 10.77900,59.80833 10.77939,59.80902 10.78067,59.80906 10.78280,59.80958 10.78393,59.80973 10.78474,59.80967 10.78472,59.81072 10.78389,59.81090 10.78406,59.81143 10.78447,59.81193 10.78445,59.81238 10.78536,59.81238 10.78552,59.81190 10.78617,59.81178 10.78660,59.81161 10.78722,59.81188 10.78801,59.81227 10.78841,59.81349 10.78859,59.81418 10.79001,59.81486 10.79041,59.81517 10.79084,59.81520 10.79146,59.81546 10.79145,59.81568 10.79153,59.81581 10.79036,59.81683 10.79059,59.81727 10.79073,59.81767 10.79171,59.81804 10.79290,59.81887 10.79613,59.82034 10.79643,59.82157 10.79649,59.82307 10.79573,59.82315 10.79488,59.82323 10.79433,59.82326 10.79404,59.82326 10.79241,59.82324 10.79204,59.82332 10.79151,59.82337 10.79041,59.82350 10.78993,59.82340 10.78921,59.82344 10.78859,59.82361 10.78669,59.82415 10.78513,59.82433 10.78406,59.82454 10.78332,59.82471 10.78263,59.82495 10.78200,59.82526 10.78140,59.82560 10.78078,59.82590 10.77987,59.82593 10.77919,59.82594 10.77755,59.82625 10.77711,59.82623 10.77674,59.82622</coordinates></LineString></Placemark>
+ </Document>
+</kml>

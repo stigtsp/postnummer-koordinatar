@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0458 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0458">
+ <name>0458 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0458:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0458"><strong>Meir info om 0458 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.75380,59.93070</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0458 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.75603,59.93292 10.75466,59.93301 10.75417,59.93295 10.75331,59.93272 10.75218,59.93262 10.75178,59.93211 10.75189,59.93189 10.75236,59.93150 10.75265,59.93124 10.75382,59.93109 10.75371,59.93092 10.75368,59.93085 10.75312,59.93090 10.75280,59.93064 10.75225,59.93071 10.75180,59.92959 10.75150,59.92935 10.75196,59.92921 10.75139,59.92884 10.75115,59.92872 10.75117,59.92859 10.75153,59.92858 10.75166,59.92850 10.75174,59.92840 10.75179,59.92826 10.75244,59.92865 10.75289,59.92852 10.75375,59.92913 10.75425,59.92977 10.75436,59.93015 10.75467,59.93013 10.75469,59.93023 10.75437,59.93028 10.75464,59.93063 10.75542,59.93058 10.75552,59.93070 10.75514,59.93104 10.75559,59.93193 10.75752,59.93169 10.75774,59.93238 10.75715,59.93234 10.75620,59.93228 10.75603,59.93292</coordinates></LineString></Placemark>
+ </Document>
+</kml>

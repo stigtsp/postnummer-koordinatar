@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>7563 MALVIK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer7563">
+ <name>7563 MALVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7563:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Malvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7563"><strong>Meir info om 7563 MALVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.73680,63.43210</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 7563 MALVIK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.64799,63.43717 10.64919,63.43546 10.64924,63.43416 10.64752,63.43221 10.65164,63.43204 10.65294,63.43154 10.65486,63.43024 10.65456,63.42916 10.65506,63.42772 10.65987,63.42729 10.66816,63.42721 10.67437,63.42639 10.67962,63.42605 10.68349,63.42764 10.69485,63.42759 10.69544,63.42641 10.69429,63.42497 10.69469,63.42458 10.69487,63.42425 10.69516,63.42413 10.69529,63.42410 10.69524,63.42241 10.69596,63.41717 10.70035,63.41608 10.70136,63.41549 10.70490,63.41512 10.71633,63.41643 10.72267,63.41692 10.74203,63.41664 10.74378,63.41809 10.74368,63.41906 10.74351,63.41992 10.74288,63.42582 10.75611,63.43088 10.75751,63.43216 10.74264,63.46247 10.74067,63.46291 10.71508,63.46863 10.66178,63.48773 10.65392,63.49054 10.65372,63.47188 10.65444,63.45720 10.65238,63.44711 10.65160,63.44310 10.64749,63.44220 10.64460,63.44165 10.64522,63.44051 10.64811,63.44069 10.64758,63.43982 10.64752,63.43962 10.64843,63.43905 10.64902,63.43843 10.64917,63.43800 10.64963,63.43790 10.64941,63.43773 10.64944,63.43769 10.64951,63.43758 10.64928,63.43741 10.64881,63.43735 10.64849,63.43750 10.64836,63.43744 10.64809,63.43726 10.64799,63.43717</coordinates></LineString></Placemark>
+ </Document>
+</kml>

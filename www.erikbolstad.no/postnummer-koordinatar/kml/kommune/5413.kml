@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ibestad, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9450">
+ <IconStyle id="icon9450">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9450.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9450">
+ <name>9450 HAMNVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9450:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ibestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9450"><strong>Meir info om 9450 HAMNVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9450</styleUrl>
+ <Point>
+ <coordinates>17.17460,68.77830</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9451">
+ <IconStyle id="icon9451">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9451.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9451">
+ <name>9451 HAMNVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9451:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ibestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9451"><strong>Meir info om 9451 HAMNVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9451</styleUrl>
+ <Point>
+ <coordinates>17.17443,68.77833</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9453">
+ <IconStyle id="icon9453">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9453.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9453">
+ <name>9453 KRÅKRØHAMN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9453:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ibestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9453"><strong>Meir info om 9453 KRÅKRØHAMN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9453</styleUrl>
+ <Point>
+ <coordinates>17.37940,68.83430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9454">
+ <IconStyle id="icon9454">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9454.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9454">
+ <name>9454 ÅNSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9454:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ibestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9454"><strong>Meir info om 9454 ÅNSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9454</styleUrl>
+ <Point>
+ <coordinates>17.18580,68.83330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9455">
+ <IconStyle id="icon9455">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9455.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9455">
+ <name>9455 ENGENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9455:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ibestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9455"><strong>Meir info om 9455 ENGENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9455</styleUrl>
+ <Point>
+ <coordinates>17.12213,68.92565</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9456">
+ <IconStyle id="icon9456">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9456.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9456">
+ <name>9456 ENGENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9456:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ibestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9456"><strong>Meir info om 9456 ENGENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9456</styleUrl>
+ <Point>
+ <coordinates>17.12213,68.92565</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9463">
+ <IconStyle id="icon9463">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9463.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9463">
+ <name>9463 KRÅKRØHAMN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9463:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ibestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9463"><strong>Meir info om 9463 KRÅKRØHAMN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9463</styleUrl>
+ <Point>
+ <coordinates>17.37940,68.83430</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

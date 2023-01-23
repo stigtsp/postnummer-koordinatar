@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bygland, Aust-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4680">
+ <IconStyle id="icon4680">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4680.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4680">
+ <name>4680 BYGLANDSFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4680:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4680"><strong>Meir info om 4680 BYGLANDSFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4680</styleUrl>
+ <Point>
+ <coordinates>7.8073,58.668</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4741">
+ <IconStyle id="icon4741">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4741.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4741">
+ <name>4741 BYGLANDSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4741:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4741"><strong>Meir info om 4741 BYGLANDSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4741</styleUrl>
+ <Point>
+ <coordinates>7.8073,58.668</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4742">
+ <IconStyle id="icon4742">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4742.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4742">
+ <name>4742 GRENDI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4742:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4742"><strong>Meir info om 4742 GRENDI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4742</styleUrl>
+ <Point>
+ <coordinates>7.8244,58.7086</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4744">
+ <IconStyle id="icon4744">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4744.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4744">
+ <name>4744 BYGLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4744:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4744"><strong>Meir info om 4744 BYGLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4744</styleUrl>
+ <Point>
+ <coordinates>7.79732,58.83144</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4745">
+ <IconStyle id="icon4745">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4745.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4745">
+ <name>4745 BYGLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4745:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4745"><strong>Meir info om 4745 BYGLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4745</styleUrl>
+ <Point>
+ <coordinates>7.7973,58.8314</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Bygland (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.1636377,58.9440868,0 7.1397039,58.8964958,0 7.0625838,58.8832136,0 7.0927227,58.8685514,0 7.0882905,58.8580091,0 7.0315585,58.8231508,0 7.0315585,58.8231508,0 7.1618648,58.8231508,0 7.1618648,58.8231508,0 7.1636377,58.839667,0 7.356881,58.8547999,0 7.4428654,58.8804649,0 7.4685721,58.8658015,0 7.5146668,58.8667181,0 7.5793767,58.8593843,0 7.6662476,58.7694188,0 7.646746,58.7307907,0 7.646746,58.7307907,0 7.7325201,58.683101,0 7.8037246,58.6767817,0 7.8132764,58.6487822,0 7.9556852,58.6826497,0 7.9556852,58.6826497,0 7.9860774,58.707916,0 7.9860774,58.707916,0 7.9799989,58.8007022,0 8.0164695,58.8470026,0 7.9869457,58.8627216,0 8.0017076,58.8909979,0 7.9582903,58.9120779,0 8.0088828,58.9671662,0 8.0088828,58.9671662,0 7.9655667,58.9708877,0 7.82118,59.1008901,0 7.82118,59.1008901,0 7.7718386,59.0666679,0 7.5995586,59.0438064,0 7.5655194,59.016281,0 7.5446791,59.0280803,0 7.3321078,59.0037621,0 7.1636377,58.9440868,0 7.1636377,58.9440868,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

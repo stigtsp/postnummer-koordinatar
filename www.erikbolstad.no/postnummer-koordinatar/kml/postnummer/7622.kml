@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>7622 MARKABYGDA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer7622">
+ <name>7622 MARKABYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7622:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Levanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7622"><strong>Meir info om 7622 MARKABYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.27380,63.63780</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 7622 MARKABYGDA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.23794,63.62882 11.25596,63.62225 11.25836,63.62091 11.26243,63.61853 11.25980,63.61469 11.24091,63.60610 11.24081,63.60380 11.23697,63.60244 11.22698,63.59670 11.24344,63.59075 11.25236,63.57418 11.26033,63.57448 11.27358,63.57504 11.27768,63.57521 11.28332,63.57544 11.28916,63.57568 11.29033,63.57573 11.29431,63.57590 11.29838,63.57607 11.30024,63.57614 11.30210,63.57622 11.30468,63.57633 11.32247,63.56367 11.39170,63.56465 11.42255,63.56961 11.49086,63.58332 11.49999,63.58516 11.51517,63.58803 11.51529,63.58805 11.51584,63.58818 11.51657,63.58944 11.51699,63.59001 11.51776,63.59037 11.51881,63.59077 11.51972,63.59117 11.52095,63.59183 11.52182,63.59236 11.52269,63.59290 11.52374,63.59351 11.52461,63.59407 11.52534,63.59447 11.52612,63.59482 11.52680,63.59512 11.52721,63.59540 11.52758,63.59570 11.52766,63.59574 11.51271,63.65150 11.48114,63.66401 11.45927,63.67345 11.43637,63.66868 11.41186,63.67383 11.38942,63.66663 11.33555,63.65805 11.30538,63.65088 11.26260,63.65086 11.24391,63.65094 11.21992,63.64840 11.21709,63.64486 11.22684,63.64005 11.23572,63.63496 11.23794,63.62882</coordinates></LineString></Placemark>
+ </Document>
+</kml>

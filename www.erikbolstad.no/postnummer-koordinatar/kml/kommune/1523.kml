@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ørskog, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6240">
+ <IconStyle id="icon6240">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6240.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6240">
+ <name>6240 ØRSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6240:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6240"><strong>Meir info om 6240 ØRSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6240</styleUrl>
+ <Point>
+ <coordinates>6.8158,62.4832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6249">
+ <IconStyle id="icon6249">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6249.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6249">
+ <name>6249 ØRSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6249:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6249"><strong>Meir info om 6249 ØRSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6249</styleUrl>
+ <Point>
+ <coordinates>6.81150,62.48278</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Ørskog (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.6910745,62.4639478,0 6.8877057,62.4371516,0 6.8877057,62.4371516,0 7.0146967,62.4395886,0 7.0661954,62.4160225,0 7.1171088,62.4325478,0 7.1165236,62.452312,0 7.1165236,62.452312,0 7.0170376,62.4734154,0 6.9661241,62.5296185,0 6.8566895,62.546081,0 6.8566895,62.546081,0 6.7923161,62.5217888,0 6.7712485,62.4896387,0 6.6846371,62.479365,0 6.6910745,62.4639478,0 6.6910745,62.4639478,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

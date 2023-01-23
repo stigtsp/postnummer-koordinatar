@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0352 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0352">
+ <name>0352 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0352:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0352"><strong>Meir info om 0352 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.72810,59.92240</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0352 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.72616,59.92261 10.72622,59.92250 10.72581,59.92228 10.72564,59.92231 10.72374,59.92127 10.72398,59.92117 10.72472,59.92083 10.72498,59.92069 10.72538,59.92093 10.72547,59.92093 10.72617,59.92126 10.72693,59.92088 10.72737,59.92075 10.72782,59.92096 10.72813,59.92081 10.72842,59.92078 10.72866,59.92082 10.72876,59.92085 10.72906,59.92100 10.72936,59.92120 10.72887,59.92139 10.72805,59.92093 10.72778,59.92107 10.72820,59.92134 10.72767,59.92159 10.72763,59.92171 10.72782,59.92185 10.72808,59.92195 10.72854,59.92209 10.72890,59.92221 10.72939,59.92236 10.73061,59.92294 10.73040,59.92306 10.73091,59.92349 10.73110,59.92358 10.73121,59.92366 10.73045,59.92396 10.73083,59.92439 10.73060,59.92445 10.73045,59.92449 10.73027,59.92429 10.72991,59.92436 10.72965,59.92410 10.72929,59.92418 10.72896,59.92384 10.72954,59.92363 10.72941,59.92347 10.72967,59.92324 10.72867,59.92295 10.72820,59.92331 10.72709,59.92290 10.72655,59.92330 10.72642,59.92356 10.72616,59.92347 10.72580,59.92390 10.72401,59.92391 10.72462,59.92379 10.72530,59.92333 10.72617,59.92332 10.72625,59.92311 10.72643,59.92279 10.72616,59.92261</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0352 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.72901,59.92061 10.72946,59.92050 10.73017,59.92040 10.73178,59.92008 10.73226,59.92004 10.73329,59.92051 10.73292,59.92059 10.73266,59.92038 10.73230,59.92048 10.73204,59.92029 10.73066,59.92060 10.72953,59.92093 10.72943,59.92080 10.72919,59.92085 10.72901,59.92061</coordinates></LineString></Placemark>
+ </Document>
+</kml>

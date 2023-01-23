@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2687 BØVERDALEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2687">
+ <name>2687 BØVERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2687:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2687"><strong>Meir info om 2687 BØVERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>8.34640,61.72050</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2687 BØVERDALEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.90441,61.67913 7.89564,61.64364 7.93298,61.60237 7.93576,61.59677 7.93784,61.59254 7.94172,61.58468 7.94282,61.58243 7.94319,61.58041 7.94392,61.57612 7.94466,61.57190 7.94536,61.56784 7.94609,61.56374 7.94682,61.55946 7.94730,61.55668 7.95427,61.55502 7.96169,61.55325 7.96916,61.55147 7.97775,61.54943 7.98933,61.54665 7.99770,61.54466 8.01291,61.54103 8.01611,61.54026 8.02558,61.53865 8.03017,61.53787 8.03408,61.53720 8.03779,61.53656 8.04170,61.53590 8.04633,61.53511 8.05423,61.53376 8.06677,61.53162 8.07131,61.53084 8.07935,61.52947 8.08862,61.52789 8.09290,61.52715 8.09731,61.52639 8.10147,61.52568 8.10587,61.52492 8.11400,61.52351 8.11788,61.52284 8.12104,61.52386 8.12856,61.52628 8.13608,61.52870 8.14334,61.53103 8.15466,61.53467 8.16531,61.53809 8.18358,61.54395 8.19138,61.54644 8.19556,61.54779 8.19688,61.54751 8.20495,61.54577 8.21334,61.54396 8.22324,61.54194 8.23864,61.53881 8.24678,61.53714 8.25308,61.53587 8.25841,61.53477 8.26232,61.53398 8.31310,61.58034 8.38455,61.62429 8.36517,61.64600 8.35668,61.66097 8.35850,61.67000 8.35456,61.68125 8.36347,61.68884 8.37229,61.69916 8.40551,61.71776 8.40402,61.72923 8.39205,61.73932 8.33802,61.74960 8.31040,61.76049 8.22784,61.75270 8.19156,61.77785 8.14051,61.74960 8.12738,61.74208 8.09287,61.73928 8.01103,61.73205 7.90441,61.67913</coordinates></LineString></Placemark>
+ </Document>
+</kml>

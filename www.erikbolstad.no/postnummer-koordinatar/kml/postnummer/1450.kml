@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1450 NESODDTANGEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1450">
+ <name>1450 NESODDTANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1450:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1450"><strong>Meir info om 1450 NESODDTANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.65940,59.86550</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1450 NESODDTANGEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.65808,59.88441 10.65385,59.88101 10.64589,59.87461 10.64162,59.87117 10.63899,59.86906 10.65353,59.86608 10.65500,59.86566 10.65562,59.86473 10.65577,59.86441 10.65573,59.86428 10.65568,59.86421 10.65566,59.86393 10.65575,59.86332 10.65595,59.86283 10.65640,59.86216 10.65622,59.86171 10.65601,59.86172 10.65596,59.86067 10.65619,59.86032 10.65929,59.85843 10.65961,59.85810 10.66007,59.85780 10.66078,59.85772 10.66117,59.85753 10.66153,59.85740 10.66257,59.85668 10.66297,59.85664 10.66320,59.85707 10.66380,59.85779 10.66529,59.85941 10.66551,59.85965 10.66587,59.85987 10.66614,59.85939 10.66711,59.85882 10.66737,59.85867 10.66765,59.85877 10.66801,59.85895 10.66854,59.85913 10.66850,59.85924 10.66895,59.85936 10.66912,59.85887 10.66987,59.85864 10.67055,59.85926 10.67025,59.85970 10.67037,59.85971 10.67052,59.85975 10.67037,59.86018 10.67041,59.86019 10.66987,59.86092 10.66964,59.86129 10.66955,59.86187 10.66964,59.86191 10.66927,59.86231 10.66913,59.86228 10.66864,59.86268 10.66867,59.86270 10.66812,59.86306 10.66823,59.86311 10.66752,59.86339 10.66717,59.86319 10.66645,59.86355 10.66543,59.86386 10.66584,59.86445 10.66611,59.86467 10.66641,59.86474 10.66627,59.86499 10.66610,59.86503 10.66649,59.86538 10.66654,59.86551 10.68318,59.87751 10.67413,59.88000 10.66063,59.88370 10.65808,59.88441</coordinates></LineString></Placemark>
+ </Document>
+</kml>

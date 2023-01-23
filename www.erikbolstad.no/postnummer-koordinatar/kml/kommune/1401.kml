@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Flora, Sogn og Fjordane</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6900">
+ <IconStyle id="icon6900">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6900.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6900">
+ <name>6900 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6900:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6900"><strong>Meir info om 6900 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6900</styleUrl>
+ <Point>
+ <coordinates>5.0388,61.6006</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6901">
+ <IconStyle id="icon6901">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6901.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6901">
+ <name>6901 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6901:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6901"><strong>Meir info om 6901 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6901</styleUrl>
+ <Point>
+ <coordinates>5.044,61.6006</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6902">
+ <IconStyle id="icon6902">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6902.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6902">
+ <name>6902 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6902:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6902"><strong>Meir info om 6902 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6902</styleUrl>
+ <Point>
+ <coordinates>5.04397,61.60059</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6903">
+ <IconStyle id="icon6903">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6903.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6903">
+ <name>6903 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6903:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6903"><strong>Meir info om 6903 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6903</styleUrl>
+ <Point>
+ <coordinates>5.044,61.6006</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6904">
+ <IconStyle id="icon6904">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6904.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6904">
+ <name>6904 FLORØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6904:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6904"><strong>Meir info om 6904 FLORØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6904</styleUrl>
+ <Point>
+ <coordinates>5.0328,61.6</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6905">
+ <IconStyle id="icon6905">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6905.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6905">
+ <name>6905 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6905:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6905"><strong>Meir info om 6905 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6905</styleUrl>
+ <Point>
+ <coordinates>5.0138,61.596</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6906">
+ <IconStyle id="icon6906">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6906.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6906">
+ <name>6906 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6906:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6906"><strong>Meir info om 6906 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6906</styleUrl>
+ <Point>
+ <coordinates>5.0316,61.5909</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6907">
+ <IconStyle id="icon6907">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6907.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6907">
+ <name>6907 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6907:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6907"><strong>Meir info om 6907 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6907</styleUrl>
+ <Point>
+ <coordinates>5.0644,61.6001</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6908">
+ <IconStyle id="icon6908">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6908.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6908">
+ <name>6908 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6908:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6908"><strong>Meir info om 6908 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6908</styleUrl>
+ <Point>
+ <coordinates>5.0945,61.5973</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6909">
+ <IconStyle id="icon6909">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6909.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6909">
+ <name>6909 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6909:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6909"><strong>Meir info om 6909 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6909</styleUrl>
+ <Point>
+ <coordinates>5.06461,61.59899</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6910">
+ <IconStyle id="icon6910">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6910.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6910">
+ <name>6910 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6910:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6910"><strong>Meir info om 6910 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6910</styleUrl>
+ <Point>
+ <coordinates>5.4061,61.645</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6912">
+ <IconStyle id="icon6912">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6912.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6912">
+ <name>6912 KINN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6912:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6912"><strong>Meir info om 6912 KINN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6912</styleUrl>
+ <Point>
+ <coordinates>4.7695,61.5625</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6913">
+ <IconStyle id="icon6913">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6913.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6913">
+ <name>6913 FLORØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6913:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6913"><strong>Meir info om 6913 FLORØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6913</styleUrl>
+ <Point>
+ <coordinates>5.0496,61.6097</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6914">
+ <IconStyle id="icon6914">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6914.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6914">
+ <name>6914 SVANØYBUKT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6914:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6914"><strong>Meir info om 6914 SVANØYBUKT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6914</styleUrl>
+ <Point>
+ <coordinates>5.1117,61.4945</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6915">
+ <IconStyle id="icon6915">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6915.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6915">
+ <name>6915 ROGNALDSVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6915:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6915"><strong>Meir info om 6915 ROGNALDSVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6915</styleUrl>
+ <Point>
+ <coordinates>4.7923,61.564</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6916">
+ <IconStyle id="icon6916">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6916.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6916">
+ <name>6916 BAREKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6916:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6916"><strong>Meir info om 6916 BAREKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6916</styleUrl>
+ <Point>
+ <coordinates>4.8888,61.6684</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6917">
+ <IconStyle id="icon6917">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6917.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6917">
+ <name>6917 BATALDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6917:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6917"><strong>Meir info om 6917 BATALDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6917</styleUrl>
+ <Point>
+ <coordinates>4.8128,61.638</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6918">
+ <IconStyle id="icon6918">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6918.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6918">
+ <name>6918 SØR-SKORPA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6918:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6918"><strong>Meir info om 6918 SØR-SKORPA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6918</styleUrl>
+ <Point>
+ <coordinates>4.8125,61.5871</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6919">
+ <IconStyle id="icon6919">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6919.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6919">
+ <name>6919 TANSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6919:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6919"><strong>Meir info om 6919 TANSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6919</styleUrl>
+ <Point>
+ <coordinates>4.9657,61.4988</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6920">
+ <IconStyle id="icon6920">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6920.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6920">
+ <name>6920 ROGNALDSVÅG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6920:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6920"><strong>Meir info om 6920 ROGNALDSVÅG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6920</styleUrl>
+ <Point>
+ <coordinates>4.7923,61.564</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6922">
+ <IconStyle id="icon6922">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6922.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6922">
+ <name>6922 KINN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6922:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6922"><strong>Meir info om 6922 KINN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6922</styleUrl>
+ <Point>
+ <coordinates>4.7695,61.5625</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6923">
+ <IconStyle id="icon6923">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6923.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6923">
+ <name>6923 TANSØY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6923:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6923"><strong>Meir info om 6923 TANSØY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6923</styleUrl>
+ <Point>
+ <coordinates>4.9659,61.4938</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6925">
+ <IconStyle id="icon6925">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6925.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6925">
+ <name>6925 SØR-SKORPA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6925:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6925"><strong>Meir info om 6925 SØR-SKORPA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6925</styleUrl>
+ <Point>
+ <coordinates>4.8125,61.5871</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6939">
+ <IconStyle id="icon6939">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6939.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6939">
+ <name>6939 STAVANG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6939:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6939"><strong>Meir info om 6939 STAVANG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6939</styleUrl>
+ <Point>
+ <coordinates>5.1953,61.5364</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6940">
+ <IconStyle id="icon6940">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6940.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6940">
+ <name>6940 EIKEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6940:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6940"><strong>Meir info om 6940 EIKEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6940</styleUrl>
+ <Point>
+ <coordinates>5.4601,61.5852</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6941">
+ <IconStyle id="icon6941">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6941.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6941">
+ <name>6941 EIKEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6941:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6941"><strong>Meir info om 6941 EIKEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6941</styleUrl>
+ <Point>
+ <coordinates>5.46117,61.58859</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6942">
+ <IconStyle id="icon6942">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6942.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6942">
+ <name>6942 SVORTEVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6942:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6942"><strong>Meir info om 6942 SVORTEVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6942</styleUrl>
+ <Point>
+ <coordinates>5.2432,61.5039</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6944">
+ <IconStyle id="icon6944">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6944.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6944">
+ <name>6944 STAVANG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6944:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6944"><strong>Meir info om 6944 STAVANG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6944</styleUrl>
+ <Point>
+ <coordinates>5.18264,61.53453</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6950">
+ <IconStyle id="icon6950">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6950.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6950">
+ <name>6950 STAVANG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6950:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6950"><strong>Meir info om 6950 STAVANG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6950</styleUrl>
+ <Point>
+ <coordinates>5.18264,61.53453</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6960">
+ <IconStyle id="icon6960">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6960.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6960">
+ <name>6960 SVORTEVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6960:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6960"><strong>Meir info om 6960 SVORTEVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6960</styleUrl>
+ <Point>
+ <coordinates>5.2432,61.5039</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6965">
+ <IconStyle id="icon6965">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6965.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6965">
+ <name>6965 SVANØYBUKT (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6965:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Flora kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6965"><strong>Meir info om 6965 SVANØYBUKT (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6965</styleUrl>
+ <Point>
+ <coordinates>5.1117,61.4945</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Flora (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.6351779,61.7449722,0 5.6981879,61.6929686,0 5.6457237,61.6137941,0 5.664688,61.5916563,0 5.7171283,61.588012,0 5.7171283,61.588012,0 5.7332479,61.5677028,0 5.5929121,61.5444436,0 5.5976532,61.5225235,0 5.5734737,61.5137059,0 5.2672003,61.5089569,0 5.2591405,61.4904063,0 5.2591405,61.4904063,0 5.0181344,61.4575381,0 4.6104035,61.4622767,0 4.5472583,61.4816085,0 4.1321187,61.4921199,0 4.1321187,61.4921199,0 4.1463109,61.6461868,0 4.1483435,61.6635573,0 4.1483435,61.6775432,0 4.1574901,61.6987511,0 4.1646042,61.7132026,0 4.1869626,61.7416043,0 4.2072884,61.7622873,0 4.2265979,61.7853589,0 4.2265979,61.7853589,0 4.613805,61.7112762,0 4.7713301,61.6992329,0 4.8943014,61.7420854,0 4.9725558,61.7011601,0 5.0873968,61.6727212,0 5.1493906,61.672239,0 5.1524394,61.6857389,0 5.2154495,61.6659692,0 5.3292741,61.6818824,0 5.2947202,61.7184998,0 5.3790724,61.7136842,0 5.4176915,61.7420854,0 5.5650538,61.7651722,0 5.6351779,61.7449722,0 5.6351779,61.7449722,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

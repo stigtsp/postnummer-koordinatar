@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bjerkreim, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4384">
+ <IconStyle id="icon4384">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4384.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4384">
+ <name>4384 VIKESÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4384:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjerkreim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4384"><strong>Meir info om 4384 VIKESÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4384</styleUrl>
+ <Point>
+ <coordinates>6.07798,58.63199</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4387">
+ <IconStyle id="icon4387">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4387.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4387">
+ <name>4387 BJERKREIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4387:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjerkreim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4387"><strong>Meir info om 4387 BJERKREIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4387</styleUrl>
+ <Point>
+ <coordinates>6.07490,58.58320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4389">
+ <IconStyle id="icon4389">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4389.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4389">
+ <name>4389 VIKESÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4389:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bjerkreim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4389"><strong>Meir info om 4389 VIKESÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4389</styleUrl>
+ <Point>
+ <coordinates>6.07800,58.63200</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Bjerkreim (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.5200604,58.7685529,0 6.5734322,58.7675803,0 6.6237154,58.6975401,0 6.4805623,58.6738063,0 6.4372943,58.6512002,0 6.4372943,58.6512002,0 6.4023428,58.6327502,0 6.3233181,58.6311475,0 6.30895,58.5990788,0 6.1509005,58.5803584,0 6.02364,58.5160983,0 5.9354682,58.5387635,0 5.9354682,58.5387635,0 5.8721438,58.5645494,0 5.906895,58.5943407,0 5.8937668,58.626117,0 5.8937668,58.626117,0 5.8636491,58.6642907,0 5.9300625,58.6847667,0 5.9300625,58.6847667,0 5.9540022,58.6743295,0 6.0227323,58.6827598,0 6.0088318,58.6972071,0 6.0366328,58.7156588,0 6.0605725,58.7465234,0 6.1354806,58.7401123,0 6.1686873,58.7961701,0 6.2667629,58.7753591,0 6.2713964,58.7413145,0 6.3053753,58.7336999,0 6.3887781,58.7349023,0 6.5200604,58.7685529,0 6.5200604,58.7685529,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

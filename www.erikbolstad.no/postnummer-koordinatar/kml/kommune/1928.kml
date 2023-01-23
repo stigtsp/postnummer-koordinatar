@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Torsken, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9379">
+ <IconStyle id="icon9379">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9379.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9379">
+ <name>9379 GRYLLEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9379:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Torsken kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9379"><strong>Meir info om 9379 GRYLLEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9379</styleUrl>
+ <Point>
+ <coordinates>17.04975,69.36343</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9380">
+ <IconStyle id="icon9380">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9380.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9380">
+ <name>9380 GRYLLEFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9380:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Torsken kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9380"><strong>Meir info om 9380 GRYLLEFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9380</styleUrl>
+ <Point>
+ <coordinates>17.0565,69.3622</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9381">
+ <IconStyle id="icon9381">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9381.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9381">
+ <name>9381 TORSKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9381:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Torsken kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9381"><strong>Meir info om 9381 TORSKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9381</styleUrl>
+ <Point>
+ <coordinates>17.1054,69.3392</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9393">
+ <IconStyle id="icon9393">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9393.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9393">
+ <name>9393 FLAKSTADVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9393:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Torsken kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9393"><strong>Meir info om 9393 FLAKSTADVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9393</styleUrl>
+ <Point>
+ <coordinates>17.033,69.1902</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9395">
+ <IconStyle id="icon9395">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9395.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9395">
+ <name>9395 KALDFARNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9395:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Torsken kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9395"><strong>Meir info om 9395 KALDFARNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9395</styleUrl>
+ <Point>
+ <coordinates>17.0568,69.2818</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Torsken (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>16.7274137,69.1936042,0 16.8288114,69.1763549,0 17.0909354,69.1786556,0 17.2613699,69.2108399,0 17.1966479,69.2452703,0 17.2602912,69.2555887,0 17.2678421,69.2876593,0 17.4069943,69.3010081,0 17.4069943,69.3010081,0 17.3260918,69.3242534,0 17.3023604,69.3562225,0 17.2139071,69.3566028,0 17.2063562,69.3835869,0 16.8244966,69.4722819,0 16.5693912,69.6510087,0 16.5693912,69.6510087,0 16.2563393,69.599725,0 16.2563393,69.599725,0 16.5063978,69.4232888,0 16.4297343,69.3152414,0 16.4297343,69.3152414,0 16.6432751,69.2712482,0 16.7392794,69.2257664,0 16.7274137,69.1936042,0 16.7274137,69.1936042,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

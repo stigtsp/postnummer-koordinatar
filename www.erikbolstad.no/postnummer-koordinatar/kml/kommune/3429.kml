@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Folldal, Innlandet</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2580">
+ <IconStyle id="icon2580">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2580.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2580">
+ <name>2580 FOLLDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2580:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2580"><strong>Meir info om 2580 FOLLDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2580</styleUrl>
+ <Point>
+ <coordinates>9.99680,62.13250</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2581">
+ <IconStyle id="icon2581">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2581.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2581">
+ <name>2581 FOLLDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2581:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2581"><strong>Meir info om 2581 FOLLDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2581</styleUrl>
+ <Point>
+ <coordinates>9.99344,62.13324</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2582">
+ <IconStyle id="icon2582">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2582.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2582">
+ <name>2582 GRIMSBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2582:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2582"><strong>Meir info om 2582 GRIMSBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2582</styleUrl>
+ <Point>
+ <coordinates>10.17310,62.15610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2584">
+ <IconStyle id="icon2584">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2584.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2584">
+ <name>2584 DALHOLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2584:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2584"><strong>Meir info om 2584 DALHOLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2584</styleUrl>
+ <Point>
+ <coordinates>9.81620,62.17500</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

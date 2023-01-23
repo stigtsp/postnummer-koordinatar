@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Etnedal, Oppland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2890">
+ <IconStyle id="icon2890">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2890.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2890">
+ <name>2890 ETNEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2890:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Etnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2890"><strong>Meir info om 2890 ETNEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2890</styleUrl>
+ <Point>
+ <coordinates>9.6414,60.8878</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2893">
+ <IconStyle id="icon2893">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2893.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2893">
+ <name>2893 ETNEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2893:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Etnedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2893"><strong>Meir info om 2893 ETNEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2893</styleUrl>
+ <Point>
+ <coordinates>9.64366,60.88736</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Etnedal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.5566939,60.8642892,0 9.5558047,60.8525981,0 9.6758449,60.8344033,0 9.7149691,60.8135966,0 9.7861041,60.8201001,0 9.8154473,60.8031881,0 9.8154473,60.8031881,0 9.8038878,60.8309364,0 9.7736555,60.8309364,0 9.7923284,60.9390979,0 9.7469799,61.0430188,0 9.7843257,61.0443103,0 9.79055,61.0791604,0 9.7229718,61.0757201,0 9.6891827,61.1272851,0 9.6891827,61.1272851,0 9.6500585,61.1040913,0 9.5744776,61.1212735,0 9.3761889,61.055501,0 9.4268725,61.0546403,0 9.5291291,60.998215,0 9.5424669,60.9783777,0 9.5095669,60.9792404,0 9.5131237,60.9343465,0 9.5566939,60.8642892,0 9.5566939,60.8642892,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

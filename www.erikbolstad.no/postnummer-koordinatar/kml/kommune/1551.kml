@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Eide, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6490">
+ <IconStyle id="icon6490">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6490.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6490">
+ <name>6490 EIDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6490:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eide kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6490"><strong>Meir info om 6490 EIDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6490</styleUrl>
+ <Point>
+ <coordinates>7.446,62.9157</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6493">
+ <IconStyle id="icon6493">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6493.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6493">
+ <name>6493 LYNGSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6493:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eide kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6493"><strong>Meir info om 6493 LYNGSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6493</styleUrl>
+ <Point>
+ <coordinates>7.367,62.9612</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6494">
+ <IconStyle id="icon6494">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6494.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6494">
+ <name>6494 VEVANG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6494:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eide kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6494"><strong>Meir info om 6494 VEVANG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6494</styleUrl>
+ <Point>
+ <coordinates>7.286,62.9999</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6499">
+ <IconStyle id="icon6499">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6499.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6499">
+ <name>6499 EIDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6499:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eide kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6499"><strong>Meir info om 6499 EIDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6499</styleUrl>
+ <Point>
+ <coordinates>7.44772,62.91651</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Eide (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.7985784,63.2489335,0 6.8369829,63.2612783,0 6.8598428,63.2760851,0 6.8598428,63.2760851,0 7.2146276,63.1570046,0 7.3610335,63.0128796,0 7.3368935,62.9809945,0 7.4444262,62.9587208,0 7.4883171,62.9237801,0 7.556348,62.9377614,0 7.556348,62.9377614,0 7.6090171,62.9194512,0 7.5885347,62.8791284,0 7.407119,62.852772,0 7.407119,62.852772,0 7.3243529,62.8521474,0 7.2855826,62.8901739,0 7.2394972,62.9501155,0 7.2738784,62.9853571,0 7.2175517,63.0165735,0 7.2168202,63.058696,0 7.060276,63.0881786,0 6.7985784,63.2489335,0 6.7985784,63.2489335,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hole, Buskerud</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3450">
+ <IconStyle id="icon3450">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3450.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3450">
+ <name>3450 SOLLIHØGDA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3450:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hole kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3450"><strong>Meir info om 3450 SOLLIHØGDA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3450</styleUrl>
+ <Point>
+ <coordinates>10.3449,59.964</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3452">
+ <IconStyle id="icon3452">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3452.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3452">
+ <name>3452 KROKKLEIVA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3452:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hole kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3452"><strong>Meir info om 3452 KROKKLEIVA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3452</styleUrl>
+ <Point>
+ <coordinates>10.31045,60.06204</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3463">
+ <IconStyle id="icon3463">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3463.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3463">
+ <name>3463 RØYSE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3463:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hole kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3463"><strong>Meir info om 3463 RØYSE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3463</styleUrl>
+ <Point>
+ <coordinates>10.28076,60.07888</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3529">
+ <IconStyle id="icon3529">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3529.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3529">
+ <name>3529 RØYSE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3529:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hole kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3529"><strong>Meir info om 3529 RØYSE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3529</styleUrl>
+ <Point>
+ <coordinates>10.28076,60.07888</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3530">
+ <IconStyle id="icon3530">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3530.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3530">
+ <name>3530 RØYSE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3530:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hole kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3530"><strong>Meir info om 3530 RØYSE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3530</styleUrl>
+ <Point>
+ <coordinates>10.1973,60.0774</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3531">
+ <IconStyle id="icon3531">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3531.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3531">
+ <name>3531 KROKKLEIVA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3531:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hole kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3531"><strong>Meir info om 3531 KROKKLEIVA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3531</styleUrl>
+ <Point>
+ <coordinates>10.3105,60.062</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3538">
+ <IconStyle id="icon3538">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3538.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3538">
+ <name>3538 SOLLIHØGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3538:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hole kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3538"><strong>Meir info om 3538 SOLLIHØGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3538</styleUrl>
+ <Point>
+ <coordinates>10.3449,59.964</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hole (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.3507047,59.9599568,0 10.3123099,59.971166,0 10.2923155,59.9776043,0 10.2923155,59.9776043,0 10.1834959,60.0288724,0 10.1093705,60.0415145,0 10.1093705,60.0415145,0 10.1553987,60.0983423,0 10.2985874,60.1275309,0 10.346317,60.0983423,0 10.3390852,60.075983,0 10.404171,60.0583012,0 10.4678104,60.059023,0 10.4778711,60.0342888,0 10.4778711,60.0342888,0 10.4379429,60.0314162,0 10.4356727,60.0312528,0 10.4244496,59.9983051,0 10.3890288,59.9846559,0 10.3507047,59.9599568,0 10.3507047,59.9599568,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

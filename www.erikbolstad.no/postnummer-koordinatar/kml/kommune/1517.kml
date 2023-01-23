@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hareid, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6060">
+ <IconStyle id="icon6060">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6060.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6060">
+ <name>6060 HAREID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6060:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hareid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6060"><strong>Meir info om 6060 HAREID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6060</styleUrl>
+ <Point>
+ <coordinates>6.02770,62.37320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6062">
+ <IconStyle id="icon6062">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6062.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6062">
+ <name>6062 BRANDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6062:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hareid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6062"><strong>Meir info om 6062 BRANDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6062</styleUrl>
+ <Point>
+ <coordinates>6.00830,62.40080</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6063">
+ <IconStyle id="icon6063">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6063.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6063">
+ <name>6063 HJØRUNGAVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6063:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hareid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6063"><strong>Meir info om 6063 HJØRUNGAVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6063</styleUrl>
+ <Point>
+ <coordinates>6.07430,62.35480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6069">
+ <IconStyle id="icon6069">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6069.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6069">
+ <name>6069 HAREID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6069:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hareid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6069"><strong>Meir info om 6069 HAREID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6069</styleUrl>
+ <Point>
+ <coordinates>6.02918,62.37116</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hareid (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.9544911,62.4465185,0 5.9572186,62.3935226,0 5.9027939,62.3851147,0 5.9051347,62.3302698,0 5.9566334,62.2992735,0 5.9414179,62.2837633,0 5.9661796,62.2761712,0 5.9661796,62.2761712,0 6.1673463,62.3694071,0 6.1673463,62.3694071,0 6.046756,62.4073498,0 6.0137438,62.4475336,0 6.0137438,62.4475336,0 5.9544911,62.4465185,0 5.9544911,62.4465185,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

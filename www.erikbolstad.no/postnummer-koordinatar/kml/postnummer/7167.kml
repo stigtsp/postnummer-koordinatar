@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>7167 VALLERSUND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer7167">
+ <name>7167 VALLERSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7167:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7167"><strong>Meir info om 7167 VALLERSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.72391,63.84458</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 7167 VALLERSUND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.69454,63.84256 9.69936,63.83974 9.70402,63.83982 9.70921,63.83829 9.71440,63.83648 9.71603,63.83010 9.71608,63.82536 9.71758,63.82565 9.74664,63.82897 9.75644,63.82820 9.76566,63.82570 9.77497,63.82198 9.77374,63.81644 9.78191,63.80488 9.81330,63.80540 9.82094,63.80706 9.83315,63.80896 9.84380,63.81291 9.85198,63.81387 9.85581,63.82678 9.88973,63.83993 9.88726,63.84155 9.88723,63.84538 9.87592,63.85252 9.88152,63.85411 9.87859,63.85826 9.86145,63.85173 9.84436,63.84799 9.84268,63.85169 9.84483,63.85885 9.84330,63.86043 9.82816,63.85911 9.82099,63.86371 9.81118,63.86769 9.79251,63.87100 9.77058,63.87561 9.76400,63.88367 9.77255,63.89611 9.80723,63.91685 9.79551,63.93487 9.80605,63.96101 9.80409,63.96195 9.71057,64.00633 9.70837,63.98687 9.70802,63.98381 9.70437,63.95152 9.70290,63.92327 9.65409,63.90132 9.64587,63.89601 9.64047,63.88687 9.64034,63.87859 9.69390,63.87909 9.67264,63.85466 9.67529,63.85178 9.68855,63.85227 9.69537,63.85188 9.69526,63.84890 9.69454,63.84256</coordinates></LineString></Placemark>
+ </Document>
+</kml>

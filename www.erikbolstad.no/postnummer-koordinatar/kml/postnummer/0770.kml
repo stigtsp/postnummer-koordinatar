@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0770 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0770">
+ <name>0770 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0770:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0770"><strong>Meir info om 0770 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.65920,59.95000</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0770 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.65659,59.95011 10.65658,59.94918 10.65696,59.94856 10.65764,59.94799 10.65828,59.94759 10.65880,59.94686 10.66367,59.94709 10.66221,59.94796 10.66439,59.94821 10.66379,59.94992 10.66617,59.95023 10.66437,59.95083 10.66475,59.95109 10.66410,59.95130 10.66387,59.95123 10.66371,59.95127 10.66311,59.95106 10.66293,59.95111 10.66237,59.95127 10.66236,59.95085 10.66202,59.95082 10.66213,59.95047 10.66185,59.95039 10.66157,59.95040 10.66028,59.95035 10.66021,59.95047 10.65946,59.95111 10.65828,59.95247 10.65806,59.95277 10.65785,59.95303 10.65766,59.95325 10.65757,59.95338 10.65628,59.95311 10.65675,59.95232 10.65678,59.95226 10.65690,59.95193 10.65696,59.95174 10.65696,59.95148 10.65659,59.95011</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0770 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.65830,59.94444 10.66123,59.94366 10.66165,59.94402 10.66175,59.94411 10.66243,59.94405 10.66252,59.94468 10.66066,59.94541 10.65986,59.94525 10.65946,59.94517 10.65922,59.94508 10.65892,59.94499 10.65861,59.94483 10.65844,59.94473 10.65828,59.94460 10.65833,59.94449 10.65830,59.94444</coordinates></LineString></Placemark>
+ </Document>
+</kml>

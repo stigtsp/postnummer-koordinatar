@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Fyresdal, Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3870">
+ <IconStyle id="icon3870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3870">
+ <name>3870 FYRESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fyresdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3870"><strong>Meir info om 3870 FYRESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3870</styleUrl>
+ <Point>
+ <coordinates>8.0951,59.1837</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3885">
+ <IconStyle id="icon3885">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3885.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3885">
+ <name>3885 FYRESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3885:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fyresdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3885"><strong>Meir info om 3885 FYRESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3885</styleUrl>
+ <Point>
+ <coordinates>8.09536,59.18391</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Fyresdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.82118,59.1008901,0 7.7301371,59.1641927,0 7.7486186,59.2069309,0 7.7792451,59.2209849,0 7.7238006,59.2623027,0 7.6964634,59.3276289,0 7.6964634,59.3276289,0 7.7546801,59.3272922,0 7.7949434,59.3501811,0 7.8550083,59.3616198,0 7.9691976,59.351527,0 7.9975799,59.3363823,0 8.0589649,59.3575831,0 8.1203499,59.3404215,0 8.1408444,59.355249,0 8.1408444,59.355249,0 8.3517083,59.2611198,0 8.3517083,59.2611198,0 8.2873531,59.2328532,0 8.29581,59.174136,0 8.3362383,59.1415656,0 8.3032356,59.1195526,0 8.3750165,59.0814196,0 8.3686093,59.0304499,0 8.4031977,59.0254741,0 8.3113445,58.9814906,0 8.3467966,58.9515828,0 8.305801,58.9307983,0 8.305801,58.9307983,0 8.1708022,58.9847072,0 8.0831388,58.9746089,0 8.1316115,58.9639759,0 8.0903582,58.95068,0 8.0088828,58.9671662,0 8.0088828,58.9671662,0 7.9655667,58.9708877,0 7.82118,59.1008901,0 7.82118,59.1008901,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

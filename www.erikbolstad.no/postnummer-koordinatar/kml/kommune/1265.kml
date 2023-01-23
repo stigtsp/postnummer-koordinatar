@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Fedje, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5133">
+ <IconStyle id="icon5133">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5133.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5133">
+ <name>5133 FEDJE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5133:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fedje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5133"><strong>Meir info om 5133 FEDJE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5133</styleUrl>
+ <Point>
+ <coordinates>4.7174,60.7810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5947">
+ <IconStyle id="icon5947">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5947.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5947">
+ <name>5947 FEDJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5947:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fedje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5947"><strong>Meir info om 5947 FEDJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5947</styleUrl>
+ <Point>
+ <coordinates>4.7174,60.7810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5948">
+ <IconStyle id="icon5948">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5948.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5948">
+ <name>5948 FEDJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5948:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fedje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5948"><strong>Meir info om 5948 FEDJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5948</styleUrl>
+ <Point>
+ <coordinates>4.7196,60.7787</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Fedje (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>4.265433,60.6890844,0 4.1849362,60.8356353,0 4.1849362,60.8356353,0 4.6113716,60.8899934,0 4.6113716,60.8899934,0 4.6852846,60.8593501,0 4.6852846,60.8593501,0 4.6859447,60.8381295,0 4.7889131,60.7643914,0 4.7889131,60.7643914,0 4.7760507,60.7342906,0 4.7760507,60.7342906,0 4.6551288,60.7417758,0 4.265433,60.6890844,0 4.265433,60.6890844,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

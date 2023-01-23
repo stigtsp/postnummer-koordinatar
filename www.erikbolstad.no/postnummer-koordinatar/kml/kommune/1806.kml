@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Narvik, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8278">
+ <IconStyle id="icon8278">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8278.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8278">
+ <name>8278 STORÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8278:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8278"><strong>Meir info om 8278 STORÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8278</styleUrl>
+ <Point>
+ <coordinates>16.38970,68.07280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8280">
+ <IconStyle id="icon8280">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8280.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8280">
+ <name>8280 KJØPSVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8280:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8280"><strong>Meir info om 8280 KJØPSVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8280</styleUrl>
+ <Point>
+ <coordinates>16.37420,68.09700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8500">
+ <IconStyle id="icon8500">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8500.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8500">
+ <name>8500 NARVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8500:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8500"><strong>Meir info om 8500 NARVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8500</styleUrl>
+ <Point>
+ <coordinates>17.42720,68.43838</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8501">
+ <IconStyle id="icon8501">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8501.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8501">
+ <name>8501 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8501:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8501"><strong>Meir info om 8501 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8501</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8502">
+ <IconStyle id="icon8502">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8502.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8502">
+ <name>8502 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8502:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8502"><strong>Meir info om 8502 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8502</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8503">
+ <IconStyle id="icon8503">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8503.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8503">
+ <name>8503 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8503:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8503"><strong>Meir info om 8503 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8503</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8504">
+ <IconStyle id="icon8504">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8504.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8504">
+ <name>8504 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8504:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8504"><strong>Meir info om 8504 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8504</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8505">
+ <IconStyle id="icon8505">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8505.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8505">
+ <name>8505 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8505:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8505"><strong>Meir info om 8505 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8505</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8506">
+ <IconStyle id="icon8506">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8506.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8506">
+ <name>8506 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8506:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8506"><strong>Meir info om 8506 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8506</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8507">
+ <IconStyle id="icon8507">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8507.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8507">
+ <name>8507 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8507:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8507"><strong>Meir info om 8507 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8507</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8508">
+ <IconStyle id="icon8508">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8508.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8508">
+ <name>8508 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8508:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8508"><strong>Meir info om 8508 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8508</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8509">
+ <IconStyle id="icon8509">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8509.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8509">
+ <name>8509 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8509:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8509"><strong>Meir info om 8509 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8509</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8510">
+ <IconStyle id="icon8510">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8510.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8510">
+ <name>8510 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8510:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8510"><strong>Meir info om 8510 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8510</styleUrl>
+ <Point>
+ <coordinates>17.43601,68.44164</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8511">
+ <IconStyle id="icon8511">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8511.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8511">
+ <name>8511 NARVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8511:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8511"><strong>Meir info om 8511 NARVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8511</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8512">
+ <IconStyle id="icon8512">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8512.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8512">
+ <name>8512 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8512:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8512"><strong>Meir info om 8512 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8512</styleUrl>
+ <Point>
+ <coordinates>17.42720,68.43840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8513">
+ <IconStyle id="icon8513">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8513.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8513">
+ <name>8513 ANKENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8513:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8513"><strong>Meir info om 8513 ANKENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8513</styleUrl>
+ <Point>
+ <coordinates>17.38679,68.41985</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8514">
+ <IconStyle id="icon8514">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8514.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8514">
+ <name>8514 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8514:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8514"><strong>Meir info om 8514 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8514</styleUrl>
+ <Point>
+ <coordinates>17.43180,68.42710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8515">
+ <IconStyle id="icon8515">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8515.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8515">
+ <name>8515 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8515:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8515"><strong>Meir info om 8515 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8515</styleUrl>
+ <Point>
+ <coordinates>17.44910,68.43770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8516">
+ <IconStyle id="icon8516">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8516.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8516">
+ <name>8516 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8516:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8516"><strong>Meir info om 8516 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8516</styleUrl>
+ <Point>
+ <coordinates>17.40860,68.44050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8517">
+ <IconStyle id="icon8517">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8517.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8517">
+ <name>8517 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8517:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8517"><strong>Meir info om 8517 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8517</styleUrl>
+ <Point>
+ <coordinates>17.62670,68.44710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8518">
+ <IconStyle id="icon8518">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8518.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8518">
+ <name>8518 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8518:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8518"><strong>Meir info om 8518 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8518</styleUrl>
+ <Point>
+ <coordinates>17.43600,68.44170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8519">
+ <IconStyle id="icon8519">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8519.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8519">
+ <name>8519 NARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8519:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8519"><strong>Meir info om 8519 NARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8519</styleUrl>
+ <Point>
+ <coordinates>17.42720,68.43830</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8520">
+ <IconStyle id="icon8520">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8520.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8520">
+ <name>8520 ANKENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8520:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8520"><strong>Meir info om 8520 ANKENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8520</styleUrl>
+ <Point>
+ <coordinates>17.38680,68.41920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8521">
+ <IconStyle id="icon8521">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8521.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8521">
+ <name>8521 ANKENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8521:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8521"><strong>Meir info om 8521 ANKENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8521</styleUrl>
+ <Point>
+ <coordinates>17.38680,68.41920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8522">
+ <IconStyle id="icon8522">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8522.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8522">
+ <name>8522 BEISFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8522:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8522"><strong>Meir info om 8522 BEISFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8522</styleUrl>
+ <Point>
+ <coordinates>17.59420,68.37540</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8523">
+ <IconStyle id="icon8523">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8523.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8523">
+ <name>8523 SKJOMEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8523:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8523"><strong>Meir info om 8523 SKJOMEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8523</styleUrl>
+ <Point>
+ <coordinates>17.40290,68.25650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8530">
+ <IconStyle id="icon8530">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8530.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8530">
+ <name>8530 BJERKVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8530:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8530"><strong>Meir info om 8530 BJERKVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8530</styleUrl>
+ <Point>
+ <coordinates>17.54900,68.55150</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8531">
+ <IconStyle id="icon8531">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8531.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8531">
+ <name>8531 BJERKVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8531:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8531"><strong>Meir info om 8531 BJERKVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8531</styleUrl>
+ <Point>
+ <coordinates>17.55727,68.55074</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8540">
+ <IconStyle id="icon8540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8540">
+ <name>8540 BALLANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8540"><strong>Meir info om 8540 BALLANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8540</styleUrl>
+ <Point>
+ <coordinates>16.83140,68.34280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8542">
+ <IconStyle id="icon8542">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8542.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8542">
+ <name>8542 KJELDEBOTN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8542:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8542"><strong>Meir info om 8542 KJELDEBOTN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8542</styleUrl>
+ <Point>
+ <coordinates>16.67610,68.40760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8543">
+ <IconStyle id="icon8543">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8543.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8543">
+ <name>8543 KJELDEBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8543:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8543"><strong>Meir info om 8543 KJELDEBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8543</styleUrl>
+ <Point>
+ <coordinates>16.66650,68.40470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8546">
+ <IconStyle id="icon8546">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8546.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8546">
+ <name>8546 BALLANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8546:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8546"><strong>Meir info om 8546 BALLANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8546</styleUrl>
+ <Point>
+ <coordinates>16.83187,68.34230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8587">
+ <IconStyle id="icon8587">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8587.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8587">
+ <name>8587 STORÅ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8587:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8587"><strong>Meir info om 8587 STORÅ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8587</styleUrl>
+ <Point>
+ <coordinates>16.38970,68.07280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8590">
+ <IconStyle id="icon8590">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8590.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8590">
+ <name>8590 KJØPSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8590:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8590"><strong>Meir info om 8590 KJØPSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8590</styleUrl>
+ <Point>
+ <coordinates>16.37420,68.09700</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8591">
+ <IconStyle id="icon8591">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8591.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8591">
+ <name>8591 KJØPSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8591:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Narvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8591"><strong>Meir info om 8591 KJØPSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8591</styleUrl>
+ <Point>
+ <coordinates>16.37871,68.09712</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

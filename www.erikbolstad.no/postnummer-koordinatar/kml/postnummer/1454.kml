@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1454 FAGERSTRAND</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1454">
+ <name>1454 FAGERSTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1454:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1454"><strong>Meir info om 1454 FAGERSTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.59400,59.73750</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1454 FAGERSTRAND</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.54407,59.74195 10.54859,59.73189 10.54086,59.72254 10.54117,59.72254 10.56214,59.72269 10.57262,59.71980 10.58459,59.72823 10.59049,59.72983 10.59678,59.72971 10.60247,59.72834 10.61016,59.72571 10.62226,59.72917 10.63110,59.73762 10.63414,59.74366 10.64018,59.75067 10.63979,59.75075 10.63938,59.75101 10.63908,59.75131 10.63864,59.75164 10.63827,59.75191 10.63791,59.75207 10.63737,59.75215 10.63740,59.75234 10.63765,59.75304 10.63801,59.75348 10.63842,59.75398 10.63841,59.75419 10.63851,59.75448 10.63830,59.75515 10.63812,59.75551 10.63787,59.75617 10.63766,59.75663 10.63907,59.75750 10.64879,59.76105 10.64868,59.76124 10.64629,59.76548 10.63772,59.76356 10.62405,59.76047 10.60764,59.76624 10.60207,59.76801 10.59608,59.76997 10.59555,59.76997 10.59513,59.77016 10.59497,59.77068 10.59520,59.77120 10.59515,59.77184 10.59500,59.77204 10.59470,59.77231 10.59447,59.77252 10.59420,59.77269 10.59397,59.77275 10.59404,59.77297 10.59419,59.77327 10.59322,59.77335 10.59317,59.77298 10.59335,59.77293 10.59297,59.77126 10.59138,59.77124 10.59130,59.77072 10.59079,59.77074 10.58590,59.77160 10.56476,59.77533 10.54341,59.78016 10.54210,59.77400 10.53858,59.75742 10.53810,59.75519 10.54407,59.74195</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2382 BRUMUNDDAL</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2382">
+ <name>2382 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2382:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2382"><strong>Meir info om 2382 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.94590,60.88640</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2382 BRUMUNDDAL</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.94834,60.89064 10.94770,60.89009 10.94695,60.88974 10.94531,60.88953 10.94472,60.88933 10.94463,60.88887 10.94444,60.88844 10.94382,60.88777 10.94251,60.88718 10.94182,60.88647 10.94118,60.88593 10.94259,60.88553 10.94436,60.88497 10.94570,60.88384 10.94673,60.88291 10.94712,60.88266 10.94759,60.88239 10.95183,60.88044 10.95305,60.87984 10.95349,60.87995 10.95370,60.88052 10.95288,60.88091 10.95269,60.88082 10.95148,60.88139 10.95109,60.88146 10.95096,60.88240 10.95037,60.88266 10.95188,60.88342 10.95118,60.88397 10.94993,60.88482 10.94958,60.88500 10.94914,60.88513 10.94947,60.88542 10.94874,60.88563 10.94906,60.88611 10.94875,60.88621 10.95030,60.88664 10.95002,60.88695 10.94994,60.88721 10.94993,60.88750 10.95005,60.88776 10.94986,60.88782 10.95041,60.88835 10.95076,60.88870 10.95125,60.88919 10.95057,60.88933 10.95091,60.88965 10.94834,60.89064</coordinates></LineString></Placemark>
+ </Document>
+</kml>

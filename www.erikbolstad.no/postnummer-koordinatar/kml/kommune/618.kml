@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hemsedal, Buskerud</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3560">
+ <IconStyle id="icon3560">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3560.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3560">
+ <name>3560 HEMSEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3560:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hemsedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3560"><strong>Meir info om 3560 HEMSEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3560</styleUrl>
+ <Point>
+ <coordinates>8.5541,60.863</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3561">
+ <IconStyle id="icon3561">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3561.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3561">
+ <name>3561 HEMSEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3561:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hemsedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3561"><strong>Meir info om 3561 HEMSEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3561</styleUrl>
+ <Point>
+ <coordinates>8.56454,60.86261</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hemsedal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.2498882,61.0755494,0 8.3089092,61.0934036,0 8.3695692,61.0486559,0 8.6076615,60.9849636,0 8.6192879,60.9557729,0 8.6572004,60.9425179,0 8.6572004,60.9425179,0 8.8133982,60.9034217,0 8.8889395,60.8997257,0 8.8889395,60.8997257,0 8.9154932,60.8675549,0 8.9154932,60.8675549,0 8.8268154,60.8742148,0 8.7176394,60.7697343,0 8.7176394,60.7697343,0 8.6417824,60.770919,0 8.546031,60.8078599,0 8.4671008,60.7867109,0 8.4651599,60.817956,0 8.4121085,60.8378234,0 8.3370601,60.8381386,0 8.3351192,60.8696485,0 8.041634,60.8953369,0 8.041634,60.8953369,0 8.1533546,60.9830736,0 8.2228785,60.9700716,0 8.2211004,61.0080149,0 8.2575519,61.0084458,0 8.2806675,61.0360121,0 8.2122098,61.0562409,0 8.2498882,61.0755494,0 8.2498882,61.0755494,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

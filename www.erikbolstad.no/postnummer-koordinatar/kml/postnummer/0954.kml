@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0954 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0954">
+ <name>0954 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0954:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0954"><strong>Meir info om 0954 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.85100,59.95090</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0954 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.84123,59.95249 10.84154,59.95155 10.84242,59.95131 10.84376,59.95086 10.84765,59.95072 10.84820,59.95068 10.84884,59.95069 10.84988,59.95056 10.85071,59.95050 10.85151,59.95057 10.85188,59.95045 10.85238,59.95035 10.85288,59.95038 10.85366,59.95043 10.85395,59.95057 10.85428,59.95037 10.85450,59.94999 10.85464,59.94948 10.85476,59.94892 10.85649,59.95002 10.85762,59.95053 10.85851,59.95073 10.85967,59.95104 10.86088,59.95123 10.86023,59.95142 10.85963,59.95150 10.85890,59.95151 10.85729,59.95159 10.85591,59.95170 10.85270,59.95146 10.84944,59.95175 10.84757,59.95200 10.84657,59.95235 10.84510,59.95254 10.84123,59.95249</coordinates></LineString></Placemark>
+ </Document>
+</kml>

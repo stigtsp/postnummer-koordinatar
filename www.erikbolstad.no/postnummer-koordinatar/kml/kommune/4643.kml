@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Årdal, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5870">
+ <IconStyle id="icon5870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5870">
+ <name>5870 ØVRE ÅRDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5870:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Årdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5870"><strong>Meir info om 5870 ØVRE ÅRDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5870</styleUrl>
+ <Point>
+ <coordinates>7.80635,61.31088</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5875">
+ <IconStyle id="icon5875">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5875.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5875">
+ <name>5875 ÅRDALSTANGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5875:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Årdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5875"><strong>Meir info om 5875 ÅRDALSTANGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5875</styleUrl>
+ <Point>
+ <coordinates>7.70345,61.23580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6881">
+ <IconStyle id="icon6881">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6881.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6881">
+ <name>6881 ÅRDALSTANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6881:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Årdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6881"><strong>Meir info om 6881 ÅRDALSTANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6881</styleUrl>
+ <Point>
+ <coordinates>7.70345,61.23580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6882">
+ <IconStyle id="icon6882">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6882.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6882">
+ <name>6882 ØVRE ÅRDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6882:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Årdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6882"><strong>Meir info om 6882 ØVRE ÅRDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6882</styleUrl>
+ <Point>
+ <coordinates>7.80635,61.31088</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6883">
+ <IconStyle id="icon6883">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6883.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6883">
+ <name>6883 ÅRDALSTANGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6883:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Årdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6883"><strong>Meir info om 6883 ÅRDALSTANGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6883</styleUrl>
+ <Point>
+ <coordinates>7.70345,61.23580</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6884">
+ <IconStyle id="icon6884">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6884.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6884">
+ <name>6884 ØVRE ÅRDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6884:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Årdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6884"><strong>Meir info om 6884 ØVRE ÅRDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6884</styleUrl>
+ <Point>
+ <coordinates>7.79930,61.31020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6885">
+ <IconStyle id="icon6885">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6885.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6885">
+ <name>6885 ÅRDALSTANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6885:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Årdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6885"><strong>Meir info om 6885 ÅRDALSTANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6885</styleUrl>
+ <Point>
+ <coordinates>7.71200,61.23940</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

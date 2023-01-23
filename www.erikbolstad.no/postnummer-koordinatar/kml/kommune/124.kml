@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Askim, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1800">
+ <IconStyle id="icon1800">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1800.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1800">
+ <name>1800 ASKIM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1800:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1800"><strong>Meir info om 1800 ASKIM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1800</styleUrl>
+ <Point>
+ <coordinates>11.16286,59.58326</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1801">
+ <IconStyle id="icon1801">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1801.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1801">
+ <name>1801 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1801:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1801"><strong>Meir info om 1801 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1801</styleUrl>
+ <Point>
+ <coordinates>11.1649,59.5829</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1802">
+ <IconStyle id="icon1802">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1802.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1802">
+ <name>1802 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1802:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1802"><strong>Meir info om 1802 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1802</styleUrl>
+ <Point>
+ <coordinates>11.16373,59.58326</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1803">
+ <IconStyle id="icon1803">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1803.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1803">
+ <name>1803 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1803:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1803"><strong>Meir info om 1803 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1803</styleUrl>
+ <Point>
+ <coordinates>11.1649,59.5829</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1807">
+ <IconStyle id="icon1807">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1807.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1807">
+ <name>1807 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1807:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1807"><strong>Meir info om 1807 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1807</styleUrl>
+ <Point>
+ <coordinates>11.1746,59.5904</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1808">
+ <IconStyle id="icon1808">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1808.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1808">
+ <name>1808 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1808:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1808"><strong>Meir info om 1808 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1808</styleUrl>
+ <Point>
+ <coordinates>11.1829,59.5965</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1809">
+ <IconStyle id="icon1809">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1809.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1809">
+ <name>1809 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1809:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1809"><strong>Meir info om 1809 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1809</styleUrl>
+ <Point>
+ <coordinates>11.1819,59.5851</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1811">
+ <IconStyle id="icon1811">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1811.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1811">
+ <name>1811 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1811:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1811"><strong>Meir info om 1811 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1811</styleUrl>
+ <Point>
+ <coordinates>11.1818,59.5794</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1812">
+ <IconStyle id="icon1812">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1812.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1812">
+ <name>1812 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1812:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1812"><strong>Meir info om 1812 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1812</styleUrl>
+ <Point>
+ <coordinates>11.1923,59.5936</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1813">
+ <IconStyle id="icon1813">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1813.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1813">
+ <name>1813 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1813:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1813"><strong>Meir info om 1813 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1813</styleUrl>
+ <Point>
+ <coordinates>11.1653,59.577</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1814">
+ <IconStyle id="icon1814">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1814.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1814">
+ <name>1814 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1814:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1814"><strong>Meir info om 1814 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1814</styleUrl>
+ <Point>
+ <coordinates>11.1938,59.5948</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1815">
+ <IconStyle id="icon1815">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1815.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1815">
+ <name>1815 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1815:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1815"><strong>Meir info om 1815 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1815</styleUrl>
+ <Point>
+ <coordinates>11.1311,59.5789</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1830">
+ <IconStyle id="icon1830">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1830.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1830">
+ <name>1830 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1830:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1830"><strong>Meir info om 1830 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1830</styleUrl>
+ <Point>
+ <coordinates>11.1633,59.5831</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1831">
+ <IconStyle id="icon1831">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1831.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1831">
+ <name>1831 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1831:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1831"><strong>Meir info om 1831 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1831</styleUrl>
+ <Point>
+ <coordinates>11.1525,59.5823</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1832">
+ <IconStyle id="icon1832">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1832.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1832">
+ <name>1832 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1832:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1832"><strong>Meir info om 1832 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1832</styleUrl>
+ <Point>
+ <coordinates>11.131,59.5909</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1833">
+ <IconStyle id="icon1833">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1833.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1833">
+ <name>1833 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1833:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Askim kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1833"><strong>Meir info om 1833 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1833</styleUrl>
+ <Point>
+ <coordinates>11.12,59.59</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Askim (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.1864435,59.5407287,0 11.1374373,59.549817,0 11.1374373,59.549817,0 11.1021639,59.582438,0 11.0874025,59.5960894,0 11.1873502,59.6576078,0 11.1873502,59.6576078,0 11.2140818,59.6412866,0 11.2163094,59.6317153,0 11.249167,59.6035487,0 11.249167,59.6035487,0 11.2599554,59.5944379,0 11.2287685,59.5779732,0 11.1864435,59.5407287,0 11.1864435,59.5407287,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

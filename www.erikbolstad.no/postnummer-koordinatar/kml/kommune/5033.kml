@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tydal, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7590">
+ <IconStyle id="icon7590">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7590.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7590">
+ <name>7590 TYDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7590:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tydal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7590"><strong>Meir info om 7590 TYDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7590</styleUrl>
+ <Point>
+ <coordinates>11.65690,63.04480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7591">
+ <IconStyle id="icon7591">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7591.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7591">
+ <name>7591 TYDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7591:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tydal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7591"><strong>Meir info om 7591 TYDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7591</styleUrl>
+ <Point>
+ <coordinates>11.66148,63.04481</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

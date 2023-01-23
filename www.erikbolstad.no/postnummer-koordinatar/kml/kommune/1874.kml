@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Moskenes, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8390">
+ <IconStyle id="icon8390">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8390.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8390">
+ <name>8390 REINE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8390:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moskenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8390"><strong>Meir info om 8390 REINE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8390</styleUrl>
+ <Point>
+ <coordinates>13.09090,67.93100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8392">
+ <IconStyle id="icon8392">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8392.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8392">
+ <name>8392 SØRVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8392:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moskenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8392"><strong>Meir info om 8392 SØRVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8392</styleUrl>
+ <Point>
+ <coordinates>13.01600,67.88940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8393">
+ <IconStyle id="icon8393">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8393.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8393">
+ <name>8393 SØRVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8393:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moskenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8393"><strong>Meir info om 8393 SØRVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8393</styleUrl>
+ <Point>
+ <coordinates>13.02981,67.89414</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8398">
+ <IconStyle id="icon8398">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8398.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8398">
+ <name>8398 REINE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8398:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moskenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8398"><strong>Meir info om 8398 REINE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8398</styleUrl>
+ <Point>
+ <coordinates>13.09640,67.94080</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Moskenes (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.1632152,67.8721671,0 12.664496,67.8147476,0 12.8521041,67.8048429,0 13.1788659,67.7597906,0 13.5045798,67.6749943,0 13.5045798,67.6749943,0 13.5949544,67.7007275,0 13.5949544,67.7007275,0 13.6930292,67.7877542,0 13.6930292,67.7877542,0 13.577035,67.8534373,0 13.577035,67.8534373,0 13.1660118,67.9804691,0 13.0575824,67.9814145,0 13.0121933,68.0427823,0 12.9365449,68.0682256,0 12.4713436,68.1544037,0 12.4713436,68.1544037,0 12.2756497,68.0051873,0 12.1632152,67.8721671,0 12.1632152,67.8721671,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

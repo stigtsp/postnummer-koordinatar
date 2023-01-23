@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>9713 RUSSENES</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer9713">
+ <name>9713 RUSSENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9713:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9713"><strong>Meir info om 9713 RUSSENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>25.06938,70.47507</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 9713 RUSSENES</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>24.87442,70.54802 24.87218,70.54720 24.82888,70.53130 24.80771,70.52366 24.76186,70.50012 24.72143,70.47929 24.68842,70.46225 24.67447,70.44232 24.73347,70.41588 24.67283,70.38260 24.63697,70.36288 24.63637,70.36277 24.85589,70.38310 24.94336,70.39039 24.97247,70.38521 25.13524,70.40576 25.24226,70.37777 25.34204,70.34777 25.48193,70.46344 25.49831,70.47339 25.51096,70.48564 25.52270,70.50012 25.52232,70.50069 25.63492,70.68368 25.55275,70.70623 25.51383,70.72373 25.50496,70.72778 25.48917,70.73006 25.34854,70.75017 25.31396,70.75506 25.30748,70.74998 25.27973,70.72822 25.21812,70.70581 25.20487,70.70099 24.97720,70.61827 24.88919,70.55802 24.88669,70.55034 24.88089,70.54859 24.87633,70.54813 24.87442,70.54802</coordinates></LineString></Placemark>
+ </Document>
+</kml>

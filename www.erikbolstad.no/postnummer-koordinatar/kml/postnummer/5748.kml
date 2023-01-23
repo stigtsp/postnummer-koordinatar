@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5748 STYVI</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5748">
+ <name>5748 STYVI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5748:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5748"><strong>Meir info om 5748 STYVI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>6.93620,60.94170</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5748 STYVI</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.05416,60.99970 7.05228,60.99744 7.05033,60.99564 7.04591,60.99305 7.04103,60.98913 7.03529,60.98542 7.02933,60.98157 7.02811,60.98007 7.02014,60.97571 7.01698,60.97448 7.00630,60.97138 6.99526,60.96865 6.98353,60.96652 6.97726,60.96602 6.96449,60.96382 6.95572,60.96161 6.94852,60.95846 6.94287,60.95449 6.93965,60.95145 6.93852,60.94853 6.93606,60.94566 6.93251,60.94389 6.92910,60.94264 6.92611,60.94182 6.92277,60.94136 6.91863,60.94085 6.91316,60.94039 6.90620,60.93945 6.90033,60.93844 6.89410,60.93677 6.90960,60.92755 6.96770,60.92826 7.01277,60.92870 7.04636,60.95060 7.03006,60.95880 7.02676,60.96512 7.03167,60.96829 7.04596,60.97382 7.04724,60.98041 7.04738,60.98899 7.05267,60.99393 7.05495,60.99813 7.05416,60.99970</coordinates></LineString></Placemark>
+ </Document>
+</kml>

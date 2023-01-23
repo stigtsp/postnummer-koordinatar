@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sokndal, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4380">
+ <IconStyle id="icon4380">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4380.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4380">
+ <name>4380 HAUGE I DALANE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4380:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sokndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4380"><strong>Meir info om 4380 HAUGE I DALANE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4380</styleUrl>
+ <Point>
+ <coordinates>6.29220,58.34280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4381">
+ <IconStyle id="icon4381">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4381.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4381">
+ <name>4381 HAUGE I DALANE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4381:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sokndal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4381"><strong>Meir info om 4381 HAUGE I DALANE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4381</styleUrl>
+ <Point>
+ <coordinates>6.29137,58.34205</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sokndal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.2776081,58.4745415,0 6.3180629,58.4607524,0 6.3036029,58.4201236,0 6.3271955,58.4229133,0 6.394929,58.4384522,0 6.4169994,58.4599562,0 6.4695119,58.4627428,0 6.5243075,58.3866293,0 6.4908213,58.3750584,0 6.4741495,58.3005354,0 6.4741495,58.3005354,0 6.4612105,58.2984438,0 6.4489581,58.2956078,0 6.4435508,58.2926306,0 6.4397421,58.2908656,0 6.4368238,58.2908656,0 6.4254942,58.2882941,0 6.4169969,58.2852937,0 6.3960972,58.2812326,0 6.3920202,58.2791117,0 6.3729658,58.27593,0 6.150025,58.0300936,0 6.150025,58.0300936,0 5.8704713,58.160595,0 5.8704713,58.160595,0 6.0771126,58.3366318,0 6.135761,58.3645431,0 6.1425805,58.4017238,0 6.183498,58.4102984,0 6.183498,58.4345818,0 6.2435103,58.444576,0 6.2516938,58.4795333,0 6.2776081,58.4745415,0 6.2776081,58.4745415,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

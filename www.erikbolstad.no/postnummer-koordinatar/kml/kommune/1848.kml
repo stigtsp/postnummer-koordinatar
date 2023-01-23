@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Steigen, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8066">
+ <IconStyle id="icon8066">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8066.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8066">
+ <name>8066 NORDFOLD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8066:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8066"><strong>Meir info om 8066 NORDFOLD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8066</styleUrl>
+ <Point>
+ <coordinates>15.24230,67.76430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8080">
+ <IconStyle id="icon8080">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8080.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8080">
+ <name>8080 BOGØY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8080:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8080"><strong>Meir info om 8080 BOGØY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8080</styleUrl>
+ <Point>
+ <coordinates>15.18310,67.89770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8082">
+ <IconStyle id="icon8082">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8082.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8082">
+ <name>8082 LEINES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8082:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8082"><strong>Meir info om 8082 LEINES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8082</styleUrl>
+ <Point>
+ <coordinates>14.77251,67.73167</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8083">
+ <IconStyle id="icon8083">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8083.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8083">
+ <name>8083 LEINESFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8083:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8083"><strong>Meir info om 8083 LEINESFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8083</styleUrl>
+ <Point>
+ <coordinates>15.01632,67.77514</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8281">
+ <IconStyle id="icon8281">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8281.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8281">
+ <name>8281 LEINESFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8281:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8281"><strong>Meir info om 8281 LEINESFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8281</styleUrl>
+ <Point>
+ <coordinates>15.01632,67.77514</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8283">
+ <IconStyle id="icon8283">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8283.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8283">
+ <name>8283 LEINESFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8283:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8283"><strong>Meir info om 8283 LEINESFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8283</styleUrl>
+ <Point>
+ <coordinates>15.01540,67.77550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8285">
+ <IconStyle id="icon8285">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8285.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8285">
+ <name>8285 LEINES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8285:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8285"><strong>Meir info om 8285 LEINES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8285</styleUrl>
+ <Point>
+ <coordinates>14.77250,67.73170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8286">
+ <IconStyle id="icon8286">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8286.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8286">
+ <name>8286 NORDFOLD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8286:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8286"><strong>Meir info om 8286 NORDFOLD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8286</styleUrl>
+ <Point>
+ <coordinates>15.24230,67.76430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8287">
+ <IconStyle id="icon8287">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8287.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8287">
+ <name>8287 ENGELØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8287:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8287"><strong>Meir info om 8287 ENGELØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8287</styleUrl>
+ <Point>
+ <coordinates>15.01147,67.92637</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8288">
+ <IconStyle id="icon8288">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8288.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8288">
+ <name>8288 BOGØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8288:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8288"><strong>Meir info om 8288 BOGØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8288</styleUrl>
+ <Point>
+ <coordinates>15.18310,67.89770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8289">
+ <IconStyle id="icon8289">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8289.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8289">
+ <name>8289 ENGELØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8289:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Steigen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8289"><strong>Meir info om 8289 ENGELØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8289</styleUrl>
+ <Point>
+ <coordinates>15.01147,67.92637</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Steigen (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>13.5949544,67.7007275,0 13.6930292,67.7877542,0 13.6930292,67.7877542,0 14.1219234,67.9467538,0 14.1219234,67.9467538,0 14.7816584,68.0579799,0 14.9975091,68.1378373,0 14.9975091,68.1378373,0 15.1291979,68.0969099,0 15.2595956,68.0124184,0 15.2983276,67.9586662,0 15.6662816,68.0012908,0 15.6507888,67.9678759,0 15.6882297,67.9494529,0 15.6198032,67.9402359,0 15.6920222,67.8836717,0 15.6718493,67.8661859,0 15.752541,67.8601008,0 15.8429156,67.8211184,0 15.7982249,67.7942563,0 15.7982249,67.7942563,0 15.7251144,67.7822473,0 15.7028048,67.7472279,0 15.6160451,67.7638061,0 15.6226554,67.7134095,0 15.7275933,67.7055742,0 15.7226356,67.6685563,0 15.6284394,67.6745208,0 15.5573791,67.6440549,0 15.5210226,67.6581934,0 15.4689668,67.6365109,0 15.3912963,67.6673005,0 15.346677,67.6383971,0 15.259091,67.6585075,0 15.1632423,67.6248757,0 15.112839,67.6308513,0 15.074789,67.6179421,0 15.074789,67.6179421,0 14.8730599,67.6143411,0 14.7848034,67.6371379,0 14.4412334,67.5915223,0 14.1323357,67.5867155,0 13.5949544,67.7007275,0 13.5949544,67.7007275,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

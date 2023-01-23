@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nesset, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6364">
+ <IconStyle id="icon6364">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6364.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6364">
+ <name>6364 VISTDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6364:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6364"><strong>Meir info om 6364 VISTDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6364</styleUrl>
+ <Point>
+ <coordinates>7.93105,62.71036</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6365">
+ <IconStyle id="icon6365">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6365.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6365">
+ <name>6365 VISTDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6365:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6365"><strong>Meir info om 6365 VISTDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6365</styleUrl>
+ <Point>
+ <coordinates>7.93105,62.71036</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6460">
+ <IconStyle id="icon6460">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6460.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6460">
+ <name>6460 EIDSVÅG I ROMSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6460:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6460"><strong>Meir info om 6460 EIDSVÅG I ROMSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6460</styleUrl>
+ <Point>
+ <coordinates>8.0666,62.7767</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6461">
+ <IconStyle id="icon6461">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6461.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6461">
+ <name>6461 EIDSVÅG I ROMSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6461:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6461"><strong>Meir info om 6461 EIDSVÅG I ROMSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6461</styleUrl>
+ <Point>
+ <coordinates>8.06602,62.77688</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6462">
+ <IconStyle id="icon6462">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6462.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6462">
+ <name>6462 RAUDSAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6462:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6462"><strong>Meir info om 6462 RAUDSAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6462</styleUrl>
+ <Point>
+ <coordinates>8.1206,62.8287</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6470">
+ <IconStyle id="icon6470">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6470.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6470">
+ <name>6470 ERESFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6470:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6470"><strong>Meir info om 6470 ERESFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6470</styleUrl>
+ <Point>
+ <coordinates>8.13090,62.66985</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6471">
+ <IconStyle id="icon6471">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6471.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6471">
+ <name>6471 ERESFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6471:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6471"><strong>Meir info om 6471 ERESFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6471</styleUrl>
+ <Point>
+ <coordinates>8.13090,62.66985</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6472">
+ <IconStyle id="icon6472">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6472.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6472">
+ <name>6472 EIKESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6472:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6472"><strong>Meir info om 6472 EIKESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6472</styleUrl>
+ <Point>
+ <coordinates>8.1736,62.4755</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nesset (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.6807702,62.7135857,0 7.6667251,62.7288739,0 7.7392914,62.766926,0 7.7978126,62.7674616,0 7.7843527,62.794764,0 7.8165394,62.8271194,0 7.8165394,62.8271194,0 7.8586746,62.8346015,0 7.9201219,62.8209719,0 8.0219488,62.8354031,0 8.0558911,62.8348687,0 8.0927594,62.8434173,0 8.1393569,62.8514293,0 8.1393569,62.8514293,0 8.2329909,62.8006495,0 8.3229672,62.7876063,0 8.3229672,62.7876063,0 8.2062906,62.7393968,0 8.2911463,62.6770094,0 8.2179948,62.5788695,0 8.249011,62.5683569,0 8.257204,62.5788695,0 8.3157252,62.5769829,0 8.3683943,62.5327482,0 8.3467415,62.5106062,0 8.5135269,62.461403,0 8.519379,62.4375833,0 8.5849227,62.4113055,0 8.6662672,62.4072398,0 8.7300553,62.3787649,0 8.7300553,62.3787649,0 8.3900471,62.3662817,0 8.2057054,62.332877,0 8.2057054,62.332877,0 8.196342,62.3820206,0 8.0248748,62.4549086,0 8.0079037,62.503312,0 8.0377495,62.5346376,0 8.0980263,62.5394956,0 8.0482833,62.5686265,0 8.0792996,62.584798,0 8.0002959,62.6133463,0 7.9072472,62.6130771,0 7.8838387,62.6246502,0 7.8516521,62.6171147,0 7.8112724,62.6399844,0 7.8276584,62.6776138,0 7.7597738,62.6910413,0 7.7334392,62.7237787,0 7.6807702,62.7135857,0 7.6807702,62.7135857,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

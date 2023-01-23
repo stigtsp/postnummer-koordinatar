@@ -1,0 +1,3367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hedmark - Erik Bolstad</name>
+<Style id="kommgrense"><LineStyle><width>4</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+ <Style id="style2100">
+ <IconStyle id="icon2100">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2100.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2100">
+ <name>2100 SKARNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2100:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2100"><strong>Meir info om 2100 SKARNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2100</styleUrl>
+ <Point>
+ <coordinates>11.6813,60.2522</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2101">
+ <IconStyle id="icon2101">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2101.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2101">
+ <name>2101 SKARNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2101:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2101"><strong>Meir info om 2101 SKARNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2101</styleUrl>
+ <Point>
+ <coordinates>11.68028,60.25500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2110">
+ <IconStyle id="icon2110">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2110.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2110">
+ <name>2110 SLÅSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2110:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2110"><strong>Meir info om 2110 SLÅSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2110</styleUrl>
+ <Point>
+ <coordinates>11.7709,60.2807</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2114">
+ <IconStyle id="icon2114">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2114.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2114">
+ <name>2114 DISENÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2114:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2114"><strong>Meir info om 2114 DISENÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2114</styleUrl>
+ <Point>
+ <coordinates>11.6416,60.2066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2116">
+ <IconStyle id="icon2116">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2116.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2116">
+ <name>2116 SANDER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2116:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2116"><strong>Meir info om 2116 SANDER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2116</styleUrl>
+ <Point>
+ <coordinates>11.8088,60.2275</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2120">
+ <IconStyle id="icon2120">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2120.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2120">
+ <name>2120 SAGSTUA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2120:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nord-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2120"><strong>Meir info om 2120 SAGSTUA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2120</styleUrl>
+ <Point>
+ <coordinates>11.54193,60.39262</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2121">
+ <IconStyle id="icon2121">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2121.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2121">
+ <name>2121 SAGSTUA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2121:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nord-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2121"><strong>Meir info om 2121 SAGSTUA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2121</styleUrl>
+ <Point>
+ <coordinates>11.54193,60.39262</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2123">
+ <IconStyle id="icon2123">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2123.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2123">
+ <name>2123 BRUVOLL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2123:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nord-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2123"><strong>Meir info om 2123 BRUVOLL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2123</styleUrl>
+ <Point>
+ <coordinates>11.4966,60.4492</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2130">
+ <IconStyle id="icon2130">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2130.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2130">
+ <name>2130 KNAPPER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2130:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nord-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2130"><strong>Meir info om 2130 KNAPPER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2130</styleUrl>
+ <Point>
+ <coordinates>11.6217,60.4687</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2132">
+ <IconStyle id="icon2132">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2132.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2132">
+ <name>2132 GARDVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2132:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nord-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2132"><strong>Meir info om 2132 GARDVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2132</styleUrl>
+ <Point>
+ <coordinates>11.6401,60.42538</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2133">
+ <IconStyle id="icon2133">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2133.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2133">
+ <name>2133 GARDVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2133:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nord-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2133"><strong>Meir info om 2133 GARDVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2133</styleUrl>
+ <Point>
+ <coordinates>11.6401,60.42538</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2134">
+ <IconStyle id="icon2134">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2134.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2134">
+ <name>2134 AUSTVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2134:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nord-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2134"><strong>Meir info om 2134 AUSTVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2134</styleUrl>
+ <Point>
+ <coordinates>11.6925,60.3784</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2140">
+ <IconStyle id="icon2140">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2140.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2140">
+ <name>2140 SANDER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2140:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2140"><strong>Meir info om 2140 SANDER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2140</styleUrl>
+ <Point>
+ <coordinates>11.8088,60.2275</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2145">
+ <IconStyle id="icon2145">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2145.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2145">
+ <name>2145 GALTERUD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2145:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2145"><strong>Meir info om 2145 GALTERUD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2145</styleUrl>
+ <Point>
+ <coordinates>11.8837,60.1948</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2190">
+ <IconStyle id="icon2190">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2190.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2190">
+ <name>2190 DISENÅ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2190:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2190"><strong>Meir info om 2190 DISENÅ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2190</styleUrl>
+ <Point>
+ <coordinates>11.6416,60.2066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2200">
+ <IconStyle id="icon2200">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2200.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2200">
+ <name>2200 KONGSVINGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2200:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2200"><strong>Meir info om 2200 KONGSVINGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2200</styleUrl>
+ <Point>
+ <coordinates>11.99772,60.19049</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2201">
+ <IconStyle id="icon2201">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2201.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2201">
+ <name>2201 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2201:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2201"><strong>Meir info om 2201 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2201</styleUrl>
+ <Point>
+ <coordinates>11.99771,60.19188</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2202">
+ <IconStyle id="icon2202">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2202.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2202">
+ <name>2202 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2202:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2202"><strong>Meir info om 2202 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2202</styleUrl>
+ <Point>
+ <coordinates>11.99805,60.19142</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2203">
+ <IconStyle id="icon2203">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2203.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2203">
+ <name>2203 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2203:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2203"><strong>Meir info om 2203 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2203</styleUrl>
+ <Point>
+ <coordinates>12.00555,60.18615</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2204">
+ <IconStyle id="icon2204">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2204.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2204">
+ <name>2204 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2204:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2204"><strong>Meir info om 2204 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2204</styleUrl>
+ <Point>
+ <coordinates>12.0081,60.1867</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2205">
+ <IconStyle id="icon2205">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2205.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2205">
+ <name>2205 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2205:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2205"><strong>Meir info om 2205 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2205</styleUrl>
+ <Point>
+ <coordinates>12.0081,60.1867</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2206">
+ <IconStyle id="icon2206">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2206.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2206">
+ <name>2206 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2206:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2206"><strong>Meir info om 2206 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2206</styleUrl>
+ <Point>
+ <coordinates>12.0186,60.17933</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2207">
+ <IconStyle id="icon2207">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2207.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2207">
+ <name>2207 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2207:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2207"><strong>Meir info om 2207 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2207</styleUrl>
+ <Point>
+ <coordinates>11.97794,60.20049</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2208">
+ <IconStyle id="icon2208">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2208.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2208">
+ <name>2208 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2208:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2208"><strong>Meir info om 2208 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2208</styleUrl>
+ <Point>
+ <coordinates>11.9869,60.1844</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2209">
+ <IconStyle id="icon2209">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2209.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2209">
+ <name>2209 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2209:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2209"><strong>Meir info om 2209 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2209</styleUrl>
+ <Point>
+ <coordinates>12.0299,60.1774</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2210">
+ <IconStyle id="icon2210">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2210.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2210">
+ <name>2210 GRANLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2210:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2210"><strong>Meir info om 2210 GRANLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2210</styleUrl>
+ <Point>
+ <coordinates>12.0563,60.1474</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2211">
+ <IconStyle id="icon2211">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2211.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2211">
+ <name>2211 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2211:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2211"><strong>Meir info om 2211 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2211</styleUrl>
+ <Point>
+ <coordinates>12.0297,60.1846</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2212">
+ <IconStyle id="icon2212">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2212.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2212">
+ <name>2212 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2212:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2212"><strong>Meir info om 2212 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2212</styleUrl>
+ <Point>
+ <coordinates>11.9646,60.2034</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2213">
+ <IconStyle id="icon2213">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2213.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2213">
+ <name>2213 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2213:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2213"><strong>Meir info om 2213 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2213</styleUrl>
+ <Point>
+ <coordinates>12.0104,60.2018</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2214">
+ <IconStyle id="icon2214">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2214.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2214">
+ <name>2214 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2214:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2214"><strong>Meir info om 2214 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2214</styleUrl>
+ <Point>
+ <coordinates>11.9898,60.201</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2215">
+ <IconStyle id="icon2215">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2215.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2215">
+ <name>2215 ROVERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2215:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2215"><strong>Meir info om 2215 ROVERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2215</styleUrl>
+ <Point>
+ <coordinates>12.0585,60.25266</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2216">
+ <IconStyle id="icon2216">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2216.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2216">
+ <name>2216 ROVERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2216:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2216"><strong>Meir info om 2216 ROVERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2216</styleUrl>
+ <Point>
+ <coordinates>12.0585,60.25266</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2217">
+ <IconStyle id="icon2217">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2217.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2217">
+ <name>2217 HOKKÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2217:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2217"><strong>Meir info om 2217 HOKKÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2217</styleUrl>
+ <Point>
+ <coordinates>12.1131,60.2792</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2218">
+ <IconStyle id="icon2218">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2218.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2218">
+ <name>2218 LUNDERSÆTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2218:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2218"><strong>Meir info om 2218 LUNDERSÆTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2218</styleUrl>
+ <Point>
+ <coordinates>12.2719,60.298</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2219">
+ <IconStyle id="icon2219">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2219.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2219">
+ <name>2219 BRANDVAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2219:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2219"><strong>Meir info om 2219 BRANDVAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2219</styleUrl>
+ <Point>
+ <coordinates>12.0149,60.3174</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2220">
+ <IconStyle id="icon2220">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2220.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2220">
+ <name>2220 ÅBOGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2220:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2220"><strong>Meir info om 2220 ÅBOGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2220</styleUrl>
+ <Point>
+ <coordinates>12.1174,60.1118</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2223">
+ <IconStyle id="icon2223">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2223.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2223">
+ <name>2223 GALTERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2223:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Odal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2223"><strong>Meir info om 2223 GALTERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2223</styleUrl>
+ <Point>
+ <coordinates>11.8837,60.1948</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2224">
+ <IconStyle id="icon2224">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2224.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2224">
+ <name>2224 AUSTMARKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2224:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2224"><strong>Meir info om 2224 AUSTMARKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2224</styleUrl>
+ <Point>
+ <coordinates>12.3216,60.0965</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2225">
+ <IconStyle id="icon2225">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2225.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2225">
+ <name>2225 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2225:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2225"><strong>Meir info om 2225 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2225</styleUrl>
+ <Point>
+ <coordinates>12.0168,60.1738</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2226">
+ <IconStyle id="icon2226">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2226.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2226">
+ <name>2226 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2226:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2226"><strong>Meir info om 2226 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2226</styleUrl>
+ <Point>
+ <coordinates>11.9977,60.1905</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2227">
+ <IconStyle id="icon2227">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2227.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2227">
+ <name>2227 AUSTMARKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2227:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2227"><strong>Meir info om 2227 AUSTMARKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2227</styleUrl>
+ <Point>
+ <coordinates>12.32157,60.09653</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2230">
+ <IconStyle id="icon2230">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2230.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2230">
+ <name>2230 SKOTTERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2230:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2230"><strong>Meir info om 2230 SKOTTERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2230</styleUrl>
+ <Point>
+ <coordinates>12.12158,59.98529</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2231">
+ <IconStyle id="icon2231">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2231.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2231">
+ <name>2231 SKOTTERUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2231:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2231"><strong>Meir info om 2231 SKOTTERUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2231</styleUrl>
+ <Point>
+ <coordinates>12.12158,59.98529</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2232">
+ <IconStyle id="icon2232">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2232.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2232">
+ <name>2232 TOBØL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2232:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2232"><strong>Meir info om 2232 TOBØL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2232</styleUrl>
+ <Point>
+ <coordinates>12.0555,59.972</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2233">
+ <IconStyle id="icon2233">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2233.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2233">
+ <name>2233 VESTMARKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2233:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2233"><strong>Meir info om 2233 VESTMARKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2233</styleUrl>
+ <Point>
+ <coordinates>11.9915,59.9359</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2235">
+ <IconStyle id="icon2235">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2235.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2235">
+ <name>2235 MATRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2235:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2235"><strong>Meir info om 2235 MATRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2235</styleUrl>
+ <Point>
+ <coordinates>12.1246,60.0291</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2240">
+ <IconStyle id="icon2240">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2240.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2240">
+ <name>2240 MAGNOR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2240:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2240"><strong>Meir info om 2240 MAGNOR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2240</styleUrl>
+ <Point>
+ <coordinates>12.2015,59.9509</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2241">
+ <IconStyle id="icon2241">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2241.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2241">
+ <name>2241 MAGNOR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2241:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2241"><strong>Meir info om 2241 MAGNOR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2241</styleUrl>
+ <Point>
+ <coordinates>12.19864,59.95336</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2242">
+ <IconStyle id="icon2242">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2242.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2242">
+ <name>2242 MOROKULIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2242:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidskog kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2242"><strong>Meir info om 2242 MOROKULIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2242</styleUrl>
+ <Point>
+ <coordinates>12.2362,59.9314</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2250">
+ <IconStyle id="icon2250">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2250.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2250">
+ <name>2250 ROVERUD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2250:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2250"><strong>Meir info om 2250 ROVERUD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2250</styleUrl>
+ <Point>
+ <coordinates>12.0585,60.25266</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2251">
+ <IconStyle id="icon2251">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2251.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2251">
+ <name>2251 GRUE FINNSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2251:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grue kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2251"><strong>Meir info om 2251 GRUE FINNSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2251</styleUrl>
+ <Point>
+ <coordinates>12.40404,60.41871</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2252">
+ <IconStyle id="icon2252">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2252.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2252">
+ <name>2252 HOKKÅSEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2252:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2252"><strong>Meir info om 2252 HOKKÅSEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2252</styleUrl>
+ <Point>
+ <coordinates>12.1131,60.2792</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2254">
+ <IconStyle id="icon2254">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2254.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2254">
+ <name>2254 LUNDERSÆTER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2254:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2254"><strong>Meir info om 2254 LUNDERSÆTER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2254</styleUrl>
+ <Point>
+ <coordinates>12.2719,60.298</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2256">
+ <IconStyle id="icon2256">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2256.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2256">
+ <name>2256 GRUE FINNSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2256:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grue kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2256"><strong>Meir info om 2256 GRUE FINNSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2256</styleUrl>
+ <Point>
+ <coordinates>12.404,60.4187</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2260">
+ <IconStyle id="icon2260">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2260.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2260">
+ <name>2260 KIRKENÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2260:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grue kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2260"><strong>Meir info om 2260 KIRKENÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2260</styleUrl>
+ <Point>
+ <coordinates>12.05967,60.45706</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2261">
+ <IconStyle id="icon2261">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2261.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2261">
+ <name>2261 KIRKENÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2261:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grue kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2261"><strong>Meir info om 2261 KIRKENÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2261</styleUrl>
+ <Point>
+ <coordinates>12.0582,60.4564</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2263">
+ <IconStyle id="icon2263">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2263.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2263">
+ <name>2263 BRANDVAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2263:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2263"><strong>Meir info om 2263 BRANDVAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2263</styleUrl>
+ <Point>
+ <coordinates>12.01491,60.31738</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2264">
+ <IconStyle id="icon2264">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2264.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2264">
+ <name>2264 GRINDER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2264:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grue kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2264"><strong>Meir info om 2264 GRINDER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2264</styleUrl>
+ <Point>
+ <coordinates>12.0498,60.4076</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2265">
+ <IconStyle id="icon2265">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2265.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2265">
+ <name>2265 NAMNÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2265:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grue kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2265"><strong>Meir info om 2265 NAMNÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2265</styleUrl>
+ <Point>
+ <coordinates>12.0777,60.4969</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2266">
+ <IconStyle id="icon2266">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2266.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2266">
+ <name>2266 ARNEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2266:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2266"><strong>Meir info om 2266 ARNEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2266</styleUrl>
+ <Point>
+ <coordinates>12.0193,60.5343</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2270">
+ <IconStyle id="icon2270">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2270.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2270">
+ <name>2270 FLISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2270:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2270"><strong>Meir info om 2270 FLISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2270</styleUrl>
+ <Point>
+ <coordinates>12.0154,60.6092</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2271">
+ <IconStyle id="icon2271">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2271.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2271">
+ <name>2271 FLISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2271:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2271"><strong>Meir info om 2271 FLISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2271</styleUrl>
+ <Point>
+ <coordinates>12.01003,60.61280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2280">
+ <IconStyle id="icon2280">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2280.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2280">
+ <name>2280 GJESÅSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2280:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2280"><strong>Meir info om 2280 GJESÅSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2280</styleUrl>
+ <Point>
+ <coordinates>12.0272,60.6782</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2283">
+ <IconStyle id="icon2283">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2283.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2283">
+ <name>2283 ÅSNES FINNSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2283:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åsnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2283"><strong>Meir info om 2283 ÅSNES FINNSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2283</styleUrl>
+ <Point>
+ <coordinates>12.2102,60.6656</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2292">
+ <IconStyle id="icon2292">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2292.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2292">
+ <name>2292 HASLEMOEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2292:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2292"><strong>Meir info om 2292 HASLEMOEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2292</styleUrl>
+ <Point>
+ <coordinates>11.8704,60.6513</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2293">
+ <IconStyle id="icon2293">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2293.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2293">
+ <name>2293 BRASKEREIDFOSS (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2293:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2293"><strong>Meir info om 2293 BRASKEREIDFOSS (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2293</styleUrl>
+ <Point>
+ <coordinates>11.7993,60.72549</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2294">
+ <IconStyle id="icon2294">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2294.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2294">
+ <name>2294 GRAVBERGET (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2294:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2294"><strong>Meir info om 2294 GRAVBERGET (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2294</styleUrl>
+ <Point>
+ <coordinates>12.2377,60.8829</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2296">
+ <IconStyle id="icon2296">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2296.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2296">
+ <name>2296 HERADSBYGD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2296:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2296"><strong>Meir info om 2296 HERADSBYGD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2296</styleUrl>
+ <Point>
+ <coordinates>11.63744,60.82258</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2297">
+ <IconStyle id="icon2297">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2297.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2297">
+ <name>2297 JØMNA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2297:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2297"><strong>Meir info om 2297 JØMNA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2297</styleUrl>
+ <Point>
+ <coordinates>11.7010,60.8079</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2300">
+ <IconStyle id="icon2300">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2300.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2300">
+ <name>2300 HAMAR (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2300:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2300"><strong>Meir info om 2300 HAMAR (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2300</styleUrl>
+ <Point>
+ <coordinates>11.06798,60.79450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2301">
+ <IconStyle id="icon2301">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2301.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2301">
+ <name>2301 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2301:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2301"><strong>Meir info om 2301 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2301</styleUrl>
+ <Point>
+ <coordinates>11.0739,60.7945</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2302">
+ <IconStyle id="icon2302">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2302.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2302">
+ <name>2302 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2302:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2302"><strong>Meir info om 2302 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2302</styleUrl>
+ <Point>
+ <coordinates>11.0742,60.7942</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2303">
+ <IconStyle id="icon2303">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2303.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2303">
+ <name>2303 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2303:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2303"><strong>Meir info om 2303 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2303</styleUrl>
+ <Point>
+ <coordinates>11.0742,60.7942</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2304">
+ <IconStyle id="icon2304">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2304.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2304">
+ <name>2304 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2304:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2304"><strong>Meir info om 2304 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2304</styleUrl>
+ <Point>
+ <coordinates>11.07421,60.79422</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2305">
+ <IconStyle id="icon2305">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2305.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2305">
+ <name>2305 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2305:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2305"><strong>Meir info om 2305 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2305</styleUrl>
+ <Point>
+ <coordinates>11.04463,60.80410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2306">
+ <IconStyle id="icon2306">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2306.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2306">
+ <name>2306 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2306:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2306"><strong>Meir info om 2306 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2306</styleUrl>
+ <Point>
+ <coordinates>11.1139,60.7978</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2307">
+ <IconStyle id="icon2307">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2307.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2307">
+ <name>2307 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2307:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2307"><strong>Meir info om 2307 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2307</styleUrl>
+ <Point>
+ <coordinates>11.1139,60.7978</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2308">
+ <IconStyle id="icon2308">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2308.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2308">
+ <name>2308 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2308:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2308"><strong>Meir info om 2308 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2308</styleUrl>
+ <Point>
+ <coordinates>11.068,60.7945</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2309">
+ <IconStyle id="icon2309">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2309.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2309">
+ <name>2309 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2309:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2309"><strong>Meir info om 2309 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2309</styleUrl>
+ <Point>
+ <coordinates>11.0990,60.8336</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2310">
+ <IconStyle id="icon2310">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2310.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2310">
+ <name>2310 STANGE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2310:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2310"><strong>Meir info om 2310 STANGE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2310</styleUrl>
+ <Point>
+ <coordinates>11.1942,60.7180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2311">
+ <IconStyle id="icon2311">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2311.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2311">
+ <name>2311 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2311:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2311"><strong>Meir info om 2311 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2311</styleUrl>
+ <Point>
+ <coordinates>11.0990,60.8336</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2312">
+ <IconStyle id="icon2312">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2312.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2312">
+ <name>2312 OTTESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2312:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2312"><strong>Meir info om 2312 OTTESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2312</styleUrl>
+ <Point>
+ <coordinates>11.1091,60.784</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2313">
+ <IconStyle id="icon2313">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2313.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2313">
+ <name>2313 OTTESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2313:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2313"><strong>Meir info om 2313 OTTESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2313</styleUrl>
+ <Point>
+ <coordinates>11.10911,60.78403</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2314">
+ <IconStyle id="icon2314">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2314.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2314">
+ <name>2314 OTTESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2314:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2314"><strong>Meir info om 2314 OTTESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2314</styleUrl>
+ <Point>
+ <coordinates>11.1280,60.7698</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2315">
+ <IconStyle id="icon2315">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2315.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2315">
+ <name>2315 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2315:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2315"><strong>Meir info om 2315 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2315</styleUrl>
+ <Point>
+ <coordinates>11.048,60.8066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2316">
+ <IconStyle id="icon2316">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2316.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2316">
+ <name>2316 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2316:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2316"><strong>Meir info om 2316 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2316</styleUrl>
+ <Point>
+ <coordinates>11.0378,60.8021</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2317">
+ <IconStyle id="icon2317">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2317.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2317">
+ <name>2317 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2317:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2317"><strong>Meir info om 2317 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2317</styleUrl>
+ <Point>
+ <coordinates>11.0725,60.7954</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2318">
+ <IconStyle id="icon2318">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2318.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2318">
+ <name>2318 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2318:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2318"><strong>Meir info om 2318 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2318</styleUrl>
+ <Point>
+ <coordinates>11.0833,60.8029</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2319">
+ <IconStyle id="icon2319">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2319.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2319">
+ <name>2319 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2319:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2319"><strong>Meir info om 2319 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2319</styleUrl>
+ <Point>
+ <coordinates>11.0776,60.8131</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2320">
+ <IconStyle id="icon2320">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2320.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2320">
+ <name>2320 FURNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2320:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2320"><strong>Meir info om 2320 FURNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2320</styleUrl>
+ <Point>
+ <coordinates>11.0237,60.8363</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2321">
+ <IconStyle id="icon2321">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2321.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2321">
+ <name>2321 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2321:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2321"><strong>Meir info om 2321 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2321</styleUrl>
+ <Point>
+ <coordinates>11.0956,60.7951</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2322">
+ <IconStyle id="icon2322">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2322.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2322">
+ <name>2322 RIDABU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2322:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2322"><strong>Meir info om 2322 RIDABU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2322</styleUrl>
+ <Point>
+ <coordinates>11.1235,60.8012</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2323">
+ <IconStyle id="icon2323">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2323.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2323">
+ <name>2323 INGEBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2323:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2323"><strong>Meir info om 2323 INGEBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2323</styleUrl>
+ <Point>
+ <coordinates>11.1324,60.8273</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2324">
+ <IconStyle id="icon2324">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2324.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2324">
+ <name>2324 VANG PÅ HEDMARKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2324:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2324"><strong>Meir info om 2324 VANG PÅ HEDMARKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2324</styleUrl>
+ <Point>
+ <coordinates>11.1999,60.8451</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2325">
+ <IconStyle id="icon2325">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2325.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2325">
+ <name>2325 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2325:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2325"><strong>Meir info om 2325 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2325</styleUrl>
+ <Point>
+ <coordinates>11.0786,60.7944</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2326">
+ <IconStyle id="icon2326">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2326.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2326">
+ <name>2326 HAMAR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2326:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2326"><strong>Meir info om 2326 HAMAR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2326</styleUrl>
+ <Point>
+ <coordinates>11.068,60.7945</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2327">
+ <IconStyle id="icon2327">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2327.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2327">
+ <name>2327 FURNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2327:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2327"><strong>Meir info om 2327 FURNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2327</styleUrl>
+ <Point>
+ <coordinates>11.0666,60.8302</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2328">
+ <IconStyle id="icon2328">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2328.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2328">
+ <name>2328 RIDABU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2328:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2328"><strong>Meir info om 2328 RIDABU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2328</styleUrl>
+ <Point>
+ <coordinates>11.12353,60.80118</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2329">
+ <IconStyle id="icon2329">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2329.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2329">
+ <name>2329 VANG PÅ HEDMARKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2329:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hamar kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2329"><strong>Meir info om 2329 VANG PÅ HEDMARKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2329</styleUrl>
+ <Point>
+ <coordinates>11.1999,60.84514</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2330">
+ <IconStyle id="icon2330">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2330.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2330">
+ <name>2330 VALLSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2330:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2330"><strong>Meir info om 2330 VALLSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2330</styleUrl>
+ <Point>
+ <coordinates>11.3437,60.6852</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2331">
+ <IconStyle id="icon2331">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2331.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2331">
+ <name>2331 VALLSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2331:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2331"><strong>Meir info om 2331 VALLSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2331</styleUrl>
+ <Point>
+ <coordinates>11.3437,60.68515</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2332">
+ <IconStyle id="icon2332">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2332.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2332">
+ <name>2332 ÅSVANG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2332:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2332"><strong>Meir info om 2332 ÅSVANG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2332</styleUrl>
+ <Point>
+ <coordinates>11.3511,60.7190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2333">
+ <IconStyle id="icon2333">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2333.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2333">
+ <name>2333 ROMEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2333:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2333"><strong>Meir info om 2333 ROMEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2333</styleUrl>
+ <Point>
+ <coordinates>11.29186,60.73685</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2334">
+ <IconStyle id="icon2334">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2334.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2334">
+ <name>2334 ROMEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2334:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2334"><strong>Meir info om 2334 ROMEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2334</styleUrl>
+ <Point>
+ <coordinates>11.29186,60.73685</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2335">
+ <IconStyle id="icon2335">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2335.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2335">
+ <name>2335 STANGE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2335:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2335"><strong>Meir info om 2335 STANGE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2335</styleUrl>
+ <Point>
+ <coordinates>11.1942,60.7180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2336">
+ <IconStyle id="icon2336">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2336.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2336">
+ <name>2336 STANGE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2336:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2336"><strong>Meir info om 2336 STANGE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2336</styleUrl>
+ <Point>
+ <coordinates>11.19461,60.72037</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2337">
+ <IconStyle id="icon2337">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2337.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2337">
+ <name>2337 TANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2337:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2337"><strong>Meir info om 2337 TANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2337</styleUrl>
+ <Point>
+ <coordinates>11.26722,60.61761</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2338">
+ <IconStyle id="icon2338">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2338.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2338">
+ <name>2338 ESPA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2338:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2338"><strong>Meir info om 2338 ESPA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2338</styleUrl>
+ <Point>
+ <coordinates>11.2709,60.5779</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2339">
+ <IconStyle id="icon2339">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2339.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2339">
+ <name>2339 TANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2339:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2339"><strong>Meir info om 2339 TANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2339</styleUrl>
+ <Point>
+ <coordinates>11.26722,60.61761</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2340">
+ <IconStyle id="icon2340">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2340.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2340">
+ <name>2340 LØTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2340:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2340"><strong>Meir info om 2340 LØTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2340</styleUrl>
+ <Point>
+ <coordinates>11.3026,60.8277</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2341">
+ <IconStyle id="icon2341">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2341.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2341">
+ <name>2341 LØTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2341:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2341"><strong>Meir info om 2341 LØTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2341</styleUrl>
+ <Point>
+ <coordinates>11.34207,60.81983</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2344">
+ <IconStyle id="icon2344">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2344.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2344">
+ <name>2344 ILSENG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2344:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2344"><strong>Meir info om 2344 ILSENG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2344</styleUrl>
+ <Point>
+ <coordinates>11.22455,60.77488</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2345">
+ <IconStyle id="icon2345">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2345.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2345">
+ <name>2345 ÅDALSBRUK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2345:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2345"><strong>Meir info om 2345 ÅDALSBRUK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2345</styleUrl>
+ <Point>
+ <coordinates>11.3088,60.7965</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2346">
+ <IconStyle id="icon2346">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2346.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2346">
+ <name>2346 ILSENG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2346:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stange kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2346"><strong>Meir info om 2346 ILSENG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2346</styleUrl>
+ <Point>
+ <coordinates>11.22455,60.77488</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2350">
+ <IconStyle id="icon2350">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2350.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2350">
+ <name>2350 NES PÅ HEDMARKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2350:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2350"><strong>Meir info om 2350 NES PÅ HEDMARKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2350</styleUrl>
+ <Point>
+ <coordinates>10.9402,60.7625</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2351">
+ <IconStyle id="icon2351">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2351.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2351">
+ <name>2351 NES PÅ HEDMARKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2351:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2351"><strong>Meir info om 2351 NES PÅ HEDMARKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2351</styleUrl>
+ <Point>
+ <coordinates>10.94024,60.76251</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2353">
+ <IconStyle id="icon2353">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2353.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2353">
+ <name>2353 STAVSJØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2353:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2353"><strong>Meir info om 2353 STAVSJØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2353</styleUrl>
+ <Point>
+ <coordinates>10.8396,60.80422</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2355">
+ <IconStyle id="icon2355">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2355.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2355">
+ <name>2355 GAUPEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2355:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2355"><strong>Meir info om 2355 GAUPEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2355</styleUrl>
+ <Point>
+ <coordinates>10.7741,60.8691</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2360">
+ <IconStyle id="icon2360">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2360.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2360">
+ <name>2360 RUDSHØGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2360:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2360"><strong>Meir info om 2360 RUDSHØGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2360</styleUrl>
+ <Point>
+ <coordinates>10.8059,60.9102</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2361">
+ <IconStyle id="icon2361">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2361.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2361">
+ <name>2361 RUDSHØGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2361:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2361"><strong>Meir info om 2361 RUDSHØGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2361</styleUrl>
+ <Point>
+ <coordinates>10.8138,60.90983</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2364">
+ <IconStyle id="icon2364">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2364.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2364">
+ <name>2364 NÆROSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2364:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2364"><strong>Meir info om 2364 NÆROSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2364</styleUrl>
+ <Point>
+ <coordinates>10.7763,60.975</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2365">
+ <IconStyle id="icon2365">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2365.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2365">
+ <name>2365 ÅSMARKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2365:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2365"><strong>Meir info om 2365 ÅSMARKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2365</styleUrl>
+ <Point>
+ <coordinates>10.7542,61.0271</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2372">
+ <IconStyle id="icon2372">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2372.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2372">
+ <name>2372 BRØTTUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2372:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2372"><strong>Meir info om 2372 BRØTTUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2372</styleUrl>
+ <Point>
+ <coordinates>10.5527,61.0292</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2373">
+ <IconStyle id="icon2373">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2373.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2373">
+ <name>2373 BRØTTUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2373:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2373"><strong>Meir info om 2373 BRØTTUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2373</styleUrl>
+ <Point>
+ <coordinates>10.55266,61.02923</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2380">
+ <IconStyle id="icon2380">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2380.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2380">
+ <name>2380 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2380:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2380"><strong>Meir info om 2380 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2380</styleUrl>
+ <Point>
+ <coordinates>10.9418,60.883</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2381">
+ <IconStyle id="icon2381">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2381.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2381">
+ <name>2381 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2381:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2381"><strong>Meir info om 2381 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2381</styleUrl>
+ <Point>
+ <coordinates>10.94201,60.88472</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2382">
+ <IconStyle id="icon2382">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2382.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2382">
+ <name>2382 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2382:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2382"><strong>Meir info om 2382 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2382</styleUrl>
+ <Point>
+ <coordinates>10.9459,60.8864</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2383">
+ <IconStyle id="icon2383">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2383.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2383">
+ <name>2383 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2383:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2383"><strong>Meir info om 2383 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2383</styleUrl>
+ <Point>
+ <coordinates>10.9323,60.89</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2384">
+ <IconStyle id="icon2384">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2384.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2384">
+ <name>2384 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2384:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2384"><strong>Meir info om 2384 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2384</styleUrl>
+ <Point>
+ <coordinates>10.8733,60.8785</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2385">
+ <IconStyle id="icon2385">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2385.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2385">
+ <name>2385 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2385:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2385"><strong>Meir info om 2385 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2385</styleUrl>
+ <Point>
+ <coordinates>10.9151,60.9046</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2386">
+ <IconStyle id="icon2386">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2386.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2386">
+ <name>2386 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2386:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2386"><strong>Meir info om 2386 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2386</styleUrl>
+ <Point>
+ <coordinates>10.9516,60.9145</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2387">
+ <IconStyle id="icon2387">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2387.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2387">
+ <name>2387 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2387:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2387"><strong>Meir info om 2387 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2387</styleUrl>
+ <Point>
+ <coordinates>10.9872,60.914</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2388">
+ <IconStyle id="icon2388">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2388.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2388">
+ <name>2388 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2388:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2388"><strong>Meir info om 2388 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2388</styleUrl>
+ <Point>
+ <coordinates>10.983,60.8797</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2389">
+ <IconStyle id="icon2389">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2389.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2389">
+ <name>2389 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2389:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2389"><strong>Meir info om 2389 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2389</styleUrl>
+ <Point>
+ <coordinates>11.0093,60.8698</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2390">
+ <IconStyle id="icon2390">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2390.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2390">
+ <name>2390 MOELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2390:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2390"><strong>Meir info om 2390 MOELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2390</styleUrl>
+ <Point>
+ <coordinates>10.6998,60.9382</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2391">
+ <IconStyle id="icon2391">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2391.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2391">
+ <name>2391 MOELV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2391:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2391"><strong>Meir info om 2391 MOELV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2391</styleUrl>
+ <Point>
+ <coordinates>10.70055,60.92895</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2400">
+ <IconStyle id="icon2400">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2400.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2400">
+ <name>2400 ELVERUM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2400:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2400"><strong>Meir info om 2400 ELVERUM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2400</styleUrl>
+ <Point>
+ <coordinates>11.56231,60.88191</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2401">
+ <IconStyle id="icon2401">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2401.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2401">
+ <name>2401 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2401:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2401"><strong>Meir info om 2401 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2401</styleUrl>
+ <Point>
+ <coordinates>11.56543,60.87913</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2402">
+ <IconStyle id="icon2402">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2402.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2402">
+ <name>2402 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2402:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2402"><strong>Meir info om 2402 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2402</styleUrl>
+ <Point>
+ <coordinates>11.5654,60.8791</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2403">
+ <IconStyle id="icon2403">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2403.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2403">
+ <name>2403 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2403:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2403"><strong>Meir info om 2403 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2403</styleUrl>
+ <Point>
+ <coordinates>11.5654,60.8791</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2404">
+ <IconStyle id="icon2404">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2404.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2404">
+ <name>2404 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2404:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2404"><strong>Meir info om 2404 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2404</styleUrl>
+ <Point>
+ <coordinates>11.5398,60.8826</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2405">
+ <IconStyle id="icon2405">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2405.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2405">
+ <name>2405 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2405:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2405"><strong>Meir info om 2405 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2405</styleUrl>
+ <Point>
+ <coordinates>11.55286,60.88138</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2406">
+ <IconStyle id="icon2406">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2406.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2406">
+ <name>2406 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2406:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2406"><strong>Meir info om 2406 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2406</styleUrl>
+ <Point>
+ <coordinates>11.5406,60.8832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2407">
+ <IconStyle id="icon2407">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2407.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2407">
+ <name>2407 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2407:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2407"><strong>Meir info om 2407 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2407</styleUrl>
+ <Point>
+ <coordinates>11.5721,60.8617</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2408">
+ <IconStyle id="icon2408">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2408.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2408">
+ <name>2408 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2408:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2408"><strong>Meir info om 2408 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2408</styleUrl>
+ <Point>
+ <coordinates>11.5638,60.8898</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2409">
+ <IconStyle id="icon2409">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2409.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2409">
+ <name>2409 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2409:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2409"><strong>Meir info om 2409 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2409</styleUrl>
+ <Point>
+ <coordinates>11.5643,60.903</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2410">
+ <IconStyle id="icon2410">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2410.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2410">
+ <name>2410 HERNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2410:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2410"><strong>Meir info om 2410 HERNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2410</styleUrl>
+ <Point>
+ <coordinates>11.625,60.9249</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2411">
+ <IconStyle id="icon2411">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2411.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2411">
+ <name>2411 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2411:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2411"><strong>Meir info om 2411 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2411</styleUrl>
+ <Point>
+ <coordinates>11.5073,60.9498</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2412">
+ <IconStyle id="icon2412">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2412.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2412">
+ <name>2412 SØRSKOGBYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2412:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2412"><strong>Meir info om 2412 SØRSKOGBYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2412</styleUrl>
+ <Point>
+ <coordinates>11.7888,60.9446</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2413">
+ <IconStyle id="icon2413">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2413.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2413">
+ <name>2413 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2413:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2413"><strong>Meir info om 2413 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2413</styleUrl>
+ <Point>
+ <coordinates>11.5832,60.8894</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2414">
+ <IconStyle id="icon2414">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2414.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2414">
+ <name>2414 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2414:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2414"><strong>Meir info om 2414 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2414</styleUrl>
+ <Point>
+ <coordinates>11.5748,60.8721</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2415">
+ <IconStyle id="icon2415">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2415.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2415">
+ <name>2415 HERADSBYGD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2415:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2415"><strong>Meir info om 2415 HERADSBYGD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2415</styleUrl>
+ <Point>
+ <coordinates>11.6374,60.8226</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2416">
+ <IconStyle id="icon2416">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2416.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2416">
+ <name>2416 JØMNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2416:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2416"><strong>Meir info om 2416 JØMNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2416</styleUrl>
+ <Point>
+ <coordinates>11.701,60.8079</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2417">
+ <IconStyle id="icon2417">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2417.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2417">
+ <name>2417 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2417:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2417"><strong>Meir info om 2417 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2417</styleUrl>
+ <Point>
+ <coordinates>11.5623,60.8819</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2418">
+ <IconStyle id="icon2418">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2418.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2418">
+ <name>2418 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2418:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2418"><strong>Meir info om 2418 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2418</styleUrl>
+ <Point>
+ <coordinates>11.5623,60.8819</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2419">
+ <IconStyle id="icon2419">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2419.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2419">
+ <name>2419 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2419:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2419"><strong>Meir info om 2419 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2419</styleUrl>
+ <Point>
+ <coordinates>11.56543,60.87913</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2420">
+ <IconStyle id="icon2420">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2420.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2420">
+ <name>2420 TRYSIL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2420:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2420"><strong>Meir info om 2420 TRYSIL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2420</styleUrl>
+ <Point>
+ <coordinates>12.2682,61.3126</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2421">
+ <IconStyle id="icon2421">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2421.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2421">
+ <name>2421 TRYSIL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2421:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2421"><strong>Meir info om 2421 TRYSIL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2421</styleUrl>
+ <Point>
+ <coordinates>12.2642,61.3155</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2422">
+ <IconStyle id="icon2422">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2422.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2422">
+ <name>2422 NYBERGSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2422:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2422"><strong>Meir info om 2422 NYBERGSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2422</styleUrl>
+ <Point>
+ <coordinates>12.3226,61.261</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2423">
+ <IconStyle id="icon2423">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2423.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2423">
+ <name>2423 ØSTBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2423:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2423"><strong>Meir info om 2423 ØSTBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2423</styleUrl>
+ <Point>
+ <coordinates>12.5324,61.2543</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2424">
+ <IconStyle id="icon2424">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2424.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2424">
+ <name>2424 ØSTBY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2424:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2424"><strong>Meir info om 2424 ØSTBY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2424</styleUrl>
+ <Point>
+ <coordinates>12.53236,61.25431</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2425">
+ <IconStyle id="icon2425">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2425.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2425">
+ <name>2425 LJØRDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2425:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2425"><strong>Meir info om 2425 LJØRDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2425</styleUrl>
+ <Point>
+ <coordinates>12.6848,61.3841</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2426">
+ <IconStyle id="icon2426">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2426.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2426">
+ <name>2426 LJØRDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2426:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2426"><strong>Meir info om 2426 LJØRDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2426</styleUrl>
+ <Point>
+ <coordinates>12.68477,61.38410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2427">
+ <IconStyle id="icon2427">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2427.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2427">
+ <name>2427 PLASSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2427:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2427"><strong>Meir info om 2427 PLASSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2427</styleUrl>
+ <Point>
+ <coordinates>12.5078,61.1314</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2428">
+ <IconStyle id="icon2428">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2428.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2428">
+ <name>2428 SØRE OSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2428:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2428"><strong>Meir info om 2428 SØRE OSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2428</styleUrl>
+ <Point>
+ <coordinates>11.9812,61.1072</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2429">
+ <IconStyle id="icon2429">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2429.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2429">
+ <name>2429 TØRBERGET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2429:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2429"><strong>Meir info om 2429 TØRBERGET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2429</styleUrl>
+ <Point>
+ <coordinates>12.1111,61.1331</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2430">
+ <IconStyle id="icon2430">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2430.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2430">
+ <name>2430 JORDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2430:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2430"><strong>Meir info om 2430 JORDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2430</styleUrl>
+ <Point>
+ <coordinates>12.1387,61.4172</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2432">
+ <IconStyle id="icon2432">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2432.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2432">
+ <name>2432 SLETTÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2432:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2432"><strong>Meir info om 2432 SLETTÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2432</styleUrl>
+ <Point>
+ <coordinates>11.9549,61.3728</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2434">
+ <IconStyle id="icon2434">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2434.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2434">
+ <name>2434 BRASKEREIDFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2434:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2434"><strong>Meir info om 2434 BRASKEREIDFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2434</styleUrl>
+ <Point>
+ <coordinates>11.7993,60.72549</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2435">
+ <IconStyle id="icon2435">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2435.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2435">
+ <name>2435 BRASKEREIDFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2435:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2435"><strong>Meir info om 2435 BRASKEREIDFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2435</styleUrl>
+ <Point>
+ <coordinates>11.7993,60.7255</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2436">
+ <IconStyle id="icon2436">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2436.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2436">
+ <name>2436 VÅLER I SOLØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2436:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2436"><strong>Meir info om 2436 VÅLER I SOLØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2436</styleUrl>
+ <Point>
+ <coordinates>11.83561,60.67064</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2437">
+ <IconStyle id="icon2437">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2437.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2437">
+ <name>2437 HASLEMOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2437:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2437"><strong>Meir info om 2437 HASLEMOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2437</styleUrl>
+ <Point>
+ <coordinates>11.8704,60.6513</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2438">
+ <IconStyle id="icon2438">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2438.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2438">
+ <name>2438 GRAVBERGET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2438:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2438"><strong>Meir info om 2438 GRAVBERGET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2438</styleUrl>
+ <Point>
+ <coordinates>12.2377,60.8829</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2439">
+ <IconStyle id="icon2439">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2439.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2439">
+ <name>2439 VÅLER I SOLØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2439:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Våler kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2439"><strong>Meir info om 2439 VÅLER I SOLØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2439</styleUrl>
+ <Point>
+ <coordinates>11.83561,60.67064</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2440">
+ <IconStyle id="icon2440">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2440.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2440">
+ <name>2440 ENGERDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2440:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Engerdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2440"><strong>Meir info om 2440 ENGERDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2440</styleUrl>
+ <Point>
+ <coordinates>11.9604,61.757</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2441">
+ <IconStyle id="icon2441">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2441.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2441">
+ <name>2441 ENGERDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2441:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Engerdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2441"><strong>Meir info om 2441 ENGERDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2441</styleUrl>
+ <Point>
+ <coordinates>11.96042,61.75703</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2442">
+ <IconStyle id="icon2442">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2442.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2442">
+ <name>2442 HERADSBYGD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2442:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2442"><strong>Meir info om 2442 HERADSBYGD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2442</styleUrl>
+ <Point>
+ <coordinates>11.63744,60.82258</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2443">
+ <IconStyle id="icon2443">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2443.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2443">
+ <name>2443 DREVSJØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2443:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Engerdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2443"><strong>Meir info om 2443 DREVSJØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2443</styleUrl>
+ <Point>
+ <coordinates>12.0301,61.8912</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2444">
+ <IconStyle id="icon2444">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2444.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2444">
+ <name>2444 DREVSJØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2444:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Engerdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2444"><strong>Meir info om 2444 DREVSJØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2444</styleUrl>
+ <Point>
+ <coordinates>12.03011,61.89124</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2446">
+ <IconStyle id="icon2446">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2446.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2446">
+ <name>2446 ELGÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2446:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Engerdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2446"><strong>Meir info om 2446 ELGÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2446</styleUrl>
+ <Point>
+ <coordinates>11.9415,62.1672</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2447">
+ <IconStyle id="icon2447">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2447.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2447">
+ <name>2447 SØRE OSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2447:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trysil kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2447"><strong>Meir info om 2447 SØRE OSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2447</styleUrl>
+ <Point>
+ <coordinates>11.98121,61.10722</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2448">
+ <IconStyle id="icon2448">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2448.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2448">
+ <name>2448 SØMÅDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2448:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Engerdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2448"><strong>Meir info om 2448 SØMÅDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2448</styleUrl>
+ <Point>
+ <coordinates>11.668,62.115</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2450">
+ <IconStyle id="icon2450">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2450.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2450">
+ <name>2450 RENA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2450:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmot kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2450"><strong>Meir info om 2450 RENA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2450</styleUrl>
+ <Point>
+ <coordinates>11.3641,61.1348</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2451">
+ <IconStyle id="icon2451">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2451.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2451">
+ <name>2451 RENA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2451:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmot kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2451"><strong>Meir info om 2451 RENA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2451</styleUrl>
+ <Point>
+ <coordinates>11.37358,61.13247</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2460">
+ <IconStyle id="icon2460">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2460.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2460">
+ <name>2460 OSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2460:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmot kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2460"><strong>Meir info om 2460 OSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2460</styleUrl>
+ <Point>
+ <coordinates>11.7645,61.3011</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2461">
+ <IconStyle id="icon2461">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2461.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2461">
+ <name>2461 OSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2461:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmot kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2461"><strong>Meir info om 2461 OSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2461</styleUrl>
+ <Point>
+ <coordinates>11.76448,61.30112</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2476">
+ <IconStyle id="icon2476">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2476.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2476">
+ <name>2476 ATNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2476:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stor-Elvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2476"><strong>Meir info om 2476 ATNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2476</styleUrl>
+ <Point>
+ <coordinates>10.8328,61.7313</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2477">
+ <IconStyle id="icon2477">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2477.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2477">
+ <name>2477 SOLLIA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2477:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stor-Elvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2477"><strong>Meir info om 2477 SOLLIA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2477</styleUrl>
+ <Point>
+ <coordinates>10.4008,61.7802</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2478">
+ <IconStyle id="icon2478">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2478.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2478">
+ <name>2478 HANESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2478:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rendalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2478"><strong>Meir info om 2478 HANESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2478</styleUrl>
+ <Point>
+ <coordinates>10.8805,61.838</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2480">
+ <IconStyle id="icon2480">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2480.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2480">
+ <name>2480 KOPPANG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2480:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stor-Elvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2480"><strong>Meir info om 2480 KOPPANG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2480</styleUrl>
+ <Point>
+ <coordinates>11.0555,61.5707</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2481">
+ <IconStyle id="icon2481">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2481.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2481">
+ <name>2481 KOPPANG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2481:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stor-Elvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2481"><strong>Meir info om 2481 KOPPANG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2481</styleUrl>
+ <Point>
+ <coordinates>11.05075,61.57068</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2484">
+ <IconStyle id="icon2484">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2484.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2484">
+ <name>2484 RENDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2484:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rendalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2484"><strong>Meir info om 2484 RENDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2484</styleUrl>
+ <Point>
+ <coordinates>11.0774,61.8922</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2485">
+ <IconStyle id="icon2485">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2485.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2485">
+ <name>2485 RENDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2485:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rendalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2485"><strong>Meir info om 2485 RENDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2485</styleUrl>
+ <Point>
+ <coordinates>11.3116,61.7069</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2486">
+ <IconStyle id="icon2486">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2486.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2486">
+ <name>2486 RENDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2486:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rendalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2486"><strong>Meir info om 2486 RENDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2486</styleUrl>
+ <Point>
+ <coordinates>11.0782,61.8879</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2487">
+ <IconStyle id="icon2487">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2487.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2487">
+ <name>2487 RENDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2487:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rendalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2487"><strong>Meir info om 2487 RENDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2487</styleUrl>
+ <Point>
+ <coordinates>11.0442,61.5664</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2488">
+ <IconStyle id="icon2488">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2488.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2488">
+ <name>2488 RENDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2488:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rendalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2488"><strong>Meir info om 2488 RENDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2488</styleUrl>
+ <Point>
+ <coordinates>11.0442,61.5664</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2490">
+ <IconStyle id="icon2490">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2490.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2490">
+ <name>2490 ATNA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2490:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stor-Elvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2490"><strong>Meir info om 2490 ATNA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2490</styleUrl>
+ <Point>
+ <coordinates>10.8328,61.7313</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2492">
+ <IconStyle id="icon2492">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2492.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2492">
+ <name>2492 SOLLIA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2492:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stor-Elvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2492"><strong>Meir info om 2492 SOLLIA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2492</styleUrl>
+ <Point>
+ <coordinates>10.4008,61.7802</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2500">
+ <IconStyle id="icon2500">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2500.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2500">
+ <name>2500 TYNSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2500:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2500"><strong>Meir info om 2500 TYNSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2500</styleUrl>
+ <Point>
+ <coordinates>10.7824,62.2759</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2501">
+ <IconStyle id="icon2501">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2501.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2501">
+ <name>2501 TYNSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2501:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2501"><strong>Meir info om 2501 TYNSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2501</styleUrl>
+ <Point>
+ <coordinates>10.7759,62.27891</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2510">
+ <IconStyle id="icon2510">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2510.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2510">
+ <name>2510 TYLLDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2510:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2510"><strong>Meir info om 2510 TYLLDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2510</styleUrl>
+ <Point>
+ <coordinates>10.7945,62.1375</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2512">
+ <IconStyle id="icon2512">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2512.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2512">
+ <name>2512 KVIKNE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2512:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2512"><strong>Meir info om 2512 KVIKNE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2512</styleUrl>
+ <Point>
+ <coordinates>10.2853,62.5837</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2513">
+ <IconStyle id="icon2513">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2513.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2513">
+ <name>2513 KVIKNE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2513:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2513"><strong>Meir info om 2513 KVIKNE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2513</styleUrl>
+ <Point>
+ <coordinates>10.28525,62.58366</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2540">
+ <IconStyle id="icon2540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2540">
+ <name>2540 TOLGA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2540"><strong>Meir info om 2540 TOLGA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2540</styleUrl>
+ <Point>
+ <coordinates>10.9912,62.4106</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2541">
+ <IconStyle id="icon2541">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2541.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2541">
+ <name>2541 TOLGA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2541:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2541"><strong>Meir info om 2541 TOLGA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2541</styleUrl>
+ <Point>
+ <coordinates>10.99119,62.41055</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2542">
+ <IconStyle id="icon2542">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2542.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2542">
+ <name>2542 VINGELEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2542:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2542"><strong>Meir info om 2542 VINGELEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2542</styleUrl>
+ <Point>
+ <coordinates>10.8618,62.4172</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2544">
+ <IconStyle id="icon2544">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2544.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2544">
+ <name>2544 ØVERSJØDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2544:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tolga kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2544"><strong>Meir info om 2544 ØVERSJØDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2544</styleUrl>
+ <Point>
+ <coordinates>11.4816,62.2088</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2550">
+ <IconStyle id="icon2550">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2550.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2550">
+ <name>2550 OS I ØSTERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2550:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2550"><strong>Meir info om 2550 OS I ØSTERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2550</styleUrl>
+ <Point>
+ <coordinates>11.22355,62.49617</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2551">
+ <IconStyle id="icon2551">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2551.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2551">
+ <name>2551 OS I ØSTERDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2551:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2551"><strong>Meir info om 2551 OS I ØSTERDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2551</styleUrl>
+ <Point>
+ <coordinates>11.22355,62.49617</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2552">
+ <IconStyle id="icon2552">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2552.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2552">
+ <name>2552 DALSBYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2552:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2552"><strong>Meir info om 2552 DALSBYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2552</styleUrl>
+ <Point>
+ <coordinates>11.109,62.5276</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2555">
+ <IconStyle id="icon2555">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2555.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2555">
+ <name>2555 TUFSINGDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2555:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2555"><strong>Meir info om 2555 TUFSINGDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2555</styleUrl>
+ <Point>
+ <coordinates>11.7195,62.303</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2560">
+ <IconStyle id="icon2560">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2560.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2560">
+ <name>2560 ALVDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2560:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2560"><strong>Meir info om 2560 ALVDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2560</styleUrl>
+ <Point>
+ <coordinates>10.6307,62.1077</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2561">
+ <IconStyle id="icon2561">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2561.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2561">
+ <name>2561 ALVDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2561:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alvdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2561"><strong>Meir info om 2561 ALVDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2561</styleUrl>
+ <Point>
+ <coordinates>10.63166,62.10892</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2570">
+ <IconStyle id="icon2570">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2570.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2570">
+ <name>2570 HANESTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2570:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rendalen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2570"><strong>Meir info om 2570 HANESTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2570</styleUrl>
+ <Point>
+ <coordinates>10.8805,61.838</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2580">
+ <IconStyle id="icon2580">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2580.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2580">
+ <name>2580 FOLLDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2580:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2580"><strong>Meir info om 2580 FOLLDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2580</styleUrl>
+ <Point>
+ <coordinates>9.9968,62.1325</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2581">
+ <IconStyle id="icon2581">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2581.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2581">
+ <name>2581 FOLLDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2581:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2581"><strong>Meir info om 2581 FOLLDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2581</styleUrl>
+ <Point>
+ <coordinates>9.99344,62.13324</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2582">
+ <IconStyle id="icon2582">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2582.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2582">
+ <name>2582 GRIMSBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2582:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2582"><strong>Meir info om 2582 GRIMSBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2582</styleUrl>
+ <Point>
+ <coordinates>10.1731,62.1561</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2584">
+ <IconStyle id="icon2584">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2584.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2584">
+ <name>2584 DALHOLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2584:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Folldal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2584"><strong>Meir info om 2584 DALHOLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2584</styleUrl>
+ <Point>
+ <coordinates>9.8162,62.175</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2592">
+ <IconStyle id="icon2592">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2592.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2592">
+ <name>2592 KVIKNE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2592:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tynset kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2592"><strong>Meir info om 2592 KVIKNE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2592</styleUrl>
+ <Point>
+ <coordinates>10.28525,62.58366</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2610">
+ <IconStyle id="icon2610">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2610.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2610">
+ <name>2610 MESNALI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2610:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2610"><strong>Meir info om 2610 MESNALI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2610</styleUrl>
+ <Point>
+ <coordinates>10.6972,61.1035</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2612">
+ <IconStyle id="icon2612">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2612.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2612">
+ <name>2612 SJUSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2612:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2612"><strong>Meir info om 2612 SJUSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2612</styleUrl>
+ <Point>
+ <coordinates>10.6907,61.1524</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2616">
+ <IconStyle id="icon2616">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2616.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2616">
+ <name>2616 LISMARKA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2616:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2616"><strong>Meir info om 2616 LISMARKA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2616</styleUrl>
+ <Point>
+ <coordinates>10.6213,61.0702</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2620">
+ <IconStyle id="icon2620">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2620.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2620">
+ <name>2620 MESNALI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2620:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2620"><strong>Meir info om 2620 MESNALI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2620</styleUrl>
+ <Point>
+ <coordinates>10.69724,61.10354</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2628">
+ <IconStyle id="icon2628">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2628.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2628">
+ <name>2628 SJUSJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2628:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2628"><strong>Meir info om 2628 SJUSJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2628</styleUrl>
+ <Point>
+ <coordinates>10.69065,61.15241</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

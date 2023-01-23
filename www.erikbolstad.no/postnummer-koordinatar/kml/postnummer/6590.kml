@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>6590 TUSTNA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer6590">
+ <name>6590 TUSTNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6590:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aure kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6590"><strong>Meir info om 6590 TUSTNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>8.15190,63.20400</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 6590 TUSTNA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.80832,63.15200 7.82491,63.15001 7.87203,63.14433 7.89061,63.13527 7.93123,63.11544 8.01730,63.12584 8.10266,63.12937 8.13246,63.13796 8.15005,63.14304 8.17526,63.14560 8.19576,63.14768 8.22799,63.15095 8.26345,63.15453 8.31691,63.15715 8.33321,63.15795 8.33554,63.16569 8.31084,63.18990 8.27077,63.20627 8.26100,63.21025 8.28343,63.21930 8.27023,63.23352 8.26132,63.23527 8.22366,63.25607 8.23250,63.25950 8.19679,63.28234 8.08162,63.25741 8.04206,63.24881 7.95967,63.23086 7.93162,63.22474 7.92624,63.22356 7.77612,63.20242 7.74367,63.16659 7.76732,63.15692 7.80832,63.15200</coordinates></LineString></Placemark>
+ </Document>
+</kml>

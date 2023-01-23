@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1637 GAMLE FREDRIKSTAD</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1637">
+ <name>1637 GAMLE FREDRIKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1637:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1637"><strong>Meir info om 1637 GAMLE FREDRIKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.98300,59.21120</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1637 GAMLE FREDRIKSTAD</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.96708,59.21153 10.97732,59.20825 10.97632,59.20756 10.97685,59.20764 10.97791,59.20770 10.98273,59.20800 10.98321,59.20827 10.98358,59.20883 10.98357,59.20984 10.98450,59.21043 10.98603,59.21126 10.98715,59.21222 10.98786,59.21281 10.98870,59.21333 10.98959,59.21354 10.99079,59.21376 10.99195,59.21427 10.99282,59.21468 10.99386,59.21525 10.99449,59.21593 10.99547,59.21656 10.99580,59.21673 10.98865,59.21793 10.98665,59.21659 10.98525,59.21570 10.98438,59.21476 10.98418,59.21451 10.98389,59.21407 10.98378,59.21385 10.98363,59.21369 10.98341,59.21340 10.98216,59.21233 10.98204,59.21223 10.97864,59.21299 10.97810,59.21247 10.98155,59.21169 10.98073,59.21082 10.97735,59.21167 10.97592,59.21199 10.97279,59.21268 10.97020,59.21338 10.96854,59.21244 10.96708,59.21153</coordinates></LineString></Placemark>
+ </Document>
+</kml>

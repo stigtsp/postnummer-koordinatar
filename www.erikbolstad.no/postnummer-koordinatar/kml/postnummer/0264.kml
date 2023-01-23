@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0264 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0264">
+ <name>0264 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0264:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0264"><strong>Meir info om 0264 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.70610,59.91660</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0264 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.70127,59.91735 10.70126,59.91717 10.70119,59.91698 10.70182,59.91694 10.70182,59.91669 10.70223,59.91623 10.70233,59.91569 10.70249,59.91549 10.70271,59.91551 10.70286,59.91528 10.70300,59.91523 10.70327,59.91498 10.70470,59.91472 10.70556,59.91468 10.70576,59.91468 10.70604,59.91441 10.70654,59.91436 10.70670,59.91473 10.70964,59.91428 10.71000,59.91519 10.70945,59.91531 10.70968,59.91601 10.71035,59.91582 10.71106,59.91567 10.71107,59.91535 10.71269,59.91491 10.71325,59.91548 10.71140,59.91603 10.71110,59.91599 10.71022,59.91622 10.70947,59.91649 10.70958,59.91668 10.70920,59.91679 10.70914,59.91680 10.70916,59.91688 10.70892,59.91712 10.70740,59.91759 10.70716,59.91731 10.70616,59.91758 10.70632,59.91780 10.70540,59.91802 10.70521,59.91787 10.70415,59.91822 10.70413,59.91824 10.70406,59.91841 10.70351,59.91834 10.70357,59.91819 10.70269,59.91808 10.70267,59.91801 10.70218,59.91810 10.70212,59.91788 10.70155,59.91793 10.70147,59.91754 10.70148,59.91754 10.70190,59.91753 10.70184,59.91734 10.70127,59.91735</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0264 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.70832,59.91912 10.70826,59.91858 10.70818,59.91819 10.70782,59.91790 10.70895,59.91768 10.70890,59.91750 10.70946,59.91736 10.70956,59.91762 10.70982,59.91805 10.70950,59.91812 10.70964,59.91820 10.70976,59.91826 10.70982,59.91831 10.70951,59.91843 10.70959,59.91859 10.70959,59.91862 10.70930,59.91888 10.70865,59.91893 10.70859,59.91912 10.70832,59.91912</coordinates></LineString></Placemark>
+ </Document>
+</kml>

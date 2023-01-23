@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2004 LILLESTRØM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2004">
+ <name>2004 LILLESTRØM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2004:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillestrøm kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2004"><strong>Meir info om 2004 LILLESTRØM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.06300,59.95390</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2004 LILLESTRØM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.06280,59.96028 11.06034,59.95829 11.05944,59.95780 11.05545,59.95596 11.05399,59.95542 11.05038,59.95430 11.04973,59.95413 11.04895,59.95394 11.04768,59.95370 11.04538,59.95335 11.04011,59.95277 11.03844,59.95271 11.03762,59.95212 11.03859,59.95163 11.04033,59.95086 11.04048,59.95079 11.04243,59.95051 11.04675,59.94949 11.05009,59.94859 11.05034,59.94850 11.05295,59.94760 11.05544,59.94630 11.05817,59.94506 11.05894,59.94454 11.06158,59.94274 11.06241,59.94201 11.06294,59.94139 11.06382,59.94105 11.06430,59.94091 11.06489,59.94075 11.06586,59.94055 11.06635,59.94040 11.06751,59.94114 11.07016,59.94200 11.07557,59.94451 11.07832,59.94919 11.07988,59.95249 11.07778,59.95306 11.07721,59.95354 11.07385,59.95530 11.07275,59.95588 11.07232,59.95614 11.06693,59.95913 11.06648,59.95943 11.06558,59.95991 11.06499,59.96019 11.06375,59.96079 11.06341,59.96069 11.06280,59.96028</coordinates></LineString></Placemark>
+ </Document>
+</kml>

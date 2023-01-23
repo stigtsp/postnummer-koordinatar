@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>5036 BERGEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer5036">
+ <name>5036 BERGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5036:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bergen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5036"><strong>Meir info om 5036 BERGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.32360,60.40930</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 5036 BERGEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.31400,60.41739 5.31497,60.41695 5.31654,60.41646 5.31857,60.41584 5.32000,60.41536 5.32066,60.41487 5.32177,60.41411 5.32222,60.41345 5.32287,60.41236 5.32320,60.41179 5.32326,60.41109 5.32310,60.41042 5.32273,60.40982 5.32260,60.40941 5.32243,60.40872 5.32225,60.40759 5.32233,60.40712 5.32285,60.40668 5.32375,60.40600 5.32385,60.40565 5.32360,60.40521 5.32398,60.40522 5.32478,60.40534 5.32530,60.40554 5.32641,60.40531 5.32706,60.40522 5.32639,60.40558 5.32645,60.40595 5.32690,60.40636 5.32721,60.40705 5.32747,60.40783 5.32753,60.40799 5.32752,60.40812 5.32724,60.40813 5.32731,60.40859 5.32701,60.40887 5.32613,60.40868 5.32526,60.40927 5.32485,60.40965 5.32483,60.40982 5.32565,60.41016 5.32550,60.41060 5.32499,60.41100 5.32477,60.41140 5.32490,60.41157 5.32522,60.41173 5.32457,60.41282 5.32417,60.41339 5.32389,60.41385 5.32350,60.41414 5.32304,60.41432 5.32275,60.41445 5.32684,60.41492 5.32536,60.41532 5.32405,60.41552 5.32230,60.41591 5.32074,60.41640 5.32034,60.41658 5.31995,60.41687 5.31994,60.41747 5.32089,60.41796 5.32181,60.41827 5.32234,60.41865 5.32237,60.41906 5.32218,60.41940 5.32167,60.41966 5.32036,60.41992 5.31923,60.41993 5.31853,60.42032 5.31747,60.42070 5.31601,60.42111 5.31492,60.42114 5.31334,60.42127 5.31224,60.42148 5.30933,60.42035 5.31032,60.41970 5.31294,60.41820 5.31400,60.41739</coordinates></LineString></Placemark>
+ </Document>
+</kml>

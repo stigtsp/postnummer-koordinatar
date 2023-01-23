@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2007 KJELLER</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2007">
+ <name>2007 KJELLER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2007:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillestrøm kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2007"><strong>Meir info om 2007 KJELLER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.04120,59.97350</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2007 KJELLER</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.99842,59.98234 11.00383,59.98121 11.00756,59.97969 11.00930,59.97925 11.01322,59.97892 11.01582,59.97846 11.01856,59.97743 11.02491,59.97444 11.02536,59.97367 11.02439,59.97162 11.02641,59.97024 11.02918,59.96940 11.03181,59.96994 11.04236,59.96870 11.04769,59.96700 11.05223,59.96636 11.05332,59.96627 11.05479,59.96611 11.05837,59.96371 11.05958,59.96305 11.05992,59.96236 11.06147,59.96092 11.06198,59.96063 11.06230,59.96089 11.06351,59.96091 11.06446,59.96192 11.06539,59.96342 11.06623,59.96500 11.06654,59.96550 11.06813,59.96964 11.06894,59.97161 11.07425,59.97104 11.07956,59.97007 11.08348,59.97514 11.08197,59.97544 11.07780,59.97866 11.07018,59.97872 11.07029,59.98086 11.06310,59.98173 11.05959,59.98355 11.05796,59.98527 11.05157,59.98816 11.05127,59.98916 11.04809,59.98918 11.04799,59.98877 11.04795,59.98790 11.04644,59.98654 11.04387,59.98606 11.04259,59.98555 11.04144,59.98439 11.04264,59.98414 11.04203,59.98230 11.04128,59.98067 11.03399,59.98138 11.03175,59.98231 11.03078,59.98242 11.03056,59.98221 11.03070,59.98216 11.03081,59.98214 11.03134,59.98193 11.03103,59.98167 11.03007,59.98122 11.02960,59.98070 11.02875,59.98086 11.02771,59.98122 11.02738,59.98148 11.02595,59.98270 11.01973,59.98406 11.02020,59.98521 11.02118,59.98593 11.02202,59.98643 11.02340,59.98710 11.01378,59.98991 11.01062,59.98574 11.00708,59.98530 10.99842,59.98234</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Seljord, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3694">
+ <IconStyle id="icon3694">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3694.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3694">
+ <name>3694 FLATDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3694:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3694"><strong>Meir info om 3694 FLATDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3694</styleUrl>
+ <Point>
+ <coordinates>8.56750,59.56780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3695">
+ <IconStyle id="icon3695">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3695.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3695">
+ <name>3695 ÅMOTSDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3695:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3695"><strong>Meir info om 3695 ÅMOTSDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3695</styleUrl>
+ <Point>
+ <coordinates>8.40380,59.63090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3805">
+ <IconStyle id="icon3805">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3805.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3805">
+ <name>3805 BØ I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3805:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3805"><strong>Meir info om 3805 BØ I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3805</styleUrl>
+ <Point>
+ <coordinates>8.84450,59.44300</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3835">
+ <IconStyle id="icon3835">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3835.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3835">
+ <name>3835 SELJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3835:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3835"><strong>Meir info om 3835 SELJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3835</styleUrl>
+ <Point>
+ <coordinates>8.63229,59.48192</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3840">
+ <IconStyle id="icon3840">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3840.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3840">
+ <name>3840 SELJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3840:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3840"><strong>Meir info om 3840 SELJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3840</styleUrl>
+ <Point>
+ <coordinates>8.62600,59.48290</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3841">
+ <IconStyle id="icon3841">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3841.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3841">
+ <name>3841 FLATDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3841:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3841"><strong>Meir info om 3841 FLATDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3841</styleUrl>
+ <Point>
+ <coordinates>8.56750,59.56780</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3844">
+ <IconStyle id="icon3844">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3844.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3844">
+ <name>3844 ÅMOTSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3844:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3844"><strong>Meir info om 3844 ÅMOTSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3844</styleUrl>
+ <Point>
+ <coordinates>8.40380,59.63090</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

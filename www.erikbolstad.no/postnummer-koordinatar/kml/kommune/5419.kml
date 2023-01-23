@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sørreisa, Troms og Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9310">
+ <IconStyle id="icon9310">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9310.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9310">
+ <name>9310 SØRREISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9310:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9310"><strong>Meir info om 9310 SØRREISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9310</styleUrl>
+ <Point>
+ <coordinates>18.15290,69.14530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9315">
+ <IconStyle id="icon9315">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9315.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9315">
+ <name>9315 SØRREISA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9315:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørreisa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9315"><strong>Meir info om 9315 SØRREISA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9315</styleUrl>
+ <Point>
+ <coordinates>18.15191,69.14452</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

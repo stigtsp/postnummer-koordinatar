@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2209 KONGSVINGER</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2209">
+ <name>2209 KONGSVINGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2209:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kongsvinger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2209"><strong>Meir info om 2209 KONGSVINGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>12.02990,60.17740</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2209 KONGSVINGER</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.02539,60.17617 12.02481,60.17610 12.02511,60.17578 12.02564,60.17585 12.02659,60.17477 12.02591,60.17468 12.02622,60.17431 12.02576,60.17424 12.02604,60.17391 12.02712,60.17406 12.02751,60.17357 12.02696,60.17346 12.02730,60.17254 12.02633,60.17233 12.02601,60.17268 12.02347,60.17226 12.02449,60.17117 12.02534,60.17056 12.02642,60.17076 12.02686,60.17085 12.02659,60.17117 12.02710,60.17128 12.02721,60.17121 12.02888,60.17161 12.02983,60.17180 12.03014,60.17094 12.03052,60.17058 12.03129,60.17051 12.03152,60.17019 12.03201,60.17010 12.03236,60.17003 12.03614,60.16488 12.03728,60.16109 12.05429,60.16285 12.05563,60.17161 12.05086,60.18305 12.03095,60.18255 12.03016,60.18227 12.02869,60.18124 12.02811,60.18106 12.02508,60.18111 12.02338,60.18119 12.02179,60.18144 12.02187,60.18087 12.02294,60.18087 12.02302,60.18009 12.02187,60.18005 12.02189,60.17993 12.02279,60.17976 12.02324,60.17940 12.02326,60.17935 12.02257,60.17934 12.02259,60.17909 12.02341,60.17910 12.02363,60.17865 12.02308,60.17861 12.02339,60.17742 12.02427,60.17750 12.02493,60.17668 12.02357,60.17652 12.02374,60.17624 12.02518,60.17643 12.02539,60.17617</coordinates></LineString></Placemark>
+ </Document>
+</kml>

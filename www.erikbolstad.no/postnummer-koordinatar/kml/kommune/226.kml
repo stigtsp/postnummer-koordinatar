@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sørum, Akershus</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1920">
+ <IconStyle id="icon1920">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1920.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1920">
+ <name>1920 SØRUMSAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1920:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1920"><strong>Meir info om 1920 SØRUMSAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1920</styleUrl>
+ <Point>
+ <coordinates>11.2437,59.9865</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1921">
+ <IconStyle id="icon1921">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1921.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1921">
+ <name>1921 SØRUMSAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1921:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1921"><strong>Meir info om 1921 SØRUMSAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1921</styleUrl>
+ <Point>
+ <coordinates>11.2472,59.9866</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1923">
+ <IconStyle id="icon1923">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1923.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1923">
+ <name>1923 SØRUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1923:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1923"><strong>Meir info om 1923 SØRUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1923</styleUrl>
+ <Point>
+ <coordinates>11.22746,60.02066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1924">
+ <IconStyle id="icon1924">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1924.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1924">
+ <name>1924 SØRUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1924:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1924"><strong>Meir info om 1924 SØRUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1924</styleUrl>
+ <Point>
+ <coordinates>11.22746,60.02066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1925">
+ <IconStyle id="icon1925">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1925.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1925">
+ <name>1925 BLAKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1925:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1925"><strong>Meir info om 1925 BLAKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1925</styleUrl>
+ <Point>
+ <coordinates>11.3625,59.9774</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1926">
+ <IconStyle id="icon1926">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1926.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1926">
+ <name>1926 BLAKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1926:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1926"><strong>Meir info om 1926 BLAKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1926</styleUrl>
+ <Point>
+ <coordinates>11.36245,59.97742</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1927">
+ <IconStyle id="icon1927">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1927.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1927">
+ <name>1927 RÅNÅSFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1927:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1927"><strong>Meir info om 1927 RÅNÅSFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1927</styleUrl>
+ <Point>
+ <coordinates>11.3368,60.0314</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1990">
+ <IconStyle id="icon1990">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1990.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1990">
+ <name>1990 SØRUM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1990:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1990"><strong>Meir info om 1990 SØRUM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1990</styleUrl>
+ <Point>
+ <coordinates>11.22746,60.02066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2016">
+ <IconStyle id="icon2016">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2016.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2016">
+ <name>2016 FROGNER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2016:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2016"><strong>Meir info om 2016 FROGNER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2016</styleUrl>
+ <Point>
+ <coordinates>11.1018,60.0242</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2017">
+ <IconStyle id="icon2017">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2017.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2017">
+ <name>2017 FROGNER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2017:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2017"><strong>Meir info om 2017 FROGNER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2017</styleUrl>
+ <Point>
+ <coordinates>11.1087,60.02367</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2044">
+ <IconStyle id="icon2044">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2044.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2044">
+ <name>2044 FROGNER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2044:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2044"><strong>Meir info om 2044 FROGNER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2044</styleUrl>
+ <Point>
+ <coordinates>11.1018,60.0242</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2185">
+ <IconStyle id="icon2185">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2185.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2185">
+ <name>2185 RÅNÅSFOSS (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2185:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sørum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2185"><strong>Meir info om 2185 RÅNÅSFOSS (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2185</styleUrl>
+ <Point>
+ <coordinates>11.3368,60.0314</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sørum (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.3201281,59.8817152,0 11.3391291,59.9248432,0 11.3471295,59.9308566,0 11.3571301,59.9528964,0 11.4410077,59.9911508,0 11.4410077,59.9911508,0 11.4189265,59.9992924,0 11.408686,60.0108113,0 11.3914051,60.0120909,0 11.3914051,60.0181685,0 11.2870794,60.0638742,0 11.2870794,60.0638742,0 11.2506681,60.0795332,0 11.229867,60.0719502,0 11.2258668,60.0543828,0 11.2098659,60.060772,0 11.1890648,60.0643654,0 11.0974692,60.0586513,0 11.0974692,60.0586513,0 11.0738586,60.0571783,0 11.058114,60.0339169,0 11.058114,60.0339169,0 11.0671145,60.0214267,0 11.1002782,60.0025104,0 11.133118,59.9919311,0 11.1745071,59.987973,0 11.1745071,59.987973,0 11.1973077,59.9789053,0 11.2061219,59.9729199,0 11.2561246,59.9298545,0 11.2771258,59.8952614,0 11.3201281,59.8817152,0 11.3201281,59.8817152,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Alver, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5100">
+ <IconStyle id="icon5100">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5100.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5100">
+ <name>5100 ISDALSTØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5100:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5100"><strong>Meir info om 5100 ISDALSTØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5100</styleUrl>
+ <Point>
+ <coordinates>5.26942,60.55519</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5102">
+ <IconStyle id="icon5102">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5102.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5102">
+ <name>5102 ALVERSUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5102:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5102"><strong>Meir info om 5102 ALVERSUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5102</styleUrl>
+ <Point>
+ <coordinates>5.25052,60.56145</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5103">
+ <IconStyle id="icon5103">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5103.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5103">
+ <name>5103 SEIM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5103:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5103"><strong>Meir info om 5103 SEIM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5103</styleUrl>
+ <Point>
+ <coordinates>5.27200,60.61550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5110">
+ <IconStyle id="icon5110">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5110.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5110">
+ <name>5110 FREKHAUG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5110:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5110"><strong>Meir info om 5110 FREKHAUG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5110</styleUrl>
+ <Point>
+ <coordinates>5.24339,60.51263</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5112">
+ <IconStyle id="icon5112">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5112.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5112">
+ <name>5112 ROSSLAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5112:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5112"><strong>Meir info om 5112 ROSSLAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5112</styleUrl>
+ <Point>
+ <coordinates>5.05269,60.56133</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5120">
+ <IconStyle id="icon5120">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5120.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5120">
+ <name>5120 MANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5120:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5120"><strong>Meir info om 5120 MANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5120</styleUrl>
+ <Point>
+ <coordinates>5.04200,60.64063</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5123">
+ <IconStyle id="icon5123">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5123.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5123">
+ <name>5123 SÆBØVÅGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5123:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5123"><strong>Meir info om 5123 SÆBØVÅGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5123</styleUrl>
+ <Point>
+ <coordinates>5.14480,60.61110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5125">
+ <IconStyle id="icon5125">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5125.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5125">
+ <name>5125 BØVÅGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5125:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5125"><strong>Meir info om 5125 BØVÅGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5125</styleUrl>
+ <Point>
+ <coordinates>4.92673,60.69832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5127">
+ <IconStyle id="icon5127">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5127.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5127">
+ <name>5127 VALLERSVÅG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5127:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5127"><strong>Meir info om 5127 VALLERSVÅG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5127</styleUrl>
+ <Point>
+ <coordinates>5.05100,60.68360</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5140">
+ <IconStyle id="icon5140">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5140.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5140">
+ <name>5140 HUNDVIN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5140:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5140"><strong>Meir info om 5140 HUNDVIN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5140</styleUrl>
+ <Point>
+ <coordinates>5.21790,60.67610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5149">
+ <IconStyle id="icon5149">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5149.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5149">
+ <name>5149 MYKING (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5149:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5149"><strong>Meir info om 5149 MYKING (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5149</styleUrl>
+ <Point>
+ <coordinates>5.32260,60.70110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5150">
+ <IconStyle id="icon5150">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5150.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5150">
+ <name>5150 LINDÅS (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5150:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5150"><strong>Meir info om 5150 LINDÅS (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5150</styleUrl>
+ <Point>
+ <coordinates>5.16174,60.73509</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5167">
+ <IconStyle id="icon5167">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5167.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5167">
+ <name>5167 OSTEREIDET (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5167:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5167"><strong>Meir info om 5167 OSTEREIDET (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5167</styleUrl>
+ <Point>
+ <coordinates>5.47281,60.62591</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5175">
+ <IconStyle id="icon5175">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5175.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5175">
+ <name>5175 VIKANES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5175:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5175"><strong>Meir info om 5175 VIKANES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5175</styleUrl>
+ <Point>
+ <coordinates>5.58740,60.69930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5902">
+ <IconStyle id="icon5902">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5902.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5902">
+ <name>5902 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5902:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5902"><strong>Meir info om 5902 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5902</styleUrl>
+ <Point>
+ <coordinates>5.28694,60.54615</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5903">
+ <IconStyle id="icon5903">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5903.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5903">
+ <name>5903 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5903:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5903"><strong>Meir info om 5903 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5903</styleUrl>
+ <Point>
+ <coordinates>5.28610,60.54730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5904">
+ <IconStyle id="icon5904">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5904.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5904">
+ <name>5904 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5904:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5904"><strong>Meir info om 5904 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5904</styleUrl>
+ <Point>
+ <coordinates>5.28610,60.54730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5906">
+ <IconStyle id="icon5906">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5906.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5906">
+ <name>5906 FREKHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5906:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5906"><strong>Meir info om 5906 FREKHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5906</styleUrl>
+ <Point>
+ <coordinates>5.24339,60.51263</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5907">
+ <IconStyle id="icon5907">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5907.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5907">
+ <name>5907 ALVERSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5907:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5907"><strong>Meir info om 5907 ALVERSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5907</styleUrl>
+ <Point>
+ <coordinates>5.25052,60.56145</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5908">
+ <IconStyle id="icon5908">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5908.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5908">
+ <name>5908 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5908:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5908"><strong>Meir info om 5908 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5908</styleUrl>
+ <Point>
+ <coordinates>5.27064,60.55600</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5911">
+ <IconStyle id="icon5911">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5911.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5911">
+ <name>5911 ALVERSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5911:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5911"><strong>Meir info om 5911 ALVERSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5911</styleUrl>
+ <Point>
+ <coordinates>5.23450,60.57140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5912">
+ <IconStyle id="icon5912">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5912.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5912">
+ <name>5912 SEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5912:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5912"><strong>Meir info om 5912 SEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5912</styleUrl>
+ <Point>
+ <coordinates>5.27200,60.61550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5913">
+ <IconStyle id="icon5913">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5913.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5913">
+ <name>5913 EIKANGERVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5913:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5913"><strong>Meir info om 5913 EIKANGERVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5913</styleUrl>
+ <Point>
+ <coordinates>5.39810,60.60530</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5914">
+ <IconStyle id="icon5914">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5914.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5914">
+ <name>5914 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5914:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5914"><strong>Meir info om 5914 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5914</styleUrl>
+ <Point>
+ <coordinates>5.29370,60.54800</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5915">
+ <IconStyle id="icon5915">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5915.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5915">
+ <name>5915 HJELMÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5915:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5915"><strong>Meir info om 5915 HJELMÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5915</styleUrl>
+ <Point>
+ <coordinates>5.36410,60.59310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5916">
+ <IconStyle id="icon5916">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5916.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5916">
+ <name>5916 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5916:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5916"><strong>Meir info om 5916 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5916</styleUrl>
+ <Point>
+ <coordinates>5.27160,60.55630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5917">
+ <IconStyle id="icon5917">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5917.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5917">
+ <name>5917 ROSSLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5917:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5917"><strong>Meir info om 5917 ROSSLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5917</styleUrl>
+ <Point>
+ <coordinates>5.05270,60.56130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5918">
+ <IconStyle id="icon5918">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5918.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5918">
+ <name>5918 FREKHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5918:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5918"><strong>Meir info om 5918 FREKHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5918</styleUrl>
+ <Point>
+ <coordinates>5.23960,60.51760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5919">
+ <IconStyle id="icon5919">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5919.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5919">
+ <name>5919 FREKHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5919:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5919"><strong>Meir info om 5919 FREKHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5919</styleUrl>
+ <Point>
+ <coordinates>5.18970,60.55090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5931">
+ <IconStyle id="icon5931">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5931.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5931">
+ <name>5931 MANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5931:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5931"><strong>Meir info om 5931 MANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5931</styleUrl>
+ <Point>
+ <coordinates>5.04200,60.64063</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5935">
+ <IconStyle id="icon5935">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5935.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5935">
+ <name>5935 BØVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5935:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5935"><strong>Meir info om 5935 BØVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5935</styleUrl>
+ <Point>
+ <coordinates>4.92673,60.69832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5936">
+ <IconStyle id="icon5936">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5936.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5936">
+ <name>5936 MANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5936:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5936"><strong>Meir info om 5936 MANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5936</styleUrl>
+ <Point>
+ <coordinates>5.04200,60.64060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5937">
+ <IconStyle id="icon5937">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5937.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5937">
+ <name>5937 BØVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5937:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5937"><strong>Meir info om 5937 BØVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5937</styleUrl>
+ <Point>
+ <coordinates>4.92673,60.69832</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5938">
+ <IconStyle id="icon5938">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5938.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5938">
+ <name>5938 SÆBØVÅGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5938:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5938"><strong>Meir info om 5938 SÆBØVÅGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5938</styleUrl>
+ <Point>
+ <coordinates>5.14480,60.61110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5939">
+ <IconStyle id="icon5939">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5939.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5939">
+ <name>5939 SLETTA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5939:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5939"><strong>Meir info om 5939 SLETTA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5939</styleUrl>
+ <Point>
+ <coordinates>5.05100,60.68360</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5951">
+ <IconStyle id="icon5951">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5951.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5951">
+ <name>5951 LINDÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5951:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5951"><strong>Meir info om 5951 LINDÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5951</styleUrl>
+ <Point>
+ <coordinates>5.16174,60.73509</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5954">
+ <IconStyle id="icon5954">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5954.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5954">
+ <name>5954 MONGSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5954:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5954"><strong>Meir info om 5954 MONGSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5954</styleUrl>
+ <Point>
+ <coordinates>5.03640,60.80460</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5955">
+ <IconStyle id="icon5955">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5955.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5955">
+ <name>5955 LINDÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5955:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5955"><strong>Meir info om 5955 LINDÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5955</styleUrl>
+ <Point>
+ <coordinates>5.15570,60.73990</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5956">
+ <IconStyle id="icon5956">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5956.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5956">
+ <name>5956 HUNDVIN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5956:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5956"><strong>Meir info om 5956 HUNDVIN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5956</styleUrl>
+ <Point>
+ <coordinates>5.21790,60.67610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5957">
+ <IconStyle id="icon5957">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5957.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5957">
+ <name>5957 MYKING</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5957:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5957"><strong>Meir info om 5957 MYKING</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5957</styleUrl>
+ <Point>
+ <coordinates>5.32260,60.70110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5991">
+ <IconStyle id="icon5991">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5991.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5991">
+ <name>5991 OSTEREIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5991:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5991"><strong>Meir info om 5991 OSTEREIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5991</styleUrl>
+ <Point>
+ <coordinates>5.47281,60.62591</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5993">
+ <IconStyle id="icon5993">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5993.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5993">
+ <name>5993 OSTEREIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5993:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5993"><strong>Meir info om 5993 OSTEREIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5993</styleUrl>
+ <Point>
+ <coordinates>5.47850,60.62330</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5994">
+ <IconStyle id="icon5994">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5994.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5994">
+ <name>5994 VIKANES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5994:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Alver kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5994"><strong>Meir info om 5994 VIKANES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5994</styleUrl>
+ <Point>
+ <coordinates>5.58740,60.69930</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

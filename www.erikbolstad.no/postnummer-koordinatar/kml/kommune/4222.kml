@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bykle, Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4754">
+ <IconStyle id="icon4754">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4754.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4754">
+ <name>4754 BYKLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4754:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4754"><strong>Meir info om 4754 BYKLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4754</styleUrl>
+ <Point>
+ <coordinates>7.33970,59.34940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4755">
+ <IconStyle id="icon4755">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4755.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4755">
+ <name>4755 HOVDEN I SETESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4755:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4755"><strong>Meir info om 4755 HOVDEN I SETESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4755</styleUrl>
+ <Point>
+ <coordinates>7.35780,59.55810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4756">
+ <IconStyle id="icon4756">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4756.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4756">
+ <name>4756 HOVDEN I SETESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4756:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4756"><strong>Meir info om 4756 HOVDEN I SETESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4756</styleUrl>
+ <Point>
+ <coordinates>7.35621,59.55962</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

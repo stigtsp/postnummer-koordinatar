@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1665 ROLVSØY</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1665">
+ <name>1665 ROLVSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1665:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fredrikstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1665"><strong>Meir info om 1665 ROLVSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.99730,59.26790</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1665 ROLVSØY</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.01614,59.27357 11.01493,59.27350 11.01238,59.27274 11.01184,59.27282 11.01168,59.27403 11.00922,59.27444 11.00603,59.27350 10.99534,59.27079 10.99450,59.26955 10.99394,59.26894 10.99351,59.26835 10.99291,59.26780 10.99292,59.26709 10.99287,59.26656 10.99262,59.26610 10.99212,59.26615 10.99151,59.26629 10.99124,59.26638 10.99111,59.26648 10.99114,59.26693 10.99149,59.26732 10.99177,59.26784 10.99081,59.26800 10.99015,59.26633 10.99001,59.26574 10.98862,59.26511 10.98950,59.26451 10.98948,59.26395 10.99032,59.26311 10.99343,59.26111 10.99403,59.26167 10.99446,59.26231 10.99472,59.26268 10.99630,59.26416 10.99666,59.26481 10.99749,59.26566 10.99755,59.26625 10.99756,59.26679 10.99761,59.26691 10.99971,59.26714 11.00100,59.26742 11.00253,59.26778 11.00336,59.26789 11.00771,59.26808 11.01091,59.26691 11.01246,59.26715 11.01379,59.26711 11.01411,59.26723 11.01485,59.26759 11.01592,59.26805 11.01671,59.26846 11.01733,59.26886 11.01738,59.26923 11.01745,59.26976 11.01787,59.27002 11.01906,59.27044 11.01691,59.27243 11.01838,59.27250 11.01945,59.27258 11.01914,59.27279 11.01628,59.27265 11.01614,59.27357</coordinates></LineString></Placemark>
+ </Document>
+</kml>

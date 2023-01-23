@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Beiarn, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8110">
+ <IconStyle id="icon8110">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8110.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8110">
+ <name>8110 MOLDJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8110:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Beiarn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8110"><strong>Meir info om 8110 MOLDJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8110</styleUrl>
+ <Point>
+ <coordinates>14.75861,66.98876</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8114">
+ <IconStyle id="icon8114">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8114.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8114">
+ <name>8114 TOLLÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8114:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Beiarn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8114"><strong>Meir info om 8114 TOLLÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8114</styleUrl>
+ <Point>
+ <coordinates>14.77010,66.91890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8118">
+ <IconStyle id="icon8118">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8118.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8118">
+ <name>8118 MOLDJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8118:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Beiarn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8118"><strong>Meir info om 8118 MOLDJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8118</styleUrl>
+ <Point>
+ <coordinates>14.75860,66.98880</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8128">
+ <IconStyle id="icon8128">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8128.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8128">
+ <name>8128 YTRE BEIARN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8128:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Beiarn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8128"><strong>Meir info om 8128 YTRE BEIARN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8128</styleUrl>
+ <Point>
+ <coordinates>14.57340,67.07270</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Beiarn (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>14.9785635,66.7746516,0 14.9716542,66.8438817,0 15.0245879,66.9280145,0 15.0245879,66.9280145,0 14.9130014,67.0373077,0 14.7399985,67.0896345,0 14.7154682,67.0825971,0 14.6612435,67.1313144,0 14.5476296,67.1042056,0 14.381082,67.141347,0 14.381082,67.141347,0 14.34235,67.0991821,0 14.4133587,67.0559369,0 14.3436411,67.0292474,0 14.3062001,66.9692148,0 14.3436411,66.9247255,0 14.3294393,66.8395659,0 14.3888284,66.8187378,0 14.3565517,66.7958574,0 14.3565517,66.7958574,0 14.3978659,66.7744831,0 14.3307304,66.7546188,0 14.3410589,66.7398376,0 14.4172319,66.7342286,0 14.3671143,66.6942817,0 14.3671143,66.6942817,0 14.4321841,66.6750684,0 14.616032,66.70327,0 14.6149991,66.7306234,0 14.7017588,66.7563161,0 14.7399744,66.6550215,0 14.7812885,66.6484721,0 14.8370626,66.6709785,0 14.8804424,66.6562493,0 14.9021323,66.6762952,0 14.9930234,66.6832461,0 14.9785635,66.7746516,0 14.9785635,66.7746516,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

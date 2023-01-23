@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Snåsa, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7760">
+ <IconStyle id="icon7760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7760">
+ <name>7760 SNÅSA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Snåsa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7760"><strong>Meir info om 7760 SNÅSA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7760</styleUrl>
+ <Point>
+ <coordinates>12.37520,64.24450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7761">
+ <IconStyle id="icon7761">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7761.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7761">
+ <name>7761 SNÅSA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7761:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Snåsa kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7761"><strong>Meir info om 7761 SNÅSA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7761</styleUrl>
+ <Point>
+ <coordinates>12.38384,64.24671</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

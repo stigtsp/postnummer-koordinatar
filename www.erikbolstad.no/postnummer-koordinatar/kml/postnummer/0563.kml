@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0563 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0563">
+ <name>0563 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0563:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0563"><strong>Meir info om 0563 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.77570,59.92180</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0563 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.77876,59.92433 10.77816,59.92422 10.77672,59.92427 10.77675,59.92473 10.77629,59.92476 10.77624,59.92492 10.77590,59.92494 10.77589,59.92470 10.77577,59.92435 10.77533,59.92368 10.77483,59.92369 10.77471,59.92265 10.77410,59.92264 10.77401,59.92175 10.77360,59.92176 10.77361,59.92156 10.77378,59.92155 10.77377,59.92151 10.77401,59.92151 10.77394,59.91996 10.77541,59.91993 10.77518,59.91898 10.77662,59.91541 10.77846,59.91846 10.77943,59.91881 10.77956,59.91929 10.77926,59.92162 10.78020,59.92167 10.78026,59.92211 10.78106,59.92345 10.77977,59.92352 10.77979,59.92432 10.77876,59.92433</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>6508 KRISTIANSUND N</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer6508">
+ <name>6508 KRISTIANSUND N</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6508:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kristiansund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6508"><strong>Meir info om 6508 KRISTIANSUND N</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>7.72250,63.11080</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 6508 KRISTIANSUND N</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.67876,63.11206 7.68050,63.10930 7.68283,63.10557 7.68979,63.09449 7.69110,63.09504 7.70342,63.10007 7.71460,63.10344 7.72500,63.10600 7.72944,63.10712 7.72904,63.10849 7.72767,63.10982 7.72702,63.11040 7.72754,63.11053 7.72706,63.11182 7.72673,63.11316 7.72621,63.11418 7.72541,63.11458 7.72526,63.11473 7.72533,63.11539 7.72317,63.11510 7.71927,63.11461 7.71494,63.11440 7.71149,63.11373 7.70820,63.11344 7.70144,63.11300 7.69031,63.11241 7.67934,63.11208 7.67876,63.11206</coordinates></LineString></Placemark>
+ </Document>
+</kml>

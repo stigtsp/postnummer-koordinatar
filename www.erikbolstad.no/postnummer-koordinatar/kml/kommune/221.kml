@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Aurskog-Høland, Akershus</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1930">
+ <IconStyle id="icon1930">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1930.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1930">
+ <name>1930 AURSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1930:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1930"><strong>Meir info om 1930 AURSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1930</styleUrl>
+ <Point>
+ <coordinates>11.4492,59.9269</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1931">
+ <IconStyle id="icon1931">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1931.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1931">
+ <name>1931 AURSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1931:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1931"><strong>Meir info om 1931 AURSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1931</styleUrl>
+ <Point>
+ <coordinates>11.44454,59.92828</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1940">
+ <IconStyle id="icon1940">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1940.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1940">
+ <name>1940 BJØRKELANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1940:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1940"><strong>Meir info om 1940 BJØRKELANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1940</styleUrl>
+ <Point>
+ <coordinates>11.5694,59.8848</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1941">
+ <IconStyle id="icon1941">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1941.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1941">
+ <name>1941 BJØRKELANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1941:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1941"><strong>Meir info om 1941 BJØRKELANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1941</styleUrl>
+ <Point>
+ <coordinates>11.57088,59.88380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1954">
+ <IconStyle id="icon1954">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1954.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1954">
+ <name>1954 SETSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1954:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1954"><strong>Meir info om 1954 SETSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1954</styleUrl>
+ <Point>
+ <coordinates>11.7217,59.8266</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1960">
+ <IconStyle id="icon1960">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1960.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1960">
+ <name>1960 LØKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1960:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1960"><strong>Meir info om 1960 LØKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1960</styleUrl>
+ <Point>
+ <coordinates>11.4645,59.7952</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1961">
+ <IconStyle id="icon1961">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1961.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1961">
+ <name>1961 LØKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1961:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1961"><strong>Meir info om 1961 LØKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1961</styleUrl>
+ <Point>
+ <coordinates>11.46387,59.79481</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1963">
+ <IconStyle id="icon1963">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1963.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1963">
+ <name>1963 FOSSER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1963:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1963"><strong>Meir info om 1963 FOSSER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1963</styleUrl>
+ <Point>
+ <coordinates>11.4825,59.8189</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1970">
+ <IconStyle id="icon1970">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1970.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1970">
+ <name>1970 HEMNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1970:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1970"><strong>Meir info om 1970 HEMNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1970</styleUrl>
+ <Point>
+ <coordinates>11.4542,59.7206</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1971">
+ <IconStyle id="icon1971">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1971.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1971">
+ <name>1971 HEMNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1971:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aurskog-Høland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1971"><strong>Meir info om 1971 HEMNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1971</styleUrl>
+ <Point>
+ <coordinates>11.45417,59.72056</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Aurskog-Høland (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.9270184,59.7901152,0 11.9263103,59.7936686,0 11.9204106,59.7965881,0 11.9197251,59.7971912,0 11.9181831,59.7978201,0 11.9160158,59.7983862,0 11.9095557,59.8022856,0 11.9084513,59.8042614,0 11.9059951,59.8069495,0 11.9059505,59.8092315,0 11.904249,59.8117785,0 11.89887,59.8137079,0 11.8952215,59.8158564,0 11.8923948,59.8179541,0 11.890316,59.8210682,0 11.8859075,59.8239818,0 11.881496,59.826241,0 11.8757978,59.8287071,0 11.8702976,59.8284684,0 11.8630552,59.8298201,0 11.8588842,59.8292538,0 11.8537229,59.8300402,0 11.8517282,59.8319406,0 11.847513,59.834632,0 11.8420456,59.8380372,0 11.8413678,59.8395357,0 11.8401965,59.8404422,0 11.8406743,59.8414406,0 11.8406743,59.8414406,0 11.8044745,59.9208939,0 11.8221509,59.9322825,0 11.7963939,59.9666776,0 11.8395629,60.0178484,0 11.8199927,60.0257344,0 11.8199927,60.0257344,0 11.7790259,60.0086518,0 11.7520245,60.0141502,0 11.6650198,60.0056523,0 11.5540138,60.0251443,0 11.4410077,59.9911508,0 11.4410077,59.9911508,0 11.3571301,59.9528964,0 11.3471295,59.9308566,0 11.3391291,59.9248432,0 11.3201281,59.8817152,0 11.3201281,59.8817152,0 11.3541299,59.8706735,0 11.3451294,59.8515928,0 11.3121277,59.845565,0 11.2731256,59.8224484,0 11.3101276,59.7978066,0 11.3444306,59.7561556,0 11.3444306,59.7561556,0 11.3662937,59.7015424,0 11.474943,59.6610759,0 11.5040929,59.6272606,0 11.4769305,59.6272606,0 11.478918,59.6014577,0 11.478918,59.6014577,0 11.4941554,59.5964289,0 11.4941554,59.5964289,0 11.5186678,59.6021282,0 11.5431801,59.6182151,0 11.5325802,59.6413265,0 11.5882298,59.6510353,0 11.6226796,59.6794758,0 11.651167,59.6744586,0 11.651167,59.6744586,0 11.6816418,59.7088947,0 11.7068166,59.7229264,0 11.6796543,59.745632,0 11.7472289,59.762651,0 11.7972939,59.7871472,0 11.9270184,59.7901152,0 11.9270184,59.7901152,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

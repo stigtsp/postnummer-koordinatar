@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1069 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1069">
+ <name>1069 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1069:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1069"><strong>Meir info om 1069 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.87720,59.93130</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1069 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.87589,59.93358 10.87435,59.93309 10.87339,59.93281 10.87231,59.93222 10.87220,59.93076 10.87159,59.93072 10.87126,59.93027 10.87134,59.92997 10.87262,59.92999 10.87338,59.92995 10.87437,59.92989 10.87494,59.92984 10.87530,59.92976 10.87564,59.92961 10.87892,59.92951 10.88113,59.92975 10.88177,59.93113 10.88233,59.93225 10.88122,59.93257 10.88098,59.93298 10.87930,59.93352 10.87770,59.93320 10.87589,59.93358</coordinates></LineString></Placemark>
+ </Document>
+</kml>

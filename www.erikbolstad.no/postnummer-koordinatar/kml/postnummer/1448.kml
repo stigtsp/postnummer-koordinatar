@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1448 DRØBAK</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1448">
+ <name>1448 DRØBAK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1448:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Frogn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1448"><strong>Meir info om 1448 DRØBAK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.65750,59.66790</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1448 DRØBAK</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.64813,59.66960 10.65009,59.66928 10.65177,59.66854 10.65171,59.66808 10.65171,59.66760 10.65363,59.66700 10.65392,59.66669 10.65299,59.66562 10.65277,59.66522 10.65170,59.66368 10.65142,59.66335 10.65154,59.66291 10.65125,59.66269 10.65071,59.66206 10.65023,59.66140 10.65171,59.66146 10.65232,59.66135 10.65279,59.66108 10.65815,59.65874 10.66131,59.65778 10.66491,59.65407 10.66921,59.65365 10.67317,59.65439 10.67479,59.65651 10.67503,59.65735 10.67575,59.65817 10.67530,59.65873 10.67595,59.65977 10.67135,59.66794 10.66408,59.67048 10.66613,59.67419 10.66757,59.67633 10.66301,59.67807 10.66257,59.67813 10.65890,59.67608 10.65680,59.67493 10.65463,59.67411 10.65133,59.67261 10.65054,59.67206 10.64992,59.67144 10.64869,59.67015 10.64836,59.66985 10.64813,59.66960</coordinates></LineString></Placemark>
+ </Document>
+</kml>

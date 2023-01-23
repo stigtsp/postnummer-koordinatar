@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Jevnaker, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2700">
+ <IconStyle id="icon2700">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2700.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2700">
+ <name>2700 JEVNAKER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2700:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jevnaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2700"><strong>Meir info om 2700 JEVNAKER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2700</styleUrl>
+ <Point>
+ <coordinates>10.38503,60.24143</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2701">
+ <IconStyle id="icon2701">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2701.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2701">
+ <name>2701 JEVNAKER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2701:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jevnaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2701"><strong>Meir info om 2701 JEVNAKER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2701</styleUrl>
+ <Point>
+ <coordinates>10.38470,60.23940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2725">
+ <IconStyle id="icon2725">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2725.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2725">
+ <name>2725 OLUM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2725:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jevnaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2725"><strong>Meir info om 2725 OLUM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2725</styleUrl>
+ <Point>
+ <coordinates>10.47130,60.26310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3520">
+ <IconStyle id="icon3520">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3520.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3520">
+ <name>3520 JEVNAKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3520:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jevnaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3520"><strong>Meir info om 3520 JEVNAKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3520</styleUrl>
+ <Point>
+ <coordinates>10.38470,60.23940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3521">
+ <IconStyle id="icon3521">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3521.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3521">
+ <name>3521 JEVNAKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3521:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jevnaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3521"><strong>Meir info om 3521 JEVNAKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3521</styleUrl>
+ <Point>
+ <coordinates>10.48189,60.26645</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Åmot, Hedmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2450">
+ <IconStyle id="icon2450">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2450.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2450">
+ <name>2450 RENA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2450:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmot kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2450"><strong>Meir info om 2450 RENA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2450</styleUrl>
+ <Point>
+ <coordinates>11.3641,61.1348</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2451">
+ <IconStyle id="icon2451">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2451.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2451">
+ <name>2451 RENA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2451:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmot kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2451"><strong>Meir info om 2451 RENA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2451</styleUrl>
+ <Point>
+ <coordinates>11.37358,61.13247</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2460">
+ <IconStyle id="icon2460">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2460.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2460">
+ <name>2460 OSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2460:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmot kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2460"><strong>Meir info om 2460 OSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2460</styleUrl>
+ <Point>
+ <coordinates>11.7645,61.3011</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2461">
+ <IconStyle id="icon2461">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2461.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2461">
+ <name>2461 OSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2461:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmot kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2461"><strong>Meir info om 2461 OSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2461</styleUrl>
+ <Point>
+ <coordinates>11.76448,61.30112</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Åmot (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.7699637,61.5086024,0 11.9162752,61.2722738,0 11.7364145,61.2065935,0 11.7364145,61.2065935,0 11.712681,61.1613554,0 11.608038,61.1316815,0 11.6328502,61.1038043,0 11.5891591,61.1186578,0 11.5460073,61.0881614,0 11.4602432,61.0367463,0 11.298424,61.0166273,0 11.298424,61.0166273,0 11.2358539,61.0584187,0 11.2358539,61.0584187,0 11.1253025,61.1170553,0 10.9837107,61.2377314,0 10.9837107,61.2377314,0 10.956439,61.2586619,0 10.956439,61.2586619,0 11.1510055,61.2567143,0 11.1510055,61.2430935,0 11.1928087,61.2025203,0 11.2777638,61.2125873,0 11.3134989,61.209665,0 11.34384,61.2216773,0 11.3087791,61.2713015,0 11.3748553,61.2894451,0 11.2845063,61.4145435,0 11.2845063,61.4145435,0 11.4827347,61.4406636,0 11.7699637,61.5086024,0 11.7699637,61.5086024,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

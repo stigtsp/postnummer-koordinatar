@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Agdenes, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7156">
+ <IconStyle id="icon7156">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7156.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7156">
+ <name>7156 LEKSA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7156:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Agdenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7156"><strong>Meir info om 7156 LEKSA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7156</styleUrl>
+ <Point>
+ <coordinates>9.3447,63.5827</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7226">
+ <IconStyle id="icon7226">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7226.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7226">
+ <name>7226 LEKSA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7226:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Agdenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7226"><strong>Meir info om 7226 LEKSA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7226</styleUrl>
+ <Point>
+ <coordinates>9.3447,63.5827</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7315">
+ <IconStyle id="icon7315">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7315.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7315">
+ <name>7315 LENSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7315:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Agdenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7315"><strong>Meir info om 7315 LENSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7315</styleUrl>
+ <Point>
+ <coordinates>9.84187,63.49564</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7316">
+ <IconStyle id="icon7316">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7316.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7316">
+ <name>7316 LENSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7316:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Agdenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7316"><strong>Meir info om 7316 LENSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7316</styleUrl>
+ <Point>
+ <coordinates>9.8061,63.5139</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7318">
+ <IconStyle id="icon7318">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7318.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7318">
+ <name>7318 AGDENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7318:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Agdenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7318"><strong>Meir info om 7318 AGDENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7318</styleUrl>
+ <Point>
+ <coordinates>9.6376,63.6195</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7319">
+ <IconStyle id="icon7319">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7319.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7319">
+ <name>7319 AGDENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7319:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Agdenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7319"><strong>Meir info om 7319 AGDENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7319</styleUrl>
+ <Point>
+ <coordinates>9.71242,63.61523</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

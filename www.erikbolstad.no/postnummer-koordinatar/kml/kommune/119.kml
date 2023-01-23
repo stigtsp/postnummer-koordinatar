@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Marker, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1775">
+ <IconStyle id="icon1775">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1775.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1775">
+ <name>1775 OTTEID (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1775:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Marker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1775"><strong>Meir info om 1775 OTTEID (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1775</styleUrl>
+ <Point>
+ <coordinates>11.7145,59.3518</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1870">
+ <IconStyle id="icon1870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1870">
+ <name>1870 ØRJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Marker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1870"><strong>Meir info om 1870 ØRJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1870</styleUrl>
+ <Point>
+ <coordinates>11.6602,59.4802</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1871">
+ <IconStyle id="icon1871">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1871.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1871">
+ <name>1871 ØRJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1871:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Marker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1871"><strong>Meir info om 1871 ØRJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1871</styleUrl>
+ <Point>
+ <coordinates>11.6616,59.48066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1875">
+ <IconStyle id="icon1875">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1875.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1875">
+ <name>1875 OTTEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1875:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Marker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1875"><strong>Meir info om 1875 OTTEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1875</styleUrl>
+ <Point>
+ <coordinates>11.7145,59.3518</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Marker (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.820515,59.3049384,0 11.821502,59.3117289,0 11.8180688,59.332727,0 11.8161805,59.3447638,0 11.8081554,59.3541059,0 11.7898734,59.3712517,0 11.7897876,59.3720826,0 11.7903026,59.3723887,0 11.7916759,59.3732413,0 11.7922767,59.3738972,0 11.7916759,59.3745749,0 11.7799171,59.3864658,0 11.7775567,59.3981559,0 11.7744239,59.4143406,0 11.761206,59.4287059,0 11.7600902,59.4576364,0 11.7572442,59.4679497,0 11.7572442,59.4679497,0 11.7529526,59.4800693,0 11.7503777,59.4846894,0 11.7469883,59.4913065,0 11.741108,59.4976743,0 11.737273,59.5019388,0 11.737273,59.5019388,0 11.7286746,59.5110732,0 11.7263225,59.515833,0 11.7238225,59.5213491,0 11.718784,59.5313728,0 11.7155023,59.5387978,0 11.7117475,59.5463549,0 11.7078145,59.5548794,0 11.7047975,59.5609302,0 11.7036762,59.5633769,0 11.6980109,59.5755035,0 11.6913062,59.5896641,0 11.6948718,59.6003428,0 11.6979014,59.6087501,0 11.7151439,59.6212511,0 11.7151439,59.6212511,0 11.7206151,59.6623576,0 11.651167,59.6744586,0 11.651167,59.6744586,0 11.6226796,59.6794758,0 11.5882298,59.6510353,0 11.5325802,59.6413265,0 11.5431801,59.6182151,0 11.5186678,59.6021282,0 11.4941554,59.5964289,0 11.4941554,59.5964289,0 11.5418329,59.56236,0 11.529868,59.5005875,0 11.5505346,59.4713164,0 11.5505346,59.4713164,0 11.5934831,59.3942728,0 11.5619395,59.337185,0 11.5804306,59.3194295,0 11.5804306,59.3194295,0 11.5922997,59.3167121,0 11.62215,59.3167121,0 11.6435353,59.3383033,0 11.6992261,59.3351223,0 11.7580357,59.3344406,0 11.820515,59.3049384,0 11.820515,59.3049384,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

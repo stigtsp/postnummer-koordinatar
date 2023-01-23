@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2003 LILLESTRØM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2003">
+ <name>2003 LILLESTRØM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2003:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillestrøm kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2003"><strong>Meir info om 2003 LILLESTRØM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.04150,59.96220</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2003 LILLESTRØM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.02439,59.97162 11.02174,59.97053 11.01949,59.97064 11.01408,59.97066 11.01360,59.96943 11.01747,59.96846 11.02213,59.96669 11.02546,59.96481 11.02577,59.96431 11.02618,59.96298 11.02650,59.96118 11.02722,59.95951 11.02885,59.96021 11.02947,59.96048 11.03034,59.95855 11.03123,59.95867 11.03195,59.95872 11.03225,59.95883 11.03287,59.95888 11.03261,59.95924 11.03315,59.95945 11.03343,59.95922 11.03396,59.95929 11.03399,59.95965 11.03466,59.95982 11.03484,59.95959 11.03521,59.95957 11.03520,59.95966 11.03565,59.95965 11.03568,59.96003 11.03634,59.96018 11.03726,59.96012 11.03726,59.96018 11.03736,59.96021 11.03789,59.96032 11.03791,59.96028 11.03830,59.96035 11.03860,59.95998 11.04018,59.95976 11.04050,59.96036 11.04096,59.96091 11.04191,59.96116 11.04512,59.96072 11.04487,59.96002 11.04547,59.95970 11.04598,59.95960 11.04747,59.95948 11.04789,59.96029 11.04876,59.96017 11.04909,59.96021 11.04925,59.96054 11.04980,59.96049 11.04971,59.96029 11.04952,59.95984 11.05014,59.95976 11.05028,59.96009 11.05513,59.95959 11.05643,59.96051 11.05766,59.96088 11.05763,59.96153 11.05992,59.96236 11.05958,59.96305 11.05837,59.96371 11.05479,59.96611 11.05332,59.96627 11.05223,59.96636 11.04769,59.96700 11.04236,59.96870 11.03181,59.96994 11.02918,59.96940 11.02641,59.97024 11.02439,59.97162</coordinates></LineString></Placemark>
+ </Document>
+</kml>

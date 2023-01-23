@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Dyrøy, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9311">
+ <IconStyle id="icon9311">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9311.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9311">
+ <name>9311 BRØSTADBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9311:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Dyrøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9311"><strong>Meir info om 9311 BRØSTADBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9311</styleUrl>
+ <Point>
+ <coordinates>17.6949,69.0887</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9316">
+ <IconStyle id="icon9316">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9316.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9316">
+ <name>9316 BRØSTADBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9316:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Dyrøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9316"><strong>Meir info om 9316 BRØSTADBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9316</styleUrl>
+ <Point>
+ <coordinates>17.69798,69.09120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9340">
+ <IconStyle id="icon9340">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9340.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9340">
+ <name>9340 BRØSTADBOTN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9340:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Dyrøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9340"><strong>Meir info om 9340 BRØSTADBOTN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9340</styleUrl>
+ <Point>
+ <coordinates>17.6949,69.0887</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Dyrøy (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>17.4305759,68.9046487,0 17.6608446,68.9573915,0 17.6358188,68.9750462,0 17.631504,68.9908305,0 17.6824186,69.012786,0 17.7280984,69.0121095,0 17.8075478,69.0109314,0 17.9689212,68.9648268,0 18.0500394,68.983404,0 18.0500394,68.983404,0 17.9243093,69.0433863,0 17.8996539,69.0551351,0 17.9406445,69.1159757,0 17.9042557,69.1370725,0 17.8770012,69.1528596,0 17.8770012,69.1528596,0 17.8337378,69.1472374,0 17.8337378,69.1472374,0 17.3919026,69.112267,0 17.329338,69.089179,0 17.306462,69.0203751,0 17.2424507,68.9756612,0 17.2424507,68.9756612,0 17.3822501,68.9570774,0 17.4305759,68.9046487,0 17.4305759,68.9046487,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

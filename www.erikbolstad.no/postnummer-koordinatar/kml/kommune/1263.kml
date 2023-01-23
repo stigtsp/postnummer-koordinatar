@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lindås, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5100">
+ <IconStyle id="icon5100">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5100.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5100">
+ <name>5100 ISDALSTØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5100:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5100"><strong>Meir info om 5100 ISDALSTØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5100</styleUrl>
+ <Point>
+ <coordinates>5.26942,60.55519</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5102">
+ <IconStyle id="icon5102">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5102.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5102">
+ <name>5102 ALVERSUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5102:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5102"><strong>Meir info om 5102 ALVERSUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5102</styleUrl>
+ <Point>
+ <coordinates>5.25052,60.56145</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5103">
+ <IconStyle id="icon5103">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5103.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5103">
+ <name>5103 SEIM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5103:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5103"><strong>Meir info om 5103 SEIM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5103</styleUrl>
+ <Point>
+ <coordinates>5.272,60.6155</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5140">
+ <IconStyle id="icon5140">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5140.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5140">
+ <name>5140 HUNDVIN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5140:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5140"><strong>Meir info om 5140 HUNDVIN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5140</styleUrl>
+ <Point>
+ <coordinates>5.2179,60.6761</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5149">
+ <IconStyle id="icon5149">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5149.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5149">
+ <name>5149 MYKING (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5149:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5149"><strong>Meir info om 5149 MYKING (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5149</styleUrl>
+ <Point>
+ <coordinates>5.3226,60.7011</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5150">
+ <IconStyle id="icon5150">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5150.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5150">
+ <name>5150 LINDÅS (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5150:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5150"><strong>Meir info om 5150 LINDÅS (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5150</styleUrl>
+ <Point>
+ <coordinates>5.16174,60.73509</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5167">
+ <IconStyle id="icon5167">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5167.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5167">
+ <name>5167 OSTEREIDET (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5167:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5167"><strong>Meir info om 5167 OSTEREIDET (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5167</styleUrl>
+ <Point>
+ <coordinates>5.47281,60.62591</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5175">
+ <IconStyle id="icon5175">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5175.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5175">
+ <name>5175 VIKANES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5175:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5175"><strong>Meir info om 5175 VIKANES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5175</styleUrl>
+ <Point>
+ <coordinates>5.5874,60.6993</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5902">
+ <IconStyle id="icon5902">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5902.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5902">
+ <name>5902 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5902:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5902"><strong>Meir info om 5902 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5902</styleUrl>
+ <Point>
+ <coordinates>5.28694,60.54615</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5903">
+ <IconStyle id="icon5903">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5903.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5903">
+ <name>5903 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5903:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5903"><strong>Meir info om 5903 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5903</styleUrl>
+ <Point>
+ <coordinates>5.2861,60.5473</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5904">
+ <IconStyle id="icon5904">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5904.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5904">
+ <name>5904 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5904:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5904"><strong>Meir info om 5904 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5904</styleUrl>
+ <Point>
+ <coordinates>5.2861,60.5473</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5907">
+ <IconStyle id="icon5907">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5907.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5907">
+ <name>5907 ALVERSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5907:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5907"><strong>Meir info om 5907 ALVERSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5907</styleUrl>
+ <Point>
+ <coordinates>5.25052,60.56145</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5908">
+ <IconStyle id="icon5908">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5908.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5908">
+ <name>5908 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5908:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5908"><strong>Meir info om 5908 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5908</styleUrl>
+ <Point>
+ <coordinates>5.27064,60.55600</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5911">
+ <IconStyle id="icon5911">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5911.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5911">
+ <name>5911 ALVERSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5911:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5911"><strong>Meir info om 5911 ALVERSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5911</styleUrl>
+ <Point>
+ <coordinates>5.2345,60.5714</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5912">
+ <IconStyle id="icon5912">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5912.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5912">
+ <name>5912 SEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5912:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5912"><strong>Meir info om 5912 SEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5912</styleUrl>
+ <Point>
+ <coordinates>5.272,60.6155</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5913">
+ <IconStyle id="icon5913">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5913.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5913">
+ <name>5913 EIKANGERVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5913:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5913"><strong>Meir info om 5913 EIKANGERVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5913</styleUrl>
+ <Point>
+ <coordinates>5.3981,60.6053</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5914">
+ <IconStyle id="icon5914">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5914.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5914">
+ <name>5914 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5914:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5914"><strong>Meir info om 5914 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5914</styleUrl>
+ <Point>
+ <coordinates>5.2937,60.548</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5915">
+ <IconStyle id="icon5915">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5915.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5915">
+ <name>5915 HJELMÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5915:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5915"><strong>Meir info om 5915 HJELMÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5915</styleUrl>
+ <Point>
+ <coordinates>5.3641,60.5931</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5916">
+ <IconStyle id="icon5916">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5916.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5916">
+ <name>5916 ISDALSTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5916:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5916"><strong>Meir info om 5916 ISDALSTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5916</styleUrl>
+ <Point>
+ <coordinates>5.2716,60.5563</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5951">
+ <IconStyle id="icon5951">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5951.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5951">
+ <name>5951 LINDÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5951:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5951"><strong>Meir info om 5951 LINDÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5951</styleUrl>
+ <Point>
+ <coordinates>5.16174,60.73509</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5954">
+ <IconStyle id="icon5954">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5954.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5954">
+ <name>5954 MONGSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5954:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5954"><strong>Meir info om 5954 MONGSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5954</styleUrl>
+ <Point>
+ <coordinates>5.0364,60.8046</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5955">
+ <IconStyle id="icon5955">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5955.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5955">
+ <name>5955 LINDÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5955:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5955"><strong>Meir info om 5955 LINDÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5955</styleUrl>
+ <Point>
+ <coordinates>5.1557,60.7399</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5956">
+ <IconStyle id="icon5956">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5956.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5956">
+ <name>5956 HUNDVIN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5956:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5956"><strong>Meir info om 5956 HUNDVIN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5956</styleUrl>
+ <Point>
+ <coordinates>5.2179,60.6761</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5957">
+ <IconStyle id="icon5957">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5957.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5957">
+ <name>5957 MYKING</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5957:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5957"><strong>Meir info om 5957 MYKING</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5957</styleUrl>
+ <Point>
+ <coordinates>5.3226,60.7011</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5991">
+ <IconStyle id="icon5991">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5991.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5991">
+ <name>5991 OSTEREIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5991:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5991"><strong>Meir info om 5991 OSTEREIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5991</styleUrl>
+ <Point>
+ <coordinates>5.47281,60.62591</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5993">
+ <IconStyle id="icon5993">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5993.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5993">
+ <name>5993 OSTEREIDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5993:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5993"><strong>Meir info om 5993 OSTEREIDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5993</styleUrl>
+ <Point>
+ <coordinates>5.4785,60.6233</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5994">
+ <IconStyle id="icon5994">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5994.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5994">
+ <name>5994 VIKANES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5994:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lindås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5994"><strong>Meir info om 5994 VIKANES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5994</styleUrl>
+ <Point>
+ <coordinates>5.5874,60.6993</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Lindås (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.6499219,60.7171726,0 5.6064131,60.6982882,0 5.6090533,60.6611176,0 5.5734104,60.6294079,0 5.5093852,60.6219613,0 5.3173096,60.5376628,0 5.3173096,60.5376628,0 5.2851804,60.5349363,0 5.2851804,60.5349363,0 5.2776219,60.5390442,0 5.2684718,60.5481934,0 5.218604,60.5634115,0 5.1764036,60.5855461,0 5.1764036,60.5855461,0 5.2080861,60.6003248,0 5.1927729,60.6233868,0 5.0681547,60.6836844,0 5.0581219,60.698935,0 5.0866362,60.6953169,0 5.0375282,60.7330289,0 5.0375282,60.7330289,0 5.0264393,60.7513522,0 5.047033,60.7583175,0 4.9900044,60.7920907,0 5.0190467,60.7853905,0 5.0459769,60.7969861,0 4.9525133,60.8266005,0 4.9509292,60.8402396,0 4.9509292,60.8402396,0 5.0491452,60.8286596,0 5.1119823,60.8057445,0 5.1119823,60.8057445,0 5.4087425,60.7038447,0 5.4932294,60.7229594,0 5.4773881,60.7766265,0 5.5032622,60.792606,0 5.5650433,60.7884831,0 5.7038705,60.8518987,0 5.7038705,60.8518987,0 5.7091509,60.8062142,0 5.6820887,60.7897905,0 5.6787884,60.7814144,0 5.6504061,60.7611093,0 5.6763241,60.7378281,0 5.6763241,60.7378281,0 5.6499219,60.7171726,0 5.6499219,60.7171726,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0181 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0181">
+ <name>0181 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0181:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0181"><strong>Meir info om 0181 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.75010,59.91480</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0181 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.74861,59.91550 10.74773,59.91487 10.74816,59.91471 10.74721,59.91412 10.74721,59.91405 10.74622,59.91349 10.74674,59.91323 10.74731,59.91308 10.74746,59.91326 10.74811,59.91348 10.74865,59.91363 10.74967,59.91374 10.75055,59.91444 10.75136,59.91428 10.75208,59.91441 10.75232,59.91426 10.75255,59.91438 10.75251,59.91449 10.75216,59.91477 10.75288,59.91500 10.75231,59.91545 10.75183,59.91578 10.75150,59.91603 10.75174,59.91617 10.75142,59.91620 10.75136,59.91617 10.75117,59.91627 10.75096,59.91615 10.75132,59.91599 10.75115,59.91589 10.75087,59.91602 10.75065,59.91612 10.75044,59.91602 10.75009,59.91583 10.74978,59.91557 10.74938,59.91573 10.74931,59.91568 10.74924,59.91564 10.74915,59.91558 10.74908,59.91560 10.74878,59.91566 10.74861,59.91550</coordinates></LineString></Placemark>
+ </Document>
+</kml>

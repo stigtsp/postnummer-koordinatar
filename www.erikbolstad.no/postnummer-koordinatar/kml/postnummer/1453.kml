@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1453 BJØRNEMYR</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1453">
+ <name>1453 BJØRNEMYR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1453:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1453"><strong>Meir info om 1453 BJØRNEMYR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.63550,59.82740</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1453 BJØRNEMYR</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.60592,59.84241 10.59767,59.83576 10.57894,59.83033 10.56310,59.82574 10.56099,59.82135 10.55691,59.81286 10.56191,59.81253 10.59390,59.81043 10.61189,59.81062 10.63043,59.81132 10.63107,59.81136 10.64225,59.81294 10.65344,59.81480 10.65479,59.81700 10.65239,59.81842 10.65171,59.82214 10.65153,59.83468 10.65141,59.83783 10.64894,59.83914 10.64667,59.83969 10.64697,59.84011 10.64787,59.84089 10.64729,59.84102 10.64514,59.84041 10.63345,59.83964 10.62594,59.84022 10.62278,59.84059 10.61410,59.84128 10.60592,59.84241</coordinates></LineString></Placemark>
+ </Document>
+</kml>

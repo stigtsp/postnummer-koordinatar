@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Røyrvik, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7894">
+ <IconStyle id="icon7894">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7894.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7894">
+ <name>7894 LIMINGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7894:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Røyrvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7894"><strong>Meir info om 7894 LIMINGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7894</styleUrl>
+ <Point>
+ <coordinates>13.56121,64.88371</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7897">
+ <IconStyle id="icon7897">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7897.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7897">
+ <name>7897 LIMINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7897:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Røyrvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7897"><strong>Meir info om 7897 LIMINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7897</styleUrl>
+ <Point>
+ <coordinates>13.56121,64.88371</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7898">
+ <IconStyle id="icon7898">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7898.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7898">
+ <name>7898 LIMINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7898:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Røyrvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7898"><strong>Meir info om 7898 LIMINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7898</styleUrl>
+ <Point>
+ <coordinates>13.56121,64.88371</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

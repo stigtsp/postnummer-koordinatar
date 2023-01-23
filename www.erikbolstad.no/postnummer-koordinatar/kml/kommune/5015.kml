@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ørland, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7127">
+ <IconStyle id="icon7127">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7127.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7127">
+ <name>7127 OPPHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7127:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7127"><strong>Meir info om 7127 OPPHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7127</styleUrl>
+ <Point>
+ <coordinates>9.68726,63.72698</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7128">
+ <IconStyle id="icon7128">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7128.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7128">
+ <name>7128 UTHAUG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7128:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7128"><strong>Meir info om 7128 UTHAUG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7128</styleUrl>
+ <Point>
+ <coordinates>9.59894,63.72610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7129">
+ <IconStyle id="icon7129">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7129.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7129">
+ <name>7129 BREKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7129:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7129"><strong>Meir info om 7129 BREKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7129</styleUrl>
+ <Point>
+ <coordinates>9.66610,63.68888</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7130">
+ <IconStyle id="icon7130">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7130.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7130">
+ <name>7130 BREKSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7130:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7130"><strong>Meir info om 7130 BREKSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7130</styleUrl>
+ <Point>
+ <coordinates>9.6601,63.6888</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7140">
+ <IconStyle id="icon7140">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7140.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7140">
+ <name>7140 OPPHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7140:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7140"><strong>Meir info om 7140 OPPHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7140</styleUrl>
+ <Point>
+ <coordinates>9.6899,63.7272</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7142">
+ <IconStyle id="icon7142">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7142.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7142">
+ <name>7142 UTHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7142:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7142"><strong>Meir info om 7142 UTHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7142</styleUrl>
+ <Point>
+ <coordinates>9.5987,63.7257</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7150">
+ <IconStyle id="icon7150">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7150.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7150">
+ <name>7150 STORFOSNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7150:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7150"><strong>Meir info om 7150 STORFOSNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7150</styleUrl>
+ <Point>
+ <coordinates>9.41032,63.65918</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7151">
+ <IconStyle id="icon7151">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7151.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7151">
+ <name>7151 STORFOSNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7151:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7151"><strong>Meir info om 7151 STORFOSNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7151</styleUrl>
+ <Point>
+ <coordinates>9.41032,63.65918</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7152">
+ <IconStyle id="icon7152">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7152.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7152">
+ <name>7152 KRÅKVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7152:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7152"><strong>Meir info om 7152 KRÅKVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7152</styleUrl>
+ <Point>
+ <coordinates>9.3361,63.6395</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7153">
+ <IconStyle id="icon7153">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7153.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7153">
+ <name>7153 GARTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7153:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ørland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7153"><strong>Meir info om 7153 GARTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7153</styleUrl>
+ <Point>
+ <coordinates>9.5215,63.6426</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Balestrand, Sogn og Fjordane</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5850">
+ <IconStyle id="icon5850">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5850.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5850">
+ <name>5850 BALESTRAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5850:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Balestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5850"><strong>Meir info om 5850 BALESTRAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5850</styleUrl>
+ <Point>
+ <coordinates>6.53726,61.20999</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6898">
+ <IconStyle id="icon6898">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6898.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6898">
+ <name>6898 BALESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6898:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Balestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6898"><strong>Meir info om 6898 BALESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6898</styleUrl>
+ <Point>
+ <coordinates>6.53726,61.20999</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6899">
+ <IconStyle id="icon6899">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6899.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6899">
+ <name>6899 BALESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6899:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Balestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6899"><strong>Meir info om 6899 BALESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6899</styleUrl>
+ <Point>
+ <coordinates>6.5363,61.2103</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6994">
+ <IconStyle id="icon6994">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6994.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6994">
+ <name>6994 NESSANE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6994:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Balestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6994"><strong>Meir info om 6994 NESSANE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6994</styleUrl>
+ <Point>
+ <coordinates>6.2751,61.1348</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Balestrand (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.3370836,61.299596,0 6.341832,61.2791662,0 6.4090743,61.2549222,0 6.3900008,61.2406157,0 6.3130601,61.2417045,0 6.1986188,61.2121389,0 6.1310533,61.1675825,0 6.1320231,61.1362307,0 6.1931231,61.1384154,0 6.1931231,61.1384154,0 6.3696341,61.0900042,0 6.4834287,61.0985987,0 6.5681282,61.1263976,0 6.5884948,61.1894012,0 6.5884948,61.1894012,0 6.5817059,61.2182099,0 6.6984101,61.2580315,0 6.6392498,61.2485473,0 6.6179133,61.2602077,0 6.6408662,61.2741946,0 6.6408662,61.2741946,0 6.6069218,61.2919023,0 6.5969001,61.3516308,0 6.6217927,61.3674359,0 6.6023959,61.3925217,0 6.63828,61.4118643,0 6.6182366,61.4274844,0 6.5620651,61.4298456,0 6.5620651,61.4298456,0 6.4841907,61.3840818,0 6.4105914,61.3407686,0 6.4105914,61.3407686,0 6.4096981,61.3235635,0 6.3370836,61.299596,0 6.3370836,61.299596,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

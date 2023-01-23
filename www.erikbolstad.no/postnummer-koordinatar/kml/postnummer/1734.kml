@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1734 HAFSLUNDSØY</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1734">
+ <name>1734 HAFSLUNDSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1734:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sarpsborg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1734"><strong>Meir info om 1734 HAFSLUNDSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.14830,59.29190</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1734 HAFSLUNDSØY</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.13975,59.30716 11.13991,59.30649 11.14053,59.30446 11.14102,59.30076 11.14098,59.29894 11.14044,59.29748 11.13935,59.29548 11.13799,59.29294 11.13673,59.29086 11.13642,59.29015 11.13600,59.28920 11.13568,59.28845 11.13305,59.28535 11.13147,59.28288 11.13142,59.28204 11.13147,59.28195 11.13205,59.28073 11.13333,59.27962 11.13409,59.27850 11.13395,59.27832 11.13346,59.27767 11.13281,59.27709 11.13235,59.27670 11.13341,59.27606 11.13558,59.27547 11.13733,59.27490 11.14077,59.27505 11.14024,59.27628 11.14021,59.27683 11.14031,59.27727 11.14031,59.27751 11.14031,59.27772 11.14077,59.27805 11.14455,59.28090 11.14601,59.28213 11.14760,59.28302 11.14867,59.28335 11.14990,59.28375 11.15119,59.28437 11.15210,59.28480 11.15274,59.28509 11.15408,59.28535 11.15593,59.28548 11.15736,59.28571 11.15862,59.28625 11.15995,59.28690 11.16175,59.28773 11.16287,59.28839 11.16302,59.28834 11.16449,59.28790 11.16604,59.28724 11.16687,59.28630 11.16773,59.28505 11.16863,59.28379 11.16991,59.28363 11.17091,59.28386 11.17644,59.29332 11.17722,59.30499 11.17330,59.31197 11.16778,59.31988 11.16329,59.31911 11.16124,59.31811 11.16088,59.31771 11.16097,59.31743 11.16059,59.31714 11.16004,59.31727 11.15876,59.31732 11.15533,59.31736 11.14872,59.31826 11.14793,59.31746 11.14740,59.31632 11.14738,59.31475 11.14773,59.31256 11.14796,59.31191 11.14889,59.31055 11.13975,59.30716</coordinates></LineString></Placemark>
+ </Document>
+</kml>

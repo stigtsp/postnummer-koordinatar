@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Larvik, Vestfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3250">
+ <IconStyle id="icon3250">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3250.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3250">
+ <name>3250 LARVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3250:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3250"><strong>Meir info om 3250 LARVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3250</styleUrl>
+ <Point>
+ <coordinates>10.02925,59.05362</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3251">
+ <IconStyle id="icon3251">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3251.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3251">
+ <name>3251 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3251:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3251"><strong>Meir info om 3251 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3251</styleUrl>
+ <Point>
+ <coordinates>10.02925,59.05362</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3252">
+ <IconStyle id="icon3252">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3252.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3252">
+ <name>3252 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3252:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3252"><strong>Meir info om 3252 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3252</styleUrl>
+ <Point>
+ <coordinates>10.0473,59.06868</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3253">
+ <IconStyle id="icon3253">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3253.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3253">
+ <name>3253 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3253:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3253"><strong>Meir info om 3253 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3253</styleUrl>
+ <Point>
+ <coordinates>10.06768,59.04081</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3254">
+ <IconStyle id="icon3254">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3254.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3254">
+ <name>3254 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3254:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3254"><strong>Meir info om 3254 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3254</styleUrl>
+ <Point>
+ <coordinates>10.04658,59.04733</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3255">
+ <IconStyle id="icon3255">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3255.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3255">
+ <name>3255 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3255:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3255"><strong>Meir info om 3255 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3255</styleUrl>
+ <Point>
+ <coordinates>10.064,59.0793</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3256">
+ <IconStyle id="icon3256">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3256.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3256">
+ <name>3256 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3256:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3256"><strong>Meir info om 3256 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3256</styleUrl>
+ <Point>
+ <coordinates>10.0274,59.0542</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3257">
+ <IconStyle id="icon3257">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3257.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3257">
+ <name>3257 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3257:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3257"><strong>Meir info om 3257 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3257</styleUrl>
+ <Point>
+ <coordinates>10.0377,59.054</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3258">
+ <IconStyle id="icon3258">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3258.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3258">
+ <name>3258 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3258:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3258"><strong>Meir info om 3258 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3258</styleUrl>
+ <Point>
+ <coordinates>10.0526,59.0551</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3259">
+ <IconStyle id="icon3259">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3259.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3259">
+ <name>3259 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3259:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3259"><strong>Meir info om 3259 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3259</styleUrl>
+ <Point>
+ <coordinates>10.0602,59.0591</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3260">
+ <IconStyle id="icon3260">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3260.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3260">
+ <name>3260 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3260:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3260"><strong>Meir info om 3260 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3260</styleUrl>
+ <Point>
+ <coordinates>10.0706,59.0309</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3261">
+ <IconStyle id="icon3261">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3261.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3261">
+ <name>3261 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3261:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3261"><strong>Meir info om 3261 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3261</styleUrl>
+ <Point>
+ <coordinates>10.0879,59.0404</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3262">
+ <IconStyle id="icon3262">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3262.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3262">
+ <name>3262 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3262:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3262"><strong>Meir info om 3262 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3262</styleUrl>
+ <Point>
+ <coordinates>10.0521,59.0492</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3263">
+ <IconStyle id="icon3263">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3263.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3263">
+ <name>3263 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3263:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3263"><strong>Meir info om 3263 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3263</styleUrl>
+ <Point>
+ <coordinates>10.0441,59.0459</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3264">
+ <IconStyle id="icon3264">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3264.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3264">
+ <name>3264 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3264:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3264"><strong>Meir info om 3264 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3264</styleUrl>
+ <Point>
+ <coordinates>10.0141,59.0491</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3265">
+ <IconStyle id="icon3265">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3265.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3265">
+ <name>3265 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3265:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3265"><strong>Meir info om 3265 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3265</styleUrl>
+ <Point>
+ <coordinates>9.9929,59.0358</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3267">
+ <IconStyle id="icon3267">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3267.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3267">
+ <name>3267 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3267:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3267"><strong>Meir info om 3267 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3267</styleUrl>
+ <Point>
+ <coordinates>9.9659,59.0218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3268">
+ <IconStyle id="icon3268">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3268.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3268">
+ <name>3268 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3268:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3268"><strong>Meir info om 3268 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3268</styleUrl>
+ <Point>
+ <coordinates>9.9727,59.0657</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3269">
+ <IconStyle id="icon3269">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3269.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3269">
+ <name>3269 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3269:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3269"><strong>Meir info om 3269 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3269</styleUrl>
+ <Point>
+ <coordinates>10.0394,59.0631</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3270">
+ <IconStyle id="icon3270">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3270.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3270">
+ <name>3270 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3270:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3270"><strong>Meir info om 3270 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3270</styleUrl>
+ <Point>
+ <coordinates>10.0913,59.1</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3271">
+ <IconStyle id="icon3271">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3271.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3271">
+ <name>3271 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3271:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3271"><strong>Meir info om 3271 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3271</styleUrl>
+ <Point>
+ <coordinates>10.0511,59.0774</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3272">
+ <IconStyle id="icon3272">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3272.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3272">
+ <name>3272 KVELDE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3272:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3272"><strong>Meir info om 3272 KVELDE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3272</styleUrl>
+ <Point>
+ <coordinates>9.9722,59.1919</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3273">
+ <IconStyle id="icon3273">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3273.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3273">
+ <name>3273 STEINSHOLT (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3273:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3273"><strong>Meir info om 3273 STEINSHOLT (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3273</styleUrl>
+ <Point>
+ <coordinates>9.8825,59.311</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3274">
+ <IconStyle id="icon3274">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3274.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3274">
+ <name>3274 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3274:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3274"><strong>Meir info om 3274 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3274</styleUrl>
+ <Point>
+ <coordinates>10.0551,59.064</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3275">
+ <IconStyle id="icon3275">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3275.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3275">
+ <name>3275 SVARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3275:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3275"><strong>Meir info om 3275 SVARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3275</styleUrl>
+ <Point>
+ <coordinates>9.9699,59.399</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3276">
+ <IconStyle id="icon3276">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3276.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3276">
+ <name>3276 SVARSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3276:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3276"><strong>Meir info om 3276 SVARSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3276</styleUrl>
+ <Point>
+ <coordinates>9.96239,59.40112</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3277">
+ <IconStyle id="icon3277">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3277.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3277">
+ <name>3277 STEINSHOLT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3277:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3277"><strong>Meir info om 3277 STEINSHOLT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3277</styleUrl>
+ <Point>
+ <coordinates>9.8825,59.311</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3280">
+ <IconStyle id="icon3280">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3280.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3280">
+ <name>3280 TJODALYNG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3280:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3280"><strong>Meir info om 3280 TJODALYNG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3280</styleUrl>
+ <Point>
+ <coordinates>10.127,59.0558</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3281">
+ <IconStyle id="icon3281">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3281.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3281">
+ <name>3281 TJODALYNG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3281:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3281"><strong>Meir info om 3281 TJODALYNG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3281</styleUrl>
+ <Point>
+ <coordinates>10.15155,59.06274</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3282">
+ <IconStyle id="icon3282">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3282.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3282">
+ <name>3282 KVELDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3282:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3282"><strong>Meir info om 3282 KVELDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3282</styleUrl>
+ <Point>
+ <coordinates>9.9722,59.1919</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3284">
+ <IconStyle id="icon3284">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3284.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3284">
+ <name>3284 KVELDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3284:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3284"><strong>Meir info om 3284 KVELDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3284</styleUrl>
+ <Point>
+ <coordinates>9.96447,59.19027</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3285">
+ <IconStyle id="icon3285">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3285.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3285">
+ <name>3285 LARVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3285:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3285"><strong>Meir info om 3285 LARVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3285</styleUrl>
+ <Point>
+ <coordinates>10.0215,59.04999</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3290">
+ <IconStyle id="icon3290">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3290.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3290">
+ <name>3290 STAVERN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3290:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3290"><strong>Meir info om 3290 STAVERN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3290</styleUrl>
+ <Point>
+ <coordinates>10.0386,59.0011</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3291">
+ <IconStyle id="icon3291">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3291.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3291">
+ <name>3291 STAVERN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3291:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3291"><strong>Meir info om 3291 STAVERN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3291</styleUrl>
+ <Point>
+ <coordinates>10.03429,59.00020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3292">
+ <IconStyle id="icon3292">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3292.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3292">
+ <name>3292 STAVERN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3292:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3292"><strong>Meir info om 3292 STAVERN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3292</styleUrl>
+ <Point>
+ <coordinates>10.0226,59.0074</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3294">
+ <IconStyle id="icon3294">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3294.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3294">
+ <name>3294 STAVERN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3294:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3294"><strong>Meir info om 3294 STAVERN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3294</styleUrl>
+ <Point>
+ <coordinates>9.9628,58.9802</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3295">
+ <IconStyle id="icon3295">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3295.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3295">
+ <name>3295 HELGEROA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3295:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3295"><strong>Meir info om 3295 HELGEROA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3295</styleUrl>
+ <Point>
+ <coordinates>9.8635,58.9934</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3296">
+ <IconStyle id="icon3296">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3296.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3296">
+ <name>3296 NEVLUNGHAVN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3296:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3296"><strong>Meir info om 3296 NEVLUNGHAVN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3296</styleUrl>
+ <Point>
+ <coordinates>9.8665,58.9683</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3297">
+ <IconStyle id="icon3297">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3297.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3297">
+ <name>3297 HELGEROA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3297:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Larvik kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3297"><strong>Meir info om 3297 HELGEROA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3297</styleUrl>
+ <Point>
+ <coordinates>9.87147,58.98862</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

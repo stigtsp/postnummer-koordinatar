@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Skodje, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6260">
+ <IconStyle id="icon6260">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6260.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6260">
+ <name>6260 SKODJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6260:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skodje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6260"><strong>Meir info om 6260 SKODJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6260</styleUrl>
+ <Point>
+ <coordinates>6.7034,62.5021</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6263">
+ <IconStyle id="icon6263">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6263.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6263">
+ <name>6263 SKODJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6263:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skodje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6263"><strong>Meir info om 6263 SKODJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6263</styleUrl>
+ <Point>
+ <coordinates>6.6836,62.5051</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Skodje (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.5722764,62.435256,0 6.5160961,62.4823393,0 6.4447002,62.4758495,0 6.4347516,62.5080145,0 6.459968,62.5272823,0 6.459968,62.5272823,0 6.6443098,62.5340309,0 6.6882007,62.5576389,0 6.8403558,62.5630324,0 6.8403558,62.5630324,0 6.8566895,62.546081,0 6.8566895,62.546081,0 6.7923161,62.5217888,0 6.7712485,62.4896387,0 6.6846371,62.479365,0 6.6910745,62.4639478,0 6.6910745,62.4639478,0 6.5722764,62.435256,0 6.5722764,62.435256,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Holtålen, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7380">
+ <IconStyle id="icon7380">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7380.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7380">
+ <name>7380 ÅLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7380:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Holtålen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7380"><strong>Meir info om 7380 ÅLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7380</styleUrl>
+ <Point>
+ <coordinates>11.30130,62.84190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7383">
+ <IconStyle id="icon7383">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7383.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7383">
+ <name>7383 HALTDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7383:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Holtålen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7383"><strong>Meir info om 7383 HALTDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7383</styleUrl>
+ <Point>
+ <coordinates>11.15315,62.92479</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7384">
+ <IconStyle id="icon7384">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7384.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7384">
+ <name>7384 ÅLEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7384:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Holtålen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7384"><strong>Meir info om 7384 ÅLEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7384</styleUrl>
+ <Point>
+ <coordinates>11.30228,62.84186</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

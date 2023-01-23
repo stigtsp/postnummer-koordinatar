@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Berlevåg, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9980">
+ <IconStyle id="icon9980">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9980.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9980">
+ <name>9980 BERLEVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9980:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Berlevåg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9980"><strong>Meir info om 9980 BERLEVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9980</styleUrl>
+ <Point>
+ <coordinates>29.0864,70.8578</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9981">
+ <IconStyle id="icon9981">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9981.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9981">
+ <name>9981 BERLEVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9981:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Berlevåg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9981"><strong>Meir info om 9981 BERLEVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9981</styleUrl>
+ <Point>
+ <coordinates>29.0866,70.8568</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9982">
+ <IconStyle id="icon9982">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9982.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9982">
+ <name>9982 KONGSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9982:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Berlevåg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9982"><strong>Meir info om 9982 KONGSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9982</styleUrl>
+ <Point>
+ <coordinates>29.3196,70.7205</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Berlevåg (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>29.2272093,70.4789073,0 29.2147321,70.499824,0 29.5114615,70.6059338,0 29.5224515,70.6375369,0 29.7642311,70.7362798,0 29.7788844,70.7640581,0 30.0573153,70.9420181,0 30.0573153,70.9420181,0 29.5550761,71.0276373,0 29.1612281,71.122232,0 29.1612281,71.122232,0 28.386476,70.7639422,0 28.386476,70.7639422,0 28.4157826,70.6962402,0 28.5897906,70.6556304,0 28.6007805,70.6325614,0 28.7216703,70.5881705,0 28.7949368,70.508876,0 29.0202314,70.5125425,0 29.1228045,70.4789073,0 29.2272093,70.4789073,0 29.2272093,70.4789073,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

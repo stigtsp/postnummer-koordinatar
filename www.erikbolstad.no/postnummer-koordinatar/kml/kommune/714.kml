@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hof, Vestfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hof (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.061077,59.4559731,0 10.0600372,59.4758482,0 10.0600372,59.4758482,0 9.9148253,59.5858794,0 9.9148253,59.5858794,0 9.9783555,59.6196951,0 9.9989822,59.6665007,0 9.9989822,59.6665007,0 10.0082642,59.6670215,0 10.0082642,59.6670215,0 10.0371415,59.6425327,0 10.0371415,59.6425327,0 10.1417188,59.5775247,0 10.1417188,59.5775247,0 10.1243924,59.5595548,0 10.13045,59.5504178,0 10.1309967,59.5495931,0 10.1327999,59.5468726,0 10.1330625,59.5464765,0 10.1598703,59.5060065,0 10.1511464,59.5016735,0 10.1495848,59.5008978,0 10.1210921,59.4867418,0 10.1407696,59.4648866,0 10.1409435,59.4646934,0 10.1409435,59.4646934,0 10.1482041,59.4482571,0 10.061077,59.4559731,0 10.061077,59.4559731,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

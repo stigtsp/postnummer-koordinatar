@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Trøgstad, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1860">
+ <IconStyle id="icon1860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1860">
+ <name>1860 TRØGSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1860:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trøgstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1860"><strong>Meir info om 1860 TRØGSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1860</styleUrl>
+ <Point>
+ <coordinates>11.3159,59.6407</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1861">
+ <IconStyle id="icon1861">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1861.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1861">
+ <name>1861 TRØGSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1861:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trøgstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1861"><strong>Meir info om 1861 TRØGSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1861</styleUrl>
+ <Point>
+ <coordinates>11.31641,59.64082</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1866">
+ <IconStyle id="icon1866">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1866.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1866">
+ <name>1866 BÅSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1866:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trøgstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1866"><strong>Meir info om 1866 BÅSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1866</styleUrl>
+ <Point>
+ <coordinates>11.2981,59.6997</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1867">
+ <IconStyle id="icon1867">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1867.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1867">
+ <name>1867 BÅSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1867:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Trøgstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1867"><strong>Meir info om 1867 BÅSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1867</styleUrl>
+ <Point>
+ <coordinates>11.29447,59.70498</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Trøgstad (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.478918,59.6014577,0 11.4468695,59.6032669,0 11.3989754,59.6089022,0 11.3984185,59.5914297,0 11.3761422,59.5979125,0 11.3070855,59.5728201,0 11.2681019,59.5919935,0 11.2926059,59.5973488,0 11.2842523,59.6058029,0 11.249167,59.6035487,0 11.249167,59.6035487,0 11.2163094,59.6317153,0 11.2140818,59.6412866,0 11.1873502,59.6576078,0 11.1873502,59.6576078,0 11.243041,59.6654842,0 11.230482,59.685161,0 11.230482,59.685161,0 11.238432,59.762651,0 11.238432,59.762651,0 11.2536694,59.7723247,0 11.2821567,59.7646527,0 11.2924495,59.7602407,0 11.3113735,59.7595886,0 11.3139631,59.7576824,0 11.3276083,59.7547727,0 11.3312935,59.7558263,0 11.3444306,59.7561556,0 11.3444306,59.7561556,0 11.3662937,59.7015424,0 11.474943,59.6610759,0 11.5040929,59.6272606,0 11.4769305,59.6272606,0 11.478918,59.6014577,0 11.478918,59.6014577,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

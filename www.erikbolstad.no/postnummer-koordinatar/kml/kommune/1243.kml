@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Os, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5200">
+ <IconStyle id="icon5200">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5200.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5200">
+ <name>5200 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5200:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5200"><strong>Meir info om 5200 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5200</styleUrl>
+ <Point>
+ <coordinates>5.4699,60.185</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5201">
+ <IconStyle id="icon5201">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5201.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5201">
+ <name>5201 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5201:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5201"><strong>Meir info om 5201 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5201</styleUrl>
+ <Point>
+ <coordinates>5.4713, 60.1854</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5202">
+ <IconStyle id="icon5202">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5202.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5202">
+ <name>5202 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5202:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5202"><strong>Meir info om 5202 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5202</styleUrl>
+ <Point>
+ <coordinates>5.4713, 60.1854</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5203">
+ <IconStyle id="icon5203">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5203.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5203">
+ <name>5203 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5203:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5203"><strong>Meir info om 5203 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5203</styleUrl>
+ <Point>
+ <coordinates>5.4713, 60.1854</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5206">
+ <IconStyle id="icon5206">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5206.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5206">
+ <name>5206 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5206:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5206"><strong>Meir info om 5206 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5206</styleUrl>
+ <Point>
+ <coordinates>5.4474,60.2042</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5207">
+ <IconStyle id="icon5207">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5207.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5207">
+ <name>5207 SØFTELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5207:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5207"><strong>Meir info om 5207 SØFTELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5207</styleUrl>
+ <Point>
+ <coordinates>5.44203,60.23823</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5208">
+ <IconStyle id="icon5208">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5208.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5208">
+ <name>5208 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5208:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5208"><strong>Meir info om 5208 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5208</styleUrl>
+ <Point>
+ <coordinates>5.4339,60.147</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5209">
+ <IconStyle id="icon5209">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5209.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5209">
+ <name>5209 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5209:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5209"><strong>Meir info om 5209 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5209</styleUrl>
+ <Point>
+ <coordinates>5.4508,60.1729</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5210">
+ <IconStyle id="icon5210">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5210.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5210">
+ <name>5210 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5210:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5210"><strong>Meir info om 5210 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5210</styleUrl>
+ <Point>
+ <coordinates>5.4531,60.2022</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5211">
+ <IconStyle id="icon5211">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5211.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5211">
+ <name>5211 OS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5211:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5211"><strong>Meir info om 5211 OS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5211</styleUrl>
+ <Point>
+ <coordinates>5.5079,60.2117</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5212">
+ <IconStyle id="icon5212">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5212.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5212">
+ <name>5212 SØFTELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5212:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5212"><strong>Meir info om 5212 SØFTELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5212</styleUrl>
+ <Point>
+ <coordinates>5.4528,60.2380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5213">
+ <IconStyle id="icon5213">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5213.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5213">
+ <name>5213 LEPSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5213:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5213"><strong>Meir info om 5213 LEPSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5213</styleUrl>
+ <Point>
+ <coordinates>5.37834,60.14555</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5214">
+ <IconStyle id="icon5214">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5214.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5214">
+ <name>5214 LYSEKLOSTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5214:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5214"><strong>Meir info om 5214 LYSEKLOSTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5214</styleUrl>
+ <Point>
+ <coordinates>5.38334,60.21774</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5215">
+ <IconStyle id="icon5215">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5215.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5215">
+ <name>5215 LYSEKLOSTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5215:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5215"><strong>Meir info om 5215 LYSEKLOSTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5215</styleUrl>
+ <Point>
+ <coordinates>5.38334,60.21774</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5216">
+ <IconStyle id="icon5216">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5216.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5216">
+ <name>5216 LEPSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5216:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5216"><strong>Meir info om 5216 LEPSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5216</styleUrl>
+ <Point>
+ <coordinates>5.37834,60.14555</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5217">
+ <IconStyle id="icon5217">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5217.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5217">
+ <name>5217 HAGAVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5217:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5217"><strong>Meir info om 5217 HAGAVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5217</styleUrl>
+ <Point>
+ <coordinates>5.4006,60.1804</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5218">
+ <IconStyle id="icon5218">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5218.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5218">
+ <name>5218 NORDSTRØNO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5218:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5218"><strong>Meir info om 5218 NORDSTRØNO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5218</styleUrl>
+ <Point>
+ <coordinates>5.3412,60.1663</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5219">
+ <IconStyle id="icon5219">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5219.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5219">
+ <name>5219 SKORPO FERIEHEIM (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5219:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5219"><strong>Meir info om 5219 SKORPO FERIEHEIM (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5219</styleUrl>
+ <Point>
+ <coordinates>5.3085,60.1714</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5220">
+ <IconStyle id="icon5220">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5220.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5220">
+ <name>5220 HAGAVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5220:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Os kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5220"><strong>Meir info om 5220 HAGAVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5220</styleUrl>
+ <Point>
+ <coordinates>5.4006,60.1804</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Os (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.6287061,60.2872198,0 5.5755663,60.258309,0 5.5844146,60.2379668,0 5.5181416,60.1254243,0 5.5181416,60.1254243,0 5.485139,60.1119417,0 5.3306864,60.1086525,0 5.3306864,60.1086525,0 5.2524967,60.1768975,0 5.2524967,60.1768975,0 5.4916012,60.2901159,0 5.5204786,60.2819366,0 5.5765831,60.3293477,0 5.5765831,60.3293477,0 5.5709514,60.291309,0 5.6287061,60.2872198,0 5.6287061,60.2872198,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

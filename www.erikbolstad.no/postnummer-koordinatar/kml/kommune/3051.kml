@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Rollag, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3626">
+ <IconStyle id="icon3626">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3626.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3626">
+ <name>3626 ROLLAG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3626:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rollag kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3626"><strong>Meir info om 3626 ROLLAG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3626</styleUrl>
+ <Point>
+ <coordinates>9.29531,59.98417</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3627">
+ <IconStyle id="icon3627">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3627.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3627">
+ <name>3627 VEGGLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3627:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rollag kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3627"><strong>Meir info om 3627 VEGGLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3627</styleUrl>
+ <Point>
+ <coordinates>9.15494,60.04198</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3628">
+ <IconStyle id="icon3628">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3628.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3628">
+ <name>3628 VEGGLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3628:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rollag kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3628"><strong>Meir info om 3628 VEGGLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3628</styleUrl>
+ <Point>
+ <coordinates>9.15300,60.04270</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

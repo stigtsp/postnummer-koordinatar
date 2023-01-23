@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0368 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0368">
+ <name>0368 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0368:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0368"><strong>Meir info om 0368 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.71280,59.92750</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0368 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.70524,59.92957 10.70481,59.92872 10.70442,59.92800 10.70398,59.92728 10.70429,59.92689 10.70507,59.92665 10.70832,59.92658 10.70965,59.92627 10.71082,59.92597 10.71120,59.92617 10.71236,59.92568 10.71204,59.92541 10.71238,59.92528 10.71254,59.92536 10.71277,59.92550 10.71306,59.92541 10.71357,59.92577 10.71377,59.92570 10.71395,59.92589 10.71416,59.92583 10.71436,59.92603 10.71467,59.92633 10.71447,59.92639 10.71468,59.92658 10.71518,59.92644 10.71549,59.92671 10.71568,59.92695 10.71514,59.92722 10.71524,59.92730 10.71494,59.92746 10.71517,59.92773 10.71473,59.92792 10.71486,59.92802 10.71442,59.92822 10.71477,59.92843 10.71490,59.92850 10.71491,59.92863 10.71490,59.92878 10.71479,59.92887 10.71471,59.92893 10.71445,59.92882 10.71418,59.92866 10.71365,59.92891 10.71288,59.92841 10.71165,59.92891 10.71162,59.92897 10.71209,59.92940 10.71216,59.92964 10.71165,59.92969 10.71037,59.92924 10.70979,59.92958 10.70909,59.92909 10.70851,59.92931 10.70819,59.92950 10.70834,59.92983 10.70823,59.93013 10.70819,59.93030 10.70745,59.93024 10.70736,59.92985 10.70716,59.92957 10.70524,59.92957</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0368 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.71596,59.92840 10.71557,59.92824 10.71564,59.92814 10.71571,59.92800 10.71625,59.92773 10.71690,59.92803 10.71668,59.92816 10.71596,59.92840</coordinates></LineString></Placemark>
+ </Document>
+</kml>

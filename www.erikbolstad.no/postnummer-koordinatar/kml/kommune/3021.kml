@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ås, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1407">
+ <IconStyle id="icon1407">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1407.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1407">
+ <name>1407 VINTERBRO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1407:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1407"><strong>Meir info om 1407 VINTERBRO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1407</styleUrl>
+ <Point>
+ <coordinates>10.75400,59.73430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1429">
+ <IconStyle id="icon1429">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1429.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1429">
+ <name>1429 VINTERBRO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1429:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1429"><strong>Meir info om 1429 VINTERBRO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1429</styleUrl>
+ <Point>
+ <coordinates>10.77110,59.73970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1430">
+ <IconStyle id="icon1430">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1430.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1430">
+ <name>1430 ÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1430:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1430"><strong>Meir info om 1430 ÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1430</styleUrl>
+ <Point>
+ <coordinates>10.78730,59.65610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1431">
+ <IconStyle id="icon1431">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1431.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1431">
+ <name>1431 ÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1431:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1431"><strong>Meir info om 1431 ÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1431</styleUrl>
+ <Point>
+ <coordinates>10.79326,59.66220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1432">
+ <IconStyle id="icon1432">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1432.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1432">
+ <name>1432 ÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1432:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1432"><strong>Meir info om 1432 ÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1432</styleUrl>
+ <Point>
+ <coordinates>10.76630,59.66610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1433">
+ <IconStyle id="icon1433">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1433.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1433">
+ <name>1433 ÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1433:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1433"><strong>Meir info om 1433 ÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1433</styleUrl>
+ <Point>
+ <coordinates>10.75970,59.66600</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1434">
+ <IconStyle id="icon1434">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1434.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1434">
+ <name>1434 ÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1434:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1434"><strong>Meir info om 1434 ÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1434</styleUrl>
+ <Point>
+ <coordinates>10.80610,59.67130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1435">
+ <IconStyle id="icon1435">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1435.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1435">
+ <name>1435 ÅS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1435:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ås kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1435"><strong>Meir info om 1435 ÅS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1435</styleUrl>
+ <Point>
+ <coordinates>10.81450,59.65050</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

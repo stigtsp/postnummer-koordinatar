@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tjøme, Vestfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3147">
+ <IconStyle id="icon3147">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3147.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3147">
+ <name>3147 VERDENS ENDE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3147:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tjøme kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3147"><strong>Meir info om 3147 VERDENS ENDE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3147</styleUrl>
+ <Point>
+ <coordinates>10.4080,59.0581</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Tjøme (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.5944444,58.7614722,0 10.6304183,58.9589163,0 10.6741469,59.0464473,0 10.6741469,59.0464473,0 10.6221228,59.1137161,0 10.6221228,59.1137161,0 10.3983645,59.1726217,0 10.3686621,59.1621344,0 10.3693222,59.1350557,0 10.3376396,59.1357329,0 10.3376396,59.1357329,0 10.3647466,59.0774122,0 10.3350442,59.0400812,0 10.3705221,58.9755048,0 10.3597962,58.7742047,0 10.3597962,58.7742047,0 10.5944444,58.7614722,0 10.5944444,58.7614722,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

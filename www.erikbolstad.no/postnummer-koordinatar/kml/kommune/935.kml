@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Iveland, Aust-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4724">
+ <IconStyle id="icon4724">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4724.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4724">
+ <name>4724 IVELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4724:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Iveland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4724"><strong>Meir info om 4724 IVELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4724</styleUrl>
+ <Point>
+ <coordinates>7.91155,58.46222</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4725">
+ <IconStyle id="icon4725">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4725.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4725">
+ <name>4725 IVELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4725:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Iveland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4725"><strong>Meir info om 4725 IVELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4725</styleUrl>
+ <Point>
+ <coordinates>7.91155,58.46222</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4730">
+ <IconStyle id="icon4730">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4730.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4730">
+ <name>4730 VATNESTRØM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4730:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Iveland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4730"><strong>Meir info om 4730 VATNESTRØM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4730</styleUrl>
+ <Point>
+ <coordinates>8.0635,58.4178</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Iveland (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.9313554,58.5612659,0 7.9364434,58.5232072,0 7.9466193,58.5090353,0 7.9805391,58.516122,0 8.0314188,58.4735804,0 8.0890824,58.470033,0 8.0585546,58.4505156,0 8.1094343,58.4416405,0 8.0873864,58.4185547,0 8.1026504,58.3847866,0 8.0481779,58.3738587,0 8.0481779,58.3738587,0 7.9732917,58.3443951,0 7.9664839,58.3098408,0 7.9018094,58.3461815,0 7.9126771,58.3812022,0 7.7894623,58.4155753,0 7.8142826,58.4438847,0 7.8071911,58.4619722,0 7.8071911,58.4619722,0 7.7787163,58.5010611,0 7.8702998,58.5108071,0 7.8702998,58.550649,0 7.9313554,58.5612659,0 7.9313554,58.5612659,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

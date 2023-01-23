@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hol, Buskerud</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3575">
+ <IconStyle id="icon3575">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3575.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3575">
+ <name>3575 HOL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3575:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3575"><strong>Meir info om 3575 HOL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3575</styleUrl>
+ <Point>
+ <coordinates>8.29652,60.61481</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3576">
+ <IconStyle id="icon3576">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3576.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3576">
+ <name>3576 HOL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3576:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3576"><strong>Meir info om 3576 HOL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3576</styleUrl>
+ <Point>
+ <coordinates>8.2940,60.6151</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3577">
+ <IconStyle id="icon3577">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3577.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3577">
+ <name>3577 HOVET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3577:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3577"><strong>Meir info om 3577 HOVET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3577</styleUrl>
+ <Point>
+ <coordinates>8.1533,60.6224</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3580">
+ <IconStyle id="icon3580">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3580.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3580">
+ <name>3580 GEILO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3580:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3580"><strong>Meir info om 3580 GEILO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3580</styleUrl>
+ <Point>
+ <coordinates>8.2081,60.5355</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3581">
+ <IconStyle id="icon3581">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3581.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3581">
+ <name>3581 GEILO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3581:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3581"><strong>Meir info om 3581 GEILO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3581</styleUrl>
+ <Point>
+ <coordinates>8.20778,60.53405</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3588">
+ <IconStyle id="icon3588">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3588.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3588">
+ <name>3588 DAGALI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3588:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3588"><strong>Meir info om 3588 DAGALI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3588</styleUrl>
+ <Point>
+ <coordinates>8.4622,60.415</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3593">
+ <IconStyle id="icon3593">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3593.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3593">
+ <name>3593 USTAOSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3593:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3593"><strong>Meir info om 3593 USTAOSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3593</styleUrl>
+ <Point>
+ <coordinates>8.0445,60.4984</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3595">
+ <IconStyle id="icon3595">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3595.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3595">
+ <name>3595 HAUGASTØL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3595:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3595"><strong>Meir info om 3595 HAUGASTØL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3595</styleUrl>
+ <Point>
+ <coordinates>7.8631,60.512</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hol (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.6882633,60.3963071,0 7.69342,60.4224073,0 7.7325854,60.5229722,0 7.7325854,60.5229722,0 7.6397653,60.5615187,0 7.63564,60.6344284,0 7.5448826,60.6586951,0 7.4386552,60.6607165,0 7.4706265,60.6778932,0 7.4706265,60.6778932,0 7.6128257,60.7449215,0 7.7043071,60.7411164,0 7.7270153,60.7617218,0 7.7036583,60.7959292,0 7.7505075,60.8425172,0 7.7505075,60.8425172,0 7.7769215,60.8671953,0 7.7769215,60.8671953,0 7.8928337,60.832689,0 7.9114664,60.842525,0 7.9357924,60.810736,0 8.0144638,60.7907887,0 8.0010069,60.7700707,0 8.0667389,60.7609708,0 8.1184964,60.7187234,0 8.1661133,60.7199891,0 8.1655957,60.7045442,0 8.2566889,60.6982122,0 8.2608295,60.6688152,0 8.3420888,60.6513164,0 8.4145493,60.6200992,0 8.423348,60.5952053,0 8.3855651,60.5646968,0 8.3995396,60.5453599,0 8.3555457,60.5397602,0 8.3462718,60.5005564,0 8.3857597,60.4725443,0 8.4757919,60.4873315,0 8.4757919,60.4873315,0 8.5421084,60.4790715,0 8.6236782,60.4439603,0 8.5843425,60.42966,0 8.5748192,60.405335,0 8.1915743,60.3462235,0 8.1379972,60.3407214,0 8.1117141,60.3657233,0 8.0530826,60.3462235,0 8.0510608,60.3802156,0 7.9428957,60.396699,0 7.7902516,60.3727204,0 7.6882633,60.3963071,0 7.6882633,60.3963071,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

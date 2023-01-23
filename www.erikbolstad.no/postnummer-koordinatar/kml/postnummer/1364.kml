@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1364 FORNEBU</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1364">
+ <name>1364 FORNEBU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1364:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bærum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1364"><strong>Meir info om 1364 FORNEBU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.61950,59.89300</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1364 FORNEBU</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.59520,59.89112 10.58975,59.89060 10.58697,59.88946 10.57900,59.88429 10.56689,59.88104 10.54616,59.87511 10.54981,59.87178 10.60426,59.88623 10.60830,59.88935 10.61359,59.88846 10.61410,59.88829 10.61644,59.88791 10.61670,59.88834 10.61676,59.88853 10.61701,59.88870 10.61807,59.88920 10.61928,59.88883 10.62101,59.88963 10.62245,59.89005 10.62737,59.89164 10.62732,59.89120 10.62748,59.89063 10.62789,59.89041 10.62908,59.89019 10.62967,59.89015 10.62987,59.89023 10.63033,59.89040 10.63054,59.89048 10.63064,59.89055 10.63075,59.89061 10.63099,59.89068 10.63135,59.89075 10.63149,59.89077 10.63158,59.89078 10.63181,59.89082 10.63193,59.89100 10.63213,59.89121 10.63222,59.89128 10.63291,59.89135 10.63378,59.89155 10.63452,59.89168 10.63576,59.89175 10.63644,59.89184 10.63705,59.89186 10.64238,59.89120 10.64943,59.88958 10.65566,59.89027 10.65387,59.89462 10.65230,59.89843 10.65163,59.89844 10.64114,59.89852 10.63210,59.89862 10.63133,59.89833 10.63085,59.89817 10.63033,59.89806 10.62945,59.89790 10.62843,59.89786 10.62751,59.89789 10.62688,59.89794 10.62552,59.89997 10.62439,59.89968 10.62354,59.89950 10.62256,59.89928 10.62224,59.89924 10.62191,59.89932 10.62155,59.89974 10.62136,59.90015 10.61453,59.89723 10.60854,59.89555 10.59520,59.89112</coordinates></LineString></Placemark>
+ </Document>
+</kml>

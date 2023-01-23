@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bokn, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5561">
+ <IconStyle id="icon5561">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5561.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5561">
+ <name>5561 BOKN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5561:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bokn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5561"><strong>Meir info om 5561 BOKN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5561</styleUrl>
+ <Point>
+ <coordinates>5.43940,59.23240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5569">
+ <IconStyle id="icon5569">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5569.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5569">
+ <name>5569 BOKN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5569:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bokn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5569"><strong>Meir info om 5569 BOKN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5569</styleUrl>
+ <Point>
+ <coordinates>5.43941,59.23236</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Bokn (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.5009302,59.1288225,0 5.5998191,59.1924958,0 5.5998191,59.1924958,0 5.6454904,59.2118231,0 5.6454904,59.2118231,0 5.601952,59.2336222,0 5.5147949,59.2445647,0 5.4702976,59.2777284,0 5.4297208,59.2719196,0 5.4297208,59.2719196,0 5.3797428,59.262958,0 5.3479685,59.2317633,0 5.3450283,59.1497927,0 5.3703619,59.114164,0 5.3703619,59.114164,0 5.5009302,59.1288225,0 5.5009302,59.1288225,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Aust-Agder - Erik Bolstad</name>
+<Style id="kommgrense"><LineStyle><width>4</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+ <Style id="style4660">
+ <IconStyle id="icon4660">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4660.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4660">
+ <name>4660 EVJE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4660:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4660"><strong>Meir info om 4660 EVJE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4660</styleUrl>
+ <Point>
+ <coordinates>7.80609,58.58612</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4680">
+ <IconStyle id="icon4680">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4680.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4680">
+ <name>4680 BYGLANDSFJORD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4680:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4680"><strong>Meir info om 4680 BYGLANDSFJORD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4680</styleUrl>
+ <Point>
+ <coordinates>7.8073,58.668</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4690">
+ <IconStyle id="icon4690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4690">
+ <name>4690 VALLE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4690:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4690"><strong>Meir info om 4690 VALLE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4690</styleUrl>
+ <Point>
+ <coordinates>7.53498,59.21223</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4692">
+ <IconStyle id="icon4692">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4692.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4692">
+ <name>4692 RYSSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4692:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4692"><strong>Meir info om 4692 RYSSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4692</styleUrl>
+ <Point>
+ <coordinates>7.53022,59.09590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4724">
+ <IconStyle id="icon4724">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4724.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4724">
+ <name>4724 IVELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4724:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Iveland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4724"><strong>Meir info om 4724 IVELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4724</styleUrl>
+ <Point>
+ <coordinates>7.91155,58.46222</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4725">
+ <IconStyle id="icon4725">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4725.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4725">
+ <name>4725 IVELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4725:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Iveland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4725"><strong>Meir info om 4725 IVELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4725</styleUrl>
+ <Point>
+ <coordinates>7.91155,58.46222</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4730">
+ <IconStyle id="icon4730">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4730.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4730">
+ <name>4730 VATNESTRØM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4730:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Iveland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4730"><strong>Meir info om 4730 VATNESTRØM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4730</styleUrl>
+ <Point>
+ <coordinates>8.0635,58.4178</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4732">
+ <IconStyle id="icon4732">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4732.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4732">
+ <name>4732 ENGESLAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4732:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4732"><strong>Meir info om 4732 ENGESLAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4732</styleUrl>
+ <Point>
+ <coordinates>8.1198,58.5331</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4733">
+ <IconStyle id="icon4733">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4733.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4733">
+ <name>4733 EVJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4733:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4733"><strong>Meir info om 4733 EVJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4733</styleUrl>
+ <Point>
+ <coordinates>7.80609,58.58612</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4734">
+ <IconStyle id="icon4734">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4734.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4734">
+ <name>4734 EVJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4734:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4734"><strong>Meir info om 4734 EVJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4734</styleUrl>
+ <Point>
+ <coordinates>7.8061,58.5861</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4735">
+ <IconStyle id="icon4735">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4735.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4735">
+ <name>4735 EVJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4735:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4735"><strong>Meir info om 4735 EVJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4735</styleUrl>
+ <Point>
+ <coordinates>7.8061,58.5861</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4737">
+ <IconStyle id="icon4737">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4737.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4737">
+ <name>4737 HORNNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4737:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4737"><strong>Meir info om 4737 HORNNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4737</styleUrl>
+ <Point>
+ <coordinates>7.7716,58.5531</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4738">
+ <IconStyle id="icon4738">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4738.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4738">
+ <name>4738 EVJEMOEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4738:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Evje og Hornnes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4738"><strong>Meir info om 4738 EVJEMOEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4738</styleUrl>
+ <Point>
+ <coordinates>7.7837,58.5637</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4741">
+ <IconStyle id="icon4741">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4741.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4741">
+ <name>4741 BYGLANDSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4741:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4741"><strong>Meir info om 4741 BYGLANDSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4741</styleUrl>
+ <Point>
+ <coordinates>7.8073,58.668</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4742">
+ <IconStyle id="icon4742">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4742.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4742">
+ <name>4742 GRENDI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4742:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4742"><strong>Meir info om 4742 GRENDI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4742</styleUrl>
+ <Point>
+ <coordinates>7.8244,58.7086</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4744">
+ <IconStyle id="icon4744">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4744.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4744">
+ <name>4744 BYGLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4744:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4744"><strong>Meir info om 4744 BYGLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4744</styleUrl>
+ <Point>
+ <coordinates>7.79732,58.83144</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4745">
+ <IconStyle id="icon4745">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4745.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4745">
+ <name>4745 BYGLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4745:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bygland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4745"><strong>Meir info om 4745 BYGLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4745</styleUrl>
+ <Point>
+ <coordinates>7.7973,58.8314</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4746">
+ <IconStyle id="icon4746">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4746.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4746">
+ <name>4746 VALLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4746:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4746"><strong>Meir info om 4746 VALLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4746</styleUrl>
+ <Point>
+ <coordinates>7.53498,59.21223</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4747">
+ <IconStyle id="icon4747">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4747.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4747">
+ <name>4747 VALLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4747:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4747"><strong>Meir info om 4747 VALLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4747</styleUrl>
+ <Point>
+ <coordinates>7.535,59.2122</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4748">
+ <IconStyle id="icon4748">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4748.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4748">
+ <name>4748 RYSSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4748:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4748"><strong>Meir info om 4748 RYSSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4748</styleUrl>
+ <Point>
+ <coordinates>7.5302,59.0959</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4749">
+ <IconStyle id="icon4749">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4749.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4749">
+ <name>4749 RYSSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4749:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Valle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4749"><strong>Meir info om 4749 RYSSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4749</styleUrl>
+ <Point>
+ <coordinates>7.53022,59.09590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4754">
+ <IconStyle id="icon4754">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4754.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4754">
+ <name>4754 BYKLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4754:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4754"><strong>Meir info om 4754 BYKLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4754</styleUrl>
+ <Point>
+ <coordinates>7.3397,59.3494</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4755">
+ <IconStyle id="icon4755">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4755.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4755">
+ <name>4755 HOVDEN I SETESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4755:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4755"><strong>Meir info om 4755 HOVDEN I SETESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4755</styleUrl>
+ <Point>
+ <coordinates>7.3578,59.5581</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4756">
+ <IconStyle id="icon4756">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4756.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4756">
+ <name>4756 HOVDEN I SETESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4756:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4756"><strong>Meir info om 4756 HOVDEN I SETESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4756</styleUrl>
+ <Point>
+ <coordinates>7.35621,59.55962</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4760">
+ <IconStyle id="icon4760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4760">
+ <name>4760 BIRKELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4760"><strong>Meir info om 4760 BIRKELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4760</styleUrl>
+ <Point>
+ <coordinates>8.2326,58.3317</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4766">
+ <IconStyle id="icon4766">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4766.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4766">
+ <name>4766 HEREFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4766:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4766"><strong>Meir info om 4766 HEREFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4766</styleUrl>
+ <Point>
+ <coordinates>8.3512,58.5246</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4768">
+ <IconStyle id="icon4768">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4768.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4768">
+ <name>4768 ENGESLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4768:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4768"><strong>Meir info om 4768 ENGESLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4768</styleUrl>
+ <Point>
+ <coordinates>8.1198,58.5331</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4770">
+ <IconStyle id="icon4770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4770">
+ <name>4770 HØVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4770:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillesand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4770"><strong>Meir info om 4770 HØVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4770</styleUrl>
+ <Point>
+ <coordinates>8.2474,58.1699</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4780">
+ <IconStyle id="icon4780">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4780.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4780">
+ <name>4780 BREKKESTØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4780:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillesand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4780"><strong>Meir info om 4780 BREKKESTØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4780</styleUrl>
+ <Point>
+ <coordinates>8.3487,58.1956</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4790">
+ <IconStyle id="icon4790">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4790.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4790">
+ <name>4790 LILLESAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4790:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillesand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4790"><strong>Meir info om 4790 LILLESAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4790</styleUrl>
+ <Point>
+ <coordinates>8.3768,58.2488</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4791">
+ <IconStyle id="icon4791">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4791.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4791">
+ <name>4791 LILLESAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4791:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillesand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4791"><strong>Meir info om 4791 LILLESAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4791</styleUrl>
+ <Point>
+ <coordinates>8.37742,58.24883</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4792">
+ <IconStyle id="icon4792">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4792.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4792">
+ <name>4792 LILLESAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4792:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillesand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4792"><strong>Meir info om 4792 LILLESAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4792</styleUrl>
+ <Point>
+ <coordinates>8.21787,58.16391</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4793">
+ <IconStyle id="icon4793">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4793.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4793">
+ <name>4793 HØVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4793:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillesand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4793"><strong>Meir info om 4793 HØVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4793</styleUrl>
+ <Point>
+ <coordinates>8.2179,58.164</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4794">
+ <IconStyle id="icon4794">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4794.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4794">
+ <name>4794 LILLESAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4794:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lillesand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4794"><strong>Meir info om 4794 LILLESAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4794</styleUrl>
+ <Point>
+ <coordinates>8.39554,58.26185</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4795">
+ <IconStyle id="icon4795">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4795.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4795">
+ <name>4795 BIRKELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4795:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Birkenes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4795"><strong>Meir info om 4795 BIRKELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4795</styleUrl>
+ <Point>
+ <coordinates>8.23267,58.33026</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4800">
+ <IconStyle id="icon4800">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4800.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4800">
+ <name>4800 ARENDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4800:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4800"><strong>Meir info om 4800 ARENDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4800</styleUrl>
+ <Point>
+ <coordinates>8.77253,58.46151</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4801">
+ <IconStyle id="icon4801">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4801.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4801">
+ <name>4801 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4801:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4801"><strong>Meir info om 4801 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4801</styleUrl>
+ <Point>
+ <coordinates>8.76647,58.45916</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4802">
+ <IconStyle id="icon4802">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4802.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4802">
+ <name>4802 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4802:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4802"><strong>Meir info om 4802 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4802</styleUrl>
+ <Point>
+ <coordinates>8.7665,58.4592</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4803">
+ <IconStyle id="icon4803">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4803.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4803">
+ <name>4803 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4803:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4803"><strong>Meir info om 4803 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4803</styleUrl>
+ <Point>
+ <coordinates>8.7665,58.4592</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4804">
+ <IconStyle id="icon4804">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4804.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4804">
+ <name>4804 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4804:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4804"><strong>Meir info om 4804 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4804</styleUrl>
+ <Point>
+ <coordinates>8.7665,58.4592</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4808">
+ <IconStyle id="icon4808">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4808.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4808">
+ <name>4808 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4808:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4808"><strong>Meir info om 4808 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4808</styleUrl>
+ <Point>
+ <coordinates>8.7725,58.4615</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4809">
+ <IconStyle id="icon4809">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4809.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4809">
+ <name>4809 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4809:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4809"><strong>Meir info om 4809 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4809</styleUrl>
+ <Point>
+ <coordinates>8.7725,58.4615</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4810">
+ <IconStyle id="icon4810">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4810.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4810">
+ <name>4810 EYDEHAVN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4810:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4810"><strong>Meir info om 4810 EYDEHAVN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4810</styleUrl>
+ <Point>
+ <coordinates>8.8643,58.4997</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4812">
+ <IconStyle id="icon4812">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4812.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4812">
+ <name>4812 KONGSHAVN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4812:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4812"><strong>Meir info om 4812 KONGSHAVN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4812</styleUrl>
+ <Point>
+ <coordinates>8.8637,58.4854</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4815">
+ <IconStyle id="icon4815">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4815.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4815">
+ <name>4815 SALTRØD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4815:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4815"><strong>Meir info om 4815 SALTRØD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4815</styleUrl>
+ <Point>
+ <coordinates>8.8365,58.4895</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4816">
+ <IconStyle id="icon4816">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4816.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4816">
+ <name>4816 KOLBJØRNSVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4816:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4816"><strong>Meir info om 4816 KOLBJØRNSVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4816</styleUrl>
+ <Point>
+ <coordinates>8.7691,58.4522</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4817">
+ <IconStyle id="icon4817">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4817.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4817">
+ <name>4817 HIS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4817:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4817"><strong>Meir info om 4817 HIS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4817</styleUrl>
+ <Point>
+ <coordinates>8.7442,58.4323</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4818">
+ <IconStyle id="icon4818">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4818.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4818">
+ <name>4818 FÆRVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4818:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4818"><strong>Meir info om 4818 FÆRVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4818</styleUrl>
+ <Point>
+ <coordinates>8.8171,58.4567</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4820">
+ <IconStyle id="icon4820">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4820.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4820">
+ <name>4820 FROLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4820:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Froland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4820"><strong>Meir info om 4820 FROLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4820</styleUrl>
+ <Point>
+ <coordinates>8.6465,58.5046</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4821">
+ <IconStyle id="icon4821">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4821.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4821">
+ <name>4821 RYKENE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4821:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4821"><strong>Meir info om 4821 RYKENE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4821</styleUrl>
+ <Point>
+ <coordinates>8.6389,58.4095</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4822">
+ <IconStyle id="icon4822">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4822.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4822">
+ <name>4822 RYKENE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4822:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4822"><strong>Meir info om 4822 RYKENE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4822</styleUrl>
+ <Point>
+ <coordinates>8.63887,58.40949</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4823">
+ <IconStyle id="icon4823">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4823.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4823">
+ <name>4823 NEDENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4823:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4823"><strong>Meir info om 4823 NEDENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4823</styleUrl>
+ <Point>
+ <coordinates>8.7005,58.4151</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4824">
+ <IconStyle id="icon4824">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4824.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4824">
+ <name>4824 BJORBEKK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4824:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4824"><strong>Meir info om 4824 BJORBEKK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4824</styleUrl>
+ <Point>
+ <coordinates>8.709,58.4414</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4825">
+ <IconStyle id="icon4825">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4825.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4825">
+ <name>4825 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4825:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4825"><strong>Meir info om 4825 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4825</styleUrl>
+ <Point>
+ <coordinates>8.7316,58.4455</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4827">
+ <IconStyle id="icon4827">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4827.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4827">
+ <name>4827 FROLANDS VERK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4827:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Froland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4827"><strong>Meir info om 4827 FROLANDS VERK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4827</styleUrl>
+ <Point>
+ <coordinates>8.5808,58.5009</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4828">
+ <IconStyle id="icon4828">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4828.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4828">
+ <name>4828 MJÅVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4828:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Froland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4828"><strong>Meir info om 4828 MJÅVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4828</styleUrl>
+ <Point>
+ <coordinates>8.4896,58.5367</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4830">
+ <IconStyle id="icon4830">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4830.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4830">
+ <name>4830 HYNNEKLEIV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4830:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Froland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4830"><strong>Meir info om 4830 HYNNEKLEIV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4830</styleUrl>
+ <Point>
+ <coordinates>8.4183,58.602</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4832">
+ <IconStyle id="icon4832">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4832.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4832">
+ <name>4832 MYKLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4832:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Froland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4832"><strong>Meir info om 4832 MYKLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4832</styleUrl>
+ <Point>
+ <coordinates>8.2887,58.6323</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4834">
+ <IconStyle id="icon4834">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4834.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4834">
+ <name>4834 RISDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4834:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Froland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4834"><strong>Meir info om 4834 RISDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4834</styleUrl>
+ <Point>
+ <coordinates>8.1248,58.6687</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4835">
+ <IconStyle id="icon4835">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4835.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4835">
+ <name>4835 SKJEGGEDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4835:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Froland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4835"><strong>Meir info om 4835 SKJEGGEDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4835</styleUrl>
+ <Point>
+ <coordinates>8.1491,58.6770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4836">
+ <IconStyle id="icon4836">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4836.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4836">
+ <name>4836 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4836:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4836"><strong>Meir info om 4836 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4836</styleUrl>
+ <Point>
+ <coordinates>8.7609,58.4592</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4837">
+ <IconStyle id="icon4837">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4837.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4837">
+ <name>4837 DØLEMO (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4837:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4837"><strong>Meir info om 4837 DØLEMO (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4837</styleUrl>
+ <Point>
+ <coordinates>8.3388,58.71</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4838">
+ <IconStyle id="icon4838">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4838.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4838">
+ <name>4838 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4838:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4838"><strong>Meir info om 4838 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4838</styleUrl>
+ <Point>
+ <coordinates>8.76,58.4642</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4839">
+ <IconStyle id="icon4839">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4839.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4839">
+ <name>4839 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4839:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4839"><strong>Meir info om 4839 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4839</styleUrl>
+ <Point>
+ <coordinates>8.7472,58.4521</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4840">
+ <IconStyle id="icon4840">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4840.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4840">
+ <name>4840 NELAUG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4840:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4840"><strong>Meir info om 4840 NELAUG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4840</styleUrl>
+ <Point>
+ <coordinates>8.63008,58.65837</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4841">
+ <IconStyle id="icon4841">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4841.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4841">
+ <name>4841 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4841:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4841"><strong>Meir info om 4841 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4841</styleUrl>
+ <Point>
+ <coordinates>8.782,58.4642</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4842">
+ <IconStyle id="icon4842">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4842.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4842">
+ <name>4842 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4842:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4842"><strong>Meir info om 4842 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4842</styleUrl>
+ <Point>
+ <coordinates>8.7971,58.4713</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4843">
+ <IconStyle id="icon4843">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4843.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4843">
+ <name>4843 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4843:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4843"><strong>Meir info om 4843 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4843</styleUrl>
+ <Point>
+ <coordinates>8.7864,58.4733</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4844">
+ <IconStyle id="icon4844">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4844.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4844">
+ <name>4844 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4844:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4844"><strong>Meir info om 4844 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4844</styleUrl>
+ <Point>
+ <coordinates>8.7736,58.474</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4846">
+ <IconStyle id="icon4846">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4846.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4846">
+ <name>4846 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4846:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4846"><strong>Meir info om 4846 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4846</styleUrl>
+ <Point>
+ <coordinates>8.7608,58.4757</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4847">
+ <IconStyle id="icon4847">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4847.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4847">
+ <name>4847 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4847:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4847"><strong>Meir info om 4847 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4847</styleUrl>
+ <Point>
+ <coordinates>8.7483,58.4629</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4848">
+ <IconStyle id="icon4848">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4848.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4848">
+ <name>4848 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4848:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4848"><strong>Meir info om 4848 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4848</styleUrl>
+ <Point>
+ <coordinates>8.7214,58.4763</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4849">
+ <IconStyle id="icon4849">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4849.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4849">
+ <name>4849 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4849:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4849"><strong>Meir info om 4849 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4849</styleUrl>
+ <Point>
+ <coordinates>8.7992,58.5313</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4850">
+ <IconStyle id="icon4850">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4850.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4850">
+ <name>4850 ÅMLI (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4850:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4850"><strong>Meir info om 4850 ÅMLI (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4850</styleUrl>
+ <Point>
+ <coordinates>8.48420,58.76692</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4851">
+ <IconStyle id="icon4851">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4851.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4851">
+ <name>4851 SALTRØD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4851:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4851"><strong>Meir info om 4851 SALTRØD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4851</styleUrl>
+ <Point>
+ <coordinates>8.84885,58.49461</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4852">
+ <IconStyle id="icon4852">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4852.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4852">
+ <name>4852 FÆRVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4852:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4852"><strong>Meir info om 4852 FÆRVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4852</styleUrl>
+ <Point>
+ <coordinates>8.82270,58.46359</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4853">
+ <IconStyle id="icon4853">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4853.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4853">
+ <name>4853 HIS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4853:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4853"><strong>Meir info om 4853 HIS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4853</styleUrl>
+ <Point>
+ <coordinates>8.75676,58.44595</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4854">
+ <IconStyle id="icon4854">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4854.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4854">
+ <name>4854 NEDENES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4854:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4854"><strong>Meir info om 4854 NEDENES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4854</styleUrl>
+ <Point>
+ <coordinates>8.70189,58.41654</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4855">
+ <IconStyle id="icon4855">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4855.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4855">
+ <name>4855 FROLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4855:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Froland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4855"><strong>Meir info om 4855 FROLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4855</styleUrl>
+ <Point>
+ <coordinates>8.63029,58.50792</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4856">
+ <IconStyle id="icon4856">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4856.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4856">
+ <name>4856 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4856:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4856"><strong>Meir info om 4856 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4856</styleUrl>
+ <Point>
+ <coordinates>8.71567,58.46024</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4857">
+ <IconStyle id="icon4857">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4857.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4857">
+ <name>4857 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4857:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4857"><strong>Meir info om 4857 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4857</styleUrl>
+ <Point>
+ <coordinates>8.7092,58.4653</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4858">
+ <IconStyle id="icon4858">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4858.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4858">
+ <name>4858 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4858:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4858"><strong>Meir info om 4858 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4858</styleUrl>
+ <Point>
+ <coordinates>8.7157,58.4599</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4859">
+ <IconStyle id="icon4859">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4859.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4859">
+ <name>4859 ARENDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4859:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4859"><strong>Meir info om 4859 ARENDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4859</styleUrl>
+ <Point>
+ <coordinates>8.78830,58.46862</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4861">
+ <IconStyle id="icon4861">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4861.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4861">
+ <name>4861 ARENDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4861:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4861"><strong>Meir info om 4861 ARENDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4861</styleUrl>
+ <Point>
+ <coordinates>8.77404,58.47413</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4862">
+ <IconStyle id="icon4862">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4862.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4862">
+ <name>4862 EYDEHAVN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4862:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4862"><strong>Meir info om 4862 EYDEHAVN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4862</styleUrl>
+ <Point>
+ <coordinates>8.8476,58.4949</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4863">
+ <IconStyle id="icon4863">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4863.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4863">
+ <name>4863 NELAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4863:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4863"><strong>Meir info om 4863 NELAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4863</styleUrl>
+ <Point>
+ <coordinates>8.63008,58.65837</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4864">
+ <IconStyle id="icon4864">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4864.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4864">
+ <name>4864 ÅMLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4864:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4864"><strong>Meir info om 4864 ÅMLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4864</styleUrl>
+ <Point>
+ <coordinates>8.48420,58.76692</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4865">
+ <IconStyle id="icon4865">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4865.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4865">
+ <name>4865 ÅMLI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4865:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4865"><strong>Meir info om 4865 ÅMLI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4865</styleUrl>
+ <Point>
+ <coordinates>8.4865,58.7684</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4868">
+ <IconStyle id="icon4868">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4868.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4868">
+ <name>4868 SELÅSVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4868:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4868"><strong>Meir info om 4868 SELÅSVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4868</styleUrl>
+ <Point>
+ <coordinates>8.7267,58.6916</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4869">
+ <IconStyle id="icon4869">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4869.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4869">
+ <name>4869 DØLEMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4869:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4869"><strong>Meir info om 4869 DØLEMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4869</styleUrl>
+ <Point>
+ <coordinates>8.3388,58.71</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4870">
+ <IconStyle id="icon4870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4870">
+ <name>4870 FEVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4870"><strong>Meir info om 4870 FEVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4870</styleUrl>
+ <Point>
+ <coordinates>8.6759,58.3785</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4876">
+ <IconStyle id="icon4876">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4876.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4876">
+ <name>4876 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4876:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4876"><strong>Meir info om 4876 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4876</styleUrl>
+ <Point>
+ <coordinates>8.5883,58.3394</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4877">
+ <IconStyle id="icon4877">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4877.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4877">
+ <name>4877 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4877:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4877"><strong>Meir info om 4877 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4877</styleUrl>
+ <Point>
+ <coordinates>8.5766,58.3446</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4878">
+ <IconStyle id="icon4878">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4878.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4878">
+ <name>4878 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4878:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4878"><strong>Meir info om 4878 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4878</styleUrl>
+ <Point>
+ <coordinates>8.5969,58.3507</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4879">
+ <IconStyle id="icon4879">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4879.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4879">
+ <name>4879 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4879:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4879"><strong>Meir info om 4879 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4879</styleUrl>
+ <Point>
+ <coordinates>8.5697,58.3239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4880">
+ <IconStyle id="icon4880">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4880.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4880">
+ <name>4880 RYKENE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4880:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4880"><strong>Meir info om 4880 RYKENE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4880</styleUrl>
+ <Point>
+ <coordinates>8.63887,58.40949</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4884">
+ <IconStyle id="icon4884">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4884.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4884">
+ <name>4884 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4884:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4884"><strong>Meir info om 4884 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4884</styleUrl>
+ <Point>
+ <coordinates>8.55478,58.33994</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4885">
+ <IconStyle id="icon4885">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4885.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4885">
+ <name>4885 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4885:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4885"><strong>Meir info om 4885 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4885</styleUrl>
+ <Point>
+ <coordinates>8.622,58.3625</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4886">
+ <IconStyle id="icon4886">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4886.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4886">
+ <name>4886 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4886:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4886"><strong>Meir info om 4886 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4886</styleUrl>
+ <Point>
+ <coordinates>8.514,58.3549</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4887">
+ <IconStyle id="icon4887">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4887.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4887">
+ <name>4887 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4887:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4887"><strong>Meir info om 4887 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4887</styleUrl>
+ <Point>
+ <coordinates>8.5137,58.2985</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4888">
+ <IconStyle id="icon4888">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4888.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4888">
+ <name>4888 HOMBORSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4888:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4888"><strong>Meir info om 4888 HOMBORSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4888</styleUrl>
+ <Point>
+ <coordinates>8.5113,58.2679</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4889">
+ <IconStyle id="icon4889">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4889.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4889">
+ <name>4889 FEVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4889:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4889"><strong>Meir info om 4889 FEVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4889</styleUrl>
+ <Point>
+ <coordinates>8.67561,58.38164</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4890">
+ <IconStyle id="icon4890">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4890.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4890">
+ <name>4890 GRIMSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4890:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4890"><strong>Meir info om 4890 GRIMSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4890</styleUrl>
+ <Point>
+ <coordinates>8.5885,58.3394</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4891">
+ <IconStyle id="icon4891">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4891.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4891">
+ <name>4891 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4891:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4891"><strong>Meir info om 4891 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4891</styleUrl>
+ <Point>
+ <coordinates>8.5934,58.3405</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4892">
+ <IconStyle id="icon4892">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4892.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4892">
+ <name>4892 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4892:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4892"><strong>Meir info om 4892 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4892</styleUrl>
+ <Point>
+ <coordinates>8.5934,58.3405</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4893">
+ <IconStyle id="icon4893">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4893.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4893">
+ <name>4893 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4893:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4893"><strong>Meir info om 4893 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4893</styleUrl>
+ <Point>
+ <coordinates>8.5841,58.3445</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4894">
+ <IconStyle id="icon4894">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4894.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4894">
+ <name>4894 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4894:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4894"><strong>Meir info om 4894 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4894</styleUrl>
+ <Point>
+ <coordinates>8.5841,58.3445</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4895">
+ <IconStyle id="icon4895">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4895.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4895">
+ <name>4895 GRIMSTAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4895:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4895"><strong>Meir info om 4895 GRIMSTAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4895</styleUrl>
+ <Point>
+ <coordinates>8.5841,58.3445</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4896">
+ <IconStyle id="icon4896">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4896.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4896">
+ <name>4896 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4896:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4896"><strong>Meir info om 4896 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4896</styleUrl>
+ <Point>
+ <coordinates>8.5841,58.3445</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4897">
+ <IconStyle id="icon4897">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4897.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4897">
+ <name>4897 HOMBORSUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4897:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4897"><strong>Meir info om 4897 HOMBORSUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4897</styleUrl>
+ <Point>
+ <coordinates>8.5113,58.2679</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4898">
+ <IconStyle id="icon4898">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4898.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4898">
+ <name>4898 GRIMSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4898:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Grimstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4898"><strong>Meir info om 4898 GRIMSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4898</styleUrl>
+ <Point>
+ <coordinates>8.59336,58.33991</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4900">
+ <IconStyle id="icon4900">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4900.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4900">
+ <name>4900 TVEDESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4900:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4900"><strong>Meir info om 4900 TVEDESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4900</styleUrl>
+ <Point>
+ <coordinates>8.9266,58.622</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4901">
+ <IconStyle id="icon4901">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4901.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4901">
+ <name>4901 TVEDESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4901:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4901"><strong>Meir info om 4901 TVEDESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4901</styleUrl>
+ <Point>
+ <coordinates>8.92778,58.62459</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4902">
+ <IconStyle id="icon4902">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4902.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4902">
+ <name>4902 TVEDESTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4902:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4902"><strong>Meir info om 4902 TVEDESTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4902</styleUrl>
+ <Point>
+ <coordinates>8.9264,58.626</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4909">
+ <IconStyle id="icon4909">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4909.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4909">
+ <name>4909 SONGE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4909:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4909"><strong>Meir info om 4909 SONGE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4909</styleUrl>
+ <Point>
+ <coordinates>9.0042,58.6853</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4910">
+ <IconStyle id="icon4910">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4910.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4910">
+ <name>4910 LYNGØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4910:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4910"><strong>Meir info om 4910 LYNGØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4910</styleUrl>
+ <Point>
+ <coordinates>9.1304,58.6335</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4912">
+ <IconStyle id="icon4912">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4912.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4912">
+ <name>4912 GJEVING</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4912:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4912"><strong>Meir info om 4912 GJEVING</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4912</styleUrl>
+ <Point>
+ <coordinates>9.12181,58.64571</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4915">
+ <IconStyle id="icon4915">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4915.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4915">
+ <name>4915 VESTRE SANDØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4915:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4915"><strong>Meir info om 4915 VESTRE SANDØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4915</styleUrl>
+ <Point>
+ <coordinates>9.0384,58.5853</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4916">
+ <IconStyle id="icon4916">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4916.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4916">
+ <name>4916 BORØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4916:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4916"><strong>Meir info om 4916 BORØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4916</styleUrl>
+ <Point>
+ <coordinates>9.0153,58.5836</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4920">
+ <IconStyle id="icon4920">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4920.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4920">
+ <name>4920 STAUBØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4920:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4920"><strong>Meir info om 4920 STAUBØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4920</styleUrl>
+ <Point>
+ <coordinates>8.97222,58.55093</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4921">
+ <IconStyle id="icon4921">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4921.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4921">
+ <name>4921 STAUBØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4921:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Arendal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4921"><strong>Meir info om 4921 STAUBØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4921</styleUrl>
+ <Point>
+ <coordinates>8.97222,58.55093</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4930">
+ <IconStyle id="icon4930">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4930.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4930">
+ <name>4930 VEGÅRSHEI (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4930:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vegårshei kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4930"><strong>Meir info om 4930 VEGÅRSHEI (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4930</styleUrl>
+ <Point>
+ <coordinates>8.86421,58.74921</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4934">
+ <IconStyle id="icon4934">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4934.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4934">
+ <name>4934 NES VERK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4934:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tvedestrand kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4934"><strong>Meir info om 4934 NES VERK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4934</styleUrl>
+ <Point>
+ <coordinates>8.8572,58.6269</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4942">
+ <IconStyle id="icon4942">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4942.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4942">
+ <name>4942 SELÅSVATN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4942:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Åmli kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4942"><strong>Meir info om 4942 SELÅSVATN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4942</styleUrl>
+ <Point>
+ <coordinates>8.7267,58.6916</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4950">
+ <IconStyle id="icon4950">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4950.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4950">
+ <name>4950 RISØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4950:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4950"><strong>Meir info om 4950 RISØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4950</styleUrl>
+ <Point>
+ <coordinates>9.2342,58.7206</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4951">
+ <IconStyle id="icon4951">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4951.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4951">
+ <name>4951 RISØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4951:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4951"><strong>Meir info om 4951 RISØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4951</styleUrl>
+ <Point>
+ <coordinates>9.23491,58.72051</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4952">
+ <IconStyle id="icon4952">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4952.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4952">
+ <name>4952 RISØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4952:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4952"><strong>Meir info om 4952 RISØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4952</styleUrl>
+ <Point>
+ <coordinates>9.2349,58.7205</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4953">
+ <IconStyle id="icon4953">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4953.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4953">
+ <name>4953 RISØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4953:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4953"><strong>Meir info om 4953 RISØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4953</styleUrl>
+ <Point>
+ <coordinates>9.2349,58.7205</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4955">
+ <IconStyle id="icon4955">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4955.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4955">
+ <name>4955 RISØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4955:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4955"><strong>Meir info om 4955 RISØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4955</styleUrl>
+ <Point>
+ <coordinates>9.22173,58.71566</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4956">
+ <IconStyle id="icon4956">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4956.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4956">
+ <name>4956 RISØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4956:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4956"><strong>Meir info om 4956 RISØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4956</styleUrl>
+ <Point>
+ <coordinates>9.2074,58.7111</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4957">
+ <IconStyle id="icon4957">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4957.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4957">
+ <name>4957 RISØR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4957:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4957"><strong>Meir info om 4957 RISØR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4957</styleUrl>
+ <Point>
+ <coordinates>9.1502,58.6805</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4971">
+ <IconStyle id="icon4971">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4971.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4971">
+ <name>4971 SUNDEBRU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4971:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4971"><strong>Meir info om 4971 SUNDEBRU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4971</styleUrl>
+ <Point>
+ <coordinates>9.07392,58.82217</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4972">
+ <IconStyle id="icon4972">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4972.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4972">
+ <name>4972 GJERSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4972:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4972"><strong>Meir info om 4972 GJERSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4972</styleUrl>
+ <Point>
+ <coordinates>9.01871,58.88127</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4973">
+ <IconStyle id="icon4973">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4973.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4973">
+ <name>4973 VEGÅRSHEI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4973:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vegårshei kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4973"><strong>Meir info om 4973 VEGÅRSHEI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4973</styleUrl>
+ <Point>
+ <coordinates>8.86421,58.74921</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4974">
+ <IconStyle id="icon4974">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4974.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4974">
+ <name>4974 SØNDELED</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4974:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4974"><strong>Meir info om 4974 SØNDELED</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4974</styleUrl>
+ <Point>
+ <coordinates>9.07543,58.76043</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4980">
+ <IconStyle id="icon4980">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4980.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4980">
+ <name>4980 GJERSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4980:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4980"><strong>Meir info om 4980 GJERSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4980</styleUrl>
+ <Point>
+ <coordinates>9.0189,58.881</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4985">
+ <IconStyle id="icon4985">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4985.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4985">
+ <name>4985 VEGÅRSHEI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4985:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vegårshei kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4985"><strong>Meir info om 4985 VEGÅRSHEI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4985</styleUrl>
+ <Point>
+ <coordinates>8.8627,58.7493</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4990">
+ <IconStyle id="icon4990">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4990.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4990">
+ <name>4990 SØNDELED</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4990:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4990"><strong>Meir info om 4990 SØNDELED</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4990</styleUrl>
+ <Point>
+ <coordinates>9.0755,58.7603</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4993">
+ <IconStyle id="icon4993">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4993.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4993">
+ <name>4993 SUNDEBRU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4993:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gjerstad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4993"><strong>Meir info om 4993 SUNDEBRU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4993</styleUrl>
+ <Point>
+ <coordinates>9.0870,58.8382</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4994">
+ <IconStyle id="icon4994">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4994.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4994">
+ <name>4994 AKLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4994:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Risør kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4994"><strong>Meir info om 4994 AKLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4994</styleUrl>
+ <Point>
+ <coordinates>9.039,58.7321</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ålesund, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6000">
+ <IconStyle id="icon6000">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6000.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6000">
+ <name>6000 ÅLESUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6000:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6000"><strong>Meir info om 6000 ÅLESUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6000</styleUrl>
+ <Point>
+ <coordinates>6.15492,62.47225</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6001">
+ <IconStyle id="icon6001">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6001.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6001">
+ <name>6001 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6001:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6001"><strong>Meir info om 6001 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6001</styleUrl>
+ <Point>
+ <coordinates>6.15591,62.47155</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6002">
+ <IconStyle id="icon6002">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6002.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6002">
+ <name>6002 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6002:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6002"><strong>Meir info om 6002 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6002</styleUrl>
+ <Point>
+ <coordinates>6.16050,62.47510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6003">
+ <IconStyle id="icon6003">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6003.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6003">
+ <name>6003 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6003:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6003"><strong>Meir info om 6003 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6003</styleUrl>
+ <Point>
+ <coordinates>6.16720,62.47200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6004">
+ <IconStyle id="icon6004">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6004.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6004">
+ <name>6004 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6004:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6004"><strong>Meir info om 6004 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6004</styleUrl>
+ <Point>
+ <coordinates>6.14890,62.47170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6005">
+ <IconStyle id="icon6005">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6005.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6005">
+ <name>6005 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6005:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6005"><strong>Meir info om 6005 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6005</styleUrl>
+ <Point>
+ <coordinates>6.13510,62.47050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6006">
+ <IconStyle id="icon6006">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6006.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6006">
+ <name>6006 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6006:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6006"><strong>Meir info om 6006 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6006</styleUrl>
+ <Point>
+ <coordinates>6.11380,62.46550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6007">
+ <IconStyle id="icon6007">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6007.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6007">
+ <name>6007 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6007:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6007"><strong>Meir info om 6007 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6007</styleUrl>
+ <Point>
+ <coordinates>6.18780,62.47340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6008">
+ <IconStyle id="icon6008">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6008.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6008">
+ <name>6008 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6008:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6008"><strong>Meir info om 6008 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6008</styleUrl>
+ <Point>
+ <coordinates>6.21130,62.47220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6009">
+ <IconStyle id="icon6009">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6009.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6009">
+ <name>6009 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6009:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6009"><strong>Meir info om 6009 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6009</styleUrl>
+ <Point>
+ <coordinates>6.24480,62.47430</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6010">
+ <IconStyle id="icon6010">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6010.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6010">
+ <name>6010 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6010:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6010"><strong>Meir info om 6010 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6010</styleUrl>
+ <Point>
+ <coordinates>6.36060,62.45520</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6011">
+ <IconStyle id="icon6011">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6011.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6011">
+ <name>6011 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6011:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6011"><strong>Meir info om 6011 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6011</styleUrl>
+ <Point>
+ <coordinates>6.38020,62.46720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6012">
+ <IconStyle id="icon6012">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6012.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6012">
+ <name>6012 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6012:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6012"><strong>Meir info om 6012 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6012</styleUrl>
+ <Point>
+ <coordinates>6.38000,62.43890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6013">
+ <IconStyle id="icon6013">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6013.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6013">
+ <name>6013 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6013:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6013"><strong>Meir info om 6013 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6013</styleUrl>
+ <Point>
+ <coordinates>6.43180,62.43110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6014">
+ <IconStyle id="icon6014">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6014.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6014">
+ <name>6014 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6014:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6014"><strong>Meir info om 6014 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6014</styleUrl>
+ <Point>
+ <coordinates>6.30580,62.46990</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6015">
+ <IconStyle id="icon6015">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6015.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6015">
+ <name>6015 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6015:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6015"><strong>Meir info om 6015 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6015</styleUrl>
+ <Point>
+ <coordinates>6.25550,62.46520</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6016">
+ <IconStyle id="icon6016">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6016.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6016">
+ <name>6016 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6016:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6016"><strong>Meir info om 6016 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6016</styleUrl>
+ <Point>
+ <coordinates>6.27350,62.46020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6017">
+ <IconStyle id="icon6017">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6017.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6017">
+ <name>6017 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6017:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6017"><strong>Meir info om 6017 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6017</styleUrl>
+ <Point>
+ <coordinates>6.31990,62.46370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6018">
+ <IconStyle id="icon6018">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6018.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6018">
+ <name>6018 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6018:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6018"><strong>Meir info om 6018 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6018</styleUrl>
+ <Point>
+ <coordinates>6.34740,62.46690</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6019">
+ <IconStyle id="icon6019">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6019.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6019">
+ <name>6019 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6019:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6019"><strong>Meir info om 6019 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6019</styleUrl>
+ <Point>
+ <coordinates>6.37640,62.47840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6020">
+ <IconStyle id="icon6020">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6020.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6020">
+ <name>6020 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6020:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6020"><strong>Meir info om 6020 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6020</styleUrl>
+ <Point>
+ <coordinates>6.35470,62.43720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6021">
+ <IconStyle id="icon6021">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6021.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6021">
+ <name>6021 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6021:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6021"><strong>Meir info om 6021 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6021</styleUrl>
+ <Point>
+ <coordinates>6.24035,62.47244</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6022">
+ <IconStyle id="icon6022">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6022.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6022">
+ <name>6022 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6022:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6022"><strong>Meir info om 6022 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6022</styleUrl>
+ <Point>
+ <coordinates>6.36103,62.46666</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6023">
+ <IconStyle id="icon6023">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6023.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6023">
+ <name>6023 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6023:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6023"><strong>Meir info om 6023 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6023</styleUrl>
+ <Point>
+ <coordinates>6.37246,62.44184</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6024">
+ <IconStyle id="icon6024">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6024.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6024">
+ <name>6024 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6024:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6024"><strong>Meir info om 6024 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6024</styleUrl>
+ <Point>
+ <coordinates>6.27871,62.46175</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6025">
+ <IconStyle id="icon6025">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6025.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6025">
+ <name>6025 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6025:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6025"><strong>Meir info om 6025 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6025</styleUrl>
+ <Point>
+ <coordinates>6.34780,62.47170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6026">
+ <IconStyle id="icon6026">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6026.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6026">
+ <name>6026 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6026:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6026"><strong>Meir info om 6026 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6026</styleUrl>
+ <Point>
+ <coordinates>6.31300,62.46450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6027">
+ <IconStyle id="icon6027">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6027.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6027">
+ <name>6027 ÅLESUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6027:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6027"><strong>Meir info om 6027 ÅLESUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6027</styleUrl>
+ <Point>
+ <coordinates>6.15591,62.47155</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6028">
+ <IconStyle id="icon6028">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6028.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6028">
+ <name>6028 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6028:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6028"><strong>Meir info om 6028 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6028</styleUrl>
+ <Point>
+ <coordinates>6.11447,62.46680</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6029">
+ <IconStyle id="icon6029">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6029.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6029">
+ <name>6029 ÅLESUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6029:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6029"><strong>Meir info om 6029 ÅLESUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6029</styleUrl>
+ <Point>
+ <coordinates>6.15591,62.47155</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6043">
+ <IconStyle id="icon6043">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6043.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6043">
+ <name>6043 ÅLESUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6043:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6043"><strong>Meir info om 6043 ÅLESUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6043</styleUrl>
+ <Point>
+ <coordinates>6.41280,62.43190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6044">
+ <IconStyle id="icon6044">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6044.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6044">
+ <name>6044 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6044:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6044"><strong>Meir info om 6044 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6044</styleUrl>
+ <Point>
+ <coordinates>6.41280,62.43190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6045">
+ <IconStyle id="icon6045">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6045.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6045">
+ <name>6045 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6045:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6045"><strong>Meir info om 6045 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6045</styleUrl>
+ <Point>
+ <coordinates>6.31719,62.46438</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6046">
+ <IconStyle id="icon6046">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6046.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6046">
+ <name>6046 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6046:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6046"><strong>Meir info om 6046 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6046</styleUrl>
+ <Point>
+ <coordinates>6.29202,62.46795</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6047">
+ <IconStyle id="icon6047">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6047.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6047">
+ <name>6047 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6047:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6047"><strong>Meir info om 6047 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6047</styleUrl>
+ <Point>
+ <coordinates>6.41280,62.43190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6048">
+ <IconStyle id="icon6048">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6048.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6048">
+ <name>6048 ÅLESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6048:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6048"><strong>Meir info om 6048 ÅLESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6048</styleUrl>
+ <Point>
+ <coordinates>6.41280,62.43190</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6057">
+ <IconStyle id="icon6057">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6057.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6057">
+ <name>6057 ELLINGSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6057:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6057"><strong>Meir info om 6057 ELLINGSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6057</styleUrl>
+ <Point>
+ <coordinates>6.19130,62.49130</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6240">
+ <IconStyle id="icon6240">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6240.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6240">
+ <name>6240 ØRSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6240:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6240"><strong>Meir info om 6240 ØRSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6240</styleUrl>
+ <Point>
+ <coordinates>6.81580,62.48320</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6249">
+ <IconStyle id="icon6249">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6249.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6249">
+ <name>6249 ØRSKOG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6249:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6249"><strong>Meir info om 6249 ØRSKOG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6249</styleUrl>
+ <Point>
+ <coordinates>6.81150,62.48278</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6260">
+ <IconStyle id="icon6260">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6260.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6260">
+ <name>6260 SKODJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6260:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6260"><strong>Meir info om 6260 SKODJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6260</styleUrl>
+ <Point>
+ <coordinates>6.70340,62.50210</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6263">
+ <IconStyle id="icon6263">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6263.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6263">
+ <name>6263 SKODJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6263:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6263"><strong>Meir info om 6263 SKODJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6263</styleUrl>
+ <Point>
+ <coordinates>6.68360,62.50510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6264">
+ <IconStyle id="icon6264">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6264.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6264">
+ <name>6264 TENNFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6264:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6264"><strong>Meir info om 6264 TENNFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6264</styleUrl>
+ <Point>
+ <coordinates>6.58410,62.53470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6265">
+ <IconStyle id="icon6265">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6265.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6265">
+ <name>6265 VATNE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6265:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6265"><strong>Meir info om 6265 VATNE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6265</styleUrl>
+ <Point>
+ <coordinates>6.61700,62.55830</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6270">
+ <IconStyle id="icon6270">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6270.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6270">
+ <name>6270 BRATTVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6270:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6270"><strong>Meir info om 6270 BRATTVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6270</styleUrl>
+ <Point>
+ <coordinates>6.44340,62.60020</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6272">
+ <IconStyle id="icon6272">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6272.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6272">
+ <name>6272 HILDRE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6272:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6272"><strong>Meir info om 6272 HILDRE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6272</styleUrl>
+ <Point>
+ <coordinates>6.33380,62.60380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6280">
+ <IconStyle id="icon6280">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6280.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6280">
+ <name>6280 SØVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6280:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6280"><strong>Meir info om 6280 SØVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6280</styleUrl>
+ <Point>
+ <coordinates>6.27950,62.54720</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6281">
+ <IconStyle id="icon6281">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6281.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6281">
+ <name>6281 SØVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6281:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6281"><strong>Meir info om 6281 SØVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6281</styleUrl>
+ <Point>
+ <coordinates>6.27883,62.54861</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6282">
+ <IconStyle id="icon6282">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6282.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6282">
+ <name>6282 BRATTVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6282:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6282"><strong>Meir info om 6282 BRATTVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6282</styleUrl>
+ <Point>
+ <coordinates>6.44636,62.59721</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6283">
+ <IconStyle id="icon6283">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6283.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6283">
+ <name>6283 VATNE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6283:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6283"><strong>Meir info om 6283 VATNE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6283</styleUrl>
+ <Point>
+ <coordinates>6.58892,62.54515</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6285">
+ <IconStyle id="icon6285">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6285.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6285">
+ <name>6285 STOREKALVØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6285:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6285"><strong>Meir info om 6285 STOREKALVØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6285</styleUrl>
+ <Point>
+ <coordinates>6.20320,62.52710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6290">
+ <IconStyle id="icon6290">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6290.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6290">
+ <name>6290 HARAMSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6290:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6290"><strong>Meir info om 6290 HARAMSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6290</styleUrl>
+ <Point>
+ <coordinates>6.27200,62.63750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6291">
+ <IconStyle id="icon6291">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6291.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6291">
+ <name>6291 HARAMSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6291:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6291"><strong>Meir info om 6291 HARAMSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6291</styleUrl>
+ <Point>
+ <coordinates>6.27204,62.63752</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6292">
+ <IconStyle id="icon6292">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6292.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6292">
+ <name>6292 KJERSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6292:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6292"><strong>Meir info om 6292 KJERSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6292</styleUrl>
+ <Point>
+ <coordinates>6.20511,62.61013</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6293">
+ <IconStyle id="icon6293">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6293.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6293">
+ <name>6293 LONGVA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6293:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6293"><strong>Meir info om 6293 LONGVA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6293</styleUrl>
+ <Point>
+ <coordinates>6.27900,62.66380</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6294">
+ <IconStyle id="icon6294">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6294.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6294">
+ <name>6294 FJØRTOFT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6294:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6294"><strong>Meir info om 6294 FJØRTOFT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6294</styleUrl>
+ <Point>
+ <coordinates>6.37478,62.70630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6295">
+ <IconStyle id="icon6295">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6295.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6295">
+ <name>6295 MYKLEBOST (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6295:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6295"><strong>Meir info om 6295 MYKLEBOST (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6295</styleUrl>
+ <Point>
+ <coordinates>6.45380,62.72760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6296">
+ <IconStyle id="icon6296">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6296.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6296">
+ <name>6296 HARØY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6296:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6296"><strong>Meir info om 6296 HARØY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6296</styleUrl>
+ <Point>
+ <coordinates>6.47305,62.78297</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6424">
+ <IconStyle id="icon6424">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6424.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6424">
+ <name>6424 SANDØY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6424:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6424"><strong>Meir info om 6424 SANDØY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6424</styleUrl>
+ <Point>
+ <coordinates>6.58406,62.81857</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6426">
+ <IconStyle id="icon6426">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6426.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6426">
+ <name>6426 ORTEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6426:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6426"><strong>Meir info om 6426 ORTEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6426</styleUrl>
+ <Point>
+ <coordinates>6.65543,62.78515</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6483">
+ <IconStyle id="icon6483">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6483.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6483">
+ <name>6483 ONA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6483:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6483"><strong>Meir info om 6483 ONA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6483</styleUrl>
+ <Point>
+ <coordinates>6.54411,62.86169</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6484">
+ <IconStyle id="icon6484">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6484.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6484">
+ <name>6484 SANDØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6484:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6484"><strong>Meir info om 6484 SANDØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6484</styleUrl>
+ <Point>
+ <coordinates>6.58406,62.81857</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6485">
+ <IconStyle id="icon6485">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6485.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6485">
+ <name>6485 HARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6485:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6485"><strong>Meir info om 6485 HARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6485</styleUrl>
+ <Point>
+ <coordinates>6.47305,62.78297</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6487">
+ <IconStyle id="icon6487">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6487.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6487">
+ <name>6487 HARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6487:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6487"><strong>Meir info om 6487 HARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6487</styleUrl>
+ <Point>
+ <coordinates>6.47305,62.78297</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6488">
+ <IconStyle id="icon6488">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6488.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6488">
+ <name>6488 MYKLEBOST</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6488:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ålesund kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6488"><strong>Meir info om 6488 MYKLEBOST</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6488</styleUrl>
+ <Point>
+ <coordinates>6.45380,62.72760</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3058 SOLBERGMOEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3058">
+ <name>3058 SOLBERGMOEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3058:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drammen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3058"><strong>Meir info om 3058 SOLBERGMOEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.05640,59.75930</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3058 SOLBERGMOEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.04610,59.76510 10.04544,59.76463 10.04608,59.76166 10.04507,59.76027 10.04442,59.75893 10.04349,59.75880 10.04143,59.75863 10.03900,59.75828 10.03579,59.75834 10.03513,59.75833 10.03493,59.75771 10.03699,59.75736 10.03765,59.75624 10.03795,59.75562 10.04347,59.75542 10.05692,59.75518 10.06256,59.75526 10.06276,59.75631 10.06333,59.75760 10.06420,59.75901 10.06143,59.76060 10.06059,59.76108 10.06076,59.76118 10.06047,59.76137 10.05983,59.76109 10.05943,59.76134 10.05946,59.76139 10.05898,59.76188 10.06234,59.76281 10.06153,59.76320 10.06110,59.76336 10.06101,59.76357 10.06008,59.76375 10.05978,59.76378 10.05840,59.76347 10.05750,59.76430 10.05784,59.76443 10.05815,59.76430 10.05860,59.76452 10.05808,59.76516 10.05590,59.76488 10.05579,59.76559 10.05076,59.76515 10.04610,59.76510</coordinates></LineString></Placemark>
+ </Document>
+</kml>

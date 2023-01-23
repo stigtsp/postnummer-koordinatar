@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1830 ASKIM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1830">
+ <name>1830 ASKIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1830:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1830"><strong>Meir info om 1830 ASKIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.16330,59.58310</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1830 ASKIM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.16000,59.58490 11.15966,59.58380 11.15933,59.58382 11.15921,59.58365 11.15916,59.58341 11.15960,59.58335 11.15939,59.58291 11.15905,59.58260 11.15802,59.58243 11.15860,59.58226 11.16010,59.58153 11.16141,59.58095 11.16344,59.58089 11.16417,59.58083 11.16526,59.58049 11.16702,59.58028 11.16798,59.58030 11.16956,59.58060 11.16830,59.58084 11.16551,59.58158 11.16585,59.58222 11.16603,59.58275 11.16647,59.58343 11.16669,59.58342 11.16658,59.58396 11.16817,59.58409 11.16801,59.58465 11.16918,59.58475 11.16916,59.58500 11.16955,59.58504 11.16940,59.58527 11.16963,59.58531 11.16931,59.58596 11.16913,59.58627 11.16840,59.58619 11.16735,59.58608 11.16748,59.58580 11.16629,59.58570 11.16484,59.58476 11.16449,59.58454 11.16372,59.58404 11.16352,59.58422 11.16299,59.58407 11.16109,59.58529 11.16000,59.58490</coordinates></LineString></Placemark>
+ </Document>
+</kml>

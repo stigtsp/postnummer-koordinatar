@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bardu, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9250">
+ <IconStyle id="icon9250">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9250.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9250">
+ <name>9250 BARDU (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9250:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bardu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9250"><strong>Meir info om 9250 BARDU (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9250</styleUrl>
+ <Point>
+ <coordinates>18.3486,68.8610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9360">
+ <IconStyle id="icon9360">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9360.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9360">
+ <name>9360 BARDU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9360:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bardu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9360"><strong>Meir info om 9360 BARDU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9360</styleUrl>
+ <Point>
+ <coordinates>18.3486,68.861</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9365">
+ <IconStyle id="icon9365">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9365.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9365">
+ <name>9365 BARDU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9365:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bardu kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9365"><strong>Meir info om 9365 BARDU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9365</styleUrl>
+ <Point>
+ <coordinates>18.3474,68.86199</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Bardu (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>18.4640574,68.5633254,0 18.4855298,68.5564899,0 18.5526001,68.53278,0 18.6212204,68.5069599,0 18.6849602,68.50851,0 18.7403101,68.51045,0 18.8296305,68.51288,0 18.9019698,68.51481,0 18.9838001,68.51696,0 19.0319604,68.50886,0 19.0911384,68.4989174,0 19.1399703,68.49068,0 19.2315402,68.4751501,0 19.2686904,68.4689101,0 19.3523303,68.45469,0 19.4494273,68.4382493,0 19.5009273,68.4293793,0 19.5541673,68.4202892,0 19.6532174,68.4032894,0 19.7076676,68.3939093,0 19.7810276,68.3809493,0 19.8249874,68.3731693,0 19.8279748,68.3726333,0 19.9214772,68.3560093,0 19.95454,68.3748499,0 19.9779599,68.3881599,0 20.01122,68.4021599,0 20.07036,68.42698,0 20.11057,68.44382,0 20.15421,68.4615399,0 20.2265402,68.49081,0 20.1405797,68.50802,0 20.0666399,68.52272,0 20.0258797,68.53081,0 20.0017198,68.53825,0 19.9375002,68.5579399,0 19.9375002,68.5579399,0 19.7213836,68.5656859,0 19.5991872,68.5964613,0 19.245239,68.7275515,0 19.2031023,68.7733663,0 19.0556239,68.7527613,0 19.0008462,68.8015719,0 18.8462382,68.8046324,0 18.8591826,68.8367454,0 18.7418201,68.8529402,0 18.658113,68.8971041,0 18.5933911,68.9014535,0 18.5666393,68.9343571,0 18.5830356,69.0469741,0 18.5260802,69.0519111,0 18.5036433,69.0272151,0 18.3750508,69.0501021,0 18.3750508,69.0501021,0 18.2269461,68.9982546,0 18.2269461,68.9982546,0 18.143239,68.9139689,0 18.1837981,68.8909825,0 18.1018169,68.8664165,0 18.07938,68.8657942,0 18.1320205,68.8221913,0 18.0923244,68.769442,0 17.9844544,68.7581893,0 18.0098983,68.7400235,0 18.0098983,68.7400235,0 17.9940198,68.7270027,0 18.0485589,68.7006874,0 18.0496591,68.6567518,0 17.9997693,68.6528255,0 18.0259668,68.6112028,0 18.0259668,68.6112028,0 18.1259208,68.5365099,0 18.1259208,68.5365099,0 18.2263605,68.5527299,0 18.2999201,68.5645399,0 18.3318703,68.5697901,0 18.3618827,68.5747062,0 18.3618827,68.5747062,0 18.4056901,68.58188,0 18.4388097,68.57136,0 18.4640574,68.5633254,0 18.4640574,68.5633254,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

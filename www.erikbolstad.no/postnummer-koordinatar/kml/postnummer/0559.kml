@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0559 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0559">
+ <name>0559 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0559:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0559"><strong>Meir info om 0559 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.76500,59.92040</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0559 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.76694,59.92131 10.76668,59.92141 10.76678,59.92167 10.76590,59.92183 10.76625,59.92148 10.76496,59.92112 10.76473,59.92135 10.76444,59.92127 10.76478,59.92084 10.76453,59.92066 10.76428,59.92059 10.76500,59.91989 10.76416,59.91966 10.76411,59.91968 10.76402,59.91977 10.76432,59.91986 10.76419,59.91999 10.76457,59.92010 10.76405,59.92055 10.76339,59.92036 10.76308,59.92027 10.76357,59.91983 10.76386,59.91991 10.76401,59.91977 10.76411,59.91968 10.76416,59.91965 10.76500,59.91989 10.76599,59.92017 10.76615,59.92017 10.76638,59.92026 10.76708,59.92045 10.76854,59.92094 10.76882,59.92119 10.76802,59.92120 10.76775,59.92120 10.76770,59.92108 10.76688,59.92117 10.76694,59.92131</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0559 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.76223,59.91991 10.76214,59.91999 10.76175,59.91988 10.76183,59.91981 10.76198,59.91967 10.76250,59.91980 10.76285,59.91938 10.76339,59.91952 10.76307,59.91980 10.76332,59.91984 10.76292,59.92020 10.76262,59.92012 10.76235,59.92036 10.76200,59.92026 10.76237,59.91995 10.76223,59.91991</coordinates></LineString></Placemark>
+ </Document>
+</kml>

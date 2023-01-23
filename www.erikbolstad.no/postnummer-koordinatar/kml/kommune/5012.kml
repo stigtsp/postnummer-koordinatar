@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Snillfjord, Trøndelag</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style7220">
+ <IconStyle id="icon7220">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7220.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7220">
+ <name>7220 SUNDLANDET (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7220:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Snillfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7220"><strong>Meir info om 7220 SUNDLANDET (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7220</styleUrl>
+ <Point>
+ <coordinates>9.1798,63.4965</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7255">
+ <IconStyle id="icon7255">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7255.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7255">
+ <name>7255 SUNDLANDET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7255:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Snillfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7255"><strong>Meir info om 7255 SUNDLANDET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7255</styleUrl>
+ <Point>
+ <coordinates>9.1798,63.4965</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7256">
+ <IconStyle id="icon7256">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7256.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7256">
+ <name>7256 HEMNSKJELA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7256:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Snillfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7256"><strong>Meir info om 7256 HEMNSKJELA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7256</styleUrl>
+ <Point>
+ <coordinates>9.1319,63.4950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7257">
+ <IconStyle id="icon7257">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7257.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7257">
+ <name>7257 SNILLFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7257:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Snillfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7257"><strong>Meir info om 7257 SNILLFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7257</styleUrl>
+ <Point>
+ <coordinates>9.497,63.4002</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style7259">
+ <IconStyle id="icon7259">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/7259.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer7259">
+ <name>7259 SNILLFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7259:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Snillfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7259"><strong>Meir info om 7259 SNILLFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style7259</styleUrl>
+ <Point>
+ <coordinates>9.50156,63.40026</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

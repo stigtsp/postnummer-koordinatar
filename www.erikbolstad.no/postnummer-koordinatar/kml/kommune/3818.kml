@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Tinn, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3650">
+ <IconStyle id="icon3650">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3650.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3650">
+ <name>3650 TINN AUSTBYGD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3650:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3650"><strong>Meir info om 3650 TINN AUSTBYGD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3650</styleUrl>
+ <Point>
+ <coordinates>8.82890,59.99510</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3652">
+ <IconStyle id="icon3652">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3652.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3652">
+ <name>3652 HOVIN I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3652:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3652"><strong>Meir info om 3652 HOVIN I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3652</styleUrl>
+ <Point>
+ <coordinates>9.02390,59.86050</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3656">
+ <IconStyle id="icon3656">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3656.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3656">
+ <name>3656 ATRÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3656:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3656"><strong>Meir info om 3656 ATRÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3656</styleUrl>
+ <Point>
+ <coordinates>8.73410,59.98590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3658">
+ <IconStyle id="icon3658">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3658.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3658">
+ <name>3658 MILAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3658:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3658"><strong>Meir info om 3658 MILAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3658</styleUrl>
+ <Point>
+ <coordinates>8.75370,59.92620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3660">
+ <IconStyle id="icon3660">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3660.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3660">
+ <name>3660 RJUKAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3660:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3660"><strong>Meir info om 3660 RJUKAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3660</styleUrl>
+ <Point>
+ <coordinates>8.59410,59.87890</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3661">
+ <IconStyle id="icon3661">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3661.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3661">
+ <name>3661 RJUKAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3661:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3661"><strong>Meir info om 3661 RJUKAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3661</styleUrl>
+ <Point>
+ <coordinates>8.59145,59.87929</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3666">
+ <IconStyle id="icon3666">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3666.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3666">
+ <name>3666 ATRÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3666:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3666"><strong>Meir info om 3666 ATRÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3666</styleUrl>
+ <Point>
+ <coordinates>8.82686,59.99504</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3699">
+ <IconStyle id="icon3699">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3699.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3699">
+ <name>3699 GAUSTATOPPEN TURISTHYTTE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3699:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3699"><strong>Meir info om 3699 GAUSTATOPPEN TURISTHYTTE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3699</styleUrl>
+ <Point>
+ <coordinates>8.65500,59.85040</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2674 MYSUSÆTER</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2674">
+ <name>2674 MYSUSÆTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2674:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sel kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2674"><strong>Meir info om 2674 MYSUSÆTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.68200,61.81240</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2674 MYSUSÆTER</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.76387,61.82373 9.74597,61.82514 9.69778,61.83797 9.65283,61.83854 9.64433,61.82633 9.64545,61.82501 9.64578,61.82440 9.64689,61.82183 9.64863,61.81949 9.65103,61.81844 9.65122,61.81729 9.64570,61.81342 9.64294,61.81404 9.64050,61.81405 9.63852,61.81272 9.63645,61.81191 9.63421,61.81203 9.63057,61.81262 9.62417,61.80798 9.65298,61.78454 9.65334,61.76764 9.67261,61.76037 9.67705,61.75869 9.67734,61.75888 9.68424,61.76326 9.68751,61.76533 9.69008,61.76696 9.69105,61.76758 9.69120,61.76767 9.69383,61.76935 9.69618,61.77084 9.69622,61.77086 9.74002,61.78414 9.74307,61.78584 9.75406,61.81788 9.76387,61.82373</coordinates></LineString></Placemark>
+ </Document>
+</kml>

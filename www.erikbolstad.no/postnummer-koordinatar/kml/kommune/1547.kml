@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Aukra, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6409">
+ <IconStyle id="icon6409">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6409.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6409">
+ <name>6409 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6409:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aukra kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6409"><strong>Meir info om 6409 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6409</styleUrl>
+ <Point>
+ <coordinates>6.99610,62.77110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6420">
+ <IconStyle id="icon6420">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6420.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6420">
+ <name>6420 AUKRA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6420:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aukra kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6420"><strong>Meir info om 6420 AUKRA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6420</styleUrl>
+ <Point>
+ <coordinates>6.91820,62.79110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6480">
+ <IconStyle id="icon6480">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6480.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6480">
+ <name>6480 AUKRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6480:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aukra kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6480"><strong>Meir info om 6480 AUKRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6480</styleUrl>
+ <Point>
+ <coordinates>6.91820,62.79110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6481">
+ <IconStyle id="icon6481">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6481.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6481">
+ <name>6481 AUKRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6481:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aukra kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6481"><strong>Meir info om 6481 AUKRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6481</styleUrl>
+ <Point>
+ <coordinates>6.88294,62.81310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6486">
+ <IconStyle id="icon6486">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6486.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6486">
+ <name>6486 ORTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6486:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aukra kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6486"><strong>Meir info om 6486 ORTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6486</styleUrl>
+ <Point>
+ <coordinates>6.65543,62.78515</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Aukra (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.0493335,62.7540651,0 6.9556995,62.7529935,0 6.9556995,62.7529935,0 6.6964506,62.7677257,0 6.6964506,62.7677257,0 6.747364,62.8223048,0 6.7069844,62.8911865,0 6.6028167,62.9314261,0 6.338492,63.0934323,0 6.338492,63.0934323,0 6.4986572,63.1470935,0 6.4986572,63.1470935,0 6.7614091,62.9883599,0 6.7871585,62.883452,0 6.9358023,62.8741146,0 6.9849601,62.8546299,0 6.9510178,62.7899441,0 7.0189024,62.7816476,0 7.0493335,62.7540651,0 7.0493335,62.7540651,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Giske, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6040">
+ <IconStyle id="icon6040">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6040.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6040">
+ <name>6040 VIGRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6040:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Giske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6040"><strong>Meir info om 6040 VIGRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6040</styleUrl>
+ <Point>
+ <coordinates>6.09130,62.56730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6050">
+ <IconStyle id="icon6050">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6050.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6050">
+ <name>6050 VALDERØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6050:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Giske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6050"><strong>Meir info om 6050 VALDERØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6050</styleUrl>
+ <Point>
+ <coordinates>6.12490,62.50620</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6051">
+ <IconStyle id="icon6051">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6051.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6051">
+ <name>6051 VALDERØYA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6051:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Giske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6051"><strong>Meir info om 6051 VALDERØYA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6051</styleUrl>
+ <Point>
+ <coordinates>6.10288,62.50680</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6052">
+ <IconStyle id="icon6052">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6052.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6052">
+ <name>6052 GISKE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6052:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Giske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6052"><strong>Meir info om 6052 GISKE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6052</styleUrl>
+ <Point>
+ <coordinates>6.04810,62.50480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6054">
+ <IconStyle id="icon6054">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6054.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6054">
+ <name>6054 GODØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6054:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Giske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6054"><strong>Meir info om 6054 GODØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6054</styleUrl>
+ <Point>
+ <coordinates>6.03855,62.47574</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6055">
+ <IconStyle id="icon6055">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6055.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6055">
+ <name>6055 GODØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6055:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Giske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6055"><strong>Meir info om 6055 GODØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6055</styleUrl>
+ <Point>
+ <coordinates>6.03855,62.47574</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6058">
+ <IconStyle id="icon6058">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6058.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6058">
+ <name>6058 VALDERØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6058:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Giske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6058"><strong>Meir info om 6058 VALDERØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6058</styleUrl>
+ <Point>
+ <coordinates>6.12483,62.50623</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6059">
+ <IconStyle id="icon6059">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6059.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6059">
+ <name>6059 VIGRA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6059:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Giske kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6059"><strong>Meir info om 6059 VIGRA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6059</styleUrl>
+ <Point>
+ <coordinates>6.12304,62.58226</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Giske (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.0539772,62.4559916,0 6.0137438,62.4475336,0 6.0137438,62.4475336,0 5.9544911,62.4465185,0 5.9544911,62.4465185,0 5.8849972,62.448887,0 5.8052621,62.489462,0 5.6838306,62.5158062,0 5.6838306,62.5158062,0 5.657496,62.5313317,0 5.3401203,62.6677811,0 5.3401203,62.6677811,0 5.6400415,62.8118554,0 5.6400415,62.8118554,0 5.950102,62.6787559,0 6.1797978,62.5866174,0 6.1600468,62.5222199,0 6.1907705,62.5120924,0 6.1907705,62.5120924,0 6.0686075,62.4776334,0 6.0539772,62.4559916,0 6.0539772,62.4559916,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

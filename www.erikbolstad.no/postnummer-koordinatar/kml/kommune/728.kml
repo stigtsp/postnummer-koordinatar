@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Lardal, Vestfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Lardal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.7763345,59.4129831,0 9.7835539,59.3510012,0 9.7536452,59.3247035,0 9.8609039,59.2562341,0 9.8609039,59.2562341,0 9.9155647,59.2889059,0 9.8877186,59.3078622,0 9.9052513,59.3289125,0 10.0142132,59.3261779,0 10.0142132,59.3261779,0 10.0419355,59.3827681,0 10.0419355,59.3827681,0 10.061077,59.4559731,0 10.061077,59.4559731,0 10.0600372,59.4758482,0 10.0600372,59.4758482,0 10.0083847,59.4607054,0 9.9434107,59.470137,0 9.9207213,59.4575609,0 9.8134626,59.4696131,0 9.7567392,59.4596573,0 9.7763345,59.4129831,0 9.7763345,59.4129831,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

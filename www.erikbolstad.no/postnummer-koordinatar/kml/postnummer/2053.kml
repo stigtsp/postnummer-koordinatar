@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2053 JESSHEIM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2053">
+ <name>2053 JESSHEIM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2053:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ullensaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2053"><strong>Meir info om 2053 JESSHEIM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.18850,60.13660</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2053 JESSHEIM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.17817,60.14445 11.17741,60.14299 11.17676,60.14127 11.17586,60.13967 11.17422,60.13796 11.17243,60.13668 11.16965,60.13524 11.16790,60.13446 11.16675,60.13384 11.16617,60.13348 11.16524,60.13285 11.16468,60.13238 11.16414,60.13180 11.16334,60.13091 11.16306,60.13055 11.16350,60.13007 11.16491,60.12923 11.16796,60.12840 11.17653,60.12742 11.18008,60.12894 11.19351,60.12939 11.19725,60.12786 11.19956,60.13371 11.19997,60.13432 11.20137,60.13500 11.20174,60.13548 11.20198,60.13606 11.20058,60.13618 11.19964,60.13722 11.19964,60.13820 11.19963,60.13828 11.19899,60.13896 11.19830,60.13919 11.19726,60.13955 11.19713,60.13958 11.19662,60.13938 11.19520,60.13905 11.19510,60.14065 11.19090,60.14057 11.18947,60.14080 11.18872,60.14220 11.18854,60.14346 11.18325,60.14391 11.17817,60.14445</coordinates></LineString></Placemark>
+ </Document>
+</kml>

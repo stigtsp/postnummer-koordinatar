@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1161 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1161">
+ <name>1161 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1161:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1161"><strong>Meir info om 1161 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.79620,59.86990</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1161 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.79381,59.86991 10.79434,59.86989 10.79460,59.86919 10.79501,59.86899 10.79555,59.86764 10.79704,59.86701 10.79935,59.86739 10.79865,59.86873 10.79985,59.86958 10.79927,59.87096 10.79884,59.87091 10.79863,59.87128 10.79770,59.87108 10.79700,59.87090 10.79592,59.87083 10.79591,59.87050 10.79532,59.87046 10.79507,59.87101 10.79527,59.87098 10.79546,59.87095 10.79571,59.87093 10.79602,59.87094 10.79614,59.87098 10.79593,59.87124 10.79580,59.87137 10.79565,59.87146 10.79556,59.87160 10.79476,59.87186 10.79457,59.87221 10.79424,59.87188 10.79450,59.87101 10.79327,59.87090 10.79381,59.86991</coordinates></LineString></Placemark>
+ </Document>
+</kml>

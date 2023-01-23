@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sauda, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4200">
+ <IconStyle id="icon4200">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4200.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4200">
+ <name>4200 SAUDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4200:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4200"><strong>Meir info om 4200 SAUDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4200</styleUrl>
+ <Point>
+ <coordinates>6.35420,59.65060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4201">
+ <IconStyle id="icon4201">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4201.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4201">
+ <name>4201 SAUDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4201:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4201"><strong>Meir info om 4201 SAUDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4201</styleUrl>
+ <Point>
+ <coordinates>6.35651,59.64983</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4208">
+ <IconStyle id="icon4208">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4208.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4208">
+ <name>4208 SAUDASJØEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4208:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauda kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4208"><strong>Meir info om 4208 SAUDASJØEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4208</styleUrl>
+ <Point>
+ <coordinates>6.30330,59.63830</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sauda (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.1828646,59.5879701,0 6.1838959,59.6411798,0 6.224118,59.6870185,0 6.2694967,59.7041918,0 6.2725907,59.7416304,0 6.32622,59.7831797,0 6.4241968,59.7904455,0 6.5238007,59.8390933,0 6.5238007,59.8390933,0 6.6568427,59.846347,0 6.6857201,59.8323564,0 6.6877828,59.7669893,0 6.6547801,59.713459,0 6.6877828,59.6968108,0 6.6877828,59.6968108,0 6.5506162,59.6207605,0 6.4064794,59.5918092,0 6.3605932,59.5668666,0 6.2843411,59.5648157,0 6.1828646,59.5879701,0 6.1828646,59.5879701,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

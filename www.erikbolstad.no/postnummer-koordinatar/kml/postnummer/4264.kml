@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>4264 KVALAVÅG</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer4264">
+ <name>4264 KVALAVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4264:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Karmøy kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4264"><strong>Meir info om 4264 KVALAVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>5.20908,59.32210</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 4264 KVALAVÅG</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.09929,59.33136 5.13298,59.32194 5.17299,59.31462 5.20457,59.31382 5.21469,59.31434 5.22351,59.31158 5.24252,59.31465 5.23916,59.32454 5.23712,59.32483 5.23006,59.32608 5.23113,59.32762 5.21404,59.33715 5.21010,59.34034 5.20728,59.34279 5.19234,59.34525 5.18270,59.35466 5.18002,59.36432 5.12440,59.34048 5.09929,59.33136</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nesseby, Finnmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9820">
+ <IconStyle id="icon9820">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9820.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9820">
+ <name>9820 VARANGERBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9820:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesseby kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9820"><strong>Meir info om 9820 VARANGERBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9820</styleUrl>
+ <Point>
+ <coordinates>28.5535,70.1730</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9840">
+ <IconStyle id="icon9840">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9840.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9840">
+ <name>9840 VARANGERBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9840:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nesseby kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9840"><strong>Meir info om 9840 VARANGERBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9840</styleUrl>
+ <Point>
+ <coordinates>28.5557,70.1731</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nesseby (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>28.3452694,69.8808318,0 28.3384067,69.8661497,0 28.3304762,69.8491926,0 28.3304762,69.8491926,0 28.7213955,69.9351178,0 29.3267927,69.968107,0 29.3491519,70.0674368,0 29.3491519,70.0674368,0 29.1434475,70.0918146,0 29.2149969,70.1526341,0 29.183694,70.2284078,0 29.2686589,70.3039038,0 29.2731307,70.3776212,0 29.0853137,70.3791228,0 28.9835981,70.4077844,0 28.9835981,70.4077844,0 28.8028931,70.3380883,0 28.5381606,70.339292,0 28.3378224,70.1967691,0 28.3020477,70.0898358,0 28.3770429,69.9381339,0 28.3452694,69.8808318,0 28.3452694,69.8808318,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Træna, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8742">
+ <IconStyle id="icon8742">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8742.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8742">
+ <name>8742 SELVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8742:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Træna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8742"><strong>Meir info om 8742 SELVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8742</styleUrl>
+ <Point>
+ <coordinates>12.22560,66.58470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8770">
+ <IconStyle id="icon8770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8770">
+ <name>8770 TRÆNA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8770:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Træna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8770"><strong>Meir info om 8770 TRÆNA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8770</styleUrl>
+ <Point>
+ <coordinates>12.10149,66.50119</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8772">
+ <IconStyle id="icon8772">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8772.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8772">
+ <name>8772 SELVÆR (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8772:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Træna kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8772"><strong>Meir info om 8772 SELVÆR (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8772</styleUrl>
+ <Point>
+ <coordinates>12.22560,66.58470</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Træna (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>12.4184592,66.6460664,0 12.3110425,66.715164,0 12.1850344,66.7592198,0 11.8582632,66.8152877,0 11.8582632,66.8152877,0 11.5764282,66.6804733,0 11.2997599,66.4065653,0 11.2997599,66.4065653,0 11.7235265,66.3335069,0 11.8399807,66.3168915,0 11.8399807,66.3168915,0 11.9929237,66.3374939,0 11.9929237,66.3374939,0 12.2294471,66.4528828,0 12.3492581,66.4495816,0 12.4360177,66.4660834,0 12.363718,66.5878586,0 12.4184592,66.6460664,0 12.4184592,66.6460664,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

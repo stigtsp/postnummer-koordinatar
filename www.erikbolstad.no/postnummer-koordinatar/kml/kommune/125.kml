@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Eidsberg, Østfold</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1850">
+ <IconStyle id="icon1850">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1850.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1850">
+ <name>1850 MYSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1850:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1850"><strong>Meir info om 1850 MYSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1850</styleUrl>
+ <Point>
+ <coordinates>11.3258,59.5535</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1851">
+ <IconStyle id="icon1851">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1851.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1851">
+ <name>1851 MYSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1851:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1851"><strong>Meir info om 1851 MYSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1851</styleUrl>
+ <Point>
+ <coordinates>11.33273,59.55329</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1852">
+ <IconStyle id="icon1852">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1852.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1852">
+ <name>1852 MYSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1852:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1852"><strong>Meir info om 1852 MYSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1852</styleUrl>
+ <Point>
+ <coordinates>11.3733,59.5443</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1859">
+ <IconStyle id="icon1859">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1859.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1859">
+ <name>1859 SLITU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1859:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1859"><strong>Meir info om 1859 SLITU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1859</styleUrl>
+ <Point>
+ <coordinates>11.2615,59.5854</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1878">
+ <IconStyle id="icon1878">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1878.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1878">
+ <name>1878 HÆRLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1878:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1878"><strong>Meir info om 1878 HÆRLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1878</styleUrl>
+ <Point>
+ <coordinates>11.4237,59.5533</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1880">
+ <IconStyle id="icon1880">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1880.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1880">
+ <name>1880 EIDSBERG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1880:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidsberg kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1880"><strong>Meir info om 1880 EIDSBERG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1880</styleUrl>
+ <Point>
+ <coordinates>11.3037,59.5134</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Eidsberg (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.5505346,59.4713164,0 11.4176371,59.4841758,0 11.4011526,59.4837233,0 11.3917965,59.4803297,0 11.3748665,59.4672044,0 11.3343236,59.4807822,0 11.3116017,59.4522626,0 11.2844246,59.4712783,0 11.2291792,59.473994,0 11.2291792,59.473994,0 11.2398719,59.4972945,0 11.1864435,59.5407287,0 11.1864435,59.5407287,0 11.2287685,59.5779732,0 11.2599554,59.5944379,0 11.249167,59.6035487,0 11.249167,59.6035487,0 11.2842523,59.6058029,0 11.2926059,59.5973488,0 11.2681019,59.5919935,0 11.3070855,59.5728201,0 11.3761422,59.5979125,0 11.3984185,59.5914297,0 11.3989754,59.6089022,0 11.4468695,59.6032669,0 11.478918,59.6014577,0 11.478918,59.6014577,0 11.4941554,59.5964289,0 11.4941554,59.5964289,0 11.5418329,59.56236,0 11.529868,59.5005875,0 11.5505346,59.4713164,0 11.5505346,59.4713164,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

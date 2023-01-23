@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nissedal, Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3854">
+ <IconStyle id="icon3854">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3854.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3854">
+ <name>3854 NISSEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3854:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3854"><strong>Meir info om 3854 NISSEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3854</styleUrl>
+ <Point>
+ <coordinates>8.5353,59.1603</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3855">
+ <IconStyle id="icon3855">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3855.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3855">
+ <name>3855 TREUNGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3855:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3855"><strong>Meir info om 3855 TREUNGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3855</styleUrl>
+ <Point>
+ <coordinates>8.5201,59.0206</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3883">
+ <IconStyle id="icon3883">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3883.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3883">
+ <name>3883 TREUNGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3883:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3883"><strong>Meir info om 3883 TREUNGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3883</styleUrl>
+ <Point>
+ <coordinates>8.52502,59.01924</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4860">
+ <IconStyle id="icon4860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4860">
+ <name>4860 TREUNGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4860:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4860"><strong>Meir info om 4860 TREUNGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4860</styleUrl>
+ <Point>
+ <coordinates>8.52502,59.01924</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nissedal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.305801,58.9307983,0 8.3467966,58.9515828,0 8.3113445,58.9814906,0 8.4031977,59.0254741,0 8.3686093,59.0304499,0 8.3750165,59.0814196,0 8.3032356,59.1195526,0 8.3362383,59.1415656,0 8.29581,59.174136,0 8.2873531,59.2328532,0 8.3517083,59.2611198,0 8.3517083,59.2611198,0 8.4870193,59.2682881,0 8.5183719,59.2497316,0 8.5924537,59.2439302,0 8.5924537,59.2439302,0 8.6923642,59.181243,0 8.6971986,59.1473771,0 8.7358736,59.1184406,0 8.6617465,59.1002394,0 8.6698038,59.0596657,0 8.8343274,58.9904043,0 8.8343274,58.9904043,0 8.7544958,58.9441019,0 8.828623,58.9141617,0 8.7931709,58.8675365,0 8.7931709,58.8675365,0 8.7866477,58.8459077,0 8.7433316,58.8333603,0 8.7433316,58.8333603,0 8.649751,58.8733681,0 8.5756238,58.9324616,0 8.4782272,58.8899578,0 8.305801,58.9307983,0 8.305801,58.9307983,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

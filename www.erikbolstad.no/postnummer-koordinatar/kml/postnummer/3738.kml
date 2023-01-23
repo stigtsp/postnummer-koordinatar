@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3738 SKIEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3738">
+ <name>3738 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3738:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3738"><strong>Meir info om 3738 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.61370,59.14840</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3738 SKIEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.59323,59.15265 9.59548,59.15008 9.59956,59.14535 9.60150,59.14380 9.60271,59.14365 9.60314,59.14539 9.60515,59.14586 9.60842,59.14661 9.61243,59.14576 9.61484,59.14637 9.61751,59.14590 9.61933,59.14595 9.61913,59.14633 9.61891,59.14695 9.61965,59.14719 9.61797,59.14835 9.61699,59.14834 9.61664,59.14875 9.61886,59.14993 9.61713,59.15111 9.61599,59.15213 9.61486,59.15284 9.61351,59.15339 9.61357,59.15391 9.61046,59.15651 9.60665,59.15534 9.60507,59.15468 9.60148,59.15335 9.59323,59.15265</coordinates></LineString></Placemark>
+ </Document>
+</kml>

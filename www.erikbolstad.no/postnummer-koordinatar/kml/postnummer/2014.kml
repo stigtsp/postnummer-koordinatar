@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2014 BLYSTADLIA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2014">
+ <name>2014 BLYSTADLIA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2014:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Rælingen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2014"><strong>Meir info om 2014 BLYSTADLIA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.03860,59.93120</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2014 BLYSTADLIA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.03068,59.93146 11.03045,59.93110 11.03025,59.93084 11.03013,59.93070 11.03025,59.93027 11.03035,59.92990 11.03028,59.92937 11.03356,59.92855 11.04464,59.92812 11.04909,59.92918 11.04412,59.93296 11.03705,59.93763 11.03218,59.93332 11.03188,59.93262 11.03196,59.93198 11.03063,59.93212 11.03069,59.93174 11.03068,59.93146</coordinates></LineString></Placemark>
+ </Document>
+</kml>

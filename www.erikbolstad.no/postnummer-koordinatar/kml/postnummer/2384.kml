@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2384 BRUMUNDDAL</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2384">
+ <name>2384 BRUMUNDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2384:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ringsaker kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2384"><strong>Meir info om 2384 BRUMUNDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.87330,60.87850</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2384 BRUMUNDDAL</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.79729,60.88791 10.79834,60.88606 10.79518,60.88578 10.79138,60.88105 10.79036,60.88091 10.79054,60.87996 10.79997,60.87439 10.80985,60.87116 10.81069,60.87087 10.81087,60.86971 10.81235,60.86960 10.81455,60.86740 10.81550,60.86586 10.83016,60.86417 10.83987,60.86209 10.84339,60.86074 10.84810,60.86061 10.85896,60.85621 10.86356,60.85487 10.85862,60.85051 10.86830,60.84388 10.87555,60.84020 10.87463,60.83506 10.89026,60.84339 10.89570,60.84565 10.89839,60.84524 10.89959,60.84797 10.90797,60.84749 10.91518,60.84839 10.91884,60.84791 10.92553,60.84869 10.92964,60.84881 10.92732,60.86025 10.93246,60.87479 10.92567,60.87658 10.91850,60.87633 10.90535,60.88167 10.91236,60.88426 10.91234,60.88440 10.91208,60.88447 10.91189,60.88505 10.91236,60.88551 10.91224,60.88598 10.91231,60.88617 10.91210,60.88659 10.91229,60.88694 10.91205,60.88729 10.91125,60.88731 10.91088,60.88832 10.91069,60.88892 10.91081,60.88939 10.91121,60.88973 10.91185,60.88996 10.91280,60.89014 10.91356,60.89042 10.91449,60.89203 10.91513,60.89312 10.91545,60.89341 10.91643,60.89385 10.91827,60.89419 10.91800,60.89556 10.91491,60.89546 10.90719,60.89247 10.89045,60.89236 10.88674,60.89336 10.88022,60.89537 10.87733,60.89601 10.87397,60.89821 10.85801,60.90046 10.85548,60.89717 10.85489,60.89712 10.85479,60.89625 10.85354,60.89632 10.85261,60.89634 10.85211,60.89695 10.84711,60.89693 10.84721,60.89616 10.84689,60.89532 10.84565,60.89421 10.84508,60.89373 10.84451,60.89317 10.84363,60.89287 10.83563,60.89155 10.82941,60.89479 10.82260,60.89450 10.81776,60.89408 10.81796,60.89255 10.82126,60.88927 10.81712,60.88817 10.79729,60.88791</coordinates></LineString></Placemark>
+ </Document>
+</kml>

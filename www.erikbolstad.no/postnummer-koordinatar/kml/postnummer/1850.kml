@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1850 MYSEN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1850">
+ <name>1850 MYSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1850:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Indre Østfold kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1850"><strong>Meir info om 1850 MYSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.32580,59.55350</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1850 MYSEN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.28105,59.57029 11.28306,59.56846 11.28420,59.56567 11.28271,59.55812 11.28339,59.55240 11.28198,59.54988 11.28197,59.54903 11.28401,59.54830 11.28216,59.54763 11.28065,59.54641 11.28031,59.54559 11.28125,59.54491 11.28222,59.54386 11.28244,59.54039 11.28532,59.53747 11.28806,59.53668 11.29018,59.53545 11.29050,59.53549 11.29189,59.53493 11.29329,59.53527 11.29801,59.53793 11.31150,59.53949 11.31631,59.54419 11.32088,59.53899 11.32934,59.53932 11.34445,59.54278 11.34698,59.54564 11.35153,59.54662 11.35873,59.54327 11.36881,59.54710 11.36785,59.55138 11.37323,59.55559 11.38337,59.55891 11.37941,59.56007 11.37561,59.56132 11.36960,59.56454 11.36199,59.56864 11.35508,59.57233 11.35022,59.57414 11.34474,59.57543 11.33947,59.57638 11.33408,59.57690 11.32873,59.57701 11.31826,59.57671 11.31522,59.58009 11.29704,59.58067 11.28332,59.57896 11.28442,59.57804 11.28362,59.57717 11.28328,59.57496 11.28281,59.57411 11.28002,59.57415 11.28041,59.57276 11.28105,59.57029</coordinates></LineString></Placemark>
+ </Document>
+</kml>

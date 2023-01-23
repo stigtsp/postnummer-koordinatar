@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Jondal, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5626">
+ <IconStyle id="icon5626">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5626.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5626">
+ <name>5626 KYSNESSTRAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5626:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jondal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5626"><strong>Meir info om 5626 KYSNESSTRAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5626</styleUrl>
+ <Point>
+ <coordinates>6.1132,60.2035</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5627">
+ <IconStyle id="icon5627">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5627.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5627">
+ <name>5627 JONDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5627:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jondal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5627"><strong>Meir info om 5627 JONDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5627</styleUrl>
+ <Point>
+ <coordinates>6.2521,60.2764</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5628">
+ <IconStyle id="icon5628">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5628.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5628">
+ <name>5628 HERAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5628:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jondal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5628"><strong>Meir info om 5628 HERAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5628</styleUrl>
+ <Point>
+ <coordinates>6.3778,60.3422</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5629">
+ <IconStyle id="icon5629">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5629.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5629">
+ <name>5629 JONDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5629:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jondal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5629"><strong>Meir info om 5629 JONDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5629</styleUrl>
+ <Point>
+ <coordinates>6.25312,60.27678</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5790">
+ <IconStyle id="icon5790">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5790.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5790">
+ <name>5790 JONDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5790:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jondal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5790"><strong>Meir info om 5790 JONDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5790</styleUrl>
+ <Point>
+ <coordinates>6.2521,60.2764</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5794">
+ <IconStyle id="icon5794">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5794.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5794">
+ <name>5794 HERAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5794:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Jondal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5794"><strong>Meir info om 5794 HERAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5794</styleUrl>
+ <Point>
+ <coordinates>6.3778,60.3422</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Jondal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.3829005,60.3935447,0 6.3829005,60.3629591,0 6.4695326,60.3369388,0 6.4746893,60.3507168,0 6.5283186,60.3496964,0 6.5314127,60.3292818,0 6.4870653,60.3144732,0 6.5004726,60.2981249,0 6.4396239,60.3114085,0 6.4159032,60.2991469,0 6.4592193,60.2700071,0 6.4262166,60.2515896,0 6.4757206,60.2101124,0 6.4757206,60.2101124,0 6.2781202,60.2095716,0 6.2286218,60.1790249,0 6.2189794,60.1788626,0 6.2158112,60.2037994,0 6.0537019,60.1786,0 6.0251876,60.1956642,0 6.0251876,60.1956642,0 6.0626787,60.2271441,0 6.1656471,60.23265,0 6.2163392,60.2839936,0 6.201026,60.3015262,0 6.3156113,60.3553737,0 6.3171954,60.3778275,0 6.3829005,60.3935447,0 6.3829005,60.3935447,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

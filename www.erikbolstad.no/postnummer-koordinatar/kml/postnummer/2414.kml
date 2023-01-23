@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2414 ELVERUM</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2414">
+ <name>2414 ELVERUM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2414:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Elverum kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2414"><strong>Meir info om 2414 ELVERUM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>11.57480,60.87210</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2414 ELVERUM</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.56240,60.87099 11.56258,60.87051 11.56243,60.86960 11.56240,60.86935 11.56266,60.86925 11.56238,60.86863 11.56554,60.86874 11.56558,60.86806 11.57765,60.86601 11.58204,60.86502 11.58848,60.86293 11.59502,60.86684 11.59671,60.87334 11.58945,60.87450 11.58692,60.87491 11.58104,60.87589 11.58074,60.87595 11.58003,60.87601 11.57900,60.87600 11.57836,60.87598 11.57826,60.87513 11.57806,60.87512 11.57768,60.87459 11.57686,60.87477 11.57630,60.87489 11.57642,60.87525 11.57657,60.87589 11.57501,60.87576 11.57433,60.87619 11.57418,60.87631 11.57270,60.87560 11.57051,60.87596 11.57010,60.87596 11.56973,60.87615 11.56789,60.87806 11.56842,60.87812 11.56799,60.87862 11.56882,60.87870 11.56986,60.87807 11.57084,60.87806 11.57154,60.87803 11.57149,60.87841 11.57157,60.87904 11.57155,60.87952 11.57219,60.87953 11.57295,60.87955 11.57310,60.87945 11.57438,60.87893 11.57429,60.87913 11.57396,60.87980 11.57354,60.87966 11.57257,60.88028 11.57273,60.88046 11.57290,60.88041 11.57345,60.88040 11.57337,60.88067 11.57308,60.88074 11.57292,60.88093 11.57225,60.88097 11.57189,60.88174 11.57046,60.88230 11.56860,60.88238 11.56833,60.88209 11.56669,60.88231 11.56647,60.88189 11.56593,60.88198 11.56601,60.88242 11.56509,60.88258 11.56519,60.88371 11.56489,60.88392 11.56391,60.88376 11.56261,60.88348 11.56192,60.88315 11.56234,60.88235 11.56264,60.88200 11.56230,60.88190 11.56130,60.88171 11.56004,60.88155 11.55932,60.88239 11.55849,60.88298 11.55678,60.88247 11.55892,60.87371 11.56240,60.87099</coordinates></LineString></Placemark>
+ </Document>
+</kml>

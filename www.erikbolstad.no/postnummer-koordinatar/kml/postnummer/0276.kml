@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0276 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0276">
+ <name>0276 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0276:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0276"><strong>Meir info om 0276 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.68350,59.92500</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0276 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.68290,59.92811 10.68109,59.92752 10.68046,59.92721 10.68023,59.92708 10.67985,59.92696 10.67944,59.92690 10.67931,59.92690 10.67908,59.92638 10.67899,59.92632 10.67866,59.92624 10.67874,59.92566 10.67882,59.92522 10.67883,59.92496 10.67885,59.92468 10.67784,59.92420 10.67873,59.92384 10.67987,59.92339 10.67962,59.92318 10.68039,59.92288 10.68116,59.92261 10.68145,59.92327 10.68198,59.92319 10.68281,59.92304 10.68638,59.92241 10.68698,59.92278 10.68752,59.92353 10.68766,59.92377 10.68779,59.92397 10.68801,59.92421 10.68852,59.92422 10.68909,59.92699 10.69149,59.92792 10.69123,59.92824 10.69091,59.92844 10.68963,59.92861 10.68861,59.92863 10.68676,59.92683 10.68447,59.92748 10.68353,59.92774 10.68290,59.92811</coordinates></LineString></Placemark>
+ </Document>
+</kml>

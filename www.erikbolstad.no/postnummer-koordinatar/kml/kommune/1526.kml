@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Stordal, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6250">
+ <IconStyle id="icon6250">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6250.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6250">
+ <name>6250 STORDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6250:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stordal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6250"><strong>Meir info om 6250 STORDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6250</styleUrl>
+ <Point>
+ <coordinates>6.9863,62.382</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6259">
+ <IconStyle id="icon6259">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6259.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6259">
+ <name>6259 STORDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6259:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stordal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6259"><strong>Meir info om 6259 STORDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6259</styleUrl>
+ <Point>
+ <coordinates>6.9926,62.3821</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Stordal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.8877057,62.4371516,0 6.8280141,62.4032836,0 6.8510202,62.374699,0 6.8510202,62.374699,0 6.9148083,62.3657429,0 6.9393872,62.339402,0 7.0400437,62.362214,0 7.0856903,62.3312507,0 7.1635235,62.3214661,0 7.1635235,62.3214661,0 7.203135,62.3223878,0 7.2282991,62.348472,0 7.2745309,62.3400515,0 7.3084732,62.3701916,0 7.2909168,62.4146675,0 7.3360873,62.4197023,0 7.3360873,62.4197023,0 7.326724,62.4616698,0 7.23309,62.486822,0 7.23309,62.486822,0 7.1668518,62.449876,0 7.1165236,62.452312,0 7.1165236,62.452312,0 7.1171088,62.4325478,0 7.0661954,62.4160225,0 7.0146967,62.4395886,0 6.8877057,62.4371516,0 6.8877057,62.4371516,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

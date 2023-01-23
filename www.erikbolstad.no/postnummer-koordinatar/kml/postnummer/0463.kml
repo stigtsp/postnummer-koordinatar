@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0463 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0463">
+ <name>0463 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0463:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0463"><strong>Meir info om 0463 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.75520,59.93770</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0463 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.75075,59.93831 10.75265,59.93802 10.75209,59.93762 10.75221,59.93741 10.75279,59.93713 10.75369,59.93681 10.75381,59.93670 10.75507,59.93630 10.75543,59.93621 10.75564,59.93646 10.75533,59.93655 10.75542,59.93673 10.75560,59.93711 10.75561,59.93717 10.75566,59.93728 10.75578,59.93727 10.75585,59.93766 10.75593,59.93796 10.75561,59.93796 10.75547,59.93775 10.75524,59.93778 10.75530,59.93787 10.75458,59.93804 10.75485,59.93846 10.75424,59.93868 10.75442,59.93877 10.75364,59.93903 10.75346,59.93891 10.75287,59.93914 10.75302,59.93927 10.75270,59.93939 10.75242,59.93919 10.75202,59.93935 10.75135,59.93891 10.75075,59.93831</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0463 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.75700,59.93753 10.75658,59.93691 10.75618,59.93605 10.76088,59.93712 10.76072,59.93732 10.76060,59.93733 10.76046,59.93739 10.76032,59.93743 10.75828,59.93743 10.75828,59.93783 10.75791,59.93785 10.75731,59.93791 10.75727,59.93775 10.75692,59.93779 10.75647,59.93786 10.75638,59.93776 10.75660,59.93771 10.75651,59.93752 10.75700,59.93753</coordinates></LineString></Placemark>
+ </Document>
+</kml>

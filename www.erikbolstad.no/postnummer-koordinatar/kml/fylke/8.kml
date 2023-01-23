@@ -1,0 +1,3292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Telemark - Erik Bolstad</name>
+<Style id="kommgrense"><LineStyle><width>4</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+ <Style id="style3650">
+ <IconStyle id="icon3650">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3650.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3650">
+ <name>3650 TINN AUSTBYGD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3650:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3650"><strong>Meir info om 3650 TINN AUSTBYGD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3650</styleUrl>
+ <Point>
+ <coordinates>8.8289,59.9951</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3652">
+ <IconStyle id="icon3652">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3652.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3652">
+ <name>3652 HOVIN I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3652:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3652"><strong>Meir info om 3652 HOVIN I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3652</styleUrl>
+ <Point>
+ <coordinates>9.0239,59.8605</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3656">
+ <IconStyle id="icon3656">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3656.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3656">
+ <name>3656 ATRÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3656:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3656"><strong>Meir info om 3656 ATRÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3656</styleUrl>
+ <Point>
+ <coordinates>8.7341,59.9859</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3658">
+ <IconStyle id="icon3658">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3658.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3658">
+ <name>3658 MILAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3658:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3658"><strong>Meir info om 3658 MILAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3658</styleUrl>
+ <Point>
+ <coordinates>8.7537,59.9262</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3660">
+ <IconStyle id="icon3660">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3660.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3660">
+ <name>3660 RJUKAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3660:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3660"><strong>Meir info om 3660 RJUKAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3660</styleUrl>
+ <Point>
+ <coordinates>8.5941,59.8789</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3661">
+ <IconStyle id="icon3661">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3661.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3661">
+ <name>3661 RJUKAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3661:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3661"><strong>Meir info om 3661 RJUKAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3661</styleUrl>
+ <Point>
+ <coordinates>8.59145,59.87929</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3665">
+ <IconStyle id="icon3665">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3665.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3665">
+ <name>3665 SAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3665:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3665"><strong>Meir info om 3665 SAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3665</styleUrl>
+ <Point>
+ <coordinates>8.93201,59.61726</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3666">
+ <IconStyle id="icon3666">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3666.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3666">
+ <name>3666 ATRÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3666:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3666"><strong>Meir info om 3666 ATRÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3666</styleUrl>
+ <Point>
+ <coordinates>8.82686,59.99504</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3670">
+ <IconStyle id="icon3670">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3670.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3670">
+ <name>3670 NOTODDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3670:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3670"><strong>Meir info om 3670 NOTODDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3670</styleUrl>
+ <Point>
+ <coordinates>9.26332,59.56218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3671">
+ <IconStyle id="icon3671">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3671.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3671">
+ <name>3671 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3671:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3671"><strong>Meir info om 3671 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3671</styleUrl>
+ <Point>
+ <coordinates>9.26332,59.56218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3672">
+ <IconStyle id="icon3672">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3672.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3672">
+ <name>3672 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3672:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3672"><strong>Meir info om 3672 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3672</styleUrl>
+ <Point>
+ <coordinates>9.2633,59.5622</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3673">
+ <IconStyle id="icon3673">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3673.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3673">
+ <name>3673 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3673:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3673"><strong>Meir info om 3673 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3673</styleUrl>
+ <Point>
+ <coordinates>9.22265,59.56618</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3674">
+ <IconStyle id="icon3674">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3674.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3674">
+ <name>3674 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3674:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3674"><strong>Meir info om 3674 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3674</styleUrl>
+ <Point>
+ <coordinates>9.2598,59.5603</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3675">
+ <IconStyle id="icon3675">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3675.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3675">
+ <name>3675 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3675:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3675"><strong>Meir info om 3675 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3675</styleUrl>
+ <Point>
+ <coordinates>9.2551,59.5696</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3676">
+ <IconStyle id="icon3676">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3676.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3676">
+ <name>3676 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3676:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3676"><strong>Meir info om 3676 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3676</styleUrl>
+ <Point>
+ <coordinates>9.2011,59.5741</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3677">
+ <IconStyle id="icon3677">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3677.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3677">
+ <name>3677 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3677:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3677"><strong>Meir info om 3677 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3677</styleUrl>
+ <Point>
+ <coordinates>9.1488,59.593</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3678">
+ <IconStyle id="icon3678">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3678.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3678">
+ <name>3678 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3678:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3678"><strong>Meir info om 3678 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3678</styleUrl>
+ <Point>
+ <coordinates>9.2671,59.5732</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3679">
+ <IconStyle id="icon3679">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3679.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3679">
+ <name>3679 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3679:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3679"><strong>Meir info om 3679 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3679</styleUrl>
+ <Point>
+ <coordinates>9.2741,59.5724</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3680">
+ <IconStyle id="icon3680">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3680.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3680">
+ <name>3680 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3680:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3680"><strong>Meir info om 3680 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3680</styleUrl>
+ <Point>
+ <coordinates>9.2537,59.703</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3681">
+ <IconStyle id="icon3681">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3681.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3681">
+ <name>3681 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3681:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3681"><strong>Meir info om 3681 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3681</styleUrl>
+ <Point>
+ <coordinates>9.2774,59.5621</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3682">
+ <IconStyle id="icon3682">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3682.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3682">
+ <name>3682 GRANSHERAD (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3682:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3682"><strong>Meir info om 3682 GRANSHERAD (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3682</styleUrl>
+ <Point>
+ <coordinates>9.03937,59.69062</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3683">
+ <IconStyle id="icon3683">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3683.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3683">
+ <name>3683 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3683:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3683"><strong>Meir info om 3683 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3683</styleUrl>
+ <Point>
+ <coordinates>9.3108,59.5233</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3684">
+ <IconStyle id="icon3684">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3684.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3684">
+ <name>3684 NOTODDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3684:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3684"><strong>Meir info om 3684 NOTODDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3684</styleUrl>
+ <Point>
+ <coordinates>9.3066,59.5646</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3687">
+ <IconStyle id="icon3687">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3687.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3687">
+ <name>3687 NOTODDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3687:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3687"><strong>Meir info om 3687 NOTODDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3687</styleUrl>
+ <Point>
+ <coordinates>9.26332,59.56218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3688">
+ <IconStyle id="icon3688">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3688.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3688">
+ <name>3688 NOTODDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3688:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3688"><strong>Meir info om 3688 NOTODDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3688</styleUrl>
+ <Point>
+ <coordinates>9.26332,59.56218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3689">
+ <IconStyle id="icon3689">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3689.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3689">
+ <name>3689 NOTODDEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3689:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3689"><strong>Meir info om 3689 NOTODDEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3689</styleUrl>
+ <Point>
+ <coordinates>9.26332,59.56218</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3690">
+ <IconStyle id="icon3690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3690">
+ <name>3690 HJARTDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3690:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3690"><strong>Meir info om 3690 HJARTDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3690</styleUrl>
+ <Point>
+ <coordinates>8.6521,59.6004</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3691">
+ <IconStyle id="icon3691">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3691.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3691">
+ <name>3691 GRANSHERAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3691:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Notodden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3691"><strong>Meir info om 3691 GRANSHERAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3691</styleUrl>
+ <Point>
+ <coordinates>9.0394,59.6906</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3692">
+ <IconStyle id="icon3692">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3692.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3692">
+ <name>3692 SAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3692:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3692"><strong>Meir info om 3692 SAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3692</styleUrl>
+ <Point>
+ <coordinates>8.9376,59.6161</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3694">
+ <IconStyle id="icon3694">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3694.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3694">
+ <name>3694 FLATDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3694:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3694"><strong>Meir info om 3694 FLATDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3694</styleUrl>
+ <Point>
+ <coordinates>8.5675,59.5678</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3695">
+ <IconStyle id="icon3695">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3695.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3695">
+ <name>3695 ÅMOTSDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3695:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3695"><strong>Meir info om 3695 ÅMOTSDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3695</styleUrl>
+ <Point>
+ <coordinates>8.4038,59.6309</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3697">
+ <IconStyle id="icon3697">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3697.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3697">
+ <name>3697 TUDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3697:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3697"><strong>Meir info om 3697 TUDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3697</styleUrl>
+ <Point>
+ <coordinates>8.7965,59.7534</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3699">
+ <IconStyle id="icon3699">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3699.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3699">
+ <name>3699 GAUSTATOPPEN TURISTHYTTE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3699:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tinn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3699"><strong>Meir info om 3699 GAUSTATOPPEN TURISTHYTTE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3699</styleUrl>
+ <Point>
+ <coordinates>8.6550,59.8504</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3700">
+ <IconStyle id="icon3700">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3700.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3700">
+ <name>3700 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3700:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3700"><strong>Meir info om 3700 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3700</styleUrl>
+ <Point>
+ <coordinates>9.60897,59.20962</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3701">
+ <IconStyle id="icon3701">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3701.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3701">
+ <name>3701 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3701:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3701"><strong>Meir info om 3701 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3701</styleUrl>
+ <Point>
+ <coordinates>9.60497,59.21037</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3702">
+ <IconStyle id="icon3702">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3702.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3702">
+ <name>3702 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3702:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3702"><strong>Meir info om 3702 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3702</styleUrl>
+ <Point>
+ <coordinates>9.61022,59.18070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3703">
+ <IconStyle id="icon3703">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3703.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3703">
+ <name>3703 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3703:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3703"><strong>Meir info om 3703 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3703</styleUrl>
+ <Point>
+ <coordinates>9.56624,59.21642</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3704">
+ <IconStyle id="icon3704">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3704.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3704">
+ <name>3704 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3704:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3704"><strong>Meir info om 3704 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3704</styleUrl>
+ <Point>
+ <coordinates>9.60349,59.19659</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3705">
+ <IconStyle id="icon3705">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3705.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3705">
+ <name>3705 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3705:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3705"><strong>Meir info om 3705 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3705</styleUrl>
+ <Point>
+ <coordinates>9.58975,59.21066</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3706">
+ <IconStyle id="icon3706">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3706.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3706">
+ <name>3706 SKIEN (Ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3706:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3706"><strong>Meir info om 3706 SKIEN (Ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3706</styleUrl>
+ <Point>
+ <coordinates>9.6115,59.2165</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3707">
+ <IconStyle id="icon3707">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3707.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3707">
+ <name>3707 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3707:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3707"><strong>Meir info om 3707 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3707</styleUrl>
+ <Point>
+ <coordinates>9.60821,59.20713</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3708">
+ <IconStyle id="icon3708">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3708.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3708">
+ <name>3708 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3708:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3708"><strong>Meir info om 3708 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3708</styleUrl>
+ <Point>
+ <coordinates>9.5987,59.2183</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3709">
+ <IconStyle id="icon3709">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3709.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3709">
+ <name>3709 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3709:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3709"><strong>Meir info om 3709 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3709</styleUrl>
+ <Point>
+ <coordinates>9.6000,59.2185</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3710">
+ <IconStyle id="icon3710">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3710.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3710">
+ <name>3710 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3710:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3710"><strong>Meir info om 3710 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3710</styleUrl>
+ <Point>
+ <coordinates>9.5942,59.1931</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3711">
+ <IconStyle id="icon3711">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3711.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3711">
+ <name>3711 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3711:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3711"><strong>Meir info om 3711 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3711</styleUrl>
+ <Point>
+ <coordinates>9.6759,59.1678</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3712">
+ <IconStyle id="icon3712">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3712.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3712">
+ <name>3712 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3712:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3712"><strong>Meir info om 3712 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3712</styleUrl>
+ <Point>
+ <coordinates>9.6501,59.1678</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3713">
+ <IconStyle id="icon3713">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3713.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3713">
+ <name>3713 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3713:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3713"><strong>Meir info om 3713 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3713</styleUrl>
+ <Point>
+ <coordinates>9.6413,59.1778</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3714">
+ <IconStyle id="icon3714">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3714.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3714">
+ <name>3714 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3714:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3714"><strong>Meir info om 3714 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3714</styleUrl>
+ <Point>
+ <coordinates>9.6245,59.2023</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3715">
+ <IconStyle id="icon3715">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3715.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3715">
+ <name>3715 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3715:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3715"><strong>Meir info om 3715 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3715</styleUrl>
+ <Point>
+ <coordinates>9.6164,59.2115</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3716">
+ <IconStyle id="icon3716">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3716.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3716">
+ <name>3716 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3716:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3716"><strong>Meir info om 3716 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3716</styleUrl>
+ <Point>
+ <coordinates>9.5968,59.2239</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3717">
+ <IconStyle id="icon3717">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3717.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3717">
+ <name>3717 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3717:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3717"><strong>Meir info om 3717 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3717</styleUrl>
+ <Point>
+ <coordinates>9.6035,59.2135</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3718">
+ <IconStyle id="icon3718">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3718.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3718">
+ <name>3718 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3718:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3718"><strong>Meir info om 3718 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3718</styleUrl>
+ <Point>
+ <coordinates>9.5818,59.2068</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3719">
+ <IconStyle id="icon3719">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3719.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3719">
+ <name>3719 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3719:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3719"><strong>Meir info om 3719 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3719</styleUrl>
+ <Point>
+ <coordinates>9.6477,59.2253</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3720">
+ <IconStyle id="icon3720">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3720.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3720">
+ <name>3720 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3720:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3720"><strong>Meir info om 3720 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3720</styleUrl>
+ <Point>
+ <coordinates>9.5162,59.2162</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3721">
+ <IconStyle id="icon3721">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3721.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3721">
+ <name>3721 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3721:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3721"><strong>Meir info om 3721 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3721</styleUrl>
+ <Point>
+ <coordinates>9.5505,59.2698</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3722">
+ <IconStyle id="icon3722">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3722.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3722">
+ <name>3722 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3722:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3722"><strong>Meir info om 3722 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3722</styleUrl>
+ <Point>
+ <coordinates>9.5933,59.21</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3723">
+ <IconStyle id="icon3723">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3723.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3723">
+ <name>3723 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3723:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3723"><strong>Meir info om 3723 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3723</styleUrl>
+ <Point>
+ <coordinates>9.5837,59.2157</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3724">
+ <IconStyle id="icon3724">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3724.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3724">
+ <name>3724 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3724:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3724"><strong>Meir info om 3724 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3724</styleUrl>
+ <Point>
+ <coordinates>9.6157,59.2019</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3725">
+ <IconStyle id="icon3725">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3725.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3725">
+ <name>3725 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3725:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3725"><strong>Meir info om 3725 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3725</styleUrl>
+ <Point>
+ <coordinates>9.5972,59.2029</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3726">
+ <IconStyle id="icon3726">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3726.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3726">
+ <name>3726 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3726:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3726"><strong>Meir info om 3726 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3726</styleUrl>
+ <Point>
+ <coordinates>9.57,59.2168</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3727">
+ <IconStyle id="icon3727">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3727.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3727">
+ <name>3727 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3727:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3727"><strong>Meir info om 3727 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3727</styleUrl>
+ <Point>
+ <coordinates>9.565,59.21</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3728">
+ <IconStyle id="icon3728">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3728.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3728">
+ <name>3728 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3728:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3728"><strong>Meir info om 3728 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3728</styleUrl>
+ <Point>
+ <coordinates>9.5794,59.1931</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3729">
+ <IconStyle id="icon3729">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3729.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3729">
+ <name>3729 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3729:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3729"><strong>Meir info om 3729 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3729</styleUrl>
+ <Point>
+ <coordinates>9.4498,59.1924</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3730">
+ <IconStyle id="icon3730">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3730.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3730">
+ <name>3730 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3730:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3730"><strong>Meir info om 3730 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3730</styleUrl>
+ <Point>
+ <coordinates>9.6052,59.195</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3731">
+ <IconStyle id="icon3731">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3731.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3731">
+ <name>3731 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3731:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3731"><strong>Meir info om 3731 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3731</styleUrl>
+ <Point>
+ <coordinates>9.5359,59.1974</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3732">
+ <IconStyle id="icon3732">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3732.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3732">
+ <name>3732 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3732:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3732"><strong>Meir info om 3732 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3732</styleUrl>
+ <Point>
+ <coordinates>9.6157,59.192</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3733">
+ <IconStyle id="icon3733">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3733.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3733">
+ <name>3733 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3733:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3733"><strong>Meir info om 3733 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3733</styleUrl>
+ <Point>
+ <coordinates>9.6078,59.1889</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3734">
+ <IconStyle id="icon3734">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3734.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3734">
+ <name>3734 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3734:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3734"><strong>Meir info om 3734 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3734</styleUrl>
+ <Point>
+ <coordinates>9.6089,59.1827</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3735">
+ <IconStyle id="icon3735">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3735.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3735">
+ <name>3735 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3735:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3735"><strong>Meir info om 3735 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3735</styleUrl>
+ <Point>
+ <coordinates>9.6165,59.1769</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3736">
+ <IconStyle id="icon3736">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3736.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3736">
+ <name>3736 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3736:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3736"><strong>Meir info om 3736 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3736</styleUrl>
+ <Point>
+ <coordinates>9.6315,59.1647</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3737">
+ <IconStyle id="icon3737">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3737.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3737">
+ <name>3737 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3737:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3737"><strong>Meir info om 3737 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3737</styleUrl>
+ <Point>
+ <coordinates>9.6228,59.1495</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3738">
+ <IconStyle id="icon3738">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3738.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3738">
+ <name>3738 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3738:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3738"><strong>Meir info om 3738 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3738</styleUrl>
+ <Point>
+ <coordinates>9.6137,59.1484</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3739">
+ <IconStyle id="icon3739">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3739.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3739">
+ <name>3739 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3739:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3739"><strong>Meir info om 3739 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3739</styleUrl>
+ <Point>
+ <coordinates>9.4808,59.1231</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3740">
+ <IconStyle id="icon3740">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3740.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3740">
+ <name>3740 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3740:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3740"><strong>Meir info om 3740 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3740</styleUrl>
+ <Point>
+ <coordinates>9.6329,59.1544</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3741">
+ <IconStyle id="icon3741">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3741.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3741">
+ <name>3741 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3741:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3741"><strong>Meir info om 3741 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3741</styleUrl>
+ <Point>
+ <coordinates>9.5599,59.2251</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3742">
+ <IconStyle id="icon3742">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3742.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3742">
+ <name>3742 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3742:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3742"><strong>Meir info om 3742 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3742</styleUrl>
+ <Point>
+ <coordinates>9.5517,59.2233</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3743">
+ <IconStyle id="icon3743">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3743.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3743">
+ <name>3743 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3743:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3743"><strong>Meir info om 3743 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3743</styleUrl>
+ <Point>
+ <coordinates>9.5554,59.2181</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3744">
+ <IconStyle id="icon3744">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3744.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3744">
+ <name>3744 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3744:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3744"><strong>Meir info om 3744 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3744</styleUrl>
+ <Point>
+ <coordinates>9.5548,59.2088</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3746">
+ <IconStyle id="icon3746">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3746.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3746">
+ <name>3746 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3746:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3746"><strong>Meir info om 3746 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3746</styleUrl>
+ <Point>
+ <coordinates>9.6303,59.1885</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3747">
+ <IconStyle id="icon3747">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3747.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3747">
+ <name>3747 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3747:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3747"><strong>Meir info om 3747 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3747</styleUrl>
+ <Point>
+ <coordinates>9.5889,59.2173</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3748">
+ <IconStyle id="icon3748">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3748.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3748">
+ <name>3748 SILJAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3748:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Siljan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3748"><strong>Meir info om 3748 SILJAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3748</styleUrl>
+ <Point>
+ <coordinates>9.7100,59.2884</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3749">
+ <IconStyle id="icon3749">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3749.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3749">
+ <name>3749 SILJAN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3749:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Siljan kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3749"><strong>Meir info om 3749 SILJAN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3749</styleUrl>
+ <Point>
+ <coordinates>9.71068,59.26946</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3750">
+ <IconStyle id="icon3750">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3750.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3750">
+ <name>3750 DRANGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3750:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3750"><strong>Meir info om 3750 DRANGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3750</styleUrl>
+ <Point>
+ <coordinates>9.0626,59.0956</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3753">
+ <IconStyle id="icon3753">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3753.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3753">
+ <name>3753 TØRDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3753:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3753"><strong>Meir info om 3753 TØRDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3753</styleUrl>
+ <Point>
+ <coordinates>8.8099,59.1562</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3760">
+ <IconStyle id="icon3760">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3760.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3760">
+ <name>3760 NESLANDSVATN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3760:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3760"><strong>Meir info om 3760 NESLANDSVATN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3760</styleUrl>
+ <Point>
+ <coordinates>9.158,58.9679</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3766">
+ <IconStyle id="icon3766">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3766.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3766">
+ <name>3766 SANNIDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3766:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3766"><strong>Meir info om 3766 SANNIDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3766</styleUrl>
+ <Point>
+ <coordinates>9.2851,58.8960</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3770">
+ <IconStyle id="icon3770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3770">
+ <name>3770 KRAGERØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3770:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3770"><strong>Meir info om 3770 KRAGERØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3770</styleUrl>
+ <Point>
+ <coordinates>9.4118,58.8689</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3771">
+ <IconStyle id="icon3771">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3771.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3771">
+ <name>3771 KRAGERØ (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3771:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3771"><strong>Meir info om 3771 KRAGERØ (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3771</styleUrl>
+ <Point>
+ <coordinates>9.4118,58.8689</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3772">
+ <IconStyle id="icon3772">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3772.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3772">
+ <name>3772 KRAGERØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3772:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3772"><strong>Meir info om 3772 KRAGERØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3772</styleUrl>
+ <Point>
+ <coordinates>9.3758,58.8732</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3780">
+ <IconStyle id="icon3780">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3780.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3780">
+ <name>3780 SKÅTØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3780:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3780"><strong>Meir info om 3780 SKÅTØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3780</styleUrl>
+ <Point>
+ <coordinates>9.4757,58.8587</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3781">
+ <IconStyle id="icon3781">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3781.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3781">
+ <name>3781 JOMFRULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3781:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3781"><strong>Meir info om 3781 JOMFRULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3781</styleUrl>
+ <Point>
+ <coordinates>9.5851,58.8592</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3782">
+ <IconStyle id="icon3782">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3782.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3782">
+ <name>3782 KRAGERØ SOMMERRUTE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3782:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3782"><strong>Meir info om 3782 KRAGERØ SOMMERRUTE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3782</styleUrl>
+ <Point>
+ <coordinates>9.4149,58.8693</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3783">
+ <IconStyle id="icon3783">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3783.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3783">
+ <name>3783 KRAGERØ SKJÆRGÅRD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3783:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3783"><strong>Meir info om 3783 KRAGERØ SKJÆRGÅRD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3783</styleUrl>
+ <Point>
+ <coordinates>9.4753,58.8768</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3784">
+ <IconStyle id="icon3784">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3784.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3784">
+ <name>3784 LANGØY GRUVER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3784:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3784"><strong>Meir info om 3784 LANGØY GRUVER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3784</styleUrl>
+ <Point>
+ <coordinates>9.5026,58.9051</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3785">
+ <IconStyle id="icon3785">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3785.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3785">
+ <name>3785 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3785:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3785"><strong>Meir info om 3785 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3785</styleUrl>
+ <Point>
+ <coordinates>9.52553,59.21478</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3786">
+ <IconStyle id="icon3786">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3786.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3786">
+ <name>3786 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3786:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3786"><strong>Meir info om 3786 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3786</styleUrl>
+ <Point>
+ <coordinates>9.53809,59.19502</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3787">
+ <IconStyle id="icon3787">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3787.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3787">
+ <name>3787 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3787:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3787"><strong>Meir info om 3787 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3787</styleUrl>
+ <Point>
+ <coordinates>9.62082,59.14719</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3788">
+ <IconStyle id="icon3788">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3788.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3788">
+ <name>3788 STABBESTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3788:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3788"><strong>Meir info om 3788 STABBESTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3788</styleUrl>
+ <Point>
+ <coordinates>9.4081,58.8493</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3789">
+ <IconStyle id="icon3789">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3789.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3789">
+ <name>3789 KRAGERØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3789:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3789"><strong>Meir info om 3789 KRAGERØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3789</styleUrl>
+ <Point>
+ <coordinates>9.38607,58.87091</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3790">
+ <IconStyle id="icon3790">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3790.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3790">
+ <name>3790 HELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3790:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3790"><strong>Meir info om 3790 HELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3790</styleUrl>
+ <Point>
+ <coordinates>9.3905,58.9035</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3791">
+ <IconStyle id="icon3791">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3791.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3791">
+ <name>3791 KRAGERØ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3791:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3791"><strong>Meir info om 3791 KRAGERØ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3791</styleUrl>
+ <Point>
+ <coordinates>9.41057,58.86808</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3792">
+ <IconStyle id="icon3792">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3792.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3792">
+ <name>3792 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3792:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3792"><strong>Meir info om 3792 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3792</styleUrl>
+ <Point>
+ <coordinates>9.62620,59.19381</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3793">
+ <IconStyle id="icon3793">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3793.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3793">
+ <name>3793 SANNIDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3793:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3793"><strong>Meir info om 3793 SANNIDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3793</styleUrl>
+ <Point>
+ <coordinates>9.29379,58.89202</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3794">
+ <IconStyle id="icon3794">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3794.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3794">
+ <name>3794 HELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3794:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3794"><strong>Meir info om 3794 HELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3794</styleUrl>
+ <Point>
+ <coordinates>9.37939,58.90106</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3795">
+ <IconStyle id="icon3795">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3795.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3795">
+ <name>3795 DRANGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3795:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Drangedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3795"><strong>Meir info om 3795 DRANGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3795</styleUrl>
+ <Point>
+ <coordinates>9.06184,59.09677</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3796">
+ <IconStyle id="icon3796">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3796.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3796">
+ <name>3796 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3796:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3796"><strong>Meir info om 3796 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3796</styleUrl>
+ <Point>
+ <coordinates>9.66414,59.16400</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3797">
+ <IconStyle id="icon3797">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3797.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3797">
+ <name>3797 SKIEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3797:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3797"><strong>Meir info om 3797 SKIEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3797</styleUrl>
+ <Point>
+ <coordinates>9.60497,59.21037</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3798">
+ <IconStyle id="icon3798">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3798.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3798">
+ <name>3798 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3798:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3798"><strong>Meir info om 3798 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3798</styleUrl>
+ <Point>
+ <coordinates>9.65123,59.17033</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3799">
+ <IconStyle id="icon3799">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3799.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3799">
+ <name>3799 SKIEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3799:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skien kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3799"><strong>Meir info om 3799 SKIEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3799</styleUrl>
+ <Point>
+ <coordinates>9.6512,59.1703</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3800">
+ <IconStyle id="icon3800">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3800.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3800">
+ <name>3800 BØ I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3800:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3800"><strong>Meir info om 3800 BØ I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3800</styleUrl>
+ <Point>
+ <coordinates>9.0637,59.4131</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3801">
+ <IconStyle id="icon3801">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3801.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3801">
+ <name>3801 BØ I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3801:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3801"><strong>Meir info om 3801 BØ I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3801</styleUrl>
+ <Point>
+ <coordinates>9.0782,59.4047</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3802">
+ <IconStyle id="icon3802">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3802.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3802">
+ <name>3802 BØ I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3802:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3802"><strong>Meir info om 3802 BØ I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3802</styleUrl>
+ <Point>
+ <coordinates>9.0667,59.4186</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3803">
+ <IconStyle id="icon3803">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3803.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3803">
+ <name>3803 BØ I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3803:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3803"><strong>Meir info om 3803 BØ I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3803</styleUrl>
+ <Point>
+ <coordinates>8.9903,59.4139</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3804">
+ <IconStyle id="icon3804">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3804.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3804">
+ <name>3804 BØ I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3804:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3804"><strong>Meir info om 3804 BØ I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3804</styleUrl>
+ <Point>
+ <coordinates>9.0717,59.4452</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3805">
+ <IconStyle id="icon3805">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3805.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3805">
+ <name>3805 BØ I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3805:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3805"><strong>Meir info om 3805 BØ I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3805</styleUrl>
+ <Point>
+ <coordinates>8.8445,59.443</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3807">
+ <IconStyle id="icon3807">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3807.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3807">
+ <name>3807 HØRTE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3807:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3807"><strong>Meir info om 3807 HØRTE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3807</styleUrl>
+ <Point>
+ <coordinates>9.1310,59.4217</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3810">
+ <IconStyle id="icon3810">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3810.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3810">
+ <name>3810 GVARV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3810:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3810"><strong>Meir info om 3810 GVARV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3810</styleUrl>
+ <Point>
+ <coordinates>9.1737,59.3875</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3811">
+ <IconStyle id="icon3811">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3811.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3811">
+ <name>3811 HØRTE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3811:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3811"><strong>Meir info om 3811 HØRTE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3811</styleUrl>
+ <Point>
+ <coordinates>9.1310,59.4217</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3812">
+ <IconStyle id="icon3812">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3812.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3812">
+ <name>3812 AKKERHAUGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3812:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3812"><strong>Meir info om 3812 AKKERHAUGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3812</styleUrl>
+ <Point>
+ <coordinates>9.2511,59.3954</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3820">
+ <IconStyle id="icon3820">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3820.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3820">
+ <name>3820 NORDAGUTU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3820:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3820"><strong>Meir info om 3820 NORDAGUTU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3820</styleUrl>
+ <Point>
+ <coordinates>9.3258,59.4159</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3825">
+ <IconStyle id="icon3825">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3825.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3825">
+ <name>3825 LUNDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3825:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3825"><strong>Meir info om 3825 LUNDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3825</styleUrl>
+ <Point>
+ <coordinates>9.1033,59.2986</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3830">
+ <IconStyle id="icon3830">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3830.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3830">
+ <name>3830 ULEFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3830:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3830"><strong>Meir info om 3830 ULEFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3830</styleUrl>
+ <Point>
+ <coordinates>9.2632,59.2841</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3831">
+ <IconStyle id="icon3831">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3831.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3831">
+ <name>3831 ULEFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3831:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3831"><strong>Meir info om 3831 ULEFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3831</styleUrl>
+ <Point>
+ <coordinates>9.26854,59.28244</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3832">
+ <IconStyle id="icon3832">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3832.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3832">
+ <name>3832 LUNDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3832:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nome kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3832"><strong>Meir info om 3832 LUNDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3832</styleUrl>
+ <Point>
+ <coordinates>9.10272,59.29989</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3833">
+ <IconStyle id="icon3833">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3833.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3833">
+ <name>3833 BØ I TELEMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3833:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3833"><strong>Meir info om 3833 BØ I TELEMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3833</styleUrl>
+ <Point>
+ <coordinates>9.06772,59.41129</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3834">
+ <IconStyle id="icon3834">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3834.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3834">
+ <name>3834 GVARV</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3834:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sauherad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3834"><strong>Meir info om 3834 GVARV</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3834</styleUrl>
+ <Point>
+ <coordinates>9.17397,59.38756</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3835">
+ <IconStyle id="icon3835">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3835.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3835">
+ <name>3835 SELJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3835:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3835"><strong>Meir info om 3835 SELJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3835</styleUrl>
+ <Point>
+ <coordinates>8.63229,59.48192</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3836">
+ <IconStyle id="icon3836">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3836.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3836">
+ <name>3836 KVITESEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3836:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kviteseid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3836"><strong>Meir info om 3836 KVITESEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3836</styleUrl>
+ <Point>
+ <coordinates>8.48960,59.40194</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3840">
+ <IconStyle id="icon3840">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3840.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3840">
+ <name>3840 SELJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3840:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3840"><strong>Meir info om 3840 SELJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3840</styleUrl>
+ <Point>
+ <coordinates>8.6260,59.4829</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3841">
+ <IconStyle id="icon3841">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3841.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3841">
+ <name>3841 FLATDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3841:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3841"><strong>Meir info om 3841 FLATDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3841</styleUrl>
+ <Point>
+ <coordinates>8.5675,59.5678</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3844">
+ <IconStyle id="icon3844">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3844.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3844">
+ <name>3844 ÅMOTSDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3844:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Seljord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3844"><strong>Meir info om 3844 ÅMOTSDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3844</styleUrl>
+ <Point>
+ <coordinates>8.4038,59.6309</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3848">
+ <IconStyle id="icon3848">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3848.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3848">
+ <name>3848 MORGEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3848:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kviteseid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3848"><strong>Meir info om 3848 MORGEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3848</styleUrl>
+ <Point>
+ <coordinates>8.4185,59.4773</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3849">
+ <IconStyle id="icon3849">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3849.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3849">
+ <name>3849 VRÅLIOSEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3849:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kviteseid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3849"><strong>Meir info om 3849 VRÅLIOSEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3849</styleUrl>
+ <Point>
+ <coordinates>8.1697,59.3633</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3850">
+ <IconStyle id="icon3850">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3850.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3850">
+ <name>3850 KVITESEID</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3850:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kviteseid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3850"><strong>Meir info om 3850 KVITESEID</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3850</styleUrl>
+ <Point>
+ <coordinates>8.4927,59.4022</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3852">
+ <IconStyle id="icon3852">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3852.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3852">
+ <name>3852 VRÅDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3852:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kviteseid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3852"><strong>Meir info om 3852 VRÅDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3852</styleUrl>
+ <Point>
+ <coordinates>8.4844,59.3256</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3853">
+ <IconStyle id="icon3853">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3853.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3853">
+ <name>3853 VRÅDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3853:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kviteseid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3853"><strong>Meir info om 3853 VRÅDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3853</styleUrl>
+ <Point>
+ <coordinates>8.4844,59.3257</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3854">
+ <IconStyle id="icon3854">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3854.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3854">
+ <name>3854 NISSEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3854:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3854"><strong>Meir info om 3854 NISSEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3854</styleUrl>
+ <Point>
+ <coordinates>8.5353,59.1603</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3855">
+ <IconStyle id="icon3855">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3855.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3855">
+ <name>3855 TREUNGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3855:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3855"><strong>Meir info om 3855 TREUNGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3855</styleUrl>
+ <Point>
+ <coordinates>8.5201,59.0206</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3860">
+ <IconStyle id="icon3860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3860">
+ <name>3860 HØYDALSMO (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3860:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3860"><strong>Meir info om 3860 HØYDALSMO (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3860</styleUrl>
+ <Point>
+ <coordinates>8.19788,59.49843</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3864">
+ <IconStyle id="icon3864">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3864.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3864">
+ <name>3864 RAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3864:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3864"><strong>Meir info om 3864 RAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3864</styleUrl>
+ <Point>
+ <coordinates>8.063,59.6947</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3870">
+ <IconStyle id="icon3870">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3870.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3870">
+ <name>3870 FYRESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3870:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fyresdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3870"><strong>Meir info om 3870 FYRESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3870</styleUrl>
+ <Point>
+ <coordinates>8.0951,59.1837</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3878">
+ <IconStyle id="icon3878">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3878.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3878">
+ <name>3878 VRÅLIOSEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3878:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kviteseid kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3878"><strong>Meir info om 3878 VRÅLIOSEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3878</styleUrl>
+ <Point>
+ <coordinates>8.1697,59.3633</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3880">
+ <IconStyle id="icon3880">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3880.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3880">
+ <name>3880 DALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3880:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3880"><strong>Meir info om 3880 DALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3880</styleUrl>
+ <Point>
+ <coordinates>8.0117,59.4447</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3882">
+ <IconStyle id="icon3882">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3882.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3882">
+ <name>3882 ÅMDALS VERK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3882:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3882"><strong>Meir info om 3882 ÅMDALS VERK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3882</styleUrl>
+ <Point>
+ <coordinates>8.0384,59.3770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3883">
+ <IconStyle id="icon3883">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3883.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3883">
+ <name>3883 TREUNGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3883:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3883"><strong>Meir info om 3883 TREUNGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3883</styleUrl>
+ <Point>
+ <coordinates>8.52502,59.01924</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3884">
+ <IconStyle id="icon3884">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3884.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3884">
+ <name>3884 RAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3884:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3884"><strong>Meir info om 3884 RAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3884</styleUrl>
+ <Point>
+ <coordinates>8.06388,59.69504</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3885">
+ <IconStyle id="icon3885">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3885.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3885">
+ <name>3885 FYRESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3885:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Fyresdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3885"><strong>Meir info om 3885 FYRESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3885</styleUrl>
+ <Point>
+ <coordinates>8.09536,59.18391</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3886">
+ <IconStyle id="icon3886">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3886.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3886">
+ <name>3886 DALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3886:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3886"><strong>Meir info om 3886 DALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3886</styleUrl>
+ <Point>
+ <coordinates>8.00984,59.44459</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3887">
+ <IconStyle id="icon3887">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3887.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3887">
+ <name>3887 VINJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3887:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3887"><strong>Meir info om 3887 VINJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3887</styleUrl>
+ <Point>
+ <coordinates>7.96919,59.56587</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3888">
+ <IconStyle id="icon3888">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3888.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3888">
+ <name>3888 EDLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3888:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3888"><strong>Meir info om 3888 EDLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3888</styleUrl>
+ <Point>
+ <coordinates>7.58808,59.73174</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3890">
+ <IconStyle id="icon3890">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3890.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3890">
+ <name>3890 VINJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3890:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3890"><strong>Meir info om 3890 VINJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3890</styleUrl>
+ <Point>
+ <coordinates>7.9877,59.5714</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3891">
+ <IconStyle id="icon3891">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3891.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3891">
+ <name>3891 HØYDALSMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3891:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Tokke kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3891"><strong>Meir info om 3891 HØYDALSMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3891</styleUrl>
+ <Point>
+ <coordinates>8.1979,59.4984</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3892">
+ <IconStyle id="icon3892">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3892.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3892">
+ <name>3892 VINJE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3892:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3892"><strong>Meir info om 3892 VINJE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3892</styleUrl>
+ <Point>
+ <coordinates>7.96919,59.56587</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3893">
+ <IconStyle id="icon3893">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3893.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3893">
+ <name>3893 VINJESVINGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3893:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3893"><strong>Meir info om 3893 VINJESVINGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3893</styleUrl>
+ <Point>
+ <coordinates>7.8077,59.6545</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3895">
+ <IconStyle id="icon3895">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3895.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3895">
+ <name>3895 EDLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3895:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Vinje kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3895"><strong>Meir info om 3895 EDLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3895</styleUrl>
+ <Point>
+ <coordinates>7.6005,59.7389</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3900">
+ <IconStyle id="icon3900">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3900.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3900">
+ <name>3900 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3900:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3900"><strong>Meir info om 3900 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3900</styleUrl>
+ <Point>
+ <coordinates>9.65610,59.14054</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3901">
+ <IconStyle id="icon3901">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3901.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3901">
+ <name>3901 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3901:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3901"><strong>Meir info om 3901 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3901</styleUrl>
+ <Point>
+ <coordinates>9.65117,59.13815</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3902">
+ <IconStyle id="icon3902">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3902.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3902">
+ <name>3902 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3902:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3902"><strong>Meir info om 3902 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3902</styleUrl>
+ <Point>
+ <coordinates>9.64126,59.13778</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3903">
+ <IconStyle id="icon3903">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3903.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3903">
+ <name>3903 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3903:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3903"><strong>Meir info om 3903 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3903</styleUrl>
+ <Point>
+ <coordinates>9.65346,59.11541</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3904">
+ <IconStyle id="icon3904">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3904.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3904">
+ <name>3904 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3904:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3904"><strong>Meir info om 3904 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3904</styleUrl>
+ <Point>
+ <coordinates>9.66718,59.11039</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3905">
+ <IconStyle id="icon3905">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3905.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3905">
+ <name>3905 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3905:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3905"><strong>Meir info om 3905 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3905</styleUrl>
+ <Point>
+ <coordinates>9.6552,59.1395</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3906">
+ <IconStyle id="icon3906">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3906.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3906">
+ <name>3906 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3906:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3906"><strong>Meir info om 3906 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3906</styleUrl>
+ <Point>
+ <coordinates>9.68492,59.09592</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3907">
+ <IconStyle id="icon3907">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3907.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3907">
+ <name>3907 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3907:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3907"><strong>Meir info om 3907 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3907</styleUrl>
+ <Point>
+ <coordinates>9.65117,59.13815</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3908">
+ <IconStyle id="icon3908">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3908.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3908">
+ <name>3908 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3908:<br/><strong>Fleire bruksområde</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3908"><strong>Meir info om 3908 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3908</styleUrl>
+ <Point>
+ <coordinates>9.6315,59.1229</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3909">
+ <IconStyle id="icon3909">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3909.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3909">
+ <name>3909 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3909:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3909"><strong>Meir info om 3909 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3909</styleUrl>
+ <Point>
+ <coordinates>9.65117,59.13815</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3910">
+ <IconStyle id="icon3910">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3910.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3910">
+ <name>3910 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3910:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3910"><strong>Meir info om 3910 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3910</styleUrl>
+ <Point>
+ <coordinates>9.6628,59.157</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3911">
+ <IconStyle id="icon3911">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3911.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3911">
+ <name>3911 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3911:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3911"><strong>Meir info om 3911 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3911</styleUrl>
+ <Point>
+ <coordinates>9.6631,59.1523</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3912">
+ <IconStyle id="icon3912">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3912.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3912">
+ <name>3912 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3912:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3912"><strong>Meir info om 3912 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3912</styleUrl>
+ <Point>
+ <coordinates>9.6586,59.1493</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3913">
+ <IconStyle id="icon3913">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3913.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3913">
+ <name>3913 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3913:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3913"><strong>Meir info om 3913 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3913</styleUrl>
+ <Point>
+ <coordinates>9.6713,59.1487</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3914">
+ <IconStyle id="icon3914">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3914.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3914">
+ <name>3914 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3914:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3914"><strong>Meir info om 3914 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3914</styleUrl>
+ <Point>
+ <coordinates>9.6823,59.1514</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3915">
+ <IconStyle id="icon3915">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3915.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3915">
+ <name>3915 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3915:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3915"><strong>Meir info om 3915 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3915</styleUrl>
+ <Point>
+ <coordinates>9.6597,59.1424</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3916">
+ <IconStyle id="icon3916">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3916.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3916">
+ <name>3916 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3916:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3916"><strong>Meir info om 3916 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3916</styleUrl>
+ <Point>
+ <coordinates>9.6572,59.1368</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3917">
+ <IconStyle id="icon3917">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3917.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3917">
+ <name>3917 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3917:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3917"><strong>Meir info om 3917 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3917</styleUrl>
+ <Point>
+ <coordinates>9.6681,59.1327</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3918">
+ <IconStyle id="icon3918">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3918.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3918">
+ <name>3918 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3918:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3918"><strong>Meir info om 3918 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3918</styleUrl>
+ <Point>
+ <coordinates>9.6766,59.1381</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3919">
+ <IconStyle id="icon3919">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3919.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3919">
+ <name>3919 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3919:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3919"><strong>Meir info om 3919 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3919</styleUrl>
+ <Point>
+ <coordinates>9.6437,59.1464</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3920">
+ <IconStyle id="icon3920">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3920.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3920">
+ <name>3920 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3920:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3920"><strong>Meir info om 3920 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3920</styleUrl>
+ <Point>
+ <coordinates>9.6297,59.1381</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3921">
+ <IconStyle id="icon3921">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3921.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3921">
+ <name>3921 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3921:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3921"><strong>Meir info om 3921 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3921</styleUrl>
+ <Point>
+ <coordinates>9.6457,59.1377</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3922">
+ <IconStyle id="icon3922">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3922.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3922">
+ <name>3922 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3922:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3922"><strong>Meir info om 3922 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3922</styleUrl>
+ <Point>
+ <coordinates>9.6511,59.1345</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3924">
+ <IconStyle id="icon3924">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3924.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3924">
+ <name>3924 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3924:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3924"><strong>Meir info om 3924 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3924</styleUrl>
+ <Point>
+ <coordinates>9.6555,59.1267</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3925">
+ <IconStyle id="icon3925">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3925.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3925">
+ <name>3925 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3925:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3925"><strong>Meir info om 3925 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3925</styleUrl>
+ <Point>
+ <coordinates>9.6486,59.1262</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3928">
+ <IconStyle id="icon3928">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3928.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3928">
+ <name>3928 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3928:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3928"><strong>Meir info om 3928 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3928</styleUrl>
+ <Point>
+ <coordinates>9.6599,59.1134</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3929">
+ <IconStyle id="icon3929">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3929.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3929">
+ <name>3929 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3929:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3929"><strong>Meir info om 3929 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3929</styleUrl>
+ <Point>
+ <coordinates>9.662,59.1155</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3930">
+ <IconStyle id="icon3930">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3930.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3930">
+ <name>3930 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3930:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3930"><strong>Meir info om 3930 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3930</styleUrl>
+ <Point>
+ <coordinates>9.6741,59.1081</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3931">
+ <IconStyle id="icon3931">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3931.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3931">
+ <name>3931 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3931:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3931"><strong>Meir info om 3931 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3931</styleUrl>
+ <Point>
+ <coordinates>9.6857,59.1054</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3932">
+ <IconStyle id="icon3932">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3932.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3932">
+ <name>3932 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3932:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3932"><strong>Meir info om 3932 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3932</styleUrl>
+ <Point>
+ <coordinates>9.6759,59.1048</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3933">
+ <IconStyle id="icon3933">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3933.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3933">
+ <name>3933 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3933:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3933"><strong>Meir info om 3933 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3933</styleUrl>
+ <Point>
+ <coordinates>9.6374,59.132</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3936">
+ <IconStyle id="icon3936">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3936.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3936">
+ <name>3936 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3936:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3936"><strong>Meir info om 3936 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3936</styleUrl>
+ <Point>
+ <coordinates>9.6478,59.1132</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3937">
+ <IconStyle id="icon3937">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3937.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3937">
+ <name>3937 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3937:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3937"><strong>Meir info om 3937 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3937</styleUrl>
+ <Point>
+ <coordinates>9.6592,59.1056</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3939">
+ <IconStyle id="icon3939">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3939.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3939">
+ <name>3939 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3939:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3939"><strong>Meir info om 3939 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3939</styleUrl>
+ <Point>
+ <coordinates>9.66371,59.14989</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3940">
+ <IconStyle id="icon3940">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3940.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3940">
+ <name>3940 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3940:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3940"><strong>Meir info om 3940 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3940</styleUrl>
+ <Point>
+ <coordinates>9.6743,59.0818</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3941">
+ <IconStyle id="icon3941">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3941.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3941">
+ <name>3941 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3941:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3941"><strong>Meir info om 3941 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3941</styleUrl>
+ <Point>
+ <coordinates>9.6889,59.0797</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3942">
+ <IconStyle id="icon3942">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3942.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3942">
+ <name>3942 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3942:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3942"><strong>Meir info om 3942 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3942</styleUrl>
+ <Point>
+ <coordinates>9.6782,59.0945</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3943">
+ <IconStyle id="icon3943">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3943.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3943">
+ <name>3943 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3943:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3943"><strong>Meir info om 3943 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3943</styleUrl>
+ <Point>
+ <coordinates>9.6926,59.0917</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3944">
+ <IconStyle id="icon3944">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3944.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3944">
+ <name>3944 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3944:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3944"><strong>Meir info om 3944 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3944</styleUrl>
+ <Point>
+ <coordinates>9.6991,59.1095</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3945">
+ <IconStyle id="icon3945">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3945.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3945">
+ <name>3945 PORSGRUNN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3945:<br/><strong>Firma/organisasjon med eige postnummer</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3945"><strong>Meir info om 3945 PORSGRUNN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3945</styleUrl>
+ <Point>
+ <coordinates>9.7047,59.1219</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3946">
+ <IconStyle id="icon3946">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3946.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3946">
+ <name>3946 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3946:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3946"><strong>Meir info om 3946 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3946</styleUrl>
+ <Point>
+ <coordinates>9.6922,59.1211</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3947">
+ <IconStyle id="icon3947">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3947.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3947">
+ <name>3947 LANGANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3947:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3947"><strong>Meir info om 3947 LANGANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3947</styleUrl>
+ <Point>
+ <coordinates>9.8026,59.0884</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3948">
+ <IconStyle id="icon3948">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3948.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3948">
+ <name>3948 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3948:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3948"><strong>Meir info om 3948 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3948</styleUrl>
+ <Point>
+ <coordinates>9.7514,59.1609</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3949">
+ <IconStyle id="icon3949">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3949.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3949">
+ <name>3949 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3949:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3949"><strong>Meir info om 3949 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3949</styleUrl>
+ <Point>
+ <coordinates>9.7378,59.0744</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3950">
+ <IconStyle id="icon3950">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3950.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3950">
+ <name>3950 BREVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3950:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3950"><strong>Meir info om 3950 BREVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3950</styleUrl>
+ <Point>
+ <coordinates>9.6981,59.0555</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3951">
+ <IconStyle id="icon3951">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3951.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3951">
+ <name>3951 BREVIK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3951:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3951"><strong>Meir info om 3951 BREVIK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3951</styleUrl>
+ <Point>
+ <coordinates>9.6981,59.0555</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3960">
+ <IconStyle id="icon3960">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3960.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3960">
+ <name>3960 STATHELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3960:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3960"><strong>Meir info om 3960 STATHELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3960</styleUrl>
+ <Point>
+ <coordinates>9.6928,59.0432</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3961">
+ <IconStyle id="icon3961">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3961.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3961">
+ <name>3961 STATHELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3961:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3961"><strong>Meir info om 3961 STATHELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3961</styleUrl>
+ <Point>
+ <coordinates>9.7104,59.0201</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3962">
+ <IconStyle id="icon3962">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3962.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3962">
+ <name>3962STATHELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3962:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3962"><strong>Meir info om 3962STATHELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3962</styleUrl>
+ <Point>
+ <coordinates>9.6563,59.0454</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3965">
+ <IconStyle id="icon3965">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3965.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3965">
+ <name>3965 HERRE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3965:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3965"><strong>Meir info om 3965 HERRE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3965</styleUrl>
+ <Point>
+ <coordinates>9.5562,59.1052</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3966">
+ <IconStyle id="icon3966">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3966.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3966">
+ <name>3966 STATHELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3966:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3966"><strong>Meir info om 3966 STATHELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3966</styleUrl>
+ <Point>
+ <coordinates>9.5787,59.1025</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3967">
+ <IconStyle id="icon3967">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3967.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3967">
+ <name>3967 STATHELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3967:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3967"><strong>Meir info om 3967 STATHELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3967</styleUrl>
+ <Point>
+ <coordinates>9.5966,58.9646</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3970">
+ <IconStyle id="icon3970">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3970.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3970">
+ <name>3970 LANGESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3970:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3970"><strong>Meir info om 3970 LANGESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3970</styleUrl>
+ <Point>
+ <coordinates>9.7487,59.0007</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3971">
+ <IconStyle id="icon3971">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3971.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3971">
+ <name>3971 LANGESUND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3971:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3971"><strong>Meir info om 3971 LANGESUND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3971</styleUrl>
+ <Point>
+ <coordinates>9.7487,59.0007</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3991">
+ <IconStyle id="icon3991">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3991.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3991">
+ <name>3991 BREVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3991:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3991"><strong>Meir info om 3991 BREVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3991</styleUrl>
+ <Point>
+ <coordinates>9.69967,59.05280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3993">
+ <IconStyle id="icon3993">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3993.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3993">
+ <name>3993 LANGESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3993:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3993"><strong>Meir info om 3993 LANGESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3993</styleUrl>
+ <Point>
+ <coordinates>9.74643,58.99865</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3994">
+ <IconStyle id="icon3994">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3994.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3994">
+ <name>3994 LANGESUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3994:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3994"><strong>Meir info om 3994 LANGESUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3994</styleUrl>
+ <Point>
+ <coordinates>9.74169,59.01271</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3995">
+ <IconStyle id="icon3995">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3995.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3995">
+ <name>3995 STATHELLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3995:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3995"><strong>Meir info om 3995 STATHELLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3995</styleUrl>
+ <Point>
+ <coordinates>9.69386,59.04587</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3996">
+ <IconStyle id="icon3996">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3996.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3996">
+ <name>3996 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3996:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3996"><strong>Meir info om 3996 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3996</styleUrl>
+ <Point>
+ <coordinates>9.70957,59.12116</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3997">
+ <IconStyle id="icon3997">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3997.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3997">
+ <name>3997 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3997:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3997"><strong>Meir info om 3997 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3997</styleUrl>
+ <Point>
+ <coordinates>9.65896,59.12145</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3998">
+ <IconStyle id="icon3998">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3998.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3998">
+ <name>3998 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3998:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3998"><strong>Meir info om 3998 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3998</styleUrl>
+ <Point>
+ <coordinates>9.64119,59.14144</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3999">
+ <IconStyle id="icon3999">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3999.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3999">
+ <name>3999 HERRE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3999:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bamble kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3999"><strong>Meir info om 3999 HERRE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3999</styleUrl>
+ <Point>
+ <coordinates>9.56077,59.10333</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4112">
+ <IconStyle id="icon4112">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4112.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4112">
+ <name>4112 HELLE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4112:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Kragerø kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4112"><strong>Meir info om 4112 HELLE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4112</styleUrl>
+ <Point>
+ <coordinates>9.3905,58.9035</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4860">
+ <IconStyle id="icon4860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4860">
+ <name>4860 TREUNGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4860:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4860"><strong>Meir info om 4860 TREUNGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4860</styleUrl>
+ <Point>
+ <coordinates>8.52502,59.01924</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Masfjorden, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5180">
+ <IconStyle id="icon5180">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5180.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5180">
+ <name>5180 MASFJORDNES (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5180:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5180"><strong>Meir info om 5180 MASFJORDNES (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5180</styleUrl>
+ <Point>
+ <coordinates>5.3045,60.8007</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5192">
+ <IconStyle id="icon5192">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5192.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5192">
+ <name>5192 HOSTELAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5192:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5192"><strong>Meir info om 5192 HOSTELAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5192</styleUrl>
+ <Point>
+ <coordinates>5.2579,60.8351</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5198">
+ <IconStyle id="icon5198">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5198.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5198">
+ <name>5198 MATREDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5198:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5198"><strong>Meir info om 5198 MATREDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5198</styleUrl>
+ <Point>
+ <coordinates>5.5826,60.8743</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5981">
+ <IconStyle id="icon5981">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5981.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5981">
+ <name>5981 MASFJORDNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5981:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5981"><strong>Meir info om 5981 MASFJORDNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5981</styleUrl>
+ <Point>
+ <coordinates>5.3045,60.8007</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5982">
+ <IconStyle id="icon5982">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5982.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5982">
+ <name>5982 MASFJORDNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5982:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5982"><strong>Meir info om 5982 MASFJORDNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5982</styleUrl>
+ <Point>
+ <coordinates>5.3045,60.8007</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5983">
+ <IconStyle id="icon5983">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5983.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5983">
+ <name>5983 HAUGSVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5983:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5983"><strong>Meir info om 5983 HAUGSVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5983</styleUrl>
+ <Point>
+ <coordinates>5.5226,60.9019</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5984">
+ <IconStyle id="icon5984">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5984.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5984">
+ <name>5984 MATREDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5984:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5984"><strong>Meir info om 5984 MATREDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5984</styleUrl>
+ <Point>
+ <coordinates>5.5826,60.8743</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5985">
+ <IconStyle id="icon5985">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5985.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5985">
+ <name>5985 HAUGSVÆR</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5985:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5985"><strong>Meir info om 5985 HAUGSVÆR</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5985</styleUrl>
+ <Point>
+ <coordinates>5.5226,60.9019</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5986">
+ <IconStyle id="icon5986">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5986.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5986">
+ <name>5986 HOSTELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5986:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5986"><strong>Meir info om 5986 HOSTELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5986</styleUrl>
+ <Point>
+ <coordinates>5.2579,60.8351</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5987">
+ <IconStyle id="icon5987">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5987.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5987">
+ <name>5987 HOSTELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5987:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Masfjorden kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5987"><strong>Meir info om 5987 HOSTELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5987</styleUrl>
+ <Point>
+ <coordinates>5.26191,60.83433</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Masfjorden (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.7038705,60.8518987,0 5.5650433,60.7884831,0 5.5032622,60.792606,0 5.4773881,60.7766265,0 5.4932294,60.7229594,0 5.4087425,60.7038447,0 5.1119823,60.8057445,0 5.1119823,60.8057445,0 5.1625584,60.8997629,0 5.2265836,60.9273578,0 5.2774078,60.9289614,0 5.292589,60.9443521,0 5.3272205,60.9161177,0 5.3315322,60.9126007,0 5.4298802,60.9299236,0 5.4776273,60.9343773,0 5.4832922,60.9217821,0 5.513047,60.9270371,0 5.6186556,60.9783134,0 5.6186556,60.9783134,0 5.7064428,60.9584536,0 5.7981902,60.9869582,0 5.8622834,60.9533286,0 5.8622834,60.9533286,0 5.8154196,60.8888488,0 5.7038705,60.8518987,0 5.7038705,60.8518987,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

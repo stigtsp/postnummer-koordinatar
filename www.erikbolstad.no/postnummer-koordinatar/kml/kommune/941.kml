@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Bykle, Aust-Agder</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4754">
+ <IconStyle id="icon4754">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4754.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4754">
+ <name>4754 BYKLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4754:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4754"><strong>Meir info om 4754 BYKLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4754</styleUrl>
+ <Point>
+ <coordinates>7.3397,59.3494</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4755">
+ <IconStyle id="icon4755">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4755.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4755">
+ <name>4755 HOVDEN I SETESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4755:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4755"><strong>Meir info om 4755 HOVDEN I SETESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4755</styleUrl>
+ <Point>
+ <coordinates>7.3578,59.5581</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4756">
+ <IconStyle id="icon4756">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4756.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4756">
+ <name>4756 HOVDEN I SETESDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4756:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Bykle kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4756"><strong>Meir info om 4756 HOVDEN I SETESDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4756</styleUrl>
+ <Point>
+ <coordinates>7.35621,59.55962</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Bykle (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.8658535,59.3698806,0 6.8266078,59.2846128,0 6.8390738,59.19508,0 6.8390738,59.19508,0 6.9402568,59.1843403,0 6.9402568,59.1843403,0 6.9979749,59.1913774,0 6.9979749,59.1913774,0 7.1833886,59.2967048,0 7.2337527,59.2794089,0 7.2997471,59.2856187,0 7.2988787,59.3033547,0 7.3275342,59.3095601,0 7.4161055,59.2865057,0 7.445586,59.3510974,0 7.5395026,59.4006169,0 7.5395026,59.4006169,0 7.5804259,59.4341991,0 7.5645846,59.4399048,0 7.6239895,59.4643946,0 7.5342221,59.527048,0 7.5144205,59.5628456,0 7.5486961,59.5887382,0 7.5486961,59.5887382,0 7.4439126,59.6479925,0 7.4414374,59.6592473,0 7.400184,59.6613311,0 7.3935835,59.6354827,0 7.3746069,59.6354827,0 7.2112436,59.6763308,0 7.2112436,59.6763308,0 7.1013533,59.6523151,0 7.0470257,59.5882067,0 6.9913729,59.5982666,0 6.9622215,59.5177028,0 7.0236162,59.4816105,0 6.9591297,59.4459286,0 6.8834464,59.4294868,0 6.9294024,59.4006244,0 6.8912405,59.3991855,0 6.8658535,59.3698806,0 6.8658535,59.3698806,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

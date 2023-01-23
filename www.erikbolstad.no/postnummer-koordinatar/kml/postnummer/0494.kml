@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0494 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0494">
+ <name>0494 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0494:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0494"><strong>Meir info om 0494 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.78970,59.96410</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0494 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.78406,59.96511 10.78458,59.96470 10.78439,59.96447 10.78371,59.96452 10.78349,59.96383 10.78371,59.96366 10.78350,59.96308 10.78504,59.96267 10.78508,59.96237 10.78449,59.96235 10.78477,59.96214 10.78531,59.96206 10.78566,59.96176 10.78654,59.96014 10.78687,59.96018 10.78756,59.96029 10.78769,59.96049 10.78965,59.96048 10.79068,59.96095 10.79093,59.96129 10.79036,59.96294 10.79020,59.96351 10.79040,59.96368 10.79197,59.96387 10.79105,59.96461 10.79103,59.96511 10.79127,59.96546 10.79103,59.96711 10.79222,59.96731 10.79089,59.96807 10.79086,59.96848 10.79098,59.96877 10.79109,59.96893 10.79070,59.96926 10.79062,59.96970 10.79059,59.96994 10.79086,59.97010 10.79100,59.97031 10.79091,59.97045 10.79070,59.97065 10.79059,59.97080 10.79038,59.97078 10.79004,59.97062 10.78976,59.97042 10.78885,59.96993 10.78735,59.96953 10.78709,59.96883 10.78613,59.96777 10.78562,59.96742 10.78548,59.96721 10.78488,59.96654 10.78428,59.96573 10.78384,59.96545 10.78370,59.96528 10.78408,59.96517 10.78406,59.96511</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0494 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.78641,59.95967 10.78680,59.95946 10.78832,59.95937 10.78834,59.95983 10.78746,59.95984 10.78717,59.95992 10.78694,59.95991 10.78641,59.95967</coordinates></LineString></Placemark>
+ </Document>
+</kml>

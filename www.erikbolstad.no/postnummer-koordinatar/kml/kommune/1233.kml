@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ulvik, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3590">
+ <IconStyle id="icon3590">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3590.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3590">
+ <name>3590 FINSE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3590:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulvik herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3590"><strong>Meir info om 3590 FINSE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3590</styleUrl>
+ <Point>
+ <coordinates>7.49241,60.60288</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5719">
+ <IconStyle id="icon5719">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5719.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5719">
+ <name>5719 FINSE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5719:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulvik herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5719"><strong>Meir info om 5719 FINSE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5719</styleUrl>
+ <Point>
+ <coordinates>7.5041,60.6016</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5730">
+ <IconStyle id="icon5730">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5730.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5730">
+ <name>5730 ULVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5730:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulvik herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5730"><strong>Meir info om 5730 ULVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5730</styleUrl>
+ <Point>
+ <coordinates>6.9184,60.5679</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5731">
+ <IconStyle id="icon5731">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5731.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5731">
+ <name>5731 ULVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5731:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulvik herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5731"><strong>Meir info om 5731 ULVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5731</styleUrl>
+ <Point>
+ <coordinates>6.91506,60.56833</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5734">
+ <IconStyle id="icon5734">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5734.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5734">
+ <name>5734 VALLAVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5734:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ulvik herad</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5734"><strong>Meir info om 5734 VALLAVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5734</styleUrl>
+ <Point>
+ <coordinates>6.8243,60.4849</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Ulvik (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.8352613,60.6270525,0 6.8623235,60.6603816,0 6.8385616,60.6759019,0 6.9184281,60.680104,0 6.9844335,60.7379081,0 6.9844335,60.7379081,0 6.9941502,60.7162552,0 7.0972836,60.7086874,0 7.1313176,60.6935464,0 7.2241377,60.7016225,0 7.4706265,60.6778932,0 7.4706265,60.6778932,0 7.4386552,60.6607165,0 7.5448826,60.6586951,0 7.63564,60.6344284,0 7.6397653,60.5615187,0 7.7325854,60.5229722,0 7.7325854,60.5229722,0 7.4448432,60.5483369,0 7.2849864,60.5939434,0 7.2241377,60.5873598,0 7.2138243,60.5387007,0 7.0250902,60.5290616,0 6.9163643,60.4822579,0 6.8813799,60.477324,0 6.851935,60.4814599,0 6.851935,60.4814599,0 6.8387848,60.4812425,0 6.8032953,60.4683744,0 6.7928126,60.4778071,0 6.7889147,60.4884443,0 6.7548807,60.4884443,0 6.7548807,60.4884443,0 6.8126354,60.5168817,0 6.8352613,60.6270525,0 6.8352613,60.6270525,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

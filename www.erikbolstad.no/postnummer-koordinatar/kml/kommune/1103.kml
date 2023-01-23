@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Stavanger, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4000">
+ <IconStyle id="icon4000">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4000.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4000">
+ <name>4000 STAVANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4000:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4000"><strong>Meir info om 4000 STAVANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4000</styleUrl>
+ <Point>
+ <coordinates>5.73332,58.97005</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4001">
+ <IconStyle id="icon4001">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4001.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4001">
+ <name>4001 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4001:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4001"><strong>Meir info om 4001 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4001</styleUrl>
+ <Point>
+ <coordinates>5.73000,58.96940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4002">
+ <IconStyle id="icon4002">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4002.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4002">
+ <name>4002 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4002:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4002"><strong>Meir info om 4002 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4002</styleUrl>
+ <Point>
+ <coordinates>5.73000,58.96940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4003">
+ <IconStyle id="icon4003">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4003.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4003">
+ <name>4003 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4003:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4003"><strong>Meir info om 4003 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4003</styleUrl>
+ <Point>
+ <coordinates>5.72995,58.96938</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4004">
+ <IconStyle id="icon4004">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4004.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4004">
+ <name>4004 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4004:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4004"><strong>Meir info om 4004 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4004</styleUrl>
+ <Point>
+ <coordinates>5.73000,58.96940</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4005">
+ <IconStyle id="icon4005">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4005.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4005">
+ <name>4005 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4005:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4005"><strong>Meir info om 4005 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4005</styleUrl>
+ <Point>
+ <coordinates>5.72750,58.97070</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4006">
+ <IconStyle id="icon4006">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4006.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4006">
+ <name>4006 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4006:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4006"><strong>Meir info om 4006 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4006</styleUrl>
+ <Point>
+ <coordinates>5.73290,58.97200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4007">
+ <IconStyle id="icon4007">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4007.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4007">
+ <name>4007 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4007:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4007"><strong>Meir info om 4007 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4007</styleUrl>
+ <Point>
+ <coordinates>5.71540,58.97910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4008">
+ <IconStyle id="icon4008">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4008.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4008">
+ <name>4008 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4008:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4008"><strong>Meir info om 4008 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4008</styleUrl>
+ <Point>
+ <coordinates>5.72430,58.96830</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4009">
+ <IconStyle id="icon4009">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4009.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4009">
+ <name>4009 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4009:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4009"><strong>Meir info om 4009 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4009</styleUrl>
+ <Point>
+ <coordinates>5.71270,58.96220</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4010">
+ <IconStyle id="icon4010">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4010.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4010">
+ <name>4010 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4010:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4010"><strong>Meir info om 4010 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4010</styleUrl>
+ <Point>
+ <coordinates>5.73170,58.96100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4011">
+ <IconStyle id="icon4011">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4011.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4011">
+ <name>4011 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4011:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4011"><strong>Meir info om 4011 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4011</styleUrl>
+ <Point>
+ <coordinates>5.73330,58.95550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4012">
+ <IconStyle id="icon4012">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4012.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4012">
+ <name>4012 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4012:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4012"><strong>Meir info om 4012 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4012</styleUrl>
+ <Point>
+ <coordinates>5.74150,58.96500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4013">
+ <IconStyle id="icon4013">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4013.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4013">
+ <name>4013 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4013:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4013"><strong>Meir info om 4013 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4013</styleUrl>
+ <Point>
+ <coordinates>5.74300,58.97100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4014">
+ <IconStyle id="icon4014">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4014.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4014">
+ <name>4014 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4014:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4014"><strong>Meir info om 4014 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4014</styleUrl>
+ <Point>
+ <coordinates>5.75210,58.96760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4015">
+ <IconStyle id="icon4015">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4015.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4015">
+ <name>4015 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4015:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4015"><strong>Meir info om 4015 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4015</styleUrl>
+ <Point>
+ <coordinates>5.75450,58.96080</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4016">
+ <IconStyle id="icon4016">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4016.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4016">
+ <name>4016 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4016:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4016"><strong>Meir info om 4016 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4016</styleUrl>
+ <Point>
+ <coordinates>5.73780,58.94590</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4017">
+ <IconStyle id="icon4017">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4017.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4017">
+ <name>4017 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4017:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4017"><strong>Meir info om 4017 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4017</styleUrl>
+ <Point>
+ <coordinates>5.74010,58.93740</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4018">
+ <IconStyle id="icon4018">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4018.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4018">
+ <name>4018 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4018:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4018"><strong>Meir info om 4018 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4018</styleUrl>
+ <Point>
+ <coordinates>5.73500,58.92970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4019">
+ <IconStyle id="icon4019">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4019.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4019">
+ <name>4019 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4019:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4019"><strong>Meir info om 4019 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4019</styleUrl>
+ <Point>
+ <coordinates>5.72090,58.94760</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4020">
+ <IconStyle id="icon4020">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4020.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4020">
+ <name>4020 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4020:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4020"><strong>Meir info om 4020 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4020</styleUrl>
+ <Point>
+ <coordinates>5.72180,58.92160</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4021">
+ <IconStyle id="icon4021">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4021.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4021">
+ <name>4021 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4021:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4021"><strong>Meir info om 4021 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4021</styleUrl>
+ <Point>
+ <coordinates>5.70060,58.94850</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4022">
+ <IconStyle id="icon4022">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4022.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4022">
+ <name>4022 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4022:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4022"><strong>Meir info om 4022 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4022</styleUrl>
+ <Point>
+ <coordinates>5.69030,58.95990</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4023">
+ <IconStyle id="icon4023">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4023.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4023">
+ <name>4023 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4023:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4023"><strong>Meir info om 4023 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4023</styleUrl>
+ <Point>
+ <coordinates>5.69720,58.96670</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4024">
+ <IconStyle id="icon4024">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4024.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4024">
+ <name>4024 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4024:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4024"><strong>Meir info om 4024 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4024</styleUrl>
+ <Point>
+ <coordinates>5.71300,58.97100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4025">
+ <IconStyle id="icon4025">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4025.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4025">
+ <name>4025 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4025:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4025"><strong>Meir info om 4025 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4025</styleUrl>
+ <Point>
+ <coordinates>5.70000,58.97610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4026">
+ <IconStyle id="icon4026">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4026.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4026">
+ <name>4026 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4026:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4026"><strong>Meir info om 4026 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4026</styleUrl>
+ <Point>
+ <coordinates>5.70550,58.98000</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4027">
+ <IconStyle id="icon4027">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4027.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4027">
+ <name>4027 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4027:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4027"><strong>Meir info om 4027 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4027</styleUrl>
+ <Point>
+ <coordinates>5.68820,58.98500</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4028">
+ <IconStyle id="icon4028">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4028.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4028">
+ <name>4028 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4028:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4028"><strong>Meir info om 4028 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4028</styleUrl>
+ <Point>
+ <coordinates>5.67970,58.99120</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4029">
+ <IconStyle id="icon4029">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4029.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4029">
+ <name>4029 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4029:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4029"><strong>Meir info om 4029 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4029</styleUrl>
+ <Point>
+ <coordinates>5.67880,58.99470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4031">
+ <IconStyle id="icon4031">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4031.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4031">
+ <name>4031 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4031:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4031"><strong>Meir info om 4031 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4031</styleUrl>
+ <Point>
+ <coordinates>5.74330,58.89180</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4032">
+ <IconStyle id="icon4032">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4032.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4032">
+ <name>4032 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4032:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4032"><strong>Meir info om 4032 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4032</styleUrl>
+ <Point>
+ <coordinates>5.73000,58.90480</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4033">
+ <IconStyle id="icon4033">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4033.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4033">
+ <name>4033 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4033:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4033"><strong>Meir info om 4033 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4033</styleUrl>
+ <Point>
+ <coordinates>5.69490,58.89910</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4034">
+ <IconStyle id="icon4034">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4034.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4034">
+ <name>4034 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4034:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4034"><strong>Meir info om 4034 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4034</styleUrl>
+ <Point>
+ <coordinates>5.72130,58.89800</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4035">
+ <IconStyle id="icon4035">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4035.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4035">
+ <name>4035 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4035:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4035"><strong>Meir info om 4035 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4035</styleUrl>
+ <Point>
+ <coordinates>5.71910,58.89280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4036">
+ <IconStyle id="icon4036">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4036.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4036">
+ <name>4036 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4036:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4036"><strong>Meir info om 4036 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4036</styleUrl>
+ <Point>
+ <coordinates>5.69780,58.93750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4041">
+ <IconStyle id="icon4041">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4041.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4041">
+ <name>4041 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4041:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4041"><strong>Meir info om 4041 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4041</styleUrl>
+ <Point>
+ <coordinates>5.68390,58.94550</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4042">
+ <IconStyle id="icon4042">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4042.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4042">
+ <name>4042 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4042:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4042"><strong>Meir info om 4042 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4042</styleUrl>
+ <Point>
+ <coordinates>5.66860,58.95270</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4043">
+ <IconStyle id="icon4043">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4043.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4043">
+ <name>4043 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4043:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4043"><strong>Meir info om 4043 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4043</styleUrl>
+ <Point>
+ <coordinates>5.63960,58.95090</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4044">
+ <IconStyle id="icon4044">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4044.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4044">
+ <name>4044 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4044:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4044"><strong>Meir info om 4044 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4044</styleUrl>
+ <Point>
+ <coordinates>5.67580,58.94170</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4045">
+ <IconStyle id="icon4045">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4045.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4045">
+ <name>4045 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4045:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4045"><strong>Meir info om 4045 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4045</styleUrl>
+ <Point>
+ <coordinates>5.64740,58.94010</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4046">
+ <IconStyle id="icon4046">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4046.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4046">
+ <name>4046 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4046:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4046"><strong>Meir info om 4046 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4046</styleUrl>
+ <Point>
+ <coordinates>5.63030,58.95680</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4047">
+ <IconStyle id="icon4047">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4047.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4047">
+ <name>4047 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4047:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4047"><strong>Meir info om 4047 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4047</styleUrl>
+ <Point>
+ <coordinates>5.63800,58.96650</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4048">
+ <IconStyle id="icon4048">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4048.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4048">
+ <name>4048 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4048:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4048"><strong>Meir info om 4048 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4048</styleUrl>
+ <Point>
+ <coordinates>5.60860,58.96310</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4049">
+ <IconStyle id="icon4049">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4049.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4049">
+ <name>4049 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4049:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4049"><strong>Meir info om 4049 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4049</styleUrl>
+ <Point>
+ <coordinates>5.60710,58.96950</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4064">
+ <IconStyle id="icon4064">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4064.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4064">
+ <name>4064 STAVANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4064:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4064"><strong>Meir info om 4064 STAVANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4064</styleUrl>
+ <Point>
+ <coordinates>5.74660,58.88970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4065">
+ <IconStyle id="icon4065">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4065.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4065">
+ <name>4065 STAVANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4065:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4065"><strong>Meir info om 4065 STAVANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4065</styleUrl>
+ <Point>
+ <coordinates>5.74660,58.88970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4066">
+ <IconStyle id="icon4066">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4066.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4066">
+ <name>4066 STAVANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4066:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4066"><strong>Meir info om 4066 STAVANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4066</styleUrl>
+ <Point>
+ <coordinates>5.74660,58.88970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4067">
+ <IconStyle id="icon4067">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4067.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4067">
+ <name>4067 STAVANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4067:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4067"><strong>Meir info om 4067 STAVANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4067</styleUrl>
+ <Point>
+ <coordinates>5.70892,58.89341</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4068">
+ <IconStyle id="icon4068">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4068.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4068">
+ <name>4068 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4068:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4068"><strong>Meir info om 4068 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4068</styleUrl>
+ <Point>
+ <coordinates>5.74660,58.88970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4069">
+ <IconStyle id="icon4069">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4069.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4069">
+ <name>4069 STAVANGER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4069:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4069"><strong>Meir info om 4069 STAVANGER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4069</styleUrl>
+ <Point>
+ <coordinates>5.74660,58.88970</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4076">
+ <IconStyle id="icon4076">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4076.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4076">
+ <name>4076 VASSØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4076:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4076"><strong>Meir info om 4076 VASSØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4076</styleUrl>
+ <Point>
+ <coordinates>5.78440,58.99860</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4077">
+ <IconStyle id="icon4077">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4077.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4077">
+ <name>4077 HUNDVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4077:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4077"><strong>Meir info om 4077 HUNDVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4077</styleUrl>
+ <Point>
+ <coordinates>5.74890,58.98240</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4078">
+ <IconStyle id="icon4078">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4078.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4078">
+ <name>4078 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4078:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4078"><strong>Meir info om 4078 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4078</styleUrl>
+ <Point>
+ <coordinates>5.74178,58.93474</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4079">
+ <IconStyle id="icon4079">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4079.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4079">
+ <name>4079 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4079:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4079"><strong>Meir info om 4079 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4079</styleUrl>
+ <Point>
+ <coordinates>5.72459,58.89613</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4080">
+ <IconStyle id="icon4080">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4080.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4080">
+ <name>4080 AUSTRE ÅMØY (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4080:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4080"><strong>Meir info om 4080 AUSTRE ÅMØY (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4080</styleUrl>
+ <Point>
+ <coordinates>5.75800,59.03920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4081">
+ <IconStyle id="icon4081">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4081.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4081">
+ <name>4081 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4081:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4081"><strong>Meir info om 4081 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4081</styleUrl>
+ <Point>
+ <coordinates>5.69700,58.94949</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4082">
+ <IconStyle id="icon4082">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4082.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4082">
+ <name>4082 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4082:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4082"><strong>Meir info om 4082 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4082</styleUrl>
+ <Point>
+ <coordinates>5.69340,58.98794</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4083">
+ <IconStyle id="icon4083">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4083.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4083">
+ <name>4083 HUNDVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4083:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4083"><strong>Meir info om 4083 HUNDVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4083</styleUrl>
+ <Point>
+ <coordinates>5.75490,59.00410</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4084">
+ <IconStyle id="icon4084">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4084.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4084">
+ <name>4084 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4084:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4084"><strong>Meir info om 4084 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4084</styleUrl>
+ <Point>
+ <coordinates>5.69340,58.98790</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4085">
+ <IconStyle id="icon4085">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4085.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4085">
+ <name>4085 HUNDVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4085:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4085"><strong>Meir info om 4085 HUNDVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4085</styleUrl>
+ <Point>
+ <coordinates>5.76820,58.99110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4086">
+ <IconStyle id="icon4086">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4086.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4086">
+ <name>4086 HUNDVÅG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4086:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4086"><strong>Meir info om 4086 HUNDVÅG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4086</styleUrl>
+ <Point>
+ <coordinates>5.73080,58.99370</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4087">
+ <IconStyle id="icon4087">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4087.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4087">
+ <name>4087 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4087:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4087"><strong>Meir info om 4087 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4087</styleUrl>
+ <Point>
+ <coordinates>5.72947,58.90827</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4088">
+ <IconStyle id="icon4088">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4088.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4088">
+ <name>4088 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4088:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4088"><strong>Meir info om 4088 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4088</styleUrl>
+ <Point>
+ <coordinates>5.72426,58.92224</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4089">
+ <IconStyle id="icon4089">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4089.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4089">
+ <name>4089 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4089:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4089"><strong>Meir info om 4089 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4089</styleUrl>
+ <Point>
+ <coordinates>5.60281,58.97103</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4090">
+ <IconStyle id="icon4090">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4090.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4090">
+ <name>4090 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4090:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4090"><strong>Meir info om 4090 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4090</styleUrl>
+ <Point>
+ <coordinates>5.68098,58.95270</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4091">
+ <IconStyle id="icon4091">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4091.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4091">
+ <name>4091 HAFRSFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4091:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4091"><strong>Meir info om 4091 HAFRSFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4091</styleUrl>
+ <Point>
+ <coordinates>5.65727,58.95202</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4092">
+ <IconStyle id="icon4092">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4092.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4092">
+ <name>4092 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4092:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4092"><strong>Meir info om 4092 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4092</styleUrl>
+ <Point>
+ <coordinates>5.70663,58.97702</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4093">
+ <IconStyle id="icon4093">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4093.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4093">
+ <name>4093 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4093:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4093"><strong>Meir info om 4093 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4093</styleUrl>
+ <Point>
+ <coordinates>5.75393,58.96988</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4094">
+ <IconStyle id="icon4094">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4094.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4094">
+ <name>4094 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4094:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4094"><strong>Meir info om 4094 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4094</styleUrl>
+ <Point>
+ <coordinates>5.70458,58.96535</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4095">
+ <IconStyle id="icon4095">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4095.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4095">
+ <name>4095 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4095:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4095"><strong>Meir info om 4095 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4095</styleUrl>
+ <Point>
+ <coordinates>5.73911,58.94799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4099">
+ <IconStyle id="icon4099">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4099.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4099">
+ <name>4099 STAVANGER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4099:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4099"><strong>Meir info om 4099 STAVANGER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4099</styleUrl>
+ <Point>
+ <coordinates>5.73911,58.94799</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4150">
+ <IconStyle id="icon4150">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4150.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4150">
+ <name>4150 RENNESØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4150:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4150"><strong>Meir info om 4150 RENNESØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4150</styleUrl>
+ <Point>
+ <coordinates>5.69790,59.09750</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4152">
+ <IconStyle id="icon4152">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4152.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4152">
+ <name>4152 VESTRE ÅMØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4152:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4152"><strong>Meir info om 4152 VESTRE ÅMØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4152</styleUrl>
+ <Point>
+ <coordinates>5.69150,59.04100</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4153">
+ <IconStyle id="icon4153">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4153.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4153">
+ <name>4153 BRIMSE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4153:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4153"><strong>Meir info om 4153 BRIMSE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4153</styleUrl>
+ <Point>
+ <coordinates>5.80530,59.08450</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4154">
+ <IconStyle id="icon4154">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4154.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4154">
+ <name>4154 AUSTRE ÅMØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4154:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4154"><strong>Meir info om 4154 AUSTRE ÅMØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4154</styleUrl>
+ <Point>
+ <coordinates>5.75800,59.03920</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4156">
+ <IconStyle id="icon4156">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4156.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4156">
+ <name>4156 MOSTERØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4156:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4156"><strong>Meir info om 4156 MOSTERØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4156</styleUrl>
+ <Point>
+ <coordinates>5.65490,59.07710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4157">
+ <IconStyle id="icon4157">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4157.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4157">
+ <name>4157 UTSTEIN KLOSTER (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4157:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4157"><strong>Meir info om 4157 UTSTEIN KLOSTER (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4157</styleUrl>
+ <Point>
+ <coordinates>5.59340,59.09770</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4158">
+ <IconStyle id="icon4158">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4158.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4158">
+ <name>4158 BRU</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4158:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4158"><strong>Meir info om 4158 BRU</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4158</styleUrl>
+ <Point>
+ <coordinates>5.65820,59.03870</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4159">
+ <IconStyle id="icon4159">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4159.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4159">
+ <name>4159 RENNESØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4159:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4159"><strong>Meir info om 4159 RENNESØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4159</styleUrl>
+ <Point>
+ <coordinates>5.69694,59.09758</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4160">
+ <IconStyle id="icon4160">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4160.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4160">
+ <name>4160 FINNØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4160:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4160"><strong>Meir info om 4160 FINNØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4160</styleUrl>
+ <Point>
+ <coordinates>5.87390,59.17110</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4161">
+ <IconStyle id="icon4161">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4161.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4161">
+ <name>4161 FINNØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4161:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4161"><strong>Meir info om 4161 FINNØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4161</styleUrl>
+ <Point>
+ <coordinates>5.87575,59.17213</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4163">
+ <IconStyle id="icon4163">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4163.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4163">
+ <name>4163 TALGJE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4163:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4163"><strong>Meir info om 4163 TALGJE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4163</styleUrl>
+ <Point>
+ <coordinates>5.84140,59.10630</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4164">
+ <IconStyle id="icon4164">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4164.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4164">
+ <name>4164 FOGN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4164:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4164"><strong>Meir info om 4164 FOGN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4164</styleUrl>
+ <Point>
+ <coordinates>5.90740,59.13520</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4168">
+ <IconStyle id="icon4168">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4168.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4168">
+ <name>4168 BYRE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4168:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4168"><strong>Meir info om 4168 BYRE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4168</styleUrl>
+ <Point>
+ <coordinates>5.97390,59.16200</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4169">
+ <IconStyle id="icon4169">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4169.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4169">
+ <name>4169 SØRBOKN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4169:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4169"><strong>Meir info om 4169 SØRBOKN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4169</styleUrl>
+ <Point>
+ <coordinates>5.94550,59.16280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4170">
+ <IconStyle id="icon4170">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4170.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4170">
+ <name>4170 SJERNARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4170:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4170"><strong>Meir info om 4170 SJERNARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4170</styleUrl>
+ <Point>
+ <coordinates>5.83640,59.25260</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4173">
+ <IconStyle id="icon4173">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4173.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4173">
+ <name>4173 NORD-HIDLE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4173:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4173"><strong>Meir info om 4173 NORD-HIDLE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4173</styleUrl>
+ <Point>
+ <coordinates>5.88760,59.23980</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4174">
+ <IconStyle id="icon4174">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4174.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4174">
+ <name>4174 SJERNARØY</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4174:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4174"><strong>Meir info om 4174 SJERNARØY</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4174</styleUrl>
+ <Point>
+ <coordinates>5.83613,59.22656</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4182">
+ <IconStyle id="icon4182">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4182.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4182">
+ <name>4182 SKARTVEIT</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4182:<br/><strong>Gateadresser og postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4182"><strong>Meir info om 4182 SKARTVEIT</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4182</styleUrl>
+ <Point>
+ <coordinates>5.95718,59.19651</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4187">
+ <IconStyle id="icon4187">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4187.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4187">
+ <name>4187 OMBO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4187:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stavanger kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4187"><strong>Meir info om 4187 OMBO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4187</styleUrl>
+ <Point>
+ <coordinates>5.93800,59.23550</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Stavanger (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.694777,58.8935003,0 5.6947427,58.9027223,0 5.6862626,58.913369,0 5.6817994,58.916471,0 5.6953851,58.9268575,0 5.7032571,58.9332617,0 5.7032571,58.9332617,0 5.6922708,58.9346347,0 5.6922708,58.9346347,0 5.6799112,58.9301168,0 5.6587968,58.9287879,0 5.6451497,58.9276362,0 5.6315885,58.9298068,0 5.6321893,58.9404805,0 5.6197438,58.9464581,0 5.6106887,58.9584102,0 5.6095729,58.9594857,0 5.6073842,58.9604461,0 5.5960546,58.9600921,0 5.5903039,58.964075,0 5.5711586,58.9713925,0 5.5711586,58.9713925,0 5.5820591,58.9755069,0 5.6113907,58.9757221,0 5.6146437,58.9756115,0 5.6208975,58.9774842,0 5.6275322,58.9755157,0 5.641823,58.9732286,0 5.6521227,58.9741134,0 5.654102,58.9740744,0 5.654102,58.9740744,0 5.6626713,58.9739054,0 5.6626713,58.9747548,0 5.6603367,58.9819207,0 5.6475668,58.9911358,0 5.6490495,58.9920113,0 5.6650574,59.0015971,0 5.6836739,59.0147821,0 5.6836739,59.0147821,0 5.7295647,59.0246559,0 5.71441,59.0435212,0 5.7168133,59.0512908,0 5.7366247,59.0601811,0 5.7850612,59.0623984,0 5.7850612,59.0623984,0 5.7853459,59.0323958,0 5.7853459,59.0323958,0 5.8642199,58.9869422,0 5.8642199,58.9869422,0 5.7865714,58.9506419,0 5.7865714,58.9506419,0 5.7785243,58.9468777,0 5.7785243,58.9468777,0 5.7772381,58.942357,0 5.774079,58.9316084,0 5.774079,58.9316084,0 5.7608444,58.8865412,0 5.758012,58.8827933,0 5.750464,58.8841294,0 5.7438832,58.8858489,0 5.7405959,58.8859687,0 5.7308087,58.8890435,0 5.7292037,58.8892741,0 5.7252898,58.8885557,0 5.7142692,58.8910126,0 5.705729,58.8928883,0 5.694777,58.8935003,0 5.694777,58.8935003,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

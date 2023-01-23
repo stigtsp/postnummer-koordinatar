@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Aremark, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1770">
+ <IconStyle id="icon1770">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1770.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1770">
+ <name>1770 AREMARK (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1770:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aremark kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1770"><strong>Meir info om 1770 AREMARK (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1770</styleUrl>
+ <Point>
+ <coordinates>11.69336,59.23860</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1798">
+ <IconStyle id="icon1798">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1798.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1798">
+ <name>1798 AREMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1798:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aremark kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1798"><strong>Meir info om 1798 AREMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1798</styleUrl>
+ <Point>
+ <coordinates>11.69336,59.23860</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1799">
+ <IconStyle id="icon1799">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1799.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1799">
+ <name>1799 AREMARK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1799:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Aremark kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1799"><strong>Meir info om 1799 AREMARK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1799</styleUrl>
+ <Point>
+ <coordinates>11.68280,59.24620</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

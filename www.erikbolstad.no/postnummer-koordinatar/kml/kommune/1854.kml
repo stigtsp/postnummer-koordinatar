@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Ballangen, Nordland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style8540">
+ <IconStyle id="icon8540">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8540.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8540">
+ <name>8540 BALLANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8540:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ballangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8540"><strong>Meir info om 8540 BALLANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8540</styleUrl>
+ <Point>
+ <coordinates>16.8314,68.3428</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8542">
+ <IconStyle id="icon8542">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8542.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8542">
+ <name>8542 KJELDEBOTN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8542:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ballangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8542"><strong>Meir info om 8542 KJELDEBOTN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8542</styleUrl>
+ <Point>
+ <coordinates>16.6761,68.4076</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8543">
+ <IconStyle id="icon8543">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8543.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8543">
+ <name>8543 KJELDEBOTN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8543:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ballangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8543"><strong>Meir info om 8543 KJELDEBOTN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8543</styleUrl>
+ <Point>
+ <coordinates>16.6665,68.4047</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style8546">
+ <IconStyle id="icon8546">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/8546.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer8546">
+ <name>8546 BALLANGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 8546:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Ballangen kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=8546"><strong>Meir info om 8546 BALLANGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style8546</styleUrl>
+ <Point>
+ <coordinates>16.83187,68.34230</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Ballangen (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>17.2748979,68.1203124,0 17.2887531,68.1339161,0 17.2178887,68.1491729,0 17.2394646,68.1677454,0 17.1942372,68.2109388,0 17.2388565,68.2544499,0 17.1595334,68.3152878,0 17.0785577,68.3378696,0 17.0661634,68.3881402,0 16.9736198,68.419465,0 16.9736198,68.419465,0 16.8108421,68.4422471,0 16.5662625,68.4367815,0 16.5662625,68.4367815,0 16.1630365,68.3729184,0 16.0291788,68.3783995,0 16.0291788,68.3783995,0 15.9035907,68.3159379,0 15.9035907,68.3159379,0 16.0698155,68.2872979,0 16.2602478,68.2926707,0 16.345781,68.2783405,0 16.4216311,68.2490552,0 16.510392,68.2526432,0 16.5636485,68.2275155,0 16.5410548,68.2095503,0 16.6717753,68.1675766,0 16.6766168,68.1393511,0 16.7879713,68.1225194,0 16.7944266,68.1363463,0 16.9332163,68.1369473,0 17.2075,68.043333,0 17.2075,68.043333,0 17.230278,68.059167,0 17.252778,68.074722,0 17.2748979,68.1203124,0 17.2748979,68.1203124,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

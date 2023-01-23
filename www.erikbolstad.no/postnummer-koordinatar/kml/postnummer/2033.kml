@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2033 ÅSGREINA</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2033">
+ <name>2033 ÅSGREINA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2033:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nannestad kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2033"><strong>Meir info om 2033 ÅSGREINA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.98600,60.17770</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2033 ÅSGREINA</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.94389,60.17590 10.94664,60.16871 10.95012,60.16194 10.95447,60.15874 10.95547,60.15599 10.96114,60.15539 10.96679,60.15294 10.97043,60.15167 10.97322,60.15176 10.98282,60.15282 10.99242,60.15444 11.00815,60.15500 11.01766,60.15716 11.01638,60.15983 11.01629,60.16249 11.01628,60.16510 11.02139,60.16750 11.02564,60.16914 11.03129,60.16970 11.03117,60.17102 11.02885,60.17184 11.02718,60.17292 11.02472,60.17361 11.02349,60.17441 11.02202,60.17500 11.02087,60.17622 11.01518,60.17751 11.01399,60.18072 11.01517,60.18185 11.01263,60.18256 11.00964,60.18134 11.00319,60.18433 11.00547,60.18504 11.00320,60.18653 11.00042,60.18666 10.99713,60.18531 10.99207,60.18567 10.98700,60.18474 10.98654,60.18458 10.98696,60.18423 10.98724,60.18425 10.98788,60.18329 10.98711,60.18312 10.98590,60.18300 10.98592,60.18330 10.98596,60.18340 10.98604,60.18353 10.98562,60.18351 10.98531,60.18346 10.98525,60.18307 10.98475,60.18306 10.98464,60.18364 10.98499,60.18365 10.98519,60.18391 10.98588,60.18399 10.98611,60.18474 10.98595,60.18480 10.98576,60.18485 10.97957,60.18237 10.97206,60.18074 10.96671,60.18041 10.95812,60.17820 10.94815,60.17782 10.94389,60.17590</coordinates></LineString></Placemark>
+ </Document>
+</kml>

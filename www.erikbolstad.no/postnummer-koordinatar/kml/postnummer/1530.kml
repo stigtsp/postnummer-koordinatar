@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>1530 MOSS</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer1530">
+ <name>1530 MOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1530:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Moss kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1530"><strong>Meir info om 1530 MOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.66740,59.43650</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 1530 MOSS</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.66267,59.43772 10.66289,59.43750 10.66230,59.43706 10.66043,59.43613 10.65938,59.43526 10.65920,59.43519 10.65952,59.43499 10.65996,59.43521 10.66033,59.43532 10.66083,59.43534 10.66097,59.43525 10.66089,59.43498 10.66062,59.43417 10.66061,59.43405 10.66063,59.43367 10.66136,59.43361 10.66179,59.43349 10.66194,59.43365 10.66308,59.43347 10.66309,59.43353 10.66355,59.43369 10.66424,59.43390 10.66389,59.43428 10.66423,59.43460 10.66497,59.43501 10.66515,59.43510 10.66543,59.43498 10.66593,59.43522 10.66561,59.43537 10.66618,59.43571 10.66648,59.43555 10.66679,59.43534 10.66708,59.43510 10.66744,59.43478 10.66726,59.43465 10.66813,59.43463 10.66842,59.43429 10.66860,59.43383 10.66870,59.43323 10.66880,59.43301 10.66986,59.43325 10.66999,59.43328 10.67018,59.43403 10.67022,59.43443 10.67039,59.43488 10.67063,59.43553 10.67135,59.43640 10.67189,59.43696 10.67278,59.43769 10.67315,59.43747 10.67265,59.43697 10.67149,59.43619 10.67161,59.43589 10.67194,59.43538 10.67302,59.43508 10.67422,59.43506 10.67711,59.43462 10.67985,59.43464 10.68069,59.43674 10.67957,59.43904 10.67670,59.43786 10.67528,59.43790 10.67288,59.43834 10.67259,59.43880 10.67255,59.43971 10.67186,59.43993 10.67080,59.43966 10.66952,59.43893 10.66841,59.43881 10.66674,59.43868 10.66447,59.43886 10.66381,59.43832 10.66316,59.43794 10.66267,59.43772</coordinates></LineString></Placemark>
+ </Document>
+</kml>

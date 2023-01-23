@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Sør-Fron, Oppland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2645">
+ <IconStyle id="icon2645">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2645.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2645">
+ <name>2645 SØR-FRON</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2645:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Fron kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2645"><strong>Meir info om 2645 SØR-FRON</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2645</styleUrl>
+ <Point>
+ <coordinates>9.86231,61.57661</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2646">
+ <IconStyle id="icon2646">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2646.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2646">
+ <name>2646 GÅLÅ</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2646:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Fron kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2646"><strong>Meir info om 2646 GÅLÅ</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2646</styleUrl>
+ <Point>
+ <coordinates>9.7842,61.5057</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2647">
+ <IconStyle id="icon2647">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2647.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2647">
+ <name>2647 SØR-FRON</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2647:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Fron kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2647"><strong>Meir info om 2647 SØR-FRON</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2647</styleUrl>
+ <Point>
+ <coordinates>9.9407,61.5552</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2648">
+ <IconStyle id="icon2648">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2648.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2648">
+ <name>2648 SØR-FRON</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2648:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Fron kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2648"><strong>Meir info om 2648 SØR-FRON</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2648</styleUrl>
+ <Point>
+ <coordinates>9.94006,61.55551</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2658">
+ <IconStyle id="icon2658">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2658.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2658">
+ <name>2658 ESPEDALEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2658:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Sør-Fron kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2658"><strong>Meir info om 2658 ESPEDALEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2658</styleUrl>
+ <Point>
+ <coordinates>9.4955,61.439</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Sør-Fron (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.1911812,61.3555059,0 9.2967066,61.3135586,0 9.3007724,61.2933306,0 9.3007724,61.2933306,0 9.3436858,61.2975239,0 9.4798426,61.3608489,0 9.552089,61.4240461,0 9.704918,61.4007778,0 9.8516339,61.4188621,0 9.9360996,61.3925029,0 9.9360996,61.3925029,0 9.9856096,61.4061239,0 10.0535457,61.5307464,0 10.050767,61.5830231,0 9.9729631,61.6239887,0 9.9640712,61.6572499,0 9.9640712,61.7083916,0 10.0307603,61.7268241,0 10.0527534,61.7566012,0 10.0527534,61.7566012,0 10.1631415,61.8839629,0 10.0862471,61.9083825,0 10.0862471,61.9083825,0 10.0113578,61.9123251,0 10.0138667,61.8869186,0 10.0138667,61.8869186,0 9.9940726,61.8688829,0 9.9940726,61.8688829,0 10.0151908,61.8201071,0 9.9340525,61.7617891,0 9.8807013,61.6210569,0 9.7050868,61.494538,0 9.6676269,61.4763979,0 9.5552426,61.4687466,0 9.4428169,61.4948793,0 9.3916484,61.482866,0 9.4327733,61.4701279,0 9.3405202,61.4435734,0 9.3927599,61.3882676,0 9.353858,61.3840092,0 9.3238479,61.3504544,0 9.2349292,61.3509873,0 9.1893584,61.3675026,0 9.1911812,61.3555059,0 9.1911812,61.3555059,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

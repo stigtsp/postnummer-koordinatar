@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Naustdal, Sogn og Fjordane</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6768">
+ <IconStyle id="icon6768">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6768.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6768">
+ <name>6768 NAUSTDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6768:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Naustdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6768"><strong>Meir info om 6768 NAUSTDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6768</styleUrl>
+ <Point>
+ <coordinates>5.71741,61.51081</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6806">
+ <IconStyle id="icon6806">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6806.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6806">
+ <name>6806 NAUSTDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6806:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Naustdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6806"><strong>Meir info om 6806 NAUSTDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6806</styleUrl>
+ <Point>
+ <coordinates>5.71741,61.51081</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6816">
+ <IconStyle id="icon6816">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6816.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6816">
+ <name>6816 NAUSTDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6816:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Naustdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6816"><strong>Meir info om 6816 NAUSTDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6816</styleUrl>
+ <Point>
+ <coordinates>5.39907,61.49027</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6817">
+ <IconStyle id="icon6817">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6817.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6817">
+ <name>6817 NAUSTDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6817:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Naustdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6817"><strong>Meir info om 6817 NAUSTDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6817</styleUrl>
+ <Point>
+ <coordinates>5.7169,61.5111</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6943">
+ <IconStyle id="icon6943">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6943.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6943">
+ <name>6943 NAUSTDAL (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6943:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Naustdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6943"><strong>Meir info om 6943 NAUSTDAL (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6943</styleUrl>
+ <Point>
+ <coordinates>5.71741,61.51081</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Naustdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.5140601,61.4459676,0 5.634222,61.4674507,0 5.7067474,61.5006691,0 5.7640184,61.499009,0 5.7854281,61.5140742,0 5.9122806,61.5121596,0 5.9478742,61.5422699,0 5.9810592,61.5399744,0 6.0557256,61.5774466,0 6.1932829,61.5862346,0 6.1932829,61.5862346,0 6.2685515,61.6099004,0 6.2649291,61.6414452,0 6.2649291,61.6414452,0 6.208498,61.6507273,0 6.0745323,61.6344908,0 5.9712499,61.6427805,0 5.7171283,61.588012,0 5.7171283,61.588012,0 5.7332479,61.5677028,0 5.5929121,61.5444436,0 5.5976532,61.5225235,0 5.5734737,61.5137059,0 5.2672003,61.5089569,0 5.2591405,61.4904063,0 5.2591405,61.4904063,0 5.4288709,61.4845221,0 5.4402495,61.4627861,0 5.5140601,61.4459676,0 5.5140601,61.4459676,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

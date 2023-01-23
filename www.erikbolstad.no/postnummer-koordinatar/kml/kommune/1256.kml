@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Meland, Hordaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style5110">
+ <IconStyle id="icon5110">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5110.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5110">
+ <name>5110 FREKHAUG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5110:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5110"><strong>Meir info om 5110 FREKHAUG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5110</styleUrl>
+ <Point>
+ <coordinates>5.24339,60.51263</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5112">
+ <IconStyle id="icon5112">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5112.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5112">
+ <name>5112 ROSSLAND (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5112:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5112"><strong>Meir info om 5112 ROSSLAND (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5112</styleUrl>
+ <Point>
+ <coordinates>5.05269,60.56133</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5906">
+ <IconStyle id="icon5906">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5906.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5906">
+ <name>5906 FREKHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5906:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5906"><strong>Meir info om 5906 FREKHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5906</styleUrl>
+ <Point>
+ <coordinates>5.24339,60.51263</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5917">
+ <IconStyle id="icon5917">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5917.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5917">
+ <name>5917 ROSSLAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5917:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5917"><strong>Meir info om 5917 ROSSLAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5917</styleUrl>
+ <Point>
+ <coordinates>5.0527,60.5613</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5918">
+ <IconStyle id="icon5918">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5918.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5918">
+ <name>5918 FREKHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5918:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5918"><strong>Meir info om 5918 FREKHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5918</styleUrl>
+ <Point>
+ <coordinates>5.2396,60.5176</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5919">
+ <IconStyle id="icon5919">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5919.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5919">
+ <name>5919 FREKHAUG</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5919:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Meland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5919"><strong>Meir info om 5919 FREKHAUG</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5919</styleUrl>
+ <Point>
+ <coordinates>5.1897,60.5509</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Meland (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>5.1764036,60.5855461,0 5.218604,60.5634115,0 5.2684718,60.5481934,0 5.2776219,60.5390442,0 5.2851804,60.5349363,0 5.2851804,60.5349363,0 5.2355055,60.4976869,0 5.2355055,60.4976869,0 4.9972261,60.5545206,0 4.9952459,60.5801443,0 4.9569628,60.5908419,0 4.929947,60.6284932,0 4.929947,60.6284932,0 5.0547384,60.6214106,0 5.0702084,60.6057224,0 5.1764036,60.5855461,0 5.1764036,60.5855461,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

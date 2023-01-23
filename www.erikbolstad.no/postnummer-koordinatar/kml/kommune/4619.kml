@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Eidfjord, Vestland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3596">
+ <IconStyle id="icon3596">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3596.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3596">
+ <name>3596 HALNE FJELLSTOVE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3596:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3596"><strong>Meir info om 3596 HALNE FJELLSTOVE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3596</styleUrl>
+ <Point>
+ <coordinates>7.68530,60.41840</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3598">
+ <IconStyle id="icon3598">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3598.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3598">
+ <name>3598 DYRANUT (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3598:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3598"><strong>Meir info om 3598 DYRANUT (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3598</styleUrl>
+ <Point>
+ <coordinates>7.50340,60.36810</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3599">
+ <IconStyle id="icon3599">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3599.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3599">
+ <name>3599 SANDHAUG (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3599:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3599"><strong>Meir info om 3599 SANDHAUG (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3599</styleUrl>
+ <Point>
+ <coordinates>7.48180,60.18390</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5783">
+ <IconStyle id="icon5783">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5783.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5783">
+ <name>5783 EIDFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5783:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5783"><strong>Meir info om 5783 EIDFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5783</styleUrl>
+ <Point>
+ <coordinates>7.06960,60.46610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5784">
+ <IconStyle id="icon5784">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5784.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5784">
+ <name>5784 ØVRE EIDFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5784:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5784"><strong>Meir info om 5784 ØVRE EIDFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5784</styleUrl>
+ <Point>
+ <coordinates>7.13000,60.42340</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5785">
+ <IconStyle id="icon5785">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5785.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5785">
+ <name>5785 VØRINGSFOSS</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5785:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5785"><strong>Meir info om 5785 VØRINGSFOSS</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5785</styleUrl>
+ <Point>
+ <coordinates>7.25120,60.42710</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style5786">
+ <IconStyle id="icon5786">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/5786.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer5786">
+ <name>5786 EIDFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 5786:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Eidfjord kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=5786"><strong>Meir info om 5786 EIDFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style5786</styleUrl>
+ <Point>
+ <coordinates>7.06717,60.46564</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

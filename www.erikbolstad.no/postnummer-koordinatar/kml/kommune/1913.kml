@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Skånland, Troms</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style9439">
+ <IconStyle id="icon9439">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9439.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9439">
+ <name>9439 EVENSKJER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9439:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skånland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9439"><strong>Meir info om 9439 EVENSKJER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9439</styleUrl>
+ <Point>
+ <coordinates>16.57184,68.58368</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9440">
+ <IconStyle id="icon9440">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9440.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9440">
+ <name>9440 EVENSKJER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9440:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skånland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9440"><strong>Meir info om 9440 EVENSKJER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9440</styleUrl>
+ <Point>
+ <coordinates>16.5723,68.5837</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9445">
+ <IconStyle id="icon9445">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9445.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9445">
+ <name>9445 TOVIK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9445:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skånland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9445"><strong>Meir info om 9445 TOVIK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9445</styleUrl>
+ <Point>
+ <coordinates>16.8697,68.6794</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9446">
+ <IconStyle id="icon9446">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9446.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9446">
+ <name>9446 GROVFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9446:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skånland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9446"><strong>Meir info om 9446 GROVFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9446</styleUrl>
+ <Point>
+ <coordinates>17.1208,68.6764</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style9447">
+ <IconStyle id="icon9447">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/9447.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer9447">
+ <name>9447 GROVFJORD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 9447:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Skånland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=9447"><strong>Meir info om 9447 GROVFJORD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style9447</styleUrl>
+ <Point>
+ <coordinates>17.11956,68.68099</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Skånland (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>17.3374624,68.5649233,0 17.549131,68.599748,0 17.549131,68.599748,0 17.4478351,68.6396876,0 17.3382392,68.6453446,0 17.3114875,68.6563402,0 17.342554,68.6707834,0 17.2389989,68.673922,0 17.1613325,68.7375403,0 17.1613325,68.7375403,0 16.715548,68.7034692,0 16.715548,68.7034692,0 16.5343265,68.6009807,0 16.5535907,68.5780951,0 16.5535907,68.5780951,0 16.6012743,68.5491921,0 16.5582428,68.5279162,0 16.573362,68.5061941,0 16.573362,68.5061941,0 16.7164127,68.5142891,0 16.8676046,68.5746967,0 17.2211609,68.5593974,0 17.3374624,68.5649233,0 17.3374624,68.5649233,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>3924 PORSGRUNN</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer3924">
+ <name>3924 PORSGRUNN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3924:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Porsgrunn kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3924"><strong>Meir info om 3924 PORSGRUNN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.65550,59.12670</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 3924 PORSGRUNN</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.64358,59.13206 9.64393,59.13204 9.64433,59.13188 9.64474,59.13139 9.64548,59.13079 9.64625,59.13001 9.64699,59.12978 9.64732,59.13005 9.64885,59.12933 9.65026,59.12855 9.65043,59.12840 9.65079,59.12834 9.65130,59.12834 9.65258,59.12751 9.65251,59.12719 9.65370,59.12655 9.65456,59.12586 9.65505,59.12595 9.65524,59.12577 9.65487,59.12565 9.65596,59.12470 9.65646,59.12385 9.65761,59.12303 9.65849,59.12204 9.65877,59.12190 9.65861,59.12168 9.65810,59.12162 9.65770,59.12163 9.65734,59.12219 9.65670,59.12190 9.65762,59.12039 9.65793,59.12035 9.65858,59.12031 9.65905,59.12050 9.65943,59.12070 9.65954,59.12093 9.65980,59.12102 9.66175,59.11993 9.66220,59.11983 9.66339,59.11926 9.66610,59.11884 9.66742,59.11883 9.66741,59.11899 9.66832,59.11915 9.67064,59.11927 9.66353,59.12363 9.65924,59.12659 9.65722,59.12884 9.65639,59.12996 9.65510,59.12985 9.65382,59.13193 9.65307,59.13194 9.65253,59.13227 9.65230,59.13244 9.65179,59.13237 9.65160,59.13233 9.65151,59.13217 9.65165,59.13205 9.65147,59.13176 9.65135,59.13179 9.65103,59.13195 9.65059,59.13182 9.65052,59.13169 9.65067,59.13140 9.65116,59.13109 9.65095,59.13098 9.65025,59.13108 9.65023,59.13136 9.64981,59.13130 9.64946,59.13107 9.64870,59.13146 9.64845,59.13176 9.64799,59.13208 9.64803,59.13225 9.64767,59.13252 9.64735,59.13273 9.64696,59.13292 9.64617,59.13335 9.64555,59.13388 9.64500,59.13432 9.64461,59.13390 9.64374,59.13236 9.64358,59.13206</coordinates></LineString></Placemark>
+ </Document>
+</kml>

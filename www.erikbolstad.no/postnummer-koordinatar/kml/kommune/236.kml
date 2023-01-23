@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nes, Akershus</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style1928">
+ <IconStyle id="icon1928">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1928.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1928">
+ <name>1928 AULI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1928:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1928"><strong>Meir info om 1928 AULI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1928</styleUrl>
+ <Point>
+ <coordinates>11.35098,60.03401</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style1929">
+ <IconStyle id="icon1929">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/1929.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer1929">
+ <name>1929 AULI</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 1929:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=1929"><strong>Meir info om 1929 AULI</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style1929</styleUrl>
+ <Point>
+ <coordinates>11.351,60.034</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2150">
+ <IconStyle id="icon2150">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2150.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2150">
+ <name>2150 ÅRNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2150:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2150"><strong>Meir info om 2150 ÅRNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2150</styleUrl>
+ <Point>
+ <coordinates>11.4663,60.1211</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2151">
+ <IconStyle id="icon2151">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2151.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2151">
+ <name>2151 ÅRNES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2151:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2151"><strong>Meir info om 2151 ÅRNES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2151</styleUrl>
+ <Point>
+ <coordinates>11.46758,60.12282</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2160">
+ <IconStyle id="icon2160">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2160.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2160">
+ <name>2160 VORMSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2160:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2160"><strong>Meir info om 2160 VORMSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2160</styleUrl>
+ <Point>
+ <coordinates>11.416,60.1534</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2161">
+ <IconStyle id="icon2161">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2161.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2161">
+ <name>2161 VORMSUND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2161:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2161"><strong>Meir info om 2161 VORMSUND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2161</styleUrl>
+ <Point>
+ <coordinates>11.41182,60.15166</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2162">
+ <IconStyle id="icon2162">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2162.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2162">
+ <name>2162 BRÅRUD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2162:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2162"><strong>Meir info om 2162 BRÅRUD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2162</styleUrl>
+ <Point>
+ <coordinates>11.3315,60.2094</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2163">
+ <IconStyle id="icon2163">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2163.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2163">
+ <name>2163 SKOGBYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2163:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2163"><strong>Meir info om 2163 SKOGBYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2163</styleUrl>
+ <Point>
+ <coordinates>11.51156,60.22891</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2164">
+ <IconStyle id="icon2164">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2164.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2164">
+ <name>2164 SKOGBYGDA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2164:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2164"><strong>Meir info om 2164 SKOGBYGDA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2164</styleUrl>
+ <Point>
+ <coordinates>11.5116,60.2289</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2165">
+ <IconStyle id="icon2165">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2165.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2165">
+ <name>2165 HVAM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2165:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2165"><strong>Meir info om 2165 HVAM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2165</styleUrl>
+ <Point>
+ <coordinates>11.3397,60.12612</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2166">
+ <IconStyle id="icon2166">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2166.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2166">
+ <name>2166 OPPAKER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2166:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2166"><strong>Meir info om 2166 OPPAKER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2166</styleUrl>
+ <Point>
+ <coordinates>11.5146,60.1775</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2167">
+ <IconStyle id="icon2167">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2167.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2167">
+ <name>2167 HVAM</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2167:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2167"><strong>Meir info om 2167 HVAM</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2167</styleUrl>
+ <Point>
+ <coordinates>11.3397,60.12612</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2170">
+ <IconStyle id="icon2170">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2170.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2170">
+ <name>2170 FENSTAD</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2170:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nes kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2170"><strong>Meir info om 2170 FENSTAD</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2170</styleUrl>
+ <Point>
+ <coordinates>11.39109,60.21978</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Nes (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.264717,60.2366965,0 11.2768389,60.2215983,0 11.3210013,60.1987036,0 11.29668,60.1872503,0 11.3203612,60.172928,0 11.3267616,60.1652869,0 11.3222813,60.1251418,0 11.3030803,60.0731354,0 11.2870794,60.0638742,0 11.2870794,60.0638742,0 11.3914051,60.0181685,0 11.3914051,60.0120909,0 11.408686,60.0108113,0 11.4189265,59.9992924,0 11.4410077,59.9911508,0 11.4410077,59.9911508,0 11.5540138,60.0251443,0 11.6650198,60.0056523,0 11.7520245,60.0141502,0 11.7790259,60.0086518,0 11.8199927,60.0257344,0 11.8199927,60.0257344,0 11.819698,60.0537935,0 11.819698,60.0537935,0 11.7903216,60.0512723,0 11.7583226,60.0975093,0 11.7119616,60.105868,0 11.5965523,60.1579388,0 11.5896474,60.1741327,0 11.5728785,60.1780573,0 11.5990867,60.2713834,0 11.5238733,60.2958318,0 11.5238733,60.2958318,0 11.4215338,60.3526037,0 11.4215338,60.3526037,0 11.3997243,60.3098403,0 11.2959687,60.2602692,0 11.2547164,60.2559281,0 11.264717,60.2366965,0 11.264717,60.2366965,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

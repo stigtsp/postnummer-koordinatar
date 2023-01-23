@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Nissedal, Vestfold og Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3854">
+ <IconStyle id="icon3854">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3854.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3854">
+ <name>3854 NISSEDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3854:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3854"><strong>Meir info om 3854 NISSEDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3854</styleUrl>
+ <Point>
+ <coordinates>8.53530,59.16030</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3855">
+ <IconStyle id="icon3855">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3855.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3855">
+ <name>3855 TREUNGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3855:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3855"><strong>Meir info om 3855 TREUNGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3855</styleUrl>
+ <Point>
+ <coordinates>8.52010,59.02060</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3883">
+ <IconStyle id="icon3883">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3883.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3883">
+ <name>3883 TREUNGEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3883:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3883"><strong>Meir info om 3883 TREUNGEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3883</styleUrl>
+ <Point>
+ <coordinates>8.52502,59.01924</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4860">
+ <IconStyle id="icon4860">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4860.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4860">
+ <name>4860 TREUNGEN (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4860:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nissedal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4860"><strong>Meir info om 4860 TREUNGEN (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4860</styleUrl>
+ <Point>
+ <coordinates>8.52502,59.01924</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

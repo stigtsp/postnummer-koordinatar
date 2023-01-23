@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2920 LEIRA I VALDRES</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2920">
+ <name>2920 LEIRA I VALDRES</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2920:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Nord-Aurdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2920"><strong>Meir info om 2920 LEIRA I VALDRES</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>9.29490,60.97010</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2920 LEIRA I VALDRES</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>9.15238,60.96409 9.10066,60.94081 9.09804,60.92672 9.10023,60.92641 9.14650,60.91986 9.16793,60.91622 9.18570,60.91135 9.22771,60.89952 9.22781,60.90132 9.22825,60.90511 9.22990,60.90973 9.23740,60.91590 9.24393,60.92151 9.24715,60.92508 9.24887,60.92905 9.25724,60.93579 9.25963,60.93728 9.26713,60.93797 9.28275,60.94432 9.28438,60.94742 9.29264,60.94974 9.29633,60.95013 9.30062,60.95053 9.30829,60.95040 9.30803,60.94823 9.30563,60.94656 9.30490,60.94493 9.30750,60.94313 9.31169,60.94166 9.31476,60.94103 9.31940,60.94023 9.32485,60.93966 9.32857,60.94036 9.33070,60.94109 9.33274,60.94119 9.33524,60.94115 9.33801,60.94233 9.34106,60.94359 9.34393,60.94575 9.34596,60.94621 9.34251,60.94933 9.34446,60.95102 9.35388,60.95736 9.35321,60.96042 9.35290,60.96300 9.35494,60.96484 9.35781,60.96618 9.36013,60.96801 9.36539,60.97158 9.37252,60.97483 9.38039,60.97795 9.39004,60.98167 9.33804,61.00243 9.31131,60.99442 9.30755,60.99170 9.30339,60.98948 9.30025,60.98812 9.30360,60.98479 9.29759,60.98208 9.29269,60.98004 9.29001,60.97828 9.28324,60.97871 9.27867,60.97902 9.27638,60.97949 9.26986,60.97793 9.26211,60.97502 9.25560,60.97402 9.24680,60.97400 9.23354,60.97393 9.21813,60.97318 9.21524,60.97289 9.19500,60.97090 9.17872,60.97153 9.17637,60.97256 9.15861,60.96292 9.15238,60.96409</coordinates></LineString></Placemark>
+ </Document>
+</kml>

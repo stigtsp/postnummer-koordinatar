@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>0157 OSLO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer0157">
+ <name>0157 OSLO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 0157:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Oslo kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=0157"><strong>Meir info om 0157 OSLO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.74160,59.91210</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 0157 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.74051,59.91188 10.74041,59.91175 10.74007,59.91142 10.73971,59.91151 10.73986,59.91168 10.73883,59.91194 10.73896,59.91207 10.73838,59.91222 10.73803,59.91189 10.73866,59.91177 10.73845,59.91156 10.73952,59.91132 10.73898,59.91071 10.73984,59.91050 10.74119,59.91019 10.74179,59.91081 10.74195,59.91098 10.74153,59.91108 10.74205,59.91170 10.74234,59.91163 10.74273,59.91204 10.74303,59.91197 10.74311,59.91208 10.74334,59.91229 10.74344,59.91243 10.74287,59.91256 10.74291,59.91267 10.74269,59.91273 10.74248,59.91258 10.74201,59.91269 10.74213,59.91279 10.74171,59.91289 10.74168,59.91281 10.74160,59.91265 10.74145,59.91266 10.74083,59.91207 10.73941,59.91240 10.73919,59.91215 10.74011,59.91195 10.74025,59.91212 10.74068,59.91202 10.74051,59.91188</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense del 2 for 0157 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.74207,59.91326 10.74182,59.91308 10.74266,59.91288 10.74272,59.91298 10.74379,59.91274 10.74390,59.91287 10.74336,59.91302 10.74360,59.91329 10.74295,59.91346 10.74308,59.91360 10.74273,59.91373 10.74207,59.91326</coordinates></LineString></Placemark>
+<Placemark><name>Postnummergrense for del 3 0157 OSLO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.73995,59.91010 10.73977,59.90986 10.74021,59.90977 10.74042,59.90999 10.74023,59.91005 10.74004,59.91008 10.73995,59.91010</coordinates></LineString></Placemark>
+ </Document>
+</kml>

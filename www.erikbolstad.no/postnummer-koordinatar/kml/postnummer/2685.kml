@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>2685 GARMO</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer2685">
+ <name>2685 GARMO</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2685:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Lom kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2685"><strong>Meir info om 2685 GARMO</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>8.80520,61.84870</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 2685 GARMO</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.87219,61.84907 8.84297,61.84990 8.83786,61.85076 8.83042,61.85181 8.82613,61.85307 8.82044,61.85529 8.81327,61.85743 8.80751,61.85918 8.79954,61.86111 8.79049,61.86279 8.78640,61.86330 8.77984,61.86518 8.77191,61.86675 8.76044,61.86904 8.74973,61.86898 8.74343,61.86670 8.73625,61.86504 8.72919,61.86338 8.72286,61.86207 8.70249,61.85699 8.69145,61.85730 8.68078,61.85299 8.66630,61.80730 8.70800,61.80801 8.72189,61.81918 8.73210,61.81917 8.74001,61.81903 8.76528,61.81763 8.77022,61.81722 8.77622,61.81703 8.78338,61.81693 8.79082,61.81637 8.79757,61.81555 8.80378,61.81491 8.80930,61.81445 8.81817,61.81362 8.82808,61.81306 8.83712,61.81259 8.84355,61.81225 8.88459,61.80352 8.90363,61.79968 8.90250,61.80432 8.89117,61.81491 8.88830,61.82049 8.88543,61.82119 8.88446,61.82143 8.88379,61.82160 8.88330,61.82172 8.88233,61.82196 8.87860,61.82287 8.87518,61.82371 8.87417,61.82396 8.87052,61.82489 8.87048,61.82489 8.86936,61.82517 8.86950,61.82810 8.86952,61.82949 8.86963,61.83113 8.86969,61.83310 8.86989,61.83438 8.86992,61.83454 8.86994,61.83457 8.86995,61.83464 8.87002,61.83501 8.87070,61.83891 8.87105,61.84090 8.87158,61.84388 8.87159,61.84394 8.87138,61.84596 8.87137,61.84606 8.87135,61.84633 8.87115,61.84823 8.87219,61.84907</coordinates></LineString></Placemark>
+ </Document>
+</kml>

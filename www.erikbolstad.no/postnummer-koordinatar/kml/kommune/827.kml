@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hjartdal, Telemark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3665">
+ <IconStyle id="icon3665">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3665.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3665">
+ <name>3665 SAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3665:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3665"><strong>Meir info om 3665 SAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3665</styleUrl>
+ <Point>
+ <coordinates>8.93201,59.61726</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3690">
+ <IconStyle id="icon3690">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3690.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3690">
+ <name>3690 HJARTDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3690:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3690"><strong>Meir info om 3690 HJARTDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3690</styleUrl>
+ <Point>
+ <coordinates>8.6521,59.6004</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3692">
+ <IconStyle id="icon3692">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3692.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3692">
+ <name>3692 SAULAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3692:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3692"><strong>Meir info om 3692 SAULAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3692</styleUrl>
+ <Point>
+ <coordinates>8.9376,59.6161</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3697">
+ <IconStyle id="icon3697">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3697.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3697">
+ <name>3697 TUDDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3697:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjartdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3697"><strong>Meir info om 3697 TUDDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3697</styleUrl>
+ <Point>
+ <coordinates>8.7965,59.7534</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hjartdal (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>8.3717593,59.796801,0 8.4552973,59.7635793,0 8.4429213,59.7313641,0 8.5357414,59.6178449,0 8.5749321,59.6063674,0 8.5821514,59.5870556,0 8.6976609,59.5834008,0 8.7832616,59.5306225,0 8.7832616,59.5306225,0 8.9781837,59.5756982,0 9.0194371,59.6127588,0 9.0049984,59.6497785,0 8.9255857,59.6726998,0 8.8812383,59.6654083,0 8.874019,59.6815515,0 8.914241,59.6841546,0 8.9090843,59.7231755,0 8.855455,59.8363384,0 8.8069823,59.8513633,0 8.8069823,59.8513633,0 8.7533529,59.8529172,0 8.7585096,59.8384112,0 8.6502195,59.8264909,0 8.5347101,59.8560248,0 8.386198,59.8057496,0 8.3717593,59.796801,0 8.3717593,59.796801,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

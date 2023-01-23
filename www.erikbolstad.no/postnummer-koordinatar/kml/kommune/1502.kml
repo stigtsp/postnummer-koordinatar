@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Molde, Møre og Romsdal</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style6400">
+ <IconStyle id="icon6400">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6400.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6400">
+ <name>6400 MOLDE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6400:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6400"><strong>Meir info om 6400 MOLDE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6400</styleUrl>
+ <Point>
+ <coordinates>7.15912,62.73752</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6401">
+ <IconStyle id="icon6401">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6401.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6401">
+ <name>6401 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6401:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6401"><strong>Meir info om 6401 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6401</styleUrl>
+ <Point>
+ <coordinates>7.15752,62.73642</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6402">
+ <IconStyle id="icon6402">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6402.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6402">
+ <name>6402 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6402:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6402"><strong>Meir info om 6402 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6402</styleUrl>
+ <Point>
+ <coordinates>7.17653,62.73946</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6403">
+ <IconStyle id="icon6403">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6403.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6403">
+ <name>6403 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6403:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6403"><strong>Meir info om 6403 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6403</styleUrl>
+ <Point>
+ <coordinates>7.22699,62.74629</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6404">
+ <IconStyle id="icon6404">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6404.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6404">
+ <name>6404 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6404:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6404"><strong>Meir info om 6404 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6404</styleUrl>
+ <Point>
+ <coordinates>7.1508,62.7346</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6405">
+ <IconStyle id="icon6405">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6405.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6405">
+ <name>6405 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6405:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6405"><strong>Meir info om 6405 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6405</styleUrl>
+ <Point>
+ <coordinates>7.1591,62.7375</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6406">
+ <IconStyle id="icon6406">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6406.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6406">
+ <name>6406 MOLDE (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6406:<br/><strong>Usikker</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6406"><strong>Meir info om 6406 MOLDE (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6406</styleUrl>
+ <Point>
+ <coordinates>7.15752,62.73642</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6407">
+ <IconStyle id="icon6407">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6407.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6407">
+ <name>6407 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6407:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6407"><strong>Meir info om 6407 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6407</styleUrl>
+ <Point>
+ <coordinates>7.1387,62.7369</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6410">
+ <IconStyle id="icon6410">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6410.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6410">
+ <name>6410 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6410:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6410"><strong>Meir info om 6410 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6410</styleUrl>
+ <Point>
+ <coordinates>7.1208,62.738</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6411">
+ <IconStyle id="icon6411">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6411.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6411">
+ <name>6411 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6411:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6411"><strong>Meir info om 6411 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6411</styleUrl>
+ <Point>
+ <coordinates>7.0856,62.7358</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6412">
+ <IconStyle id="icon6412">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6412.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6412">
+ <name>6412 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6412:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6412"><strong>Meir info om 6412 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6412</styleUrl>
+ <Point>
+ <coordinates>7.1387,62.7378</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6413">
+ <IconStyle id="icon6413">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6413.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6413">
+ <name>6413 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6413:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6413"><strong>Meir info om 6413 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6413</styleUrl>
+ <Point>
+ <coordinates>7.1593,62.7391</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6414">
+ <IconStyle id="icon6414">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6414.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6414">
+ <name>6414 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6414:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6414"><strong>Meir info om 6414 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6414</styleUrl>
+ <Point>
+ <coordinates>7.1534,62.7432</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6415">
+ <IconStyle id="icon6415">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6415.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6415">
+ <name>6415 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6415:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6415"><strong>Meir info om 6415 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6415</styleUrl>
+ <Point>
+ <coordinates>7.1791,62.741</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6416">
+ <IconStyle id="icon6416">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6416.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6416">
+ <name>6416 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6416:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6416"><strong>Meir info om 6416 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6416</styleUrl>
+ <Point>
+ <coordinates>7.2037,62.744</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6417">
+ <IconStyle id="icon6417">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6417.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6417">
+ <name>6417 BOLSØYA (ikkje i bruk)</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6417:<br/><strong>Historisk</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6417"><strong>Meir info om 6417 BOLSØYA (ikkje i bruk)</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6417</styleUrl>
+ <Point>
+ <coordinates>7.2942,62.7293</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6418">
+ <IconStyle id="icon6418">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6418.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6418">
+ <name>6418 SEKKEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6418:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6418"><strong>Meir info om 6418 SEKKEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6418</styleUrl>
+ <Point>
+ <coordinates>7.3043,62.674</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6419">
+ <IconStyle id="icon6419">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6419.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6419">
+ <name>6419 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6419:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6419"><strong>Meir info om 6419 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6419</styleUrl>
+ <Point>
+ <coordinates>7.227,62.7449</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6421">
+ <IconStyle id="icon6421">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6421.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6421">
+ <name>6421 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6421:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6421"><strong>Meir info om 6421 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6421</styleUrl>
+ <Point>
+ <coordinates>7.3011,62.7549</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6422">
+ <IconStyle id="icon6422">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6422.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6422">
+ <name>6422 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6422:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6422"><strong>Meir info om 6422 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6422</styleUrl>
+ <Point>
+ <coordinates>7.2921,62.7742</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6423">
+ <IconStyle id="icon6423">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6423.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6423">
+ <name>6423 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6423:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6423"><strong>Meir info om 6423 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6423</styleUrl>
+ <Point>
+ <coordinates>7.228,62.7499</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6425">
+ <IconStyle id="icon6425">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6425.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6425">
+ <name>6425 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6425:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6425"><strong>Meir info om 6425 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6425</styleUrl>
+ <Point>
+ <coordinates>7.2306,62.7547</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6429">
+ <IconStyle id="icon6429">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6429.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6429">
+ <name>6429 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6429:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6429"><strong>Meir info om 6429 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6429</styleUrl>
+ <Point>
+ <coordinates>7.1866,62.7488</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6434">
+ <IconStyle id="icon6434">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6434.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6434">
+ <name>6434 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6434:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6434"><strong>Meir info om 6434 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6434</styleUrl>
+ <Point>
+ <coordinates>7.095,62.7359</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6435">
+ <IconStyle id="icon6435">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6435.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6435">
+ <name>6435 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6435:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6435"><strong>Meir info om 6435 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6435</styleUrl>
+ <Point>
+ <coordinates>7.2341,62.7526</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6436">
+ <IconStyle id="icon6436">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6436.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6436">
+ <name>6436 MOLDE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6436:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6436"><strong>Meir info om 6436 MOLDE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6436</styleUrl>
+ <Point>
+ <coordinates>7.2527,62.7473</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6450">
+ <IconStyle id="icon6450">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6450.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6450">
+ <name>6450 HJELSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6450:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6450"><strong>Meir info om 6450 HJELSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6450</styleUrl>
+ <Point>
+ <coordinates>7.4938,62.7808</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6452">
+ <IconStyle id="icon6452">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6452.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6452">
+ <name>6452 KLEIVE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6452:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6452"><strong>Meir info om 6452 KLEIVE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6452</styleUrl>
+ <Point>
+ <coordinates>7.63474,62.79506</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6453">
+ <IconStyle id="icon6453">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6453.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6453">
+ <name>6453 KLEIVE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6453:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6453"><strong>Meir info om 6453 KLEIVE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6453</styleUrl>
+ <Point>
+ <coordinates>7.6369,62.7951</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6454">
+ <IconStyle id="icon6454">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6454.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6454">
+ <name>6454 HJELSET</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6454:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6454"><strong>Meir info om 6454 HJELSET</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6454</styleUrl>
+ <Point>
+ <coordinates>7.53577,62.78846</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6455">
+ <IconStyle id="icon6455">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6455.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6455">
+ <name>6455 KORTGARDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6455:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6455"><strong>Meir info om 6455 KORTGARDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6455</styleUrl>
+ <Point>
+ <coordinates>7.6287,62.7767</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6456">
+ <IconStyle id="icon6456">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6456.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6456">
+ <name>6456 SKÅLA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6456:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6456"><strong>Meir info om 6456 SKÅLA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6456</styleUrl>
+ <Point>
+ <coordinates>7.4236,62.7019</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6457">
+ <IconStyle id="icon6457">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6457.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6457">
+ <name>6457 BOLSØYA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6457:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6457"><strong>Meir info om 6457 BOLSØYA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6457</styleUrl>
+ <Point>
+ <coordinates>7.2942,62.7293</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style6458">
+ <IconStyle id="icon6458">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/6458.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer6458">
+ <name>6458 SKÅLA</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 6458:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Molde kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=6458"><strong>Meir info om 6458 SKÅLA</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style6458</styleUrl>
+ <Point>
+ <coordinates>7.42356,62.70194</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Molde (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>7.2237266,62.6375601,0 7.3548141,62.6327182,0 7.4387007,62.663386,0 7.6807702,62.7135857,0 7.6807702,62.7135857,0 7.6667251,62.7288739,0 7.7392914,62.766926,0 7.7978126,62.7674616,0 7.7843527,62.794764,0 7.8165394,62.8271194,0 7.8165394,62.8271194,0 7.7758025,62.8651191,0 7.7370322,62.8677881,0 7.7392268,62.8507693,0 7.6521765,62.8330727,0 7.4276014,62.8280623,0 7.4276014,62.8280623,0 7.379393,62.7987733,0 7.3259546,62.7950625,0 7.194466,62.78593,0 7.0493335,62.7540651,0 7.0493335,62.7540651,0 6.9556995,62.7529935,0 6.9556995,62.7529935,0 7.0013461,62.6910376,0 7.0013461,62.6910376,0 7.1382857,62.6792217,0 7.2237266,62.6375601,0 7.2237266,62.6375601,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

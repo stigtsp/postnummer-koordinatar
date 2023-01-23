@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Hjelmeland, Rogaland</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style4130">
+ <IconStyle id="icon4130">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4130.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4130">
+ <name>4130 HJELMELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4130:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjelmeland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4130"><strong>Meir info om 4130 HJELMELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4130</styleUrl>
+ <Point>
+ <coordinates>6.17790,59.23470</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4134">
+ <IconStyle id="icon4134">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4134.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4134">
+ <name>4134 JØSENFJORDEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4134:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjelmeland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4134"><strong>Meir info om 4134 JØSENFJORDEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4134</styleUrl>
+ <Point>
+ <coordinates>6.44860,59.32930</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4137">
+ <IconStyle id="icon4137">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4137.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4137">
+ <name>4137 ÅRDAL I RYFYLKE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4137:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjelmeland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4137"><strong>Meir info om 4137 ÅRDAL I RYFYLKE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4137</styleUrl>
+ <Point>
+ <coordinates>6.16110,59.15280</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4139">
+ <IconStyle id="icon4139">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4139.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4139">
+ <name>4139 FISTER</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4139:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjelmeland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4139"><strong>Meir info om 4139 FISTER</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4139</styleUrl>
+ <Point>
+ <coordinates>6.06790,59.17610</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4146">
+ <IconStyle id="icon4146">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4146.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4146">
+ <name>4146 SKIFTUN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4146:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjelmeland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4146"><strong>Meir info om 4146 SKIFTUN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4146</styleUrl>
+ <Point>
+ <coordinates>6.13880,59.28230</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4148">
+ <IconStyle id="icon4148">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4148.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4148">
+ <name>4148 HJELMELAND</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4148:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjelmeland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4148"><strong>Meir info om 4148 HJELMELAND</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4148</styleUrl>
+ <Point>
+ <coordinates>6.16692,59.23269</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style4167">
+ <IconStyle id="icon4167">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/4167.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer4167">
+ <name>4167 HELGØY I RYFYLKE</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 4167:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Hjelmeland kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=4167"><strong>Meir info om 4167 HELGØY I RYFYLKE</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style4167</styleUrl>
+ <Point>
+ <coordinates>6.02300,59.13660</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Hjelmeland (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>6.2216744,59.0373469,0 6.1968364,59.0571701,0 6.1396426,59.0608459,0 6.112833,59.0865655,0 6.1575156,59.1095132,0 6.1467918,59.1434476,0 6.007382,59.1251089,0 5.984147,59.1370302,0 5.984147,59.1370302,0 6.0157832,59.1646132,0 5.9551618,59.2193558,0 6.0088702,59.2277908,0 5.975103,59.2574331,0 6.0309385,59.2604231,0 6.0841151,59.3133839,0 6.0841151,59.3133839,0 6.1580649,59.3101116,0 6.2294471,59.3210606,0 6.2530358,59.3055828,0 6.3052679,59.3055828,0 6.3355963,59.3399685,0 6.376034,59.3717442,0 6.4265812,59.3631591,0 6.4569096,59.3657349,0 6.4720737,59.3751777,0 6.5681134,59.3623005,0 6.5950719,59.3743193,0 6.6220305,59.3468414,0 6.7584621,59.3735357,0 6.8658535,59.3698806,0 6.8658535,59.3698806,0 6.8266078,59.2846128,0 6.8390738,59.19508,0 6.8390738,59.19508,0 6.7543579,59.1745824,0 6.6587008,59.187555,0 6.5702337,59.1430111,0 6.5474135,59.1006567,0 6.3354675,59.084921,0 6.2216744,59.0373469,0 6.2216744,59.0373469,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>7506 STJØRDAL</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Placemark id="postnummer7506">
+ <name>7506 STJØRDAL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 7506:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Stjørdal kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=7506"><strong>Meir info om 7506 STJØRDAL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <Point>
+ <coordinates>10.94910,63.47620</coordinates>
+ </Point>
+ </Placemark>
+<Style id="postnummergrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Postnummergrense for 7506 STJØRDAL</name><styleUrl>#postnummergrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>10.94498,63.47453 10.94646,63.47326 10.94693,63.47334 10.94796,63.47263 10.94705,63.47221 10.95089,63.47178 10.95966,63.47000 10.96512,63.46831 10.97977,63.46346 10.98220,63.46236 10.98613,63.46161 10.98344,63.46716 11.00330,63.47370 11.02102,63.47798 11.02449,63.48383 11.00874,63.48570 10.99624,63.48315 10.98358,63.47871 10.97997,63.47676 10.97630,63.47606 10.97521,63.47603 10.96977,63.47924 10.96395,63.48000 10.96121,63.48047 10.95765,63.48162 10.95526,63.48157 10.95295,63.48169 10.94913,63.48244 10.94748,63.48272 10.94662,63.48361 10.94214,63.48395 10.94231,63.48273 10.94116,63.48200 10.94825,63.47930 10.94773,63.47903 10.94728,63.47881 10.94687,63.47850 10.94663,63.47818 10.94635,63.47792 10.94590,63.47767 10.94578,63.47744 10.94577,63.47727 10.94522,63.47727 10.94428,63.47712 10.94332,63.47710 10.94232,63.47725 10.94082,63.47749 10.93992,63.47745 10.93777,63.47718 10.93616,63.47714 10.93461,63.47719 10.93403,63.47714 10.93349,63.47701 10.93389,63.47644 10.93558,63.47304 10.93949,63.47333 10.93987,63.47287 10.94222,63.47306 10.94193,63.47391 10.94423,63.47437 10.94498,63.47453</coordinates></LineString></Placemark>
+ </Document>
+</kml>

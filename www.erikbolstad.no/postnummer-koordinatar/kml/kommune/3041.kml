@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Gol, Viken</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style3550">
+ <IconStyle id="icon3550">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3550.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3550">
+ <name>3550 GOL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3550:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3550"><strong>Meir info om 3550 GOL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3550</styleUrl>
+ <Point>
+ <coordinates>8.94570,60.70140</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style3551">
+ <IconStyle id="icon3551">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/3551.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer3551">
+ <name>3551 GOL</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 3551:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Gol kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=3551"><strong>Meir info om 3551 GOL</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style3551</styleUrl>
+ <Point>
+ <coordinates>8.94545,60.70057</coordinates>
+ </Point>
+ </Placemark>
+ </Document>
+</kml>

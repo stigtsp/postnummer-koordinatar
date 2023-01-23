@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+ <Document>
+<name>Postnummer i Løten, Hedmark</name><atom:author><atom:name>Erik Bolstad</atom:name></atom:author><atom:link href="http://www.erikbolstad.no/postnummer/" />
+ <Style id="style2340">
+ <IconStyle id="icon2340">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2340.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2340">
+ <name>2340 LØTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2340:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2340"><strong>Meir info om 2340 LØTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2340</styleUrl>
+ <Point>
+ <coordinates>11.3026,60.8277</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2341">
+ <IconStyle id="icon2341">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2341.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2341">
+ <name>2341 LØTEN</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2341:<br/><strong>Postboksar</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2341"><strong>Meir info om 2341 LØTEN</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2341</styleUrl>
+ <Point>
+ <coordinates>11.34207,60.81983</coordinates>
+ </Point>
+ </Placemark>
+ <Style id="style2345">
+ <IconStyle id="icon2345">
+ <Icon>
+ <href>http://www.erikbolstad.no/postnummer-koordinatar/ikon/2345.png</href>
+ </Icon>
+ </IconStyle>
+ </Style>
+ <Placemark id="postnummer2345">
+ <name>2345 ÅDALSBRUK</name>
+ <description><![CDATA[<p style="margin: 10px 0; font-size: 16px;">Bruksområde for postnummer 2345:<br/><strong>Gate-/veg-adresse</strong></p><p style="font-size: 16px;">Postnummeret ligg i <strong>Løten kommune</strong></p><p style="margin: 10px 0;"><a  style="font-size: 16px; font-weight: bold; text-decoration: underline;" target="_top" href="http://www.erikbolstad.no/postnummer-koordinatar/?postnummer=2345"><strong>Meir info om 2345 ÅDALSBRUK</strong></a><br/>(folketal, adresser m.m.)</p>.]]></description>
+ <styleUrl>#style2345</styleUrl>
+ <Point>
+ <coordinates>11.3088,60.7965</coordinates>
+ </Point>
+ </Placemark>
+<Style id="kommgrense"><LineStyle><width>2</width><color>#ff0000ff</color></LineStyle><PolyStyle><color>14ffffff</color></PolyStyle></Style>
+<Placemark><name>Kommunegrense Løten (ikkje nøyaktig)</name><styleUrl>#kommgrense</styleUrl><LineString><extrude>1</extrude><tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode><coordinates>11.4945752,60.8177192,0 11.4978673,60.8080931,0 11.4995667,60.8040844,0 11.5059094,60.8000724,0 11.5152169,60.7875975,0 11.5158011,60.7821027,0 11.5158011,60.7821027,0 11.5826863,60.7694619,0 11.6236805,60.743111,0 11.6236805,60.743111,0 11.6220623,60.7199043,0 11.6161289,60.7117252,0 11.6425594,60.6964168,0 11.6177471,60.6760823,0 11.6177471,60.6760823,0 11.458625,60.7249163,0 11.4483764,60.7381019,0 11.4241035,60.7475922,0 11.4060889,60.7581463,0 11.3980745,60.7632506,0 11.3953493,60.7652366,0 11.3934611,60.7649903,0 11.394373,60.7639004,0 11.3935898,60.7639213,0 11.3928281,60.7638375,0 11.3922809,60.7636593,0 11.3914977,60.7635441,0 11.3895236,60.7629624,0 11.3863157,60.7621764,0 11.3856398,60.762082,0 11.3850711,60.7618567,0 11.3848673,60.7615528,0 11.3848029,60.7612593,0 11.3846312,60.7610287,0 11.3832794,60.7601064,0 11.382582,60.7598705,0 11.3814019,60.7595823,0 11.3794921,60.7587857,0 11.3313272,60.7612955,0 11.3325586,60.778746,0 11.320199,60.7796259,0 11.3181784,60.7865721,0 11.317363,60.7867134,0 11.3156249,60.7860851,0 11.3119234,60.7853938,0 11.3099386,60.786127,0 11.305572,60.7850587,0 11.2966778,60.7861374,0 11.2943282,60.7863835,0 11.2914636,60.7864254,0 11.2901868,60.7858128,0 11.2894895,60.7848231,0 11.2396297,60.7884212,0 11.2396297,60.7884212,0 11.266296,60.826891,0 11.267047,60.8291083,0 11.2661458,60.8306457,0 11.2694288,60.8317752,0 11.273141,60.8337935,0 11.2784663,60.8510123,0 11.2714541,60.8717613,0 11.2302322,60.9281843,0 11.2275295,60.9318801,0 11.2191326,60.9433599,0 11.2195096,60.9459584,0 11.2358539,61.0584187,0 11.2358539,61.0584187,0 11.298424,61.0166273,0 11.298424,61.0166273,0 11.4025277,60.9441458,0 11.4538964,60.8775058,0 11.4881087,60.8536069,0 11.4933108,60.8418504,0 11.494655,60.8307512,0 11.493886,60.819734,0 11.4945752,60.8177192,0 11.4945752,60.8177192,0</coordinates></LineString></Placemark>
+ </Document>
+</kml>
